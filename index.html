@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Trending Repos Radar</title>
+    <meta
+      name="description"
+      content="A scannable landing page snapshot of notable repositories from GitHub Trending today."
+    >
+    <link rel="stylesheet" href="styles.css">
+    <script src="data/trending-repos.js" defer></script>
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="https://github.com/trending" aria-label="Open GitHub Trending">
+        <span class="brand-mark" aria-hidden="true">GH</span>
+        <span>Trending Repos Radar</span>
+      </a>
+      <nav class="header-nav" aria-label="Page">
+        <a href="#repos">Repositories</a>
+        <a href="#method">Snapshot</a>
+        <a class="nav-cta" href="https://github.com/trending">View source</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow" data-snapshot-date>GitHub Trending · Today · May 30, 2026</p>
+          <h1 id="page-title">A signal board for repos moving fast right now.</h1>
+          <p class="hero-text">
+            A static snapshot of notable projects the GitHub community is watching today, tuned
+            for quick scanning: what it is, how much traction it has, and why it deserves a click.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#repos">Scan repos</a>
+            <a class="button secondary" href="https://github.com/trending">Open GitHub Trending</a>
+          </div>
+        </div>
+
+        <aside class="leader-card" aria-label="Top trending repository" data-leader-card>
+        </aside>
+      </section>
+
+      <section class="stats" aria-label="Snapshot statistics">
+        <article>
+          <span class="stat-label">Repos tracked</span>
+          <strong data-repo-count>14</strong>
+        </article>
+        <article>
+          <span class="stat-label">Stars today</span>
+          <strong data-total-stars-today>15,405</strong>
+        </article>
+        <article>
+          <span class="stat-label">Top language</span>
+          <strong data-top-language>Python</strong>
+        </article>
+        <article>
+          <span class="stat-label">Fastest mover</span>
+          <strong data-fastest-mover>MoneyPrinterTurbo</strong>
+        </article>
+      </section>
+
+      <section class="section-heading" id="repos">
+        <div>
+          <p class="eyebrow">Repository feed</p>
+          <h2>Notable trending repositories</h2>
+        </div>
+        <p>
+          Ranked from the visible GitHub Trending snapshot. Each card keeps the signal tight:
+          language, total stars, forks, and new stars today.
+        </p>
+      </section>
+
+      <section class="repo-grid" aria-label="Trending repositories" data-repo-grid>
+      </section>
+
+      <section class="method" id="method" aria-labelledby="method-title">
+        <p class="eyebrow">Snapshot method</p>
+        <h2 id="method-title">Static, transparent, and easy to update.</h2>
+        <p data-method-copy>
+          The page uses visible repository data from GitHub Trending for May 30, 2026. It is built
+          as plain HTML and CSS so it can be opened directly, copied into a static host, or wired to
+          a scraper/API later without redesigning the interface.
+        </p>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>Built as a static interface snapshot.</span>
+      <a href="https://github.com/trending">github.com/trending</a>
+    </footer>
+
+
+    <div class="repo-modal" id="repo-modal" aria-hidden="true">
+      <div class="repo-modal-backdrop" data-close-detail></div>
+      <section class="repo-detail-panel" role="dialog" aria-modal="true" aria-labelledby="detail-title" tabindex="-1">
+        <button class="modal-close" type="button" data-close-detail aria-label="Close repo detail">Close</button>
+        <div class="detail-topline">
+          <span class="rank" id="detail-rank">#00</span>
+          <span class="language" id="detail-language">Language</span>
+        </div>
+        <h2 id="detail-title">Repository detail</h2>
+        <p class="detail-description" id="detail-description"></p>
+        <dl class="detail-metrics" aria-label="Repository metrics">
+          <div><dt>Stars</dt><dd id="detail-stars"></dd></div>
+          <div><dt>Forks</dt><dd id="detail-forks"></dd></div>
+          <div><dt>Today</dt><dd id="detail-today"></dd></div>
+        </dl>
+        <div class="detail-section">
+          <h3>Why it is trending</h3>
+          <p id="detail-why"></p>
+        </div>
+        <div class="detail-section">
+          <h3>Best fit</h3>
+          <p id="detail-fit"></p>
+        </div>
+        <div class="detail-tags" id="detail-tags" aria-label="Repository tags"></div>
+        <a class="button primary detail-link" id="detail-link" href="https://github.com/trending">Open GitHub</a>
+      </section>
+    </div>
+  </body>
+</html>
