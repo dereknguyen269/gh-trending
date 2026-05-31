@@ -1,12 +1,13 @@
 # GitHub Trending Landing
 
-A static landing page that displays the latest repositories from [GitHub Trending](https://github.com/trending).
+A static landing page that displays the latest repositories and developers from [GitHub Trending](https://github.com/trending).
 
 ## How it works
 
 - `index.html`, `styles.css`, and `script.js` render the landing page.
 - `data/trending-repos.js` stores the current trending repository snapshot.
-- `scripts/update-trending.mjs` fetches `https://github.com/trending?since=daily` and regenerates the data file.
+- `data/trending-developers.js` stores the current trending developer snapshot.
+- `scripts/update-trending.mjs` fetches `https://github.com/trending?since=daily` and `https://github.com/trending/developers?since=daily`, then regenerates both data files.
 - `.github/workflows/update-trending-landing.yml` runs daily and can also be triggered manually.
 
 ## GitHub Pages

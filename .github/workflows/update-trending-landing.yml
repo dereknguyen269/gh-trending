@@ -31,14 +31,14 @@ jobs:
 
       - name: Commit updated trending data
         run: |
-          if git diff --quiet -- data/trending-repos.js; then
+          if git diff --quiet -- data/trending-repos.js data/trending-developers.js; then
             echo "No trending data changes to commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/trending-repos.js
+          git add data/trending-repos.js data/trending-developers.js
           git commit -m "chore: update GitHub Trending landing data"
           git push
 

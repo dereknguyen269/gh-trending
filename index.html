@@ -10,6 +10,7 @@
     >
     <link rel="stylesheet" href="styles.css">
     <script src="data/trending-repos.js" defer></script>
+    <script src="data/trending-developers.js" defer></script>
     <script src="script.js" defer></script>
   </head>
   <body>
@@ -20,6 +21,7 @@
       </a>
       <nav class="header-nav" aria-label="Page">
         <a href="#repos">Repositories</a>
+        <a href="#developers">Developers</a>
         <a href="#method">Snapshot</a>
         <a class="nav-cta" href="https://github.com/trending">View source</a>
       </nav>
@@ -46,8 +48,12 @@
 
       <section class="stats" aria-label="Snapshot statistics">
         <article>
-          <span class="stat-label">Repos tracked</span>
+          <span class="stat-label">Repos</span>
           <strong data-repo-count>14</strong>
+        </article>
+        <article>
+          <span class="stat-label">Developers</span>
+          <strong data-developer-count>0</strong>
         </article>
         <article>
           <span class="stat-label">Stars today</span>
@@ -56,10 +62,6 @@
         <article>
           <span class="stat-label">Top language</span>
           <strong data-top-language>Python</strong>
-        </article>
-        <article>
-          <span class="stat-label">Fastest mover</span>
-          <strong data-fastest-mover>MoneyPrinterTurbo</strong>
         </article>
       </section>
 
@@ -74,7 +76,15 @@
         </p>
       </section>
 
-      <section class="repo-grid" aria-label="Trending repositories" data-repo-grid>
+      <div class="feed-tabs" role="tablist" aria-label="Trending feed">
+        <button class="feed-tab active" id="tab-repositories" type="button" role="tab" aria-selected="true" aria-controls="repositories-panel" data-feed-tab="repositories">Repositories</button>
+        <button class="feed-tab" id="tab-developers" type="button" role="tab" aria-selected="false" aria-controls="developers-panel" data-feed-tab="developers">Developers</button>
+      </div>
+
+      <section class="repo-grid feed-panel active" id="repositories-panel" role="tabpanel" aria-labelledby="tab-repositories" aria-label="Trending repositories" data-repo-grid>
+      </section>
+
+      <section class="developer-grid feed-panel" id="developers-panel" role="tabpanel" aria-labelledby="tab-developers" aria-label="Trending developers" data-developer-grid hidden>
       </section>
 
       <section class="method" id="method" aria-labelledby="method-title">
@@ -105,16 +115,16 @@
         <h2 id="detail-title">Repository detail</h2>
         <p class="detail-description" id="detail-description"></p>
         <dl class="detail-metrics" aria-label="Repository metrics">
-          <div><dt>Stars</dt><dd id="detail-stars"></dd></div>
-          <div><dt>Forks</dt><dd id="detail-forks"></dd></div>
-          <div><dt>Today</dt><dd id="detail-today"></dd></div>
+          <div><dt id="detail-metric-label-1">Stars</dt><dd id="detail-metric-1"></dd></div>
+          <div><dt id="detail-metric-label-2">Forks</dt><dd id="detail-metric-2"></dd></div>
+          <div><dt id="detail-metric-label-3">Today</dt><dd id="detail-metric-3"></dd></div>
         </dl>
         <div class="detail-section">
-          <h3>Why it is trending</h3>
+          <h3 id="detail-section-title-1">Why it is trending</h3>
           <p id="detail-why"></p>
         </div>
         <div class="detail-section">
-          <h3>Best fit</h3>
+          <h3 id="detail-section-title-2">Best fit</h3>
           <p id="detail-fit"></p>
         </div>
         <div class="detail-tags" id="detail-tags" aria-label="Repository tags"></div>

@@ -1,9 +1,10 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 
-const rootDir = new URL("..", import.meta.url);
 const outputPath = new URL("../data/trending-repos.js", import.meta.url);
+const developerOutputPath = new URL("../data/trending-developers.js", import.meta.url);
 const sourceUrl = "https://github.com/trending?since=daily";
+const developerSourceUrl = "https://github.com/trending/developers?since=daily";
 const limit = Number(process.env.TRENDING_LIMIT || 14);
 
 function decodeHtml(value = "") {
@@ -75,6 +76,27 @@ function inferTags(repo) {
   return [...new Set(tags)].slice(0, 3);
 }
 
+function fallbackDeveloperWhy(developer) {
+  if (developer.popularRepository?.name) {
+    return `${developer.name} is trending because their repository ${developer.popularRepository.name} is receiving visible attention on GitHub today.`;
+  }
+
+  return `${developer.name} is trending because GitHub users are visiting and following their work today.`;
+}
+
+function inferDeveloperTags(developer) {
+  const text = `${developer.name} ${developer.username} ${developer.popularRepository?.name || ""} ${developer.popularRepository?.description || ""}`.toLowerCase();
+  const tags = ["Developer"];
+
+  if (text.includes("ai") || text.includes("agent") || text.includes("llm")) tags.push("AI");
+  if (text.includes("event")) tags.push("Events");
+  if (text.includes("tool")) tags.push("Tooling");
+  if (text.includes("web") || text.includes("app")) tags.push("Web");
+  if (text.includes("data")) tags.push("Data");
+
+  return [...new Set(tags)].slice(0, 3);
+}
+
 function parseTrending(html) {
   const articles = html.match(/<article[\s\S]*?class="[^"]*Box-row[^"]*"[\s\S]*?<\/article>/g) || [];
 
@@ -117,8 +139,48 @@ function parseTrending(html) {
   }).filter(Boolean);
 }
 
-async function fetchTrendingHtml() {
-  const response = await fetch(sourceUrl, {
+function parseTrendingDevelopers(html) {
+  const articles = html.match(/<article[\s\S]*?class="[^"]*Box-row[^"]*"[\s\S]*?<\/article>/g) || [];
+
+  return articles.slice(0, limit).map((article, index) => {
+    const avatarMatch = article.match(/<img[^>]*class="[^"]*avatar-user[^"]*"[^>]*src="([^"]+)"[^>]*alt="@([^"]+)"/);
+    const nameMatch = article.match(/<h1 class="h3[\s\S]*?<a[^>]*href="\/([^"]+)"[^>]*>([\s\S]*?)<\/a>/);
+    const usernameMatch = article.match(/<p class="f4[\s\S]*?<a[^>]*>([\s\S]*?)<\/a>/);
+    if (!nameMatch && !avatarMatch) return null;
+
+    const username = stripTags(usernameMatch?.[1] || avatarMatch?.[2] || nameMatch?.[1] || "unknown");
+    const name = stripTags(nameMatch?.[2] || username);
+    const profilePath = decodeHtml(nameMatch?.[1] || username).replace(/^\/|\/$/g, "");
+    const avatarUrl = decodeHtml(avatarMatch?.[1] || "").replace(/&amp;/g, "&");
+
+    const popularSection = (article.match(/Popular repo[\s\S]*$/) || [])[0] || "";
+    const popularRepoMatch = popularSection.match(/<h1 class="h4[\s\S]*?<a[^>]*href="\/([^"]+)"[^>]*>[\s\S]*?([\w.-]+)\s*<\/a>/);
+    const popularDescription = stripTags((popularSection.match(/<div class="f6 color-fg-muted mt-1">([\s\S]*?)<\/div>/) || [])[1] || "");
+
+    const developer = {
+      id: slugify(username) || `${slugify(name)}-${index + 1}`,
+      rank: `#${String(index + 1).padStart(2, "0")}`,
+      name,
+      username,
+      avatarUrl,
+      url: `https://github.com/${profilePath}`,
+      popularRepository: popularRepoMatch ? {
+        name: stripTags(popularRepoMatch[2]),
+        url: `https://github.com/${decodeHtml(popularRepoMatch[1])}`,
+        description: popularDescription || "No popular repository description available.",
+      } : null,
+    };
+
+    return {
+      ...developer,
+      why: fallbackDeveloperWhy(developer),
+      tags: inferDeveloperTags(developer),
+    };
+  }).filter(Boolean);
+}
+
+async function fetchHtml(url) {
+  const response = await fetch(url, {
     headers: {
       "accept": "text/html",
       "user-agent": "github-trending-landing-updater/1.0",
@@ -126,30 +188,48 @@ async function fetchTrendingHtml() {
   });
 
   if (!response.ok) {
-    throw new Error(`GitHub Trending request failed: ${response.status} ${response.statusText}`);
+    throw new Error(`GitHub Trending request failed for ${url}: ${response.status} ${response.statusText}`);
   }
 
   return response.text();
 }
 
+async function writeDataFile(fileUrl, globalName, payload) {
+  await fs.mkdir(path.dirname(new URL(fileUrl).pathname), { recursive: true });
+  await fs.writeFile(fileUrl, `window.${globalName} = ${JSON.stringify(payload, null, 2)};\n`);
+}
+
 async function main() {
-  const html = await fetchTrendingHtml();
+  const html = await fetchHtml(sourceUrl);
+  const developerHtml = await fetchHtml(developerSourceUrl);
   const repositories = parseTrending(html);
+  const developers = parseTrendingDevelopers(developerHtml);
 
   if (repositories.length === 0) {
     throw new Error("No repositories parsed from GitHub Trending.");
   }
 
-  const payload = {
-    updatedAt: new Date().toISOString(),
+  if (developers.length === 0) {
+    throw new Error("No developers parsed from GitHub Trending Developers.");
+  }
+
+  const updatedAt = new Date().toISOString();
+  const repoPayload = {
+    updatedAt,
     source: sourceUrl,
     repositories,
   };
+  const developerPayload = {
+    updatedAt,
+    source: developerSourceUrl,
+    developers,
+  };
 
-  await fs.mkdir(path.dirname(new URL(outputPath).pathname), { recursive: true });
-  await fs.writeFile(outputPath, `window.trendingRepos = ${JSON.stringify(payload, null, 2)};\n`);
+  await writeDataFile(outputPath, "trendingRepos", repoPayload);
+  await writeDataFile(developerOutputPath, "trendingDevelopers", developerPayload);
 
   console.log(`Updated ${repositories.length} trending repositories at ${new URL(outputPath).pathname}`);
+  console.log(`Updated ${developers.length} trending developers at ${new URL(developerOutputPath).pathname}`);
 }
 
 await main();
