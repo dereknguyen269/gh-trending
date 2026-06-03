@@ -1,46 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-06-02T01:26:46.576Z",
+  "updatedAt": "2026-06-03T01:31:11.507Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "colemurray",
-      "rank": "#01",
-      "name": "Cole Murray",
-      "username": "ColeMurray",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?s=96&v=4",
-      "url": "https://github.com/ColeMurray",
-      "popularRepository": {
-        "name": "background-agents",
-        "url": "https://github.com/ColeMurray/background-agents",
-        "description": "An open-source background agents coding system"
-      },
-      "why": "Cole Murray is trending because their repository background-agents is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "sandeepvashishtha",
-      "rank": "#02",
-      "name": "Sandeep Vashishtha",
-      "username": "SandeepVashishtha",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64915843?s=96&v=4",
-      "url": "https://github.com/SandeepVashishtha",
-      "popularRepository": {
-        "name": "Eventra",
-        "url": "https://github.com/SandeepVashishtha/Eventra",
-        "description": "Eventra is a comprehensive event management system that empowers organizers to create, manage, and track events seamlessly. Built with a …"
-      },
-      "why": "Sandeep Vashishtha is trending because their repository Eventra is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Events"
-      ]
-    },
-    {
       "id": "scottcjn",
-      "rank": "#03",
+      "rank": "#01",
       "name": "AutoJanitor",
       "username": "Scottcjn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/121303252?s=96&v=4",
@@ -57,61 +21,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "pbakaus",
-      "rank": "#04",
-      "name": "Paul Bakaus",
-      "username": "pbakaus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
-      "url": "https://github.com/pbakaus",
-      "popularRepository": {
-        "name": "impeccable",
-        "url": "https://github.com/pbakaus/impeccable",
-        "description": "The design language that makes your AI harness better at design."
-      },
-      "why": "Paul Bakaus is trending because their repository impeccable is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "zhulinsen",
-      "rank": "#05",
-      "name": "mumu",
-      "username": "ZhuLinsen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=96&v=4",
-      "url": "https://github.com/ZhuLinsen",
-      "popularRepository": {
-        "name": "daily_stock_analysis",
-        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
-      },
-      "why": "mumu is trending because their repository daily_stock_analysis is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "doitsujin",
-      "rank": "#06",
-      "name": "Philip Rebohle",
-      "username": "doitsujin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25567304?s=96&v=4",
-      "url": "https://github.com/doitsujin",
-      "popularRepository": {
-        "name": "dxvk",
-        "url": "https://github.com/doitsujin/dxvk",
-        "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine"
-      },
-      "why": "Philip Rebohle is trending because their repository dxvk is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "koala73",
-      "rank": "#07",
+      "rank": "#02",
       "name": "Elie Habib",
       "username": "koala73",
       "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
@@ -128,61 +39,63 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "ceilf6",
-      "rank": "#08",
-      "name": "ceilf6",
-      "username": "ceilf6",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/140817245?s=96&v=4",
-      "url": "https://github.com/ceilf6",
+      "id": "mvanhorn",
+      "rank": "#03",
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
+      "url": "https://github.com/mvanhorn",
       "popularRepository": {
-        "name": "Auto_courseGrabber",
-        "url": "https://github.com/ceilf6/Auto_courseGrabber",
-        "description": "正方教务系统自动抢课脚本：并发抢课、时间/教师筛选、换课、定时执行，内置图形界面。 | Auto course grabber with concurrent enrollment, filtering & scheduling."
+        "name": "last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
       },
-      "why": "ceilf6 is trending because their repository Auto_courseGrabber is receiving visible attention on GitHub today.",
+      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "colemurray",
+      "rank": "#04",
+      "name": "Cole Murray",
+      "username": "ColeMurray",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?s=96&v=4",
+      "url": "https://github.com/ColeMurray",
+      "popularRepository": {
+        "name": "background-agents",
+        "url": "https://github.com/ColeMurray/background-agents",
+        "description": "An open-source background agents coding system"
+      },
+      "why": "Cole Murray is trending because their repository background-agents is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "gustavovalverde",
-      "rank": "#09",
-      "name": "Gustavo Valverde",
-      "username": "gustavovalverde",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16890942?s=96&v=4",
-      "url": "https://github.com/gustavovalverde",
+      "id": "pbakaus",
+      "rank": "#05",
+      "name": "Paul Bakaus",
+      "username": "pbakaus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
+      "url": "https://github.com/pbakaus",
       "popularRepository": {
-        "name": "h2m-parser",
-        "url": "https://github.com/gustavovalverde/h2m-parser",
-        "description": "Fast HTML to Markdown converter with Mozilla Readability extraction, streaming renderer, and LLM-ready output. 4x times faster than famou…"
+        "name": "impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "description": "The design language that makes your AI harness better at design."
       },
-      "why": "Gustavo Valverde is trending because their repository h2m-parser is receiving visible attention on GitHub today.",
+      "why": "Paul Bakaus is trending because their repository impeccable is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
-      ]
-    },
-    {
-      "id": "sxyazi",
-      "rank": "#10",
-      "name": "三咲雅 misaki masa",
-      "username": "sxyazi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17523360?s=96&v=4",
-      "url": "https://github.com/sxyazi",
-      "popularRepository": {
-        "name": "yazi",
-        "url": "https://github.com/sxyazi/yazi",
-        "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O."
-      },
-      "why": "三咲雅 misaki masa is trending because their repository yazi is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
       ]
     },
     {
       "id": "stephenberry",
-      "rank": "#11",
+      "rank": "#06",
       "name": "Stephen Berry",
       "username": "stephenberry",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7396228?s=96&v=4",
@@ -198,18 +111,55 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "majiayu000",
-      "rank": "#12",
-      "name": "lif",
-      "username": "majiayu000",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19658300?s=96&v=4",
-      "url": "https://github.com/majiayu000",
+      "id": "simon-he95",
+      "rank": "#07",
+      "name": "Simon He",
+      "username": "Simon-He95",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57086651?s=96&v=4",
+      "url": "https://github.com/Simon-He95",
       "popularRepository": {
-        "name": "spellbook",
-        "url": "https://github.com/majiayu000/spellbook",
-        "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows."
+        "name": "vue-tui",
+        "url": "https://github.com/Simon-He95/vue-tui",
+        "description": "Vue 3 terminal UI toolkit for browser DOM and CLI stdout: components, ANSI rendering, markdown transcripts, log views, and agent consoles."
       },
-      "why": "lif is trending because their repository spellbook is receiving visible attention on GitHub today.",
+      "why": "Simon He is trending because their repository vue-tui is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "zhulinsen",
+      "rank": "#08",
+      "name": "mumu",
+      "username": "ZhuLinsen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=96&v=4",
+      "url": "https://github.com/ZhuLinsen",
+      "popularRepository": {
+        "name": "daily_stock_analysis",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
+      },
+      "why": "mumu is trending because their repository daily_stock_analysis is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "ericlbuehler",
+      "rank": "#09",
+      "name": "Eric Buehler",
+      "username": "EricLBuehler",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65165915?s=96&v=4",
+      "url": "https://github.com/EricLBuehler",
+      "popularRepository": {
+        "name": "mistral.rs",
+        "url": "https://github.com/EricLBuehler/mistral.rs",
+        "description": "Fast, flexible LLM inference"
+      },
+      "why": "Eric Buehler is trending because their repository mistral.rs is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -217,7 +167,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "cmungall",
-      "rank": "#13",
+      "rank": "#10",
       "name": "Chris Mungall",
       "username": "cmungall",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50745?s=96&v=4",
@@ -229,20 +179,72 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "logan-markewich",
-      "rank": "#14",
-      "name": "Logan",
-      "username": "logan-markewich",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22285038?s=96&v=4",
-      "url": "https://github.com/logan-markewich",
+      "id": "bradfitz",
+      "rank": "#11",
+      "name": "Brad Fitzpatrick",
+      "username": "bradfitz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2621?s=96&v=4",
+      "url": "https://github.com/bradfitz",
       "popularRepository": {
-        "name": "finparse-pipeline",
-        "url": "https://github.com/logan-markewich/finparse-pipeline",
-        "description": "A small example repo for building a backend with LlamaParse"
+        "name": "check-git-accidental-large-file",
+        "url": "https://github.com/bradfitz/check-git-accidental-large-file",
+        "description": "check for big files added to git"
       },
-      "why": "Logan is trending because their repository finparse-pipeline is receiving visible attention on GitHub today.",
+      "why": "Brad Fitzpatrick is trending because their repository check-git-accidental-large-file is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
+      ]
+    },
+    {
+      "id": "shahednasser",
+      "rank": "#12",
+      "name": "Shahed Nasser",
+      "username": "shahednasser",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27354907?s=96&v=4",
+      "url": "https://github.com/shahednasser",
+      "popularRepository": {
+        "name": "awesome-resources",
+        "url": "https://github.com/shahednasser/awesome-resources",
+        "description": "😎 List of helpful resources added by the community for the community!"
+      },
+      "why": "Shahed Nasser is trending because their repository awesome-resources is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "1c7",
+      "rank": "#13",
+      "name": "郑诚 (Cheng Zheng)",
+      "username": "1c7",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1804755?s=96&v=4",
+      "url": "https://github.com/1c7",
+      "popularRepository": {
+        "name": "chinese-independent-developer",
+        "url": "https://github.com/1c7/chinese-independent-developer",
+        "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+      },
+      "why": "郑诚 (Cheng Zheng) is trending because their repository chinese-independent-developer is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "zackees",
+      "rank": "#14",
+      "name": "Zachary Vorhies",
+      "username": "zackees",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6856673?s=96&v=4",
+      "url": "https://github.com/zackees",
+      "popularRepository": {
+        "name": "transcribe-anything",
+        "url": "https://github.com/zackees/transcribe-anything",
+        "description": "Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it u…"
+      },
+      "why": "Zachary Vorhies is trending because their repository transcribe-anything is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
       ]
     }
   ]

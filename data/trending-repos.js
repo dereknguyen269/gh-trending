@@ -1,7 +1,27 @@
 window.trendingRepos = {
-  "updatedAt": "2026-06-02T01:26:46.576Z",
+  "updatedAt": "2026-06-03T01:31:11.507Z",
   "source": "https://github.com/trending?since=daily",
   "repositories": [
+    {
+      "id": "headroom",
+      "owner": "chopratejas",
+      "name": "headroom",
+      "title": "chopratejas / headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 6513,
+      "forks": 458,
+      "starsToday": 1265,
+      "url": "https://github.com/chopratejas/headroom",
+      "rank": "#01",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI",
+        "Tooling"
+      ]
+    },
     {
       "id": "markitdown",
       "owner": "microsoft",
@@ -9,11 +29,11 @@ window.trendingRepos = {
       "title": "microsoft / markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 138501,
-      "forks": 9434,
-      "starsToday": 3034,
+      "stars": 141193,
+      "forks": 9619,
+      "starsToday": 3618,
       "url": "https://github.com/microsoft/markitdown",
-      "rank": "#01",
+      "rank": "#02",
       "why": "It is trending because document processing is a core layer for search, knowledge bases, and AI retrieval workflows.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -23,17 +43,130 @@ window.trendingRepos = {
       ]
     },
     {
+      "id": "ecc",
+      "owner": "affaan-m",
+      "name": "ECC",
+      "title": "affaan-m / ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 204001,
+      "forks": 31295,
+      "starsToday": 1533,
+      "url": "https://github.com/affaan-m/ECC",
+      "rank": "#03",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "JavaScript",
+        "AI",
+        "Open source"
+      ]
+    },
+    {
+      "id": "scrapling",
+      "owner": "D4Vinci",
+      "name": "Scrapling",
+      "title": "D4Vinci / Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars": 59194,
+      "forks": 5722,
+      "starsToday": 1182,
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "rank": "#04",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python"
+      ]
+    },
+    {
       "id": "hermes-webui",
       "owner": "nesquena",
       "name": "hermes-webui",
       "title": "nesquena / hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars": 11349,
-      "forks": 1454,
-      "starsToday": 945,
+      "stars": 12553,
+      "forks": 1540,
+      "starsToday": 1722,
       "url": "https://github.com/nesquena/hermes-webui",
-      "rank": "#02",
+      "rank": "#05",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI"
+      ]
+    },
+    {
+      "id": "flowsint",
+      "owner": "reconurge",
+      "name": "flowsint",
+      "title": "reconurge / flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "stars": 4524,
+      "forks": 582,
+      "starsToday": 124,
+      "url": "https://github.com/reconurge/flowsint",
+      "rank": "#06",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "voxcpm",
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "title": "OpenBMB / VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 25137,
+      "forks": 2881,
+      "starsToday": 783,
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "rank": "#07",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "Open source"
+      ]
+    },
+    {
+      "id": "machine-learning-for-trading",
+      "owner": "stefan-jansen",
+      "name": "machine-learning-for-trading",
+      "title": "stefan-jansen / machine-learning-for-trading",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "language": "Jupyter Notebook",
+      "stars": 18482,
+      "forks": 5226,
+      "starsToday": 574,
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "rank": "#08",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Jupyter Notebook repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Jupyter Notebook",
+        "Learning"
+      ]
+    },
+    {
+      "id": "production-agentic-rag-course",
+      "owner": "jamwithai",
+      "name": "production-agentic-rag-course",
+      "title": "jamwithai / production-agentic-rag-course",
+      "description": "No repository description available.",
+      "language": "Python",
+      "stars": 6391,
+      "forks": 1488,
+      "starsToday": 30,
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "rank": "#09",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -48,223 +181,36 @@ window.trendingRepos = {
       "title": "supermemoryai / supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars": 23994,
-      "forks": 2147,
-      "starsToday": 647,
+      "stars": 24649,
+      "forks": 2179,
+      "starsToday": 680,
       "url": "https://github.com/supermemoryai/supermemory",
-      "rank": "#03",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
-        "AI"
-      ]
-    },
-    {
-      "id": "moneyprinterturbo",
-      "owner": "harry0703",
-      "name": "MoneyPrinterTurbo",
-      "title": "harry0703 / MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "language": "Python",
-      "stars": 76861,
-      "forks": 10907,
-      "starsToday": 3375,
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "rank": "#04",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "scrapling",
-      "owner": "D4Vinci",
-      "name": "Scrapling",
-      "title": "D4Vinci / Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "language": "Python",
-      "stars": 58073,
-      "forks": 5636,
-      "starsToday": 1486,
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "rank": "#05",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python"
-      ]
-    },
-    {
-      "id": "impeccable",
-      "owner": "pbakaus",
-      "name": "impeccable",
-      "title": "pbakaus / impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "stars": 32725,
-      "forks": 1783,
-      "starsToday": 485,
-      "url": "https://github.com/pbakaus/impeccable",
-      "rank": "#06",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "JavaScript",
-        "AI"
-      ]
-    },
-    {
-      "id": "heretic",
-      "owner": "p-e-w",
-      "name": "heretic",
-      "title": "p-e-w / heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "language": "Python",
-      "stars": 23042,
-      "forks": 2466,
-      "starsToday": 249,
-      "url": "https://github.com/p-e-w/heretic",
-      "rank": "#07",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python"
-      ]
-    },
-    {
-      "id": "compound-engineering-plugin",
-      "owner": "EveryInc",
-      "name": "compound-engineering-plugin",
-      "title": "EveryInc / compound-engineering-plugin",
-      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "language": "TypeScript",
-      "stars": 19113,
-      "forks": 1428,
-      "starsToday": 417,
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "rank": "#08",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
-        "Plugin"
-      ]
-    },
-    {
-      "id": "tradingagents",
-      "owner": "TauricResearch",
-      "name": "TradingAgents",
-      "title": "TauricResearch / TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars": 81787,
-      "forks": 15899,
-      "starsToday": 299,
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "rank": "#09",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "harness",
-      "owner": "revfactory",
-      "name": "harness",
-      "title": "revfactory / harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "language": "HTML",
-      "stars": 5161,
-      "forks": 693,
-      "starsToday": 524,
-      "url": "https://github.com/revfactory/harness",
       "rank": "#10",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving HTML repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "HTML",
-        "AI"
-      ]
-    },
-    {
-      "id": "godot",
-      "owner": "godotengine",
-      "name": "godot",
-      "title": "godotengine / godot",
-      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "C++",
-      "stars": 111647,
-      "forks": 25511,
-      "starsToday": 77,
-      "url": "https://github.com/godotengine/godot",
-      "rank": "#11",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving C++ repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "C++"
-      ]
-    },
-    {
-      "id": "oh-my-pi",
-      "owner": "can1357",
-      "name": "oh-my-pi",
-      "title": "can1357 / oh-my-pi",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "language": "TypeScript",
-      "stars": 9477,
-      "forks": 760,
-      "starsToday": 335,
-      "url": "https://github.com/can1357/oh-my-pi",
-      "rank": "#12",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
         "TypeScript",
-        "AI",
-        "Tooling"
+        "AI"
       ]
     },
     {
-      "id": "voxcpm",
-      "owner": "OpenBMB",
-      "name": "VoxCPM",
-      "title": "OpenBMB / VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "id": "open-llm-vtuber",
+      "owner": "Open-LLM-VTuber",
+      "name": "Open-LLM-VTuber",
+      "title": "Open-LLM-VTuber / Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "language": "Python",
-      "stars": 24259,
-      "forks": 2798,
-      "starsToday": 888,
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "rank": "#13",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "stars": 8371,
+      "forks": 1074,
+      "starsToday": 66,
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "rank": "#11",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
         "Python",
+        "AI",
         "Open source"
-      ]
-    },
-    {
-      "id": "train-llm-from-scratch",
-      "owner": "FareedKhan-dev",
-      "name": "train-llm-from-scratch",
-      "title": "FareedKhan-dev / train-llm-from-scratch",
-      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "language": "Jupyter Notebook",
-      "stars": 3727,
-      "forks": 518,
-      "starsToday": 861,
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "rank": "#14",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Jupyter Notebook repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Jupyter Notebook",
-        "AI"
       ]
     }
   ]
