@@ -1,10 +1,29 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-06-04T01:32:00.864Z",
+  "updatedAt": "2026-06-05T01:22:08.194Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "lfnovo",
+      "id": "mvanhorn",
       "rank": "#01",
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
+      "url": "https://github.com/mvanhorn",
+      "popularRepository": {
+        "name": "last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+      },
+      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "lfnovo",
+      "rank": "#02",
       "name": "Luis Novo",
       "username": "lfnovo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/579178?s=96&v=4",
@@ -20,97 +39,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "koala73",
-      "rank": "#02",
-      "name": "Elie Habib",
-      "username": "koala73",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
-      "url": "https://github.com/koala73",
-      "popularRepository": {
-        "name": "worldmonitor",
-        "url": "https://github.com/koala73/worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
-      },
-      "why": "Elie Habib is trending because their repository worldmonitor is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "pbakaus",
-      "rank": "#03",
-      "name": "Paul Bakaus",
-      "username": "pbakaus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
-      "url": "https://github.com/pbakaus",
-      "popularRepository": {
-        "name": "impeccable",
-        "url": "https://github.com/pbakaus/impeccable",
-        "description": "The design language that makes your AI harness better at design."
-      },
-      "why": "Paul Bakaus is trending because their repository impeccable is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "ericlbuehler",
-      "rank": "#04",
-      "name": "Eric Buehler",
-      "username": "EricLBuehler",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65165915?s=96&v=4",
-      "url": "https://github.com/EricLBuehler",
-      "popularRepository": {
-        "name": "mistral.rs",
-        "url": "https://github.com/EricLBuehler/mistral.rs",
-        "description": "Fast, flexible LLM inference"
-      },
-      "why": "Eric Buehler is trending because their repository mistral.rs is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "1c7",
-      "rank": "#05",
-      "name": "郑诚 (Cheng Zheng)",
-      "username": "1c7",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1804755?s=96&v=4",
-      "url": "https://github.com/1c7",
-      "popularRepository": {
-        "name": "chinese-independent-developer",
-        "url": "https://github.com/1c7/chinese-independent-developer",
-        "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
-      },
-      "why": "郑诚 (Cheng Zheng) is trending because their repository chinese-independent-developer is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "scottcjn",
-      "rank": "#06",
-      "name": "AutoJanitor",
-      "username": "Scottcjn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/121303252?s=96&v=4",
-      "url": "https://github.com/Scottcjn",
-      "popularRepository": {
-        "name": "Rustchain",
-        "url": "https://github.com/Scottcjn/Rustchain",
-        "description": "DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-powered hardware fingerprinting, 15+ C…"
-      },
-      "why": "AutoJanitor is trending because their repository Rustchain is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "mervinpraison",
-      "rank": "#07",
+      "rank": "#03",
       "name": "Mervin Praison",
       "username": "MervinPraison",
       "avatarUrl": "https://avatars.githubusercontent.com/u/454862?s=96&v=4",
@@ -127,79 +57,25 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "hntrl",
-      "rank": "#08",
-      "name": "Hunter Lovell",
-      "username": "hntrl",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40191806?s=96&v=4",
-      "url": "https://github.com/hntrl",
+      "id": "shahednasser",
+      "rank": "#04",
+      "name": "Shahed Nasser",
+      "username": "shahednasser",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27354907?s=96&v=4",
+      "url": "https://github.com/shahednasser",
       "popularRepository": {
-        "name": "durable-object-rpc-repro",
-        "url": "https://github.com/hntrl/durable-object-rpc-repro",
-        "description": "No popular repository description available."
+        "name": "awesome-resources",
+        "url": "https://github.com/shahednasser/awesome-resources",
+        "description": "😎 List of helpful resources added by the community for the community!"
       },
-      "why": "Hunter Lovell is trending because their repository durable-object-rpc-repro is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "ranaroussi",
-      "rank": "#09",
-      "name": "Ran Aroussi",
-      "username": "ranaroussi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1185458?s=96&v=4",
-      "url": "https://github.com/ranaroussi",
-      "popularRepository": {
-        "name": "yfinance",
-        "url": "https://github.com/ranaroussi/yfinance",
-        "description": "Download market data from Yahoo! Finance's API"
-      },
-      "why": "Ran Aroussi is trending because their repository yfinance is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Data"
-      ]
-    },
-    {
-      "id": "danielmeppiel",
-      "rank": "#10",
-      "name": "Daniel Meppiel",
-      "username": "danielmeppiel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/51440732?s=96&v=4",
-      "url": "https://github.com/danielmeppiel",
-      "popularRepository": {
-        "name": "agentic-sdlc-handbook",
-        "url": "https://github.com/danielmeppiel/agentic-sdlc-handbook",
-        "description": "The Agentic SDLC Handbook — dual-audience guide for C-suite and practitioners"
-      },
-      "why": "Daniel Meppiel is trending because their repository agentic-sdlc-handbook is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "benbrandt",
-      "rank": "#11",
-      "name": "Ben Brandt",
-      "username": "benbrandt",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2111074?s=96&v=4",
-      "url": "https://github.com/benbrandt",
-      "popularRepository": {
-        "name": "text-splitter",
-        "url": "https://github.com/benbrandt/text-splitter",
-        "description": "Split text into semantic chunks, up to a desired chunk size. Supports calculating length by characters and tokens, and is callable from R…"
-      },
-      "why": "Ben Brandt is trending because their repository text-splitter is receiving visible attention on GitHub today.",
+      "why": "Shahed Nasser is trending because their repository awesome-resources is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "zhulinsen",
-      "rank": "#12",
+      "rank": "#05",
       "name": "mumu",
       "username": "ZhuLinsen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=96&v=4",
@@ -216,36 +92,158 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "colemurray",
-      "rank": "#13",
-      "name": "Cole Murray",
-      "username": "ColeMurray",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?s=96&v=4",
-      "url": "https://github.com/ColeMurray",
+      "id": "koala73",
+      "rank": "#06",
+      "name": "Elie Habib",
+      "username": "koala73",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
+      "url": "https://github.com/koala73",
       "popularRepository": {
-        "name": "background-agents",
-        "url": "https://github.com/ColeMurray/background-agents",
-        "description": "An open-source background agents coding system"
+        "name": "worldmonitor",
+        "url": "https://github.com/koala73/worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
       },
-      "why": "Cole Murray is trending because their repository background-agents is receiving visible attention on GitHub today.",
+      "why": "Elie Habib is trending because their repository worldmonitor is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "1weiho",
-      "rank": "#14",
-      "name": "Yiwei Ho",
-      "username": "1weiho",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/75478661?s=96&v=4",
-      "url": "https://github.com/1weiho",
+      "id": "777genius",
+      "rank": "#07",
+      "name": "Илия",
+      "username": "777genius",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13103045?s=96&v=4",
+      "url": "https://github.com/777genius",
       "popularRepository": {
-        "name": "open-slide",
-        "url": "https://github.com/1weiho/open-slide",
-        "description": "A slide framework built for agents."
+        "name": "agent-teams-ai",
+        "url": "https://github.com/777genius/agent-teams-ai",
+        "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
       },
-      "why": "Yiwei Ho is trending because their repository open-slide is receiving visible attention on GitHub today.",
+      "why": "Илия is trending because their repository agent-teams-ai is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "bradfitz",
+      "rank": "#08",
+      "name": "Brad Fitzpatrick",
+      "username": "bradfitz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2621?s=96&v=4",
+      "url": "https://github.com/bradfitz",
+      "popularRepository": {
+        "name": "check-git-accidental-large-file",
+        "url": "https://github.com/bradfitz/check-git-accidental-large-file",
+        "description": "check for big files added to git"
+      },
+      "why": "Brad Fitzpatrick is trending because their repository check-git-accidental-large-file is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "garrytan",
+      "rank": "#09",
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
+      "url": "https://github.com/garrytan",
+      "popularRepository": {
+        "name": "gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+      },
+      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "cyan4973",
+      "rank": "#10",
+      "name": "Yann Collet",
+      "username": "Cyan4973",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/750081?s=96&v=4",
+      "url": "https://github.com/Cyan4973",
+      "popularRepository": {
+        "name": "xxHash",
+        "url": "https://github.com/Cyan4973/xxHash",
+        "description": "Extremely fast non-cryptographic hash algorithm"
+      },
+      "why": "Yann Collet is trending because their repository xxHash is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "1c7",
+      "rank": "#11",
+      "name": "郑诚 (Cheng Zheng)",
+      "username": "1c7",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1804755?s=96&v=4",
+      "url": "https://github.com/1c7",
+      "popularRepository": {
+        "name": "chinese-independent-developer",
+        "url": "https://github.com/1c7/chinese-independent-developer",
+        "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+      },
+      "why": "郑诚 (Cheng Zheng) is trending because their repository chinese-independent-developer is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "ericlbuehler",
+      "rank": "#12",
+      "name": "Eric Buehler",
+      "username": "EricLBuehler",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65165915?s=96&v=4",
+      "url": "https://github.com/EricLBuehler",
+      "popularRepository": {
+        "name": "mistral.rs",
+        "url": "https://github.com/EricLBuehler/mistral.rs",
+        "description": "Fast, flexible LLM inference"
+      },
+      "why": "Eric Buehler is trending because their repository mistral.rs is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "zhaochenyang20",
+      "rank": "#13",
+      "name": "赵晨阳",
+      "username": "zhaochenyang20",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74843776?s=96&v=4",
+      "url": "https://github.com/zhaochenyang20",
+      "popularRepository": {
+        "name": "Awesome-ML-SYS-Tutorial",
+        "url": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial",
+        "description": "My learning notes for ML SYS."
+      },
+      "why": "赵晨阳 is trending because their repository Awesome-ML-SYS-Tutorial is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "max-sixty",
+      "rank": "#14",
+      "name": "Maximilian Roos",
+      "username": "max-sixty",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
+      "url": "https://github.com/max-sixty",
+      "popularRepository": {
+        "name": "worktrunk",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+      },
+      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
