@@ -1,5 +1,5 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-06-05T01:22:08.194Z",
+  "updatedAt": "2026-06-06T01:17:25.166Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
@@ -39,61 +39,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "mervinpraison",
-      "rank": "#03",
-      "name": "Mervin Praison",
-      "username": "MervinPraison",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/454862?s=96&v=4",
-      "url": "https://github.com/MervinPraison",
-      "popularRepository": {
-        "name": "PraisonAI",
-        "url": "https://github.com/MervinPraison/PraisonAI",
-        "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan,…"
-      },
-      "why": "Mervin Praison is trending because their repository PraisonAI is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "shahednasser",
-      "rank": "#04",
-      "name": "Shahed Nasser",
-      "username": "shahednasser",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/27354907?s=96&v=4",
-      "url": "https://github.com/shahednasser",
-      "popularRepository": {
-        "name": "awesome-resources",
-        "url": "https://github.com/shahednasser/awesome-resources",
-        "description": "😎 List of helpful resources added by the community for the community!"
-      },
-      "why": "Shahed Nasser is trending because their repository awesome-resources is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "zhulinsen",
-      "rank": "#05",
-      "name": "mumu",
-      "username": "ZhuLinsen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=96&v=4",
-      "url": "https://github.com/ZhuLinsen",
-      "popularRepository": {
-        "name": "daily_stock_analysis",
-        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
-      },
-      "why": "mumu is trending because their repository daily_stock_analysis is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "koala73",
-      "rank": "#06",
+      "rank": "#03",
       "name": "Elie Habib",
       "username": "koala73",
       "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
@@ -110,8 +57,40 @@ window.trendingDevelopers = {
       ]
     },
     {
+      "id": "ko3n1g",
+      "rank": "#04",
+      "name": "oliver könig",
+      "username": "ko3n1g",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16716991?s=96&v=4",
+      "url": "https://github.com/ko3n1g",
+      "popularRepository": null,
+      "why": "oliver könig is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "jpr5",
+      "rank": "#05",
+      "name": "Jordan Ritter",
+      "username": "jpr5",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/86957?s=96&v=4",
+      "url": "https://github.com/jpr5",
+      "popularRepository": {
+        "name": "ngrep",
+        "url": "https://github.com/jpr5/ngrep",
+        "description": "ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal…"
+      },
+      "why": "Jordan Ritter is trending because their repository ngrep is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Tooling",
+        "Web"
+      ]
+    },
+    {
       "id": "777genius",
-      "rank": "#07",
+      "rank": "#06",
       "name": "Илия",
       "username": "777genius",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13103045?s=96&v=4",
@@ -128,38 +107,50 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "bradfitz",
-      "rank": "#08",
-      "name": "Brad Fitzpatrick",
-      "username": "bradfitz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2621?s=96&v=4",
-      "url": "https://github.com/bradfitz",
+      "id": "1c7",
+      "rank": "#07",
+      "name": "郑诚 (Cheng Zheng)",
+      "username": "1c7",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1804755?s=96&v=4",
+      "url": "https://github.com/1c7",
       "popularRepository": {
-        "name": "check-git-accidental-large-file",
-        "url": "https://github.com/bradfitz/check-git-accidental-large-file",
-        "description": "check for big files added to git"
+        "name": "chinese-independent-developer",
+        "url": "https://github.com/1c7/chinese-independent-developer",
+        "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
       },
-      "why": "Brad Fitzpatrick is trending because their repository check-git-accidental-large-file is receiving visible attention on GitHub today.",
+      "why": "郑诚 (Cheng Zheng) is trending because their repository chinese-independent-developer is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "garrytan",
-      "rank": "#09",
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
-      "url": "https://github.com/garrytan",
+      "id": "kikobeats",
+      "rank": "#08",
+      "name": "Jose Francisco 'Kiko' Verdú Gambín",
+      "username": "Kikobeats",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2096101?s=96&v=4",
+      "url": "https://github.com/Kikobeats",
       "popularRepository": {
-        "name": "gstack",
-        "url": "https://github.com/garrytan/gstack",
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+        "name": "untracked",
+        "url": "https://github.com/Kikobeats/untracked",
+        "description": "Universal way for ignoring unnecessary common files to fit your bundle"
       },
-      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
+      "why": "Jose Francisco 'Kiko' Verdú Gambín is trending because their repository untracked is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "Tooling"
+        "Developer"
+      ]
+    },
+    {
+      "id": "maheshthedev",
+      "rank": "#09",
+      "name": "Mahesh Sanikommu",
+      "username": "MaheshtheDev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38828053?s=96&v=4",
+      "url": "https://github.com/MaheshtheDev",
+      "popularRepository": null,
+      "why": "Mahesh Sanikommu is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
       ]
     },
     {
@@ -180,55 +171,56 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "1c7",
+      "id": "cv",
       "rank": "#11",
-      "name": "郑诚 (Cheng Zheng)",
-      "username": "1c7",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1804755?s=96&v=4",
-      "url": "https://github.com/1c7",
+      "name": "Carlos Villela",
+      "username": "cv",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5445?s=96&v=4",
+      "url": "https://github.com/cv",
       "popularRepository": {
-        "name": "chinese-independent-developer",
-        "url": "https://github.com/1c7/chinese-independent-developer",
-        "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+        "name": "pi-action",
+        "url": "https://github.com/cv/pi-action",
+        "description": "GitHub Action to invoke the PI coding agent on issues and PRs via comment triggers"
       },
-      "why": "郑诚 (Cheng Zheng) is trending because their repository chinese-independent-developer is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "ericlbuehler",
-      "rank": "#12",
-      "name": "Eric Buehler",
-      "username": "EricLBuehler",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65165915?s=96&v=4",
-      "url": "https://github.com/EricLBuehler",
-      "popularRepository": {
-        "name": "mistral.rs",
-        "url": "https://github.com/EricLBuehler/mistral.rs",
-        "description": "Fast, flexible LLM inference"
-      },
-      "why": "Eric Buehler is trending because their repository mistral.rs is receiving visible attention on GitHub today.",
+      "why": "Carlos Villela is trending because their repository pi-action is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "zhaochenyang20",
-      "rank": "#13",
-      "name": "赵晨阳",
-      "username": "zhaochenyang20",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74843776?s=96&v=4",
-      "url": "https://github.com/zhaochenyang20",
+      "id": "shahednasser",
+      "rank": "#12",
+      "name": "Shahed Nasser",
+      "username": "shahednasser",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27354907?s=96&v=4",
+      "url": "https://github.com/shahednasser",
       "popularRepository": {
-        "name": "Awesome-ML-SYS-Tutorial",
-        "url": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial",
-        "description": "My learning notes for ML SYS."
+        "name": "awesome-resources",
+        "url": "https://github.com/shahednasser/awesome-resources",
+        "description": "😎 List of helpful resources added by the community for the community!"
       },
-      "why": "赵晨阳 is trending because their repository Awesome-ML-SYS-Tutorial is receiving visible attention on GitHub today.",
+      "why": "Shahed Nasser is trending because their repository awesome-resources is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
+      ]
+    },
+    {
+      "id": "jrouwe",
+      "rank": "#13",
+      "name": "Jorrit Rouwe",
+      "username": "jrouwe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1621693?s=96&v=4",
+      "url": "https://github.com/jrouwe",
+      "popularRepository": {
+        "name": "JoltPhysics",
+        "url": "https://github.com/jrouwe/JoltPhysics",
+        "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by…"
+      },
+      "why": "Jorrit Rouwe is trending because their repository JoltPhysics is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
       ]
     },
     {
