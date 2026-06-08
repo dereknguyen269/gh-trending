@@ -1,5 +1,5 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-06-07T01:26:03.582Z",
+  "updatedAt": "2026-06-08T01:26:32.412Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
@@ -22,35 +22,36 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "lfnovo",
+      "id": "alirezarezvani",
       "rank": "#02",
-      "name": "Luis Novo",
-      "username": "lfnovo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/579178?s=96&v=4",
-      "url": "https://github.com/lfnovo",
+      "name": "Alireza Rezvani",
+      "username": "alirezarezvani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5697919?s=96&v=4",
+      "url": "https://github.com/alirezarezvani",
       "popularRepository": {
-        "name": "open-notebook",
-        "url": "https://github.com/lfnovo/open-notebook",
-        "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+        "name": "claude-skills",
+        "url": "https://github.com/alirezarezvani/claude-skills",
+        "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claud…"
       },
-      "why": "Luis Novo is trending because their repository open-notebook is receiving visible attention on GitHub today.",
+      "why": "Alireza Rezvani is trending because their repository claude-skills is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
       ]
     },
     {
-      "id": "shahednasser",
+      "id": "fzyzcjy",
       "rank": "#03",
-      "name": "Shahed Nasser",
-      "username": "shahednasser",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/27354907?s=96&v=4",
-      "url": "https://github.com/shahednasser",
+      "name": "fzyzcjy",
+      "username": "fzyzcjy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5236035?s=96&v=4",
+      "url": "https://github.com/fzyzcjy",
       "popularRepository": {
-        "name": "awesome-resources",
-        "url": "https://github.com/shahednasser/awesome-resources",
-        "description": "😎 List of helpful resources added by the community for the community!"
+        "name": "flutter_rust_bridge",
+        "url": "https://github.com/fzyzcjy/flutter_rust_bridge",
+        "description": "Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple."
       },
-      "why": "Shahed Nasser is trending because their repository awesome-resources is receiving visible attention on GitHub today.",
+      "why": "fzyzcjy is trending because their repository flutter_rust_bridge is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
@@ -74,109 +75,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "nerdai",
-      "rank": "#05",
-      "name": "Andrei Fajardo",
-      "username": "nerdai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92402603?s=96&v=4",
-      "url": "https://github.com/nerdai",
-      "popularRepository": {
-        "name": "llm-agents-from-scratch",
-        "url": "https://github.com/nerdai/llm-agents-from-scratch",
-        "description": "Build LLM agents and multi-agent systems from scratch, with MCP, Skills, and A2A"
-      },
-      "why": "Andrei Fajardo is trending because their repository llm-agents-from-scratch is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "squidfunk",
-      "rank": "#06",
-      "name": "Martin Donath",
-      "username": "squidfunk",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/932156?s=96&v=4",
-      "url": "https://github.com/squidfunk",
-      "popularRepository": {
-        "name": "mkdocs-material",
-        "url": "https://github.com/squidfunk/mkdocs-material",
-        "description": "Documentation that simply works"
-      },
-      "why": "Martin Donath is trending because their repository mkdocs-material is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "zhaochenyang20",
-      "rank": "#07",
-      "name": "赵晨阳",
-      "username": "zhaochenyang20",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74843776?s=96&v=4",
-      "url": "https://github.com/zhaochenyang20",
-      "popularRepository": {
-        "name": "Awesome-ML-SYS-Tutorial",
-        "url": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial",
-        "description": "My learning notes for ML SYS."
-      },
-      "why": "赵晨阳 is trending because their repository Awesome-ML-SYS-Tutorial is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "felixrieseberg",
-      "rank": "#08",
-      "name": "Felix Rieseberg",
-      "username": "felixrieseberg",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1426799?s=96&v=4",
-      "url": "https://github.com/felixrieseberg",
-      "popularRepository": {
-        "name": "relic",
-        "url": "https://github.com/felixrieseberg/relic",
-        "description": "A minimal coding agent for ancient operating systems and devices"
-      },
-      "why": "Felix Rieseberg is trending because their repository relic is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "alirezarezvani",
-      "rank": "#09",
-      "name": "Alireza Rezvani",
-      "username": "alirezarezvani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5697919?s=96&v=4",
-      "url": "https://github.com/alirezarezvani",
-      "popularRepository": {
-        "name": "claude-skills",
-        "url": "https://github.com/alirezarezvani/claude-skills",
-        "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claud…"
-      },
-      "why": "Alireza Rezvani is trending because their repository claude-skills is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "ko3n1g",
-      "rank": "#10",
-      "name": "oliver könig",
-      "username": "ko3n1g",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16716991?s=96&v=4",
-      "url": "https://github.com/ko3n1g",
-      "popularRepository": null,
-      "why": "oliver könig is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "dalathegreat",
-      "rank": "#11",
+      "rank": "#05",
       "name": "Daniel Öster",
       "username": "dalathegreat",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26695010?s=96&v=4",
@@ -192,48 +92,155 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "zeux",
-      "rank": "#12",
-      "name": "Arseny Kapoulkine",
-      "username": "zeux",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1106629?s=96&v=4",
-      "url": "https://github.com/zeux",
+      "id": "sb2318",
+      "rank": "#06",
+      "name": "S. B. | Software Developer",
+      "username": "SB2318",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87614560?s=96&v=4",
+      "url": "https://github.com/SB2318",
       "popularRepository": {
-        "name": "meshoptimizer",
-        "url": "https://github.com/zeux/meshoptimizer",
-        "description": "Mesh optimization library that makes meshes smaller and faster to render"
+        "name": "UltimateHealth",
+        "url": "https://github.com/SB2318/UltimateHealth",
+        "description": "Open-source health library & article management platform | React Native + Node.js + MongoDB | Trusted wellness content, AI chat & podcas…"
       },
-      "why": "Arseny Kapoulkine is trending because their repository meshoptimizer is receiving visible attention on GitHub today.",
+      "why": "S. B. | Software Developer is trending because their repository UltimateHealth is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "fancyboi999",
+      "rank": "#07",
+      "name": "Xinmin Zeng",
+      "username": "fancyboi999",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/135568692?s=96&v=4",
+      "url": "https://github.com/fancyboi999",
+      "popularRepository": {
+        "name": "ai-engineering-from-scratch-zh",
+        "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+        "description": "从零精通 AI 工程 · 20 阶段 468 课 · 中文全量翻译 + 配套站点 如何成为一名Agent 工程师 修成指南"
+      },
+      "why": "Xinmin Zeng is trending because their repository ai-engineering-from-scratch-zh is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "lfnovo",
+      "rank": "#08",
+      "name": "Luis Novo",
+      "username": "lfnovo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/579178?s=96&v=4",
+      "url": "https://github.com/lfnovo",
+      "popularRepository": {
+        "name": "open-notebook",
+        "url": "https://github.com/lfnovo/open-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+      },
+      "why": "Luis Novo is trending because their repository open-notebook is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "metux",
-      "rank": "#13",
-      "name": "Enrico Weigelt",
-      "username": "metux",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/46083?s=96&v=4",
-      "url": "https://github.com/metux",
+      "id": "lawrencecchen",
+      "rank": "#09",
+      "name": "Lawrence Chen",
+      "username": "lawrencecchen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54008264?s=96&v=4",
+      "url": "https://github.com/lawrencecchen",
       "popularRepository": null,
-      "why": "Enrico Weigelt is trending because GitHub users are visiting and following their work today.",
+      "why": "Lawrence Chen is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "cv",
-      "rank": "#14",
-      "name": "Carlos Villela",
-      "username": "cv",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5445?s=96&v=4",
-      "url": "https://github.com/cv",
+      "id": "jrouwe",
+      "rank": "#10",
+      "name": "Jorrit Rouwe",
+      "username": "jrouwe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1621693?s=96&v=4",
+      "url": "https://github.com/jrouwe",
       "popularRepository": {
-        "name": "pi-ssh-remote",
-        "url": "https://github.com/cv/pi-ssh-remote",
-        "description": "Pi extension that redirects all file operations and commands to a remote host via SSH"
+        "name": "JoltPhysics",
+        "url": "https://github.com/jrouwe/JoltPhysics",
+        "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by…"
       },
-      "why": "Carlos Villela is trending because their repository pi-ssh-remote is receiving visible attention on GitHub today.",
+      "why": "Jorrit Rouwe is trending because their repository JoltPhysics is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "xiaolai",
+      "rank": "#11",
+      "name": "xiaolai",
+      "username": "xiaolai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/152970?s=96&v=4",
+      "url": "https://github.com/xiaolai",
+      "popularRepository": {
+        "name": "no-one-did-it",
+        "url": "https://github.com/xiaolai/no-one-did-it",
+        "description": "No One Did It: Responsibility Laundering, from the Scapegoat to the Algorithm — published manuscript, 292-card source ledger, and the 13-…"
+      },
+      "why": "xiaolai is trending because their repository no-one-did-it is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "isair",
+      "rank": "#12",
+      "name": "Baris Sencan",
+      "username": "isair",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/988213?s=96&v=4",
+      "url": "https://github.com/isair",
+      "popularRepository": {
+        "name": "jarvis",
+        "url": "https://github.com/isair/jarvis",
+        "description": "A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room,…"
+      },
+      "why": "Baris Sencan is trending because their repository jarvis is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "theovilardo",
+      "rank": "#13",
+      "name": "theovilardo",
+      "username": "theovilardo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26845343?s=96&v=4",
+      "url": "https://github.com/theovilardo",
+      "popularRepository": {
+        "name": "PixelPlayer",
+        "url": "https://github.com/theovilardo/PixelPlayer",
+        "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cas…"
+      },
+      "why": "theovilardo is trending because their repository PixelPlayer is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "mitchellh",
+      "rank": "#14",
+      "name": "Mitchell Hashimoto",
+      "username": "mitchellh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1299?s=96&v=4",
+      "url": "https://github.com/mitchellh",
+      "popularRepository": {
+        "name": "vouch",
+        "url": "https://github.com/mitchellh/vouch",
+        "description": "A community trust management system based on explicit vouches to participate."
+      },
+      "why": "Mitchell Hashimoto is trending because their repository vouch is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
