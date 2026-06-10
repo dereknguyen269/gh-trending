@@ -1,5 +1,5 @@
 window.trendingRepos = {
-  "updatedAt": "2026-06-09T01:16:35.486Z",
+  "updatedAt": "2026-06-10T01:22:03.477Z",
   "source": "https://github.com/trending?since=daily",
   "repositories": [
     {
@@ -9,9 +9,9 @@ window.trendingRepos = {
       "title": "mvanhorn / last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 34576,
-      "forks": 2832,
-      "starsToday": 3558,
+      "stars": 37390,
+      "forks": 3031,
+      "starsToday": 3191,
       "url": "https://github.com/mvanhorn/last30days-skill",
       "rank": "#01",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
@@ -28,9 +28,9 @@ window.trendingRepos = {
       "title": "RyanCodrai / turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars": 8909,
-      "forks": 813,
-      "starsToday": 1729,
+      "stars": 10194,
+      "forks": 871,
+      "starsToday": 1801,
       "url": "https://github.com/RyanCodrai/turbovec",
       "rank": "#02",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
@@ -41,22 +41,41 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "skills",
-      "owner": "google",
-      "name": "skills",
-      "title": "google / skills",
-      "description": "Agent Skills for Google products and technologies",
+      "id": "supervision",
+      "owner": "roboflow",
+      "name": "supervision",
+      "title": "roboflow / supervision",
+      "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars": 12426,
-      "forks": 970,
-      "starsToday": 461,
-      "url": "https://github.com/google/skills",
+      "stars": 43008,
+      "forks": 3836,
+      "starsToday": 733,
+      "url": "https://github.com/roboflow/supervision",
       "rank": "#03",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
         "Python",
-        "AI"
+        "Tooling"
+      ]
+    },
+    {
+      "id": "opencv",
+      "owner": "opencv",
+      "name": "opencv",
+      "title": "opencv / opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": 88650,
+      "forks": 56622,
+      "starsToday": 102,
+      "url": "https://github.com/opencv/opencv",
+      "rank": "#04",
+      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
+      "fit": "Developers evaluating fast-moving C++ repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "C++",
+        "Open source"
       ]
     },
     {
@@ -66,11 +85,11 @@ window.trendingRepos = {
       "title": "refactoringhq / tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars": 13591,
-      "forks": 953,
-      "starsToday": 651,
+      "stars": 14341,
+      "forks": 995,
+      "starsToday": 829,
       "url": "https://github.com/refactoringhq/tolaria",
-      "rank": "#04",
+      "rank": "#05",
       "why": "It is trending because document processing is a core layer for search, knowledge bases, and AI retrieval workflows.",
       "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -79,100 +98,23 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "agent-reach",
-      "owner": "Panniantong",
-      "name": "Agent-Reach",
-      "title": "Panniantong / Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars": 24189,
-      "forks": 2036,
-      "starsToday": 679,
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "rank": "#05",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "personal-ai-infrastructure",
-      "owner": "danielmiessler",
-      "name": "Personal_AI_Infrastructure",
-      "title": "danielmiessler / Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "language": "TypeScript",
-      "stars": 15433,
-      "forks": 2160,
-      "starsToday": 62,
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "id": "goose",
+      "owner": "aaif-goose",
+      "name": "goose",
+      "title": "aaif-goose / goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 48503,
+      "forks": 5094,
+      "starsToday": 489,
+      "url": "https://github.com/aaif-goose/goose",
       "rank": "#06",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
       "tags": [
-        "TypeScript",
-        "AI"
-      ]
-    },
-    {
-      "id": "career-ops",
-      "owner": "santifer",
-      "name": "career-ops",
-      "title": "santifer / career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "language": "JavaScript",
-      "stars": 50537,
-      "forks": 10334,
-      "starsToday": 308,
-      "url": "https://github.com/santifer/career-ops",
-      "rank": "#07",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "JavaScript",
-        "AI"
-      ]
-    },
-    {
-      "id": "pm-skills",
-      "owner": "phuryn",
-      "name": "pm-skills",
-      "title": "phuryn / pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": "Unknown",
-      "stars": 12692,
-      "forks": 1498,
-      "starsToday": 164,
-      "url": "https://github.com/phuryn/pm-skills",
-      "rank": "#08",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Unknown repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Unknown",
+        "Rust",
         "AI",
-        "Plugin"
-      ]
-    },
-    {
-      "id": "plugins",
-      "owner": "openai",
-      "name": "plugins",
-      "title": "openai / plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars": 2324,
-      "forks": 289,
-      "starsToday": 296,
-      "url": "https://github.com/openai/plugins",
-      "rank": "#09",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "JavaScript",
-        "AI",
-        "Plugin"
+        "Open source"
       ]
     },
     {
@@ -182,73 +124,15 @@ window.trendingRepos = {
       "title": "Andyyyy64 / whichllm",
       "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
       "language": "Python",
-      "stars": 3476,
-      "forks": 203,
-      "starsToday": 143,
+      "stars": 4105,
+      "forks": 227,
+      "starsToday": 633,
       "url": "https://github.com/Andyyyy64/whichllm",
-      "rank": "#10",
+      "rank": "#07",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
         "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "mempalace",
-      "owner": "MemPalace",
-      "name": "mempalace",
-      "title": "MemPalace / mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "language": "Python",
-      "stars": 54940,
-      "forks": 7160,
-      "starsToday": 170,
-      "url": "https://github.com/MemPalace/mempalace",
-      "rank": "#11",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI",
-        "Open source"
-      ]
-    },
-    {
-      "id": "supervision",
-      "owner": "roboflow",
-      "name": "supervision",
-      "title": "roboflow / supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "language": "Python",
-      "stars": 42352,
-      "forks": 3783,
-      "starsToday": 1288,
-      "url": "https://github.com/roboflow/supervision",
-      "rank": "#12",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "copilotkit",
-      "owner": "CopilotKit",
-      "name": "CopilotKit",
-      "title": "CopilotKit / CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "language": "TypeScript",
-      "stars": 34144,
-      "forks": 4304,
-      "starsToday": 378,
-      "url": "https://github.com/CopilotKit/CopilotKit",
-      "rank": "#13",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
         "AI"
       ]
     },
@@ -259,15 +143,133 @@ window.trendingRepos = {
       "title": "TapXWorld / ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars": 72992,
-      "forks": 16337,
-      "starsToday": 592,
+      "stars": 73487,
+      "forks": 16448,
+      "starsToday": 519,
       "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "rank": "#14",
+      "rank": "#08",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
       "fit": "Developers evaluating fast-moving Roff repositories and deciding what deserves a deeper look.",
       "tags": [
         "Roff"
+      ]
+    },
+    {
+      "id": "system-prompts-and-models-of-ai-tools",
+      "owner": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "Unknown",
+      "stars": 139166,
+      "forks": 34559,
+      "starsToday": 79,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "rank": "#09",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Unknown repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Unknown",
+        "AI",
+        "Open source"
+      ]
+    },
+    {
+      "id": "aitoearn",
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "title": "yikart / AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": 19950,
+      "forks": 3020,
+      "starsToday": 402,
+      "url": "https://github.com/yikart/AiToEarn",
+      "rank": "#10",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "AI"
+      ]
+    },
+    {
+      "id": "pm-skills",
+      "owner": "phuryn",
+      "name": "pm-skills",
+      "title": "phuryn / pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "Unknown",
+      "stars": 13443,
+      "forks": 1542,
+      "starsToday": 806,
+      "url": "https://github.com/phuryn/pm-skills",
+      "rank": "#11",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Unknown repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Unknown",
+        "AI",
+        "Plugin"
+      ]
+    },
+    {
+      "id": "career-ops",
+      "owner": "santifer",
+      "name": "career-ops",
+      "title": "santifer / career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars": 51700,
+      "forks": 10425,
+      "starsToday": 1110,
+      "url": "https://github.com/santifer/career-ops",
+      "rank": "#12",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "JavaScript",
+        "AI"
+      ]
+    },
+    {
+      "id": "plugins",
+      "owner": "openai",
+      "name": "plugins",
+      "title": "openai / plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 2611,
+      "forks": 305,
+      "starsToday": 284,
+      "url": "https://github.com/openai/plugins",
+      "rank": "#13",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "JavaScript",
+        "AI",
+        "Plugin"
+      ]
+    },
+    {
+      "id": "openmed",
+      "owner": "maziyarpanahi",
+      "name": "openmed",
+      "title": "maziyarpanahi / openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars": 1878,
+      "forks": 215,
+      "starsToday": 191,
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "rank": "#14",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI",
+        "Open source"
       ]
     }
   ]

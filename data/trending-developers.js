@@ -1,27 +1,220 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-06-09T01:16:35.486Z",
+  "updatedAt": "2026-06-10T01:22:03.477Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "jonathanong",
+      "id": "ruvnet",
       "rank": "#01",
-      "name": "jongleberry",
-      "username": "jonathanong",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/643505?s=96&v=4",
-      "url": "https://github.com/jonathanong",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
       "popularRepository": {
-        "name": "lingua-rs",
-        "url": "https://github.com/jonathanong/lingua-rs",
-        "description": "N-API bindings for lingua-rs. Will deprecate if/once upstream supports it."
+        "name": "RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
       },
-      "why": "jongleberry is trending because their repository lingua-rs is receiving visible attention on GitHub today.",
+      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "alirezarezvani",
+      "rank": "#02",
+      "name": "Alireza Rezvani",
+      "username": "alirezarezvani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5697919?s=96&v=4",
+      "url": "https://github.com/alirezarezvani",
+      "popularRepository": {
+        "name": "claude-skills",
+        "url": "https://github.com/alirezarezvani/claude-skills",
+        "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claud…"
+      },
+      "why": "Alireza Rezvani is trending because their repository claude-skills is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "shadowfax92",
+      "rank": "#03",
+      "name": "Nikhil",
+      "username": "shadowfax92",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1223275?s=96&v=4",
+      "url": "https://github.com/shadowfax92",
+      "popularRepository": {
+        "name": "apple-reminders-mcp",
+        "url": "https://github.com/shadowfax92/apple-reminders-mcp",
+        "description": "No popular repository description available."
+      },
+      "why": "Nikhil is trending because their repository apple-reminders-mcp is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "isair",
+      "rank": "#04",
+      "name": "Baris Sencan",
+      "username": "isair",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/988213?s=96&v=4",
+      "url": "https://github.com/isair",
+      "popularRepository": {
+        "name": "jarvis",
+        "url": "https://github.com/isair/jarvis",
+        "description": "A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room,…"
+      },
+      "why": "Baris Sencan is trending because their repository jarvis is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "maziyarpanahi",
+      "rank": "#05",
+      "name": "Maziyar Panahi",
+      "username": "maziyarpanahi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
+      "url": "https://github.com/maziyarpanahi",
+      "popularRepository": {
+        "name": "openmed",
+        "url": "https://github.com/maziyarpanahi/openmed",
+        "description": "open-source healthcare ai"
+      },
+      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "sb2318",
+      "rank": "#06",
+      "name": "S. B. | Software Developer",
+      "username": "SB2318",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87614560?s=96&v=4",
+      "url": "https://github.com/SB2318",
+      "popularRepository": {
+        "name": "UltimateHealth",
+        "url": "https://github.com/SB2318/UltimateHealth",
+        "description": "Open-source health library & article management platform | React Native + Node.js + MongoDB | Trusted wellness content, AI chat & podcas…"
+      },
+      "why": "S. B. | Software Developer is trending because their repository UltimateHealth is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "fancyboi999",
+      "rank": "#07",
+      "name": "Xinmin Zeng",
+      "username": "fancyboi999",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/135568692?s=96&v=4",
+      "url": "https://github.com/fancyboi999",
+      "popularRepository": {
+        "name": "ai-engineering-from-scratch-zh",
+        "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+        "description": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 · 如何成为 AI Agent 工程师的修成指南"
+      },
+      "why": "Xinmin Zeng is trending because their repository ai-engineering-from-scratch-zh is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "garrytan",
+      "rank": "#08",
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
+      "url": "https://github.com/garrytan",
+      "popularRepository": {
+        "name": "gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+      },
+      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "mscolnick",
+      "rank": "#09",
+      "name": "Myles Scolnick",
+      "username": "mscolnick",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2753772?s=96&v=4",
+      "url": "https://github.com/mscolnick",
+      "popularRepository": null,
+      "why": "Myles Scolnick is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "adamziel",
+      "rank": "#10",
+      "name": "Adam Zieliński",
+      "username": "adamziel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/205419?s=96&v=4",
+      "url": "https://github.com/adamziel",
+      "popularRepository": {
+        "name": "php-to-native-compiler",
+        "url": "https://github.com/adamziel/php-to-native-compiler",
+        "description": "No popular repository description available."
+      },
+      "why": "Adam Zieliński is trending because their repository php-to-native-compiler is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "davideast",
+      "rank": "#11",
+      "name": "David East",
+      "username": "davideast",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4570265?s=96&v=4",
+      "url": "https://github.com/davideast",
+      "popularRepository": {
+        "name": "stitch-mcp",
+        "url": "https://github.com/davideast/stitch-mcp",
+        "description": "A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow."
+      },
+      "why": "David East is trending because their repository stitch-mcp is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "florianbruniaux",
+      "rank": "#12",
+      "name": "Florian BRUNIAUX",
+      "username": "FlorianBruniaux",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3902606?s=96&v=4",
+      "url": "https://github.com/FlorianBruniaux",
+      "popularRepository": {
+        "name": "claude-code-ultimate-guide",
+        "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide",
+        "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude…"
+      },
+      "why": "Florian BRUNIAUX is trending because their repository claude-code-ultimate-guide is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "mvanhorn",
-      "rank": "#02",
+      "rank": "#13",
       "name": "Matt Van Horn",
       "username": "mvanhorn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
@@ -39,212 +232,20 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "sb2318",
-      "rank": "#03",
-      "name": "S. B. | Software Developer",
-      "username": "SB2318",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87614560?s=96&v=4",
-      "url": "https://github.com/SB2318",
-      "popularRepository": {
-        "name": "UltimateHealth",
-        "url": "https://github.com/SB2318/UltimateHealth",
-        "description": "Open-source health library & article management platform | React Native + Node.js + MongoDB | Trusted wellness content, AI chat & podcas…"
-      },
-      "why": "S. B. | Software Developer is trending because their repository UltimateHealth is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "tmchow",
-      "rank": "#04",
-      "name": "Trevin Chow",
-      "username": "tmchow",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/517103?s=96&v=4",
-      "url": "https://github.com/tmchow",
-      "popularRepository": {
-        "name": "agent-skills",
-        "url": "https://github.com/tmchow/agent-skills",
-        "description": "Cross-platform AI agent skills (SKILL.md) installable via npx skills / gh skills"
-      },
-      "why": "Trevin Chow is trending because their repository agent-skills is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "xiaolai",
-      "rank": "#05",
-      "name": "xiaolai",
-      "username": "xiaolai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/152970?s=96&v=4",
-      "url": "https://github.com/xiaolai",
-      "popularRepository": {
-        "name": "most-common-american-idioms",
-        "url": "https://github.com/xiaolai/most-common-american-idioms",
-        "description": "A book created by xiaolai with the help of ChatGPT and its TTS"
-      },
-      "why": "xiaolai is trending because their repository most-common-american-idioms is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "elie222",
-      "rank": "#06",
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
-      "url": "https://github.com/elie222",
-      "popularRepository": {
-        "name": "inbox-zero",
-        "url": "https://github.com/elie222/inbox-zero",
-        "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast."
-      },
-      "why": "Elie Steinbock is trending because their repository inbox-zero is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "dalathegreat",
-      "rank": "#07",
-      "name": "Daniel Öster",
-      "username": "dalathegreat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26695010?s=96&v=4",
-      "url": "https://github.com/dalathegreat",
-      "popularRepository": {
-        "name": "Battery-Emulator",
-        "url": "https://github.com/dalathegreat/Battery-Emulator",
-        "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
-      },
-      "why": "Daniel Öster is trending because their repository Battery-Emulator is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "isair",
-      "rank": "#08",
-      "name": "Baris Sencan",
-      "username": "isair",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/988213?s=96&v=4",
-      "url": "https://github.com/isair",
-      "popularRepository": {
-        "name": "jarvis",
-        "url": "https://github.com/isair/jarvis",
-        "description": "A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room,…"
-      },
-      "why": "Baris Sencan is trending because their repository jarvis is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "florianbruniaux",
-      "rank": "#09",
-      "name": "Florian BRUNIAUX",
-      "username": "FlorianBruniaux",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3902606?s=96&v=4",
-      "url": "https://github.com/FlorianBruniaux",
-      "popularRepository": {
-        "name": "claude-code-ultimate-guide",
-        "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide",
-        "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude…"
-      },
-      "why": "Florian BRUNIAUX is trending because their repository claude-code-ultimate-guide is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "frankekn",
-      "rank": "#10",
-      "name": "Frank Yang",
-      "username": "frankekn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4488090?s=96&v=4",
-      "url": "https://github.com/frankekn",
-      "popularRepository": {
-        "name": "george-hotz-skills",
-        "url": "https://github.com/frankekn/george-hotz-skills",
-        "description": "Unofficial George Hotz–inspired radical-simplicity coding guidelines for AI agents — Claude Code skill/plugin + Cursor rule. Complexity i…"
-      },
-      "why": "Frank Yang is trending because their repository george-hotz-skills is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "akshaydeo",
-      "rank": "#11",
-      "name": "Akshay Deo",
-      "username": "akshaydeo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1050029?s=96&v=4",
-      "url": "https://github.com/akshaydeo",
-      "popularRepository": null,
-      "why": "Akshay Deo is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "colemurray",
-      "rank": "#12",
-      "name": "Cole Murray",
-      "username": "ColeMurray",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?s=96&v=4",
-      "url": "https://github.com/ColeMurray",
-      "popularRepository": {
-        "name": "background-agents",
-        "url": "https://github.com/ColeMurray/background-agents",
-        "description": "An open-source background agents coding system"
-      },
-      "why": "Cole Murray is trending because their repository background-agents is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "lfnovo",
-      "rank": "#13",
-      "name": "Luis Novo",
-      "username": "lfnovo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/579178?s=96&v=4",
-      "url": "https://github.com/lfnovo",
-      "popularRepository": {
-        "name": "open-notebook",
-        "url": "https://github.com/lfnovo/open-notebook",
-        "description": "An Open Source implementation of Notebook LM with more flexibility and features"
-      },
-      "why": "Luis Novo is trending because their repository open-notebook is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "fancyboi999",
+      "id": "lirantal",
       "rank": "#14",
-      "name": "Xinmin Zeng",
-      "username": "fancyboi999",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/135568692?s=96&v=4",
-      "url": "https://github.com/fancyboi999",
+      "name": "Liran Tal",
+      "username": "lirantal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/316371?s=96&v=4",
+      "url": "https://github.com/lirantal",
       "popularRepository": {
-        "name": "ai-engineering-from-scratch-zh",
-        "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-        "description": "从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 aieng-zh.cn · 如何成为 AI Agent 工程师的修成指南"
+        "name": "npq",
+        "url": "https://github.com/lirantal/npq",
+        "description": "safely install npm packages by auditing them pre-install stage"
       },
-      "why": "Xinmin Zeng is trending because their repository ai-engineering-from-scratch-zh is receiving visible attention on GitHub today.",
+      "why": "Liran Tal is trending because their repository npq is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     }
   ]
