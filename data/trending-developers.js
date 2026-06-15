@@ -1,10 +1,28 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-06-14T01:28:55.041Z",
+  "updatedAt": "2026-06-15T01:30:47.214Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "fancyboi999",
+      "id": "scottcjn",
       "rank": "#01",
+      "name": "AutoJanitor",
+      "username": "Scottcjn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121303252?s=96&v=4",
+      "url": "https://github.com/Scottcjn",
+      "popularRepository": {
+        "name": "Rustchain",
+        "url": "https://github.com/Scottcjn/Rustchain",
+        "description": "DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-powered hardware fingerprinting, 15+ C…"
+      },
+      "why": "AutoJanitor is trending because their repository Rustchain is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "fancyboi999",
+      "rank": "#02",
       "name": "Xinmin Zeng",
       "username": "fancyboi999",
       "avatarUrl": "https://avatars.githubusercontent.com/u/135568692?s=96&v=4",
@@ -22,7 +40,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "backnotprop",
-      "rank": "#02",
+      "rank": "#03",
       "name": "Michael Ramos",
       "username": "backnotprop",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
@@ -39,177 +57,101 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "1weiho",
-      "rank": "#03",
-      "name": "Yiwei Ho",
-      "username": "1weiho",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/75478661?s=96&v=4",
-      "url": "https://github.com/1weiho",
-      "popularRepository": {
-        "name": "open-slide",
-        "url": "https://github.com/1weiho/open-slide",
-        "description": "A slide framework built for agents."
-      },
-      "why": "Yiwei Ho is trending because their repository open-slide is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "ascorbic",
+      "id": "fzyzcjy",
       "rank": "#04",
-      "name": "Matt Kane",
-      "username": "ascorbic",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/213306?s=96&v=4",
-      "url": "https://github.com/ascorbic",
+      "name": "fzyzcjy",
+      "username": "fzyzcjy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5236035?s=96&v=4",
+      "url": "https://github.com/fzyzcjy",
       "popularRepository": {
-        "name": "cirrus",
-        "url": "https://github.com/ascorbic/cirrus",
-        "description": "A single-user ATProto PDS that runs on a Cloudflare Worker"
+        "name": "flutter_rust_bridge",
+        "url": "https://github.com/fzyzcjy/flutter_rust_bridge",
+        "description": "Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple."
       },
-      "why": "Matt Kane is trending because their repository cirrus is receiving visible attention on GitHub today.",
+      "why": "fzyzcjy is trending because their repository flutter_rust_bridge is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "raullenchai",
+      "id": "mervinpraison",
       "rank": "#05",
-      "name": "Raullen Chai",
-      "username": "raullenchai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
-      "url": "https://github.com/raullenchai",
+      "name": "Mervin Praison",
+      "username": "MervinPraison",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/454862?s=96&v=4",
+      "url": "https://github.com/MervinPraison",
       "popularRepository": {
-        "name": "Rapid-MLX",
-        "url": "https://github.com/raullenchai/Rapid-MLX",
-        "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cac…"
+        "name": "PraisonAI",
+        "url": "https://github.com/MervinPraison/PraisonAI",
+        "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan,…"
       },
-      "why": "Raullen Chai is trending because their repository Rapid-MLX is receiving visible attention on GitHub today.",
+      "why": "Mervin Praison is trending because their repository PraisonAI is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI",
-        "Tooling"
+        "AI"
       ]
     },
     {
-      "id": "addyosmani",
+      "id": "arvinxx",
       "rank": "#06",
-      "name": "Addy Osmani",
-      "username": "addyosmani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=96&v=4",
-      "url": "https://github.com/addyosmani",
-      "popularRepository": {
-        "name": "agent-skills",
-        "url": "https://github.com/addyosmani/agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents."
-      },
-      "why": "Addy Osmani is trending because their repository agent-skills is receiving visible attention on GitHub today.",
+      "name": "Arvin Xu",
+      "username": "arvinxx",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28616219?s=96&v=4",
+      "url": "https://github.com/arvinxx",
+      "popularRepository": null,
+      "why": "Arvin Xu is trending because GitHub users are visiting and following their work today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     },
     {
-      "id": "ruvnet",
+      "id": "max-sixty",
       "rank": "#07",
-      "name": "rUv",
-      "username": "ruvnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
-      "url": "https://github.com/ruvnet",
+      "name": "Maximilian Roos",
+      "username": "max-sixty",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
+      "url": "https://github.com/max-sixty",
       "popularRepository": {
-        "name": "RuView",
-        "url": "https://github.com/ruvnet/RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+        "name": "worktrunk",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
       },
-      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
       ]
     },
     {
-      "id": "danielhanchen",
+      "id": "theovilardo",
       "rank": "#08",
-      "name": "Daniel Han",
-      "username": "danielhanchen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23090290?s=96&v=4",
-      "url": "https://github.com/danielhanchen",
+      "name": "theovilardo",
+      "username": "theovilardo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26845343?s=96&v=4",
+      "url": "https://github.com/theovilardo",
       "popularRepository": {
-        "name": "bitsandbytes",
-        "url": "https://github.com/danielhanchen/bitsandbytes",
-        "description": "Accessible large language models via k-bit quantization for PyTorch."
+        "name": "PixelPlayer",
+        "url": "https://github.com/PixelPlayerHQ/PixelPlayer",
+        "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cas…"
       },
-      "why": "Daniel Han is trending because their repository bitsandbytes is receiving visible attention on GitHub today.",
+      "why": "theovilardo is trending because their repository PixelPlayer is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "maziyarpanahi",
+      "id": "jtydhr88",
       "rank": "#09",
-      "name": "Maziyar Panahi",
-      "username": "maziyarpanahi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
-      "url": "https://github.com/maziyarpanahi",
+      "name": "Terry Jia",
+      "username": "jtydhr88",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/860985?s=96&v=4",
+      "url": "https://github.com/jtydhr88",
       "popularRepository": {
-        "name": "openmed",
-        "url": "https://github.com/maziyarpanahi/openmed",
-        "description": "open-source healthcare ai"
+        "name": "ComfyTV",
+        "url": "https://github.com/jtydhr88/ComfyTV",
+        "description": "No popular repository description available."
       },
-      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "marandaneto",
-      "rank": "#10",
-      "name": "Manoel Aranda Neto",
-      "username": "marandaneto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5731772?s=96&v=4",
-      "url": "https://github.com/marandaneto",
-      "popularRepository": {
-        "name": "dry4python",
-        "url": "https://github.com/marandaneto/dry4python",
-        "description": "dry4python finds candidate duplicate Python code across files and directories. It reports fuzzy structural matches by filename and line r…"
-      },
-      "why": "Manoel Aranda Neto is trending because their repository dry4python is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "marianfoo",
-      "rank": "#11",
-      "name": "Marian Zeis",
-      "username": "marianfoo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13335743?s=96&v=4",
-      "url": "https://github.com/marianfoo",
-      "popularRepository": {
-        "name": "sap-ai-mcp-servers",
-        "url": "https://github.com/marianfoo/sap-ai-mcp-servers",
-        "description": "A complete list of SAP MCP Servers and SAP AI Skills"
-      },
-      "why": "Marian Zeis is trending because their repository sap-ai-mcp-servers is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "scottcjn",
-      "rank": "#12",
-      "name": "AutoJanitor",
-      "username": "Scottcjn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/121303252?s=96&v=4",
-      "url": "https://github.com/Scottcjn",
-      "popularRepository": {
-        "name": "Rustchain",
-        "url": "https://github.com/Scottcjn/Rustchain",
-        "description": "DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-powered hardware fingerprinting, 15+ C…"
-      },
-      "why": "AutoJanitor is trending because their repository Rustchain is receiving visible attention on GitHub today.",
+      "why": "Terry Jia is trending because their repository ComfyTV is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -217,7 +159,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "elie222",
-      "rank": "#13",
+      "rank": "#10",
       "name": "Elie Steinbock",
       "username": "elie222",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
@@ -235,18 +177,72 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "qixing-jk",
-      "rank": "#14",
-      "name": "qixing-jk",
-      "username": "qixing-jk",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/125447674?s=96&v=4",
-      "url": "https://github.com/qixing-jk",
+      "id": "raullenchai",
+      "rank": "#11",
+      "name": "Raullen Chai",
+      "username": "raullenchai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
+      "url": "https://github.com/raullenchai",
       "popularRepository": {
-        "name": "all-api-hub",
-        "url": "https://github.com/qixing-jk/all-api-hub",
-        "description": "All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus adv…"
+        "name": "Rapid-MLX",
+        "url": "https://github.com/raullenchai/Rapid-MLX",
+        "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cac…"
       },
-      "why": "qixing-jk is trending because their repository all-api-hub is receiving visible attention on GitHub today.",
+      "why": "Raullen Chai is trending because their repository Rapid-MLX is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "ruvnet",
+      "rank": "#12",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+      },
+      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "alan-thegentleman",
+      "rank": "#13",
+      "name": "Alan Buscaglia",
+      "username": "Alan-TheGentleman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6935240?s=96&v=4",
+      "url": "https://github.com/Alan-TheGentleman",
+      "popularRepository": {
+        "name": "gentleman-book-mcp",
+        "url": "https://github.com/Alan-TheGentleman/gentleman-book-mcp",
+        "description": "MCP Server for Gentleman Programming Book - Give AI assistants direct access to 18 chapters of software architecture knowledge"
+      },
+      "why": "Alan Buscaglia is trending because their repository gentleman-book-mcp is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "enjoy-digital",
+      "rank": "#14",
+      "name": "enjoy-digital",
+      "username": "enjoy-digital",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1450143?s=96&v=4",
+      "url": "https://github.com/enjoy-digital",
+      "popularRepository": {
+        "name": "litex",
+        "url": "https://github.com/enjoy-digital/litex",
+        "description": "Build your hardware, easily!"
+      },
+      "why": "enjoy-digital is trending because their repository litex is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
