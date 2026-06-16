@@ -1,10 +1,28 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-06-15T01:30:47.214Z",
+  "updatedAt": "2026-06-16T01:31:41.314Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "scottcjn",
+      "id": "sandeepvashishtha",
       "rank": "#01",
+      "name": "Sandeep Vashishtha",
+      "username": "SandeepVashishtha",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64915843?s=96&v=4",
+      "url": "https://github.com/SandeepVashishtha",
+      "popularRepository": {
+        "name": "Eventra",
+        "url": "https://github.com/SandeepVashishtha/Eventra",
+        "description": "Eventra is a comprehensive event management system that empowers organizers to create, manage, and track events seamlessly. Built with a …"
+      },
+      "why": "Sandeep Vashishtha is trending because their repository Eventra is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Events"
+      ]
+    },
+    {
+      "id": "scottcjn",
+      "rank": "#02",
       "name": "AutoJanitor",
       "username": "Scottcjn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/121303252?s=96&v=4",
@@ -21,26 +39,27 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "fancyboi999",
-      "rank": "#02",
-      "name": "Xinmin Zeng",
-      "username": "fancyboi999",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/135568692?s=96&v=4",
-      "url": "https://github.com/fancyboi999",
+      "id": "mvanhorn",
+      "rank": "#03",
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
+      "url": "https://github.com/mvanhorn",
       "popularRepository": {
-        "name": "ai-engineering-from-scratch-zh",
-        "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-        "description": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 · 如何成为 AI Agent 工程师的修成指南"
+        "name": "last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
       },
-      "why": "Xinmin Zeng is trending because their repository ai-engineering-from-scratch-zh is receiving visible attention on GitHub today.",
+      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "AI",
+        "Web"
       ]
     },
     {
       "id": "backnotprop",
-      "rank": "#03",
+      "rank": "#04",
       "name": "Michael Ramos",
       "username": "backnotprop",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
@@ -57,35 +76,53 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "fzyzcjy",
-      "rank": "#04",
-      "name": "fzyzcjy",
-      "username": "fzyzcjy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5236035?s=96&v=4",
-      "url": "https://github.com/fzyzcjy",
+      "id": "mxsm",
+      "rank": "#05",
+      "name": "mxsm",
+      "username": "mxsm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15797831?s=96&v=4",
+      "url": "https://github.com/mxsm",
       "popularRepository": {
-        "name": "flutter_rust_bridge",
-        "url": "https://github.com/fzyzcjy/flutter_rust_bridge",
-        "description": "Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple."
+        "name": "rocketmq-rust",
+        "url": "https://github.com/mxsm/rocketmq-rust",
+        "description": "🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage. ⭐ Star to support our work❤️!"
       },
-      "why": "fzyzcjy is trending because their repository flutter_rust_bridge is receiving visible attention on GitHub today.",
+      "why": "mxsm is trending because their repository rocketmq-rust is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "mervinpraison",
-      "rank": "#05",
-      "name": "Mervin Praison",
-      "username": "MervinPraison",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/454862?s=96&v=4",
-      "url": "https://github.com/MervinPraison",
+      "id": "hyf0",
+      "rank": "#06",
+      "name": "Yunfei He",
+      "username": "hyf0",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/49502170?s=96&v=4",
+      "url": "https://github.com/hyf0",
       "popularRepository": {
-        "name": "PraisonAI",
-        "url": "https://github.com/MervinPraison/PraisonAI",
-        "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan,…"
+        "name": "project-context-records",
+        "url": "https://github.com/hyf0/project-context-records",
+        "description": "A context-engineering methodology: keep a durable, repo-versioned archive of a project's meta-context so AI collaborators inherit its jud…"
       },
-      "why": "Mervin Praison is trending because their repository PraisonAI is receiving visible attention on GitHub today.",
+      "why": "Yunfei He is trending because their repository project-context-records is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "fancyboi999",
+      "rank": "#07",
+      "name": "Xinmin Zeng",
+      "username": "fancyboi999",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/135568692?s=96&v=4",
+      "url": "https://github.com/fancyboi999",
+      "popularRepository": {
+        "name": "ai-engineering-from-scratch-zh",
+        "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+        "description": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南"
+      },
+      "why": "Xinmin Zeng is trending because their repository ai-engineering-from-scratch-zh is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -93,7 +130,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "arvinxx",
-      "rank": "#06",
+      "rank": "#08",
       "name": "Arvin Xu",
       "username": "arvinxx",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28616219?s=96&v=4",
@@ -105,99 +142,43 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "max-sixty",
-      "rank": "#07",
-      "name": "Maximilian Roos",
-      "username": "max-sixty",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
-      "url": "https://github.com/max-sixty",
+      "id": "marketcalls",
+      "rank": "#09",
+      "name": "Marketcalls",
+      "username": "marketcalls",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8728989?s=96&v=4",
+      "url": "https://github.com/marketcalls",
       "popularRepository": {
-        "name": "worktrunk",
-        "url": "https://github.com/max-sixty/worktrunk",
-        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+        "name": "openalgo",
+        "url": "https://github.com/marketcalls/openalgo",
+        "description": "Open Source Algo Trading Platform for Everyone"
       },
-      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "theovilardo",
-      "rank": "#08",
-      "name": "theovilardo",
-      "username": "theovilardo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26845343?s=96&v=4",
-      "url": "https://github.com/theovilardo",
-      "popularRepository": {
-        "name": "PixelPlayer",
-        "url": "https://github.com/PixelPlayerHQ/PixelPlayer",
-        "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cas…"
-      },
-      "why": "theovilardo is trending because their repository PixelPlayer is receiving visible attention on GitHub today.",
+      "why": "Marketcalls is trending because their repository openalgo is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "jtydhr88",
-      "rank": "#09",
-      "name": "Terry Jia",
-      "username": "jtydhr88",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/860985?s=96&v=4",
-      "url": "https://github.com/jtydhr88",
-      "popularRepository": {
-        "name": "ComfyTV",
-        "url": "https://github.com/jtydhr88/ComfyTV",
-        "description": "No popular repository description available."
-      },
-      "why": "Terry Jia is trending because their repository ComfyTV is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "elie222",
+      "id": "alandtse",
       "rank": "#10",
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
-      "url": "https://github.com/elie222",
+      "name": "Alan Tse",
+      "username": "alandtse",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7086117?s=96&v=4",
+      "url": "https://github.com/alandtse",
       "popularRepository": {
-        "name": "inbox-zero",
-        "url": "https://github.com/elie222/inbox-zero",
-        "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast."
+        "name": "tesla",
+        "url": "https://github.com/alandtse/tesla",
+        "description": "Tesla custom integration for Home Assistant. This requires a refresh token be generated by third-party apps to login."
       },
-      "why": "Elie Steinbock is trending because their repository inbox-zero is receiving visible attention on GitHub today.",
+      "why": "Alan Tse is trending because their repository tesla is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI",
         "Web"
       ]
     },
     {
-      "id": "raullenchai",
-      "rank": "#11",
-      "name": "Raullen Chai",
-      "username": "raullenchai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
-      "url": "https://github.com/raullenchai",
-      "popularRepository": {
-        "name": "Rapid-MLX",
-        "url": "https://github.com/raullenchai/Rapid-MLX",
-        "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cac…"
-      },
-      "why": "Raullen Chai is trending because their repository Rapid-MLX is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Tooling"
-      ]
-    },
-    {
       "id": "ruvnet",
-      "rank": "#12",
+      "rank": "#11",
       "name": "rUv",
       "username": "ruvnet",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
@@ -208,6 +189,23 @@ window.trendingDevelopers = {
         "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
       },
       "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "oschwartz10612",
+      "rank": "#12",
+      "name": "Owen Schwartz",
+      "username": "oschwartz10612",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4999704?s=96&v=4",
+      "url": "https://github.com/oschwartz10612",
+      "popularRepository": {
+        "name": "poppler-windows",
+        "url": "https://github.com/oschwartz10612/poppler-windows",
+        "description": "Download Poppler binaries packaged for Windows with dependencies"
+      },
+      "why": "Owen Schwartz is trending because their repository poppler-windows is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
@@ -231,18 +229,18 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "enjoy-digital",
+      "id": "myriad-dreamin",
       "rank": "#14",
-      "name": "enjoy-digital",
-      "username": "enjoy-digital",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1450143?s=96&v=4",
-      "url": "https://github.com/enjoy-digital",
+      "name": "Myriad-Dreamin",
+      "username": "Myriad-Dreamin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35292584?s=96&v=4",
+      "url": "https://github.com/Myriad-Dreamin",
       "popularRepository": {
-        "name": "litex",
-        "url": "https://github.com/enjoy-digital/litex",
-        "description": "Build your hardware, easily!"
+        "name": "tinymist",
+        "url": "https://github.com/Myriad-Dreamin/tinymist",
+        "description": "Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst]."
       },
-      "why": "enjoy-digital is trending because their repository litex is receiving visible attention on GitHub today.",
+      "why": "Myriad-Dreamin is trending because their repository tinymist is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
