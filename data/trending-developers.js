@@ -1,10 +1,27 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-06-16T01:31:41.314Z",
+  "updatedAt": "2026-06-17T01:30:14.756Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "sandeepvashishtha",
+      "id": "myriad-dreamin",
       "rank": "#01",
+      "name": "Myriad-Dreamin",
+      "username": "Myriad-Dreamin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35292584?s=96&v=4",
+      "url": "https://github.com/Myriad-Dreamin",
+      "popularRepository": {
+        "name": "tinymist",
+        "url": "https://github.com/Myriad-Dreamin/tinymist",
+        "description": "Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst]."
+      },
+      "why": "Myriad-Dreamin is trending because their repository tinymist is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "sandeepvashishtha",
+      "rank": "#02",
       "name": "Sandeep Vashishtha",
       "username": "SandeepVashishtha",
       "avatarUrl": "https://avatars.githubusercontent.com/u/64915843?s=96&v=4",
@@ -22,7 +39,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "scottcjn",
-      "rank": "#02",
+      "rank": "#03",
       "name": "AutoJanitor",
       "username": "Scottcjn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/121303252?s=96&v=4",
@@ -39,72 +56,18 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "mvanhorn",
-      "rank": "#03",
-      "name": "Matt Van Horn",
-      "username": "mvanhorn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
-      "url": "https://github.com/mvanhorn",
-      "popularRepository": {
-        "name": "last30days-skill",
-        "url": "https://github.com/mvanhorn/last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
-      },
-      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "backnotprop",
+      "id": "frankbria",
       "rank": "#04",
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
-      "url": "https://github.com/backnotprop",
+      "name": "Frank Bria",
+      "username": "frankbria",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136862992?s=96&v=4",
+      "url": "https://github.com/frankbria",
       "popularRepository": {
-        "name": "plannotator",
-        "url": "https://github.com/backnotprop/plannotator",
-        "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click."
+        "name": "ralph-claude-code",
+        "url": "https://github.com/frankbria/ralph-claude-code",
+        "description": "Autonomous AI development loop for Claude Code with intelligent exit detection"
       },
-      "why": "Michael Ramos is trending because their repository plannotator is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "mxsm",
-      "rank": "#05",
-      "name": "mxsm",
-      "username": "mxsm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15797831?s=96&v=4",
-      "url": "https://github.com/mxsm",
-      "popularRepository": {
-        "name": "rocketmq-rust",
-        "url": "https://github.com/mxsm/rocketmq-rust",
-        "description": "🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage. ⭐ Star to support our work❤️!"
-      },
-      "why": "mxsm is trending because their repository rocketmq-rust is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "hyf0",
-      "rank": "#06",
-      "name": "Yunfei He",
-      "username": "hyf0",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/49502170?s=96&v=4",
-      "url": "https://github.com/hyf0",
-      "popularRepository": {
-        "name": "project-context-records",
-        "url": "https://github.com/hyf0/project-context-records",
-        "description": "A context-engineering methodology: keep a durable, repo-versioned archive of a project's meta-context so AI collaborators inherit its jud…"
-      },
-      "why": "Yunfei He is trending because their repository project-context-records is receiving visible attention on GitHub today.",
+      "why": "Frank Bria is trending because their repository ralph-claude-code is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -112,7 +75,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "fancyboi999",
-      "rank": "#07",
+      "rank": "#05",
       "name": "Xinmin Zeng",
       "username": "fancyboi999",
       "avatarUrl": "https://avatars.githubusercontent.com/u/135568692?s=96&v=4",
@@ -129,118 +92,158 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "arvinxx",
-      "rank": "#08",
-      "name": "Arvin Xu",
-      "username": "arvinxx",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28616219?s=96&v=4",
-      "url": "https://github.com/arvinxx",
-      "popularRepository": null,
-      "why": "Arvin Xu is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "marketcalls",
-      "rank": "#09",
-      "name": "Marketcalls",
-      "username": "marketcalls",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8728989?s=96&v=4",
-      "url": "https://github.com/marketcalls",
+      "id": "chenhg5",
+      "rank": "#06",
+      "name": "cg33",
+      "username": "chenhg5",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4344486?s=96&v=4",
+      "url": "https://github.com/chenhg5",
       "popularRepository": {
-        "name": "openalgo",
-        "url": "https://github.com/marketcalls/openalgo",
-        "description": "Open Source Algo Trading Platform for Everyone"
+        "name": "cc-connect",
+        "url": "https://github.com/chenhg5/cc-connect",
+        "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Di…"
       },
-      "why": "Marketcalls is trending because their repository openalgo is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "alandtse",
-      "rank": "#10",
-      "name": "Alan Tse",
-      "username": "alandtse",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7086117?s=96&v=4",
-      "url": "https://github.com/alandtse",
-      "popularRepository": {
-        "name": "tesla",
-        "url": "https://github.com/alandtse/tesla",
-        "description": "Tesla custom integration for Home Assistant. This requires a refresh token be generated by third-party apps to login."
-      },
-      "why": "Alan Tse is trending because their repository tesla is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "ruvnet",
-      "rank": "#11",
-      "name": "rUv",
-      "username": "ruvnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
-      "url": "https://github.com/ruvnet",
-      "popularRepository": {
-        "name": "RuView",
-        "url": "https://github.com/ruvnet/RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
-      },
-      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "oschwartz10612",
-      "rank": "#12",
-      "name": "Owen Schwartz",
-      "username": "oschwartz10612",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4999704?s=96&v=4",
-      "url": "https://github.com/oschwartz10612",
-      "popularRepository": {
-        "name": "poppler-windows",
-        "url": "https://github.com/oschwartz10612/poppler-windows",
-        "description": "Download Poppler binaries packaged for Windows with dependencies"
-      },
-      "why": "Owen Schwartz is trending because their repository poppler-windows is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "alan-thegentleman",
-      "rank": "#13",
-      "name": "Alan Buscaglia",
-      "username": "Alan-TheGentleman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6935240?s=96&v=4",
-      "url": "https://github.com/Alan-TheGentleman",
-      "popularRepository": {
-        "name": "gentleman-book-mcp",
-        "url": "https://github.com/Alan-TheGentleman/gentleman-book-mcp",
-        "description": "MCP Server for Gentleman Programming Book - Give AI assistants direct access to 18 chapters of software architecture knowledge"
-      },
-      "why": "Alan Buscaglia is trending because their repository gentleman-book-mcp is receiving visible attention on GitHub today.",
+      "why": "cg33 is trending because their repository cc-connect is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "myriad-dreamin",
-      "rank": "#14",
-      "name": "Myriad-Dreamin",
-      "username": "Myriad-Dreamin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35292584?s=96&v=4",
-      "url": "https://github.com/Myriad-Dreamin",
+      "id": "losfair",
+      "rank": "#07",
+      "name": "Heyang Zhou",
+      "username": "losfair",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6104981?s=96&v=4",
+      "url": "https://github.com/losfair",
       "popularRepository": {
-        "name": "tinymist",
-        "url": "https://github.com/Myriad-Dreamin/tinymist",
-        "description": "Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst]."
+        "name": "zeroserve",
+        "url": "https://github.com/losfair/zeroserve",
+        "description": "Zero-config, fast `io_uring`-based HTTPS server."
       },
-      "why": "Myriad-Dreamin is trending because their repository tinymist is receiving visible attention on GitHub today.",
+      "why": "Heyang Zhou is trending because their repository zeroserve is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "lalitmaganti",
+      "rank": "#08",
+      "name": "Lalit Maganti",
+      "username": "LalitMaganti",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/679100?s=96&v=4",
+      "url": "https://github.com/LalitMaganti",
+      "popularRepository": {
+        "name": "syntaqlite",
+        "url": "https://github.com/LalitMaganti/syntaqlite",
+        "description": "A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite's own grammar and tokenizer"
+      },
+      "why": "Lalit Maganti is trending because their repository syntaqlite is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "xiaoyifang",
+      "rank": "#09",
+      "name": "xiaoyifang",
+      "username": "xiaoyifang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105986?s=96&v=4",
+      "url": "https://github.com/xiaoyifang",
+      "popularRepository": {
+        "name": "goldendict-ng",
+        "url": "https://github.com/xiaoyifang/goldendict-ng",
+        "description": "The Next Generation GoldenDict"
+      },
+      "why": "xiaoyifang is trending because their repository goldendict-ng is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "akrherz",
+      "rank": "#10",
+      "name": "daryl herzmann",
+      "username": "akrherz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/210858?s=96&v=4",
+      "url": "https://github.com/akrherz",
+      "popularRepository": {
+        "name": "iem",
+        "url": "https://github.com/akrherz/iem",
+        "description": "Code that makes the Iowa Environmental Mesonet run, or run into the ground."
+      },
+      "why": "daryl herzmann is trending because their repository iem is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "yairm210",
+      "rank": "#11",
+      "name": "Yair Morgenstern",
+      "username": "yairm210",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8366208?s=96&v=4",
+      "url": "https://github.com/yairm210",
+      "popularRepository": {
+        "name": "Unciv",
+        "url": "https://github.com/yairm210/Unciv",
+        "description": "Open-source Android/Desktop remake of Civ V"
+      },
+      "why": "Yair Morgenstern is trending because their repository Unciv is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "timothycarambat",
+      "rank": "#12",
+      "name": "Timothy Carambat",
+      "username": "timothycarambat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16845892?s=96&v=4",
+      "url": "https://github.com/timothycarambat",
+      "popularRepository": {
+        "name": "senate-stock-watcher-data",
+        "url": "https://github.com/timothycarambat/senate-stock-watcher-data",
+        "description": "Data repository of JSON files that are filed by US Senators on efdsearch.senate.gov where they must report their stock trades. This is th…"
+      },
+      "why": "Timothy Carambat is trending because their repository senate-stock-watcher-data is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Data"
+      ]
+    },
+    {
+      "id": "xpzouying",
+      "rank": "#13",
+      "name": "zy",
+      "username": "xpzouying",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3946563?s=96&v=4",
+      "url": "https://github.com/xpzouying",
+      "popularRepository": {
+        "name": "xiaohongshu-mcp",
+        "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+        "description": "MCP for xiaohongshu.com"
+      },
+      "why": "zy is trending because their repository xiaohongshu-mcp is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "marandaneto",
+      "rank": "#14",
+      "name": "Manoel Aranda Neto",
+      "username": "marandaneto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5731772?s=96&v=4",
+      "url": "https://github.com/marandaneto",
+      "popularRepository": {
+        "name": "dry4python",
+        "url": "https://github.com/marandaneto/dry4python",
+        "description": "dry4python finds candidate duplicate Python code across files and directories. It reports fuzzy structural matches by filename and line r…"
+      },
+      "why": "Manoel Aranda Neto is trending because their repository dry4python is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
