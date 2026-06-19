@@ -1,5 +1,5 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-06-18T01:26:51.734Z",
+  "updatedAt": "2026-06-19T01:33:08.418Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
@@ -22,25 +22,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "myriad-dreamin",
-      "rank": "#02",
-      "name": "Myriad-Dreamin",
-      "username": "Myriad-Dreamin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35292584?s=96&v=4",
-      "url": "https://github.com/Myriad-Dreamin",
-      "popularRepository": {
-        "name": "tinymist",
-        "url": "https://github.com/Myriad-Dreamin/tinymist",
-        "description": "Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst]."
-      },
-      "why": "Myriad-Dreamin is trending because their repository tinymist is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "yairm210",
-      "rank": "#03",
+      "rank": "#02",
       "name": "Yair Morgenstern",
       "username": "yairm210",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8366208?s=96&v=4",
@@ -57,18 +40,36 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "marketcalls",
-      "rank": "#04",
-      "name": "Marketcalls",
-      "username": "marketcalls",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8728989?s=96&v=4",
-      "url": "https://github.com/marketcalls",
+      "id": "frankbria",
+      "rank": "#03",
+      "name": "Frank Bria",
+      "username": "frankbria",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136862992?s=96&v=4",
+      "url": "https://github.com/frankbria",
       "popularRepository": {
-        "name": "openalgo",
-        "url": "https://github.com/marketcalls/openalgo",
-        "description": "Open Source Algo Trading Platform for Everyone"
+        "name": "ralph-claude-code",
+        "url": "https://github.com/frankbria/ralph-claude-code",
+        "description": "Autonomous AI development loop for Claude Code with intelligent exit detection"
       },
-      "why": "Marketcalls is trending because their repository openalgo is receiving visible attention on GitHub today.",
+      "why": "Frank Bria is trending because their repository ralph-claude-code is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "myriad-dreamin",
+      "rank": "#04",
+      "name": "Myriad-Dreamin",
+      "username": "Myriad-Dreamin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35292584?s=96&v=4",
+      "url": "https://github.com/Myriad-Dreamin",
+      "popularRepository": {
+        "name": "tinymist",
+        "url": "https://github.com/Myriad-Dreamin/tinymist",
+        "description": "Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst]."
+      },
+      "why": "Myriad-Dreamin is trending because their repository tinymist is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
@@ -91,143 +92,127 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "ruvnet",
+      "id": "steve8708",
       "rank": "#06",
-      "name": "rUv",
-      "username": "ruvnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
-      "url": "https://github.com/ruvnet",
+      "name": "Steve Sewell",
+      "username": "steve8708",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/844291?s=96&v=4",
+      "url": "https://github.com/steve8708",
       "popularRepository": {
-        "name": "RuView",
-        "url": "https://github.com/ruvnet/RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+        "name": "agents.md",
+        "url": "https://github.com/steve8708/agents.md",
+        "description": "AGENTS.md — a simple, open format for guiding coding agents"
       },
-      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "why": "Steve Sewell is trending because their repository agents.md is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
       ]
     },
     {
-      "id": "seluj78",
+      "id": "gnodet",
       "rank": "#07",
-      "name": "Jules Lasne",
-      "username": "Seluj78",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4641317?s=96&v=4",
-      "url": "https://github.com/Seluj78",
+      "name": "Guillaume Nodet",
+      "username": "gnodet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84022?s=96&v=4",
+      "url": "https://github.com/gnodet",
       "popularRepository": null,
-      "why": "Jules Lasne is trending because GitHub users are visiting and following their work today.",
+      "why": "Guillaume Nodet is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "sandeepvashishtha",
+      "id": "appcypher",
       "rank": "#08",
-      "name": "Sandeep Vashishtha",
-      "username": "SandeepVashishtha",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64915843?s=96&v=4",
-      "url": "https://github.com/SandeepVashishtha",
+      "name": "Stephen Akinyemi",
+      "username": "appcypher",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20358651?s=96&v=4",
+      "url": "https://github.com/appcypher",
       "popularRepository": {
-        "name": "Eventra",
-        "url": "https://github.com/SandeepVashishtha/Eventra",
-        "description": "Eventra is a comprehensive event management system that empowers organizers to create, manage, and track events seamlessly. Built with a …"
+        "name": "awesome-mcp-servers",
+        "url": "https://github.com/appcypher/awesome-mcp-servers",
+        "description": "Awesome MCP Servers - A curated list of Model Context Protocol servers"
       },
-      "why": "Sandeep Vashishtha is trending because their repository Eventra is receiving visible attention on GitHub today.",
+      "why": "Stephen Akinyemi is trending because their repository awesome-mcp-servers is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Events"
+        "Web"
       ]
     },
     {
-      "id": "hrydgard",
+      "id": "akrherz",
       "rank": "#09",
-      "name": "Henrik Rydgård",
-      "username": "hrydgard",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/130929?s=96&v=4",
-      "url": "https://github.com/hrydgard",
+      "name": "daryl herzmann",
+      "username": "akrherz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/210858?s=96&v=4",
+      "url": "https://github.com/akrherz",
       "popularRepository": {
-        "name": "ppsspp",
-        "url": "https://github.com/hrydgard/ppsspp",
-        "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
+        "name": "iem",
+        "url": "https://github.com/akrherz/iem",
+        "description": "Code that makes the Iowa Environmental Mesonet run, or run into the ground."
       },
-      "why": "Henrik Rydgård is trending because their repository ppsspp is receiving visible attention on GitHub today.",
+      "why": "daryl herzmann is trending because their repository iem is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "mxsm",
+      "id": "koala73",
       "rank": "#10",
-      "name": "mxsm",
-      "username": "mxsm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15797831?s=96&v=4",
-      "url": "https://github.com/mxsm",
+      "name": "Elie Habib",
+      "username": "koala73",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
+      "url": "https://github.com/koala73",
       "popularRepository": {
-        "name": "rocketmq-rust",
-        "url": "https://github.com/mxsm/rocketmq-rust",
-        "description": "🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage. ⭐ Star to support our work❤️!"
+        "name": "worldmonitor",
+        "url": "https://github.com/koala73/worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
       },
-      "why": "mxsm is trending because their repository rocketmq-rust is receiving visible attention on GitHub today.",
+      "why": "Elie Habib is trending because their repository worldmonitor is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
       ]
     },
     {
-      "id": "tryigit",
+      "id": "marketcalls",
       "rank": "#11",
-      "name": "Yiğit",
-      "username": "tryigit",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40565628?s=96&v=4",
-      "url": "https://github.com/tryigit",
+      "name": "Marketcalls",
+      "username": "marketcalls",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8728989?s=96&v=4",
+      "url": "https://github.com/marketcalls",
       "popularRepository": {
-        "name": "CleveresTricky",
-        "url": "https://github.com/tryigit/CleveresTricky",
-        "description": "Advanced Spoofing Module for Android"
+        "name": "openalgo",
+        "url": "https://github.com/marketcalls/openalgo",
+        "description": "Open Source Algo Trading Platform for Everyone"
       },
-      "why": "Yiğit is trending because their repository CleveresTricky is receiving visible attention on GitHub today.",
+      "why": "Marketcalls is trending because their repository openalgo is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "neubig",
+      "id": "garrytan",
       "rank": "#12",
-      "name": "Graham Neubig",
-      "username": "neubig",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/398875?s=96&v=4",
-      "url": "https://github.com/neubig",
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
+      "url": "https://github.com/garrytan",
       "popularRepository": {
-        "name": "ai-supply-chain",
-        "url": "https://github.com/neubig/ai-supply-chain",
-        "description": "No popular repository description available."
+        "name": "gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
       },
-      "why": "Graham Neubig is trending because their repository ai-supply-chain is receiving visible attention on GitHub today.",
+      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "frankbria",
-      "rank": "#13",
-      "name": "Frank Bria",
-      "username": "frankbria",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136862992?s=96&v=4",
-      "url": "https://github.com/frankbria",
-      "popularRepository": {
-        "name": "ralph-claude-code",
-        "url": "https://github.com/frankbria/ralph-claude-code",
-        "description": "Autonomous AI development loop for Claude Code with intelligent exit detection"
-      },
-      "why": "Frank Bria is trending because their repository ralph-claude-code is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
+        "Tooling"
       ]
     },
     {
       "id": "barre",
-      "rank": "#14",
+      "rank": "#13",
       "name": "Pierre Barre",
       "username": "Barre",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45085843?s=96&v=4",
@@ -238,6 +223,23 @@ window.trendingDevelopers = {
         "description": "ZeroFS - ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD."
       },
       "why": "Pierre Barre is trending because their repository ZeroFS is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "ruvnet",
+      "rank": "#14",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+      },
+      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
