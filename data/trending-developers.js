@@ -1,10 +1,28 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-06-20T01:22:36.398Z",
+  "updatedAt": "2026-06-21T01:30:43.874Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "raullenchai",
+      "id": "q00",
       "rank": "#01",
+      "name": "Q00",
+      "username": "Q00",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31264094?s=96&v=4",
+      "url": "https://github.com/Q00",
+      "popularRepository": {
+        "name": "ouroboros",
+        "url": "https://github.com/Q00/ouroboros",
+        "description": "Agent OS: Stop prompting. Start specifying."
+      },
+      "why": "Q00 is trending because their repository ouroboros is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "raullenchai",
+      "rank": "#02",
       "name": "Raullen Chai",
       "username": "raullenchai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
@@ -22,36 +40,18 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "bartlomieju",
-      "rank": "#02",
-      "name": "Bartek Iwańczuk",
-      "username": "bartlomieju",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13602871?s=96&v=4",
-      "url": "https://github.com/bartlomieju",
-      "popularRepository": {
-        "name": "denidian",
-        "url": "https://github.com/bartlomieju/denidian",
-        "description": "A tiny Obsidian-style note app built on the deno desktop subcommand: Markdown notes, [[wikilink]] crosslinking, and a force-directed grap…"
-      },
-      "why": "Bartek Iwańczuk is trending because their repository denidian is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "yairm210",
+      "id": "colemurray",
       "rank": "#03",
-      "name": "Yair Morgenstern",
-      "username": "yairm210",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8366208?s=96&v=4",
-      "url": "https://github.com/yairm210",
+      "name": "Cole Murray",
+      "username": "ColeMurray",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?s=96&v=4",
+      "url": "https://github.com/ColeMurray",
       "popularRepository": {
-        "name": "Unciv",
-        "url": "https://github.com/yairm210/Unciv",
-        "description": "Open-source Android/Desktop remake of Civ V"
+        "name": "background-agents",
+        "url": "https://github.com/ColeMurray/background-agents",
+        "description": "An open-source background agents coding system"
       },
-      "why": "Yair Morgenstern is trending because their repository Unciv is receiving visible attention on GitHub today.",
+      "why": "Cole Murray is trending because their repository background-agents is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -76,25 +76,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "jhaals",
-      "rank": "#05",
-      "name": "Johan Haals",
-      "username": "jhaals",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/68980?s=96&v=4",
-      "url": "https://github.com/jhaals",
-      "popularRepository": {
-        "name": "yopass",
-        "url": "https://github.com/jhaals/yopass",
-        "description": "Secure sharing of secrets, passwords and files"
-      },
-      "why": "Johan Haals is trending because their repository yopass is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "ericlbuehler",
-      "rank": "#06",
+      "rank": "#05",
       "name": "Eric Buehler",
       "username": "EricLBuehler",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65165915?s=96&v=4",
@@ -111,25 +94,62 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "marketcalls",
-      "rank": "#07",
-      "name": "Marketcalls",
-      "username": "marketcalls",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8728989?s=96&v=4",
-      "url": "https://github.com/marketcalls",
+      "id": "serenakeyitan",
+      "rank": "#06",
+      "name": "Serena",
+      "username": "serenakeyitan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94026305?s=96&v=4",
+      "url": "https://github.com/serenakeyitan",
       "popularRepository": {
-        "name": "openalgo",
-        "url": "https://github.com/marketcalls/openalgo",
-        "description": "Open Source Algo Trading Platform for Everyone"
+        "name": "awesome-notebookLM-prompts",
+        "url": "https://github.com/serenakeyitan/awesome-notebookLM-prompts",
+        "description": "A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI po…"
       },
-      "why": "Marketcalls is trending because their repository openalgo is receiving visible attention on GitHub today.",
+      "why": "Serena is trending because their repository awesome-notebookLM-prompts is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "yairm210",
+      "rank": "#07",
+      "name": "Yair Morgenstern",
+      "username": "yairm210",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8366208?s=96&v=4",
+      "url": "https://github.com/yairm210",
+      "popularRepository": {
+        "name": "Unciv",
+        "url": "https://github.com/yairm210/Unciv",
+        "description": "Open-source Android/Desktop remake of Civ V"
+      },
+      "why": "Yair Morgenstern is trending because their repository Unciv is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "zzet",
+      "rank": "#08",
+      "name": "Andrew Kumanyaev",
+      "username": "zzet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/510788?s=96&v=4",
+      "url": "https://github.com/zzet",
+      "popularRepository": {
+        "name": "gortex",
+        "url": "https://github.com/zzet/gortex",
+        "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, with access via CLI, MCP Ser…"
+      },
+      "why": "Andrew Kumanyaev is trending because their repository gortex is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
       ]
     },
     {
       "id": "myriad-dreamin",
-      "rank": "#08",
+      "rank": "#09",
       "name": "Myriad-Dreamin",
       "username": "Myriad-Dreamin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/35292584?s=96&v=4",
@@ -145,8 +165,34 @@ window.trendingDevelopers = {
       ]
     },
     {
+      "id": "shadowfax92",
+      "rank": "#10",
+      "name": "Nikhil",
+      "username": "shadowfax92",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1223275?s=96&v=4",
+      "url": "https://github.com/shadowfax92",
+      "popularRepository": null,
+      "why": "Nikhil is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "rubenfiszel",
+      "rank": "#11",
+      "name": "Ruben Fiszel",
+      "username": "rubenfiszel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/275584?s=96&v=4",
+      "url": "https://github.com/rubenfiszel",
+      "popularRepository": null,
+      "why": "Ruben Fiszel is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
       "id": "zhulinsen",
-      "rank": "#09",
+      "rank": "#12",
       "name": "mumu",
       "username": "ZhuLinsen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=96&v=4",
@@ -154,99 +200,43 @@ window.trendingDevelopers = {
       "popularRepository": {
         "name": "daily_stock_analysis",
         "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time…"
       },
       "why": "mumu is trending because their repository daily_stock_analysis is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "AI",
+        "Data"
       ]
     },
     {
-      "id": "krille-chan",
-      "rank": "#10",
-      "name": "Krille-chan",
-      "username": "krille-chan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24619905?s=96&v=4",
-      "url": "https://github.com/krille-chan",
-      "popularRepository": {
-        "name": "fluffychat",
-        "url": "https://github.com/krille-chan/fluffychat",
-        "description": "The cutest instant messenger in the [matrix]"
-      },
-      "why": "Krille-chan is trending because their repository fluffychat is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "madeye",
-      "rank": "#11",
-      "name": "Max Lv",
-      "username": "madeye",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/627917?s=96&v=4",
-      "url": "https://github.com/madeye",
-      "popularRepository": {
-        "name": "BaoLianDeng",
-        "url": "https://github.com/madeye/BaoLianDeng",
-        "description": "A macOS VPN proxy app powered by Mihomo (Clash Meta)"
-      },
-      "why": "Max Lv is trending because their repository BaoLianDeng is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "saghul",
-      "rank": "#12",
-      "name": "Saúl Ibarra Corretgé",
-      "username": "saghul",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/317464?s=96&v=4",
-      "url": "https://github.com/saghul",
-      "popularRepository": {
-        "name": "txiki.js",
-        "url": "https://github.com/saghul/txiki.js",
-        "description": "A tiny JavaScript runtime"
-      },
-      "why": "Saúl Ibarra Corretgé is trending because their repository txiki.js is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "dakra",
+      "id": "richiemcilroy",
       "rank": "#13",
-      "name": "Daniel Kraus",
-      "username": "dakra",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/574659?s=96&v=4",
-      "url": "https://github.com/dakra",
-      "popularRepository": {
-        "name": "ghostel",
-        "url": "https://github.com/dakra/ghostel",
-        "description": "Terminal emulator powered by libghostty"
-      },
-      "why": "Daniel Kraus is trending because their repository ghostel is receiving visible attention on GitHub today.",
+      "name": "Richie McIlroy",
+      "username": "richiemcilroy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33632126?s=96&v=4",
+      "url": "https://github.com/richiemcilroy",
+      "popularRepository": null,
+      "why": "Richie McIlroy is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "colemurray",
+      "id": "zhuzilin",
       "rank": "#14",
-      "name": "Cole Murray",
-      "username": "ColeMurray",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?s=96&v=4",
-      "url": "https://github.com/ColeMurray",
+      "name": "Zilin Zhu",
+      "username": "zhuzilin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10428324?s=96&v=4",
+      "url": "https://github.com/zhuzilin",
       "popularRepository": {
-        "name": "background-agents",
-        "url": "https://github.com/ColeMurray/background-agents",
-        "description": "An open-source background agents coding system"
+        "name": "ring-flash-attention",
+        "url": "https://github.com/zhuzilin/ring-flash-attention",
+        "description": "Ring attention implementation with flash attention"
       },
-      "why": "Cole Murray is trending because their repository background-agents is receiving visible attention on GitHub today.",
+      "why": "Zilin Zhu is trending because their repository ring-flash-attention is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     }
   ]
