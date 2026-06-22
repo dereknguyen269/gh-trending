@@ -1,5 +1,5 @@
 window.trendingRepos = {
-  "updatedAt": "2026-06-21T01:30:43.874Z",
+  "updatedAt": "2026-06-22T01:30:19.306Z",
   "source": "https://github.com/trending?since=daily",
   "repositories": [
     {
@@ -9,9 +9,9 @@ window.trendingRepos = {
       "title": "palmier-io / palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars": 3393,
-      "forks": 282,
-      "starsToday": 902,
+      "stars": 5202,
+      "forks": 393,
+      "starsToday": 1834,
       "url": "https://github.com/palmier-io/palmier-pro",
       "rank": "#01",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
@@ -22,155 +22,23 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "penpot",
-      "owner": "penpot",
-      "name": "penpot",
-      "title": "penpot / penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "language": "Clojure",
-      "stars": 51445,
-      "forks": 3302,
-      "starsToday": 420,
-      "url": "https://github.com/penpot/penpot",
-      "rank": "#02",
-      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
-      "fit": "Developers evaluating fast-moving Clojure repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Clojure",
-        "Open source",
-        "Tooling"
-      ]
-    },
-    {
       "id": "openmontage",
       "owner": "calesthio",
       "name": "OpenMontage",
       "title": "calesthio / OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars": 7076,
-      "forks": 1153,
-      "starsToday": 677,
+      "stars": 8796,
+      "forks": 1302,
+      "starsToday": 987,
       "url": "https://github.com/calesthio/OpenMontage",
-      "rank": "#03",
+      "rank": "#02",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
         "Python",
         "AI",
         "Open source"
-      ]
-    },
-    {
-      "id": "turso",
-      "owner": "tursodatabase",
-      "name": "turso",
-      "title": "tursodatabase / turso",
-      "description": "Turso is an in-process SQL database, compatible with SQLite.",
-      "language": "Rust",
-      "stars": 20340,
-      "forks": 1042,
-      "starsToday": 801,
-      "url": "https://github.com/tursodatabase/turso",
-      "rank": "#04",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Rust"
-      ]
-    },
-    {
-      "id": "codebase-memory-mcp",
-      "owner": "DeusData",
-      "name": "codebase-memory-mcp",
-      "title": "DeusData / codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars": 9379,
-      "forks": 709,
-      "starsToday": 1271,
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "rank": "#05",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving C repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "C"
-      ]
-    },
-    {
-      "id": "timesfm",
-      "owner": "google-research",
-      "name": "timesfm",
-      "title": "google-research / timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars": 24558,
-      "forks": 2328,
-      "starsToday": 433,
-      "url": "https://github.com/google-research/timesfm",
-      "rank": "#06",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "twenty",
-      "owner": "twentyhq",
-      "name": "twenty",
-      "title": "twentyhq / twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "language": "TypeScript",
-      "stars": 50868,
-      "forks": 7412,
-      "starsToday": 140,
-      "url": "https://github.com/twentyhq/twenty",
-      "rank": "#07",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
-        "AI",
-        "Open source"
-      ]
-    },
-    {
-      "id": "insomnia",
-      "owner": "Kong",
-      "name": "insomnia",
-      "title": "Kong / insomnia",
-      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-      "language": "TypeScript",
-      "stars": 39336,
-      "forks": 2324,
-      "starsToday": 329,
-      "url": "https://github.com/Kong/insomnia",
-      "rank": "#08",
-      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
-        "Open source"
-      ]
-    },
-    {
-      "id": "pake",
-      "owner": "tw93",
-      "name": "Pake",
-      "title": "tw93 / Pake",
-      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
-      "language": "Rust",
-      "stars": 54816,
-      "forks": 10878,
-      "starsToday": 2546,
-      "url": "https://github.com/tw93/Pake",
-      "rank": "#09",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Rust"
       ]
     },
     {
@@ -180,11 +48,11 @@ window.trendingRepos = {
       "title": "chopratejas / headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars": 41925,
-      "forks": 2883,
-      "starsToday": 3795,
+      "stars": 44477,
+      "forks": 3104,
+      "starsToday": 2624,
       "url": "https://github.com/chopratejas/headroom",
-      "rank": "#10",
+      "rank": "#03",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -194,81 +62,210 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "voicebox",
-      "owner": "jamiepine",
-      "name": "voicebox",
-      "title": "jamiepine / voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars": 31031,
-      "forks": 3838,
-      "starsToday": 145,
-      "url": "https://github.com/jamiepine/voicebox",
-      "rank": "#11",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "id": "turso",
+      "owner": "tursodatabase",
+      "name": "turso",
+      "title": "tursodatabase / turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "stars": 20821,
+      "forks": 1064,
+      "starsToday": 548,
+      "url": "https://github.com/tursodatabase/turso",
+      "rank": "#04",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
       "tags": [
-        "TypeScript",
-        "AI",
-        "Open source"
+        "Rust"
       ]
     },
     {
-      "id": "kilocode",
-      "owner": "Kilo-Org",
-      "name": "kilocode",
-      "title": "Kilo-Org / kilocode",
-      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-      "language": "TypeScript",
-      "stars": 23365,
-      "forks": 2742,
-      "starsToday": 513,
-      "url": "https://github.com/Kilo-Org/kilocode",
-      "rank": "#12",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "id": "penpot",
+      "owner": "penpot",
+      "name": "penpot",
+      "title": "penpot / penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars": 52260,
+      "forks": 3342,
+      "starsToday": 1135,
+      "url": "https://github.com/penpot/penpot",
+      "rank": "#05",
+      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
+      "fit": "Developers evaluating fast-moving Clojure repositories and deciding what deserves a deeper look.",
       "tags": [
-        "TypeScript",
-        "AI",
-        "Open source"
+        "Clojure",
+        "Open source",
+        "Tooling"
       ]
     },
     {
-      "id": "skills",
-      "owner": "mattpocock",
-      "name": "skills",
-      "title": "mattpocock / skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars": 138263,
-      "forks": 11994,
-      "starsToday": 1395,
-      "url": "https://github.com/mattpocock/skills",
-      "rank": "#13",
+      "id": "daily-stock-analysis",
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 44496,
+      "forks": 41443,
+      "starsToday": 568,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "rank": "#06",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
-        "Shell",
+        "Python",
         "AI"
       ]
     },
     {
-      "id": "flue",
-      "owner": "withastro",
-      "name": "flue",
-      "title": "withastro / flue",
-      "description": "The sandbox agent framework.",
+      "id": "worldmonitor",
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "title": "koala73 / worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars": 6104,
-      "forks": 344,
-      "starsToday": 316,
-      "url": "https://github.com/withastro/flue",
+      "stars": 58104,
+      "forks": 9206,
+      "starsToday": 163,
+      "url": "https://github.com/koala73/worldmonitor",
+      "rank": "#07",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "AI"
+      ]
+    },
+    {
+      "id": "deer-flow",
+      "owner": "bytedance",
+      "name": "deer-flow",
+      "title": "bytedance / deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars": 72595,
+      "forks": 9832,
+      "starsToday": 442,
+      "url": "https://github.com/bytedance/deer-flow",
+      "rank": "#08",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI",
+        "Open source"
+      ]
+    },
+    {
+      "id": "codebase-memory-mcp",
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "title": "DeusData / codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 10319,
+      "forks": 780,
+      "starsToday": 1032,
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "rank": "#09",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving C repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "C"
+      ]
+    },
+    {
+      "id": "anthropic-cybersecurity-skills",
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 17718,
+      "forks": 2128,
+      "starsToday": 361,
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "rank": "#10",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI"
+      ]
+    },
+    {
+      "id": "pake",
+      "owner": "tw93",
+      "name": "Pake",
+      "title": "tw93 / Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+      "language": "Rust",
+      "stars": 56229,
+      "forks": 11101,
+      "starsToday": 1848,
+      "url": "https://github.com/tw93/Pake",
+      "rank": "#11",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Rust"
+      ]
+    },
+    {
+      "id": "bilitickerbuy",
+      "owner": "mikumifa",
+      "name": "biliTickerBuy",
+      "title": "mikumifa / biliTickerBuy",
+      "description": "b站会员购购票辅助工具",
+      "language": "Python",
+      "stars": 3712,
+      "forks": 464,
+      "starsToday": 67,
+      "url": "https://github.com/mikumifa/biliTickerBuy",
+      "rank": "#12",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python"
+      ]
+    },
+    {
+      "id": "spiderfoot",
+      "owner": "smicallef",
+      "name": "spiderfoot",
+      "title": "smicallef / spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python",
+      "stars": 18771,
+      "forks": 3106,
+      "starsToday": 294,
+      "url": "https://github.com/smicallef/spiderfoot",
+      "rank": "#13",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python"
+      ]
+    },
+    {
+      "id": "cognee",
+      "owner": "topoteretes",
+      "name": "cognee",
+      "title": "topoteretes / cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python",
+      "stars": 18652,
+      "forks": 1969,
+      "starsToday": 347,
+      "url": "https://github.com/topoteretes/cognee",
       "rank": "#14",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
-        "TypeScript",
-        "AI"
+        "Python",
+        "AI",
+        "Open source"
       ]
     }
   ]

@@ -1,47 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-06-21T01:30:43.874Z",
+  "updatedAt": "2026-06-22T01:30:19.306Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "q00",
-      "rank": "#01",
-      "name": "Q00",
-      "username": "Q00",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31264094?s=96&v=4",
-      "url": "https://github.com/Q00",
-      "popularRepository": {
-        "name": "ouroboros",
-        "url": "https://github.com/Q00/ouroboros",
-        "description": "Agent OS: Stop prompting. Start specifying."
-      },
-      "why": "Q00 is trending because their repository ouroboros is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "raullenchai",
-      "rank": "#02",
-      "name": "Raullen Chai",
-      "username": "raullenchai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
-      "url": "https://github.com/raullenchai",
-      "popularRepository": {
-        "name": "Rapid-MLX",
-        "url": "https://github.com/raullenchai/Rapid-MLX",
-        "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cac…"
-      },
-      "why": "Raullen Chai is trending because their repository Rapid-MLX is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Tooling"
-      ]
-    },
-    {
       "id": "colemurray",
-      "rank": "#03",
+      "rank": "#01",
       "name": "Cole Murray",
       "username": "ColeMurray",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?s=96&v=4",
@@ -58,8 +21,25 @@ window.trendingDevelopers = {
       ]
     },
     {
+      "id": "ruvnet",
+      "rank": "#02",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+      },
+      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
       "id": "koala73",
-      "rank": "#04",
+      "rank": "#03",
       "name": "Elie Habib",
       "username": "koala73",
       "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
@@ -76,123 +56,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "ericlbuehler",
-      "rank": "#05",
-      "name": "Eric Buehler",
-      "username": "EricLBuehler",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65165915?s=96&v=4",
-      "url": "https://github.com/EricLBuehler",
-      "popularRepository": {
-        "name": "mistral.rs",
-        "url": "https://github.com/EricLBuehler/mistral.rs",
-        "description": "Fast, flexible LLM inference"
-      },
-      "why": "Eric Buehler is trending because their repository mistral.rs is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "serenakeyitan",
-      "rank": "#06",
-      "name": "Serena",
-      "username": "serenakeyitan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94026305?s=96&v=4",
-      "url": "https://github.com/serenakeyitan",
-      "popularRepository": {
-        "name": "awesome-notebookLM-prompts",
-        "url": "https://github.com/serenakeyitan/awesome-notebookLM-prompts",
-        "description": "A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI po…"
-      },
-      "why": "Serena is trending because their repository awesome-notebookLM-prompts is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "yairm210",
-      "rank": "#07",
-      "name": "Yair Morgenstern",
-      "username": "yairm210",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8366208?s=96&v=4",
-      "url": "https://github.com/yairm210",
-      "popularRepository": {
-        "name": "Unciv",
-        "url": "https://github.com/yairm210/Unciv",
-        "description": "Open-source Android/Desktop remake of Civ V"
-      },
-      "why": "Yair Morgenstern is trending because their repository Unciv is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "zzet",
-      "rank": "#08",
-      "name": "Andrew Kumanyaev",
-      "username": "zzet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/510788?s=96&v=4",
-      "url": "https://github.com/zzet",
-      "popularRepository": {
-        "name": "gortex",
-        "url": "https://github.com/zzet/gortex",
-        "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, with access via CLI, MCP Ser…"
-      },
-      "why": "Andrew Kumanyaev is trending because their repository gortex is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "myriad-dreamin",
-      "rank": "#09",
-      "name": "Myriad-Dreamin",
-      "username": "Myriad-Dreamin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35292584?s=96&v=4",
-      "url": "https://github.com/Myriad-Dreamin",
-      "popularRepository": {
-        "name": "tinymist",
-        "url": "https://github.com/Myriad-Dreamin/tinymist",
-        "description": "Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst]."
-      },
-      "why": "Myriad-Dreamin is trending because their repository tinymist is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "shadowfax92",
-      "rank": "#10",
-      "name": "Nikhil",
-      "username": "shadowfax92",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1223275?s=96&v=4",
-      "url": "https://github.com/shadowfax92",
-      "popularRepository": null,
-      "why": "Nikhil is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "rubenfiszel",
-      "rank": "#11",
-      "name": "Ruben Fiszel",
-      "username": "rubenfiszel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/275584?s=96&v=4",
-      "url": "https://github.com/rubenfiszel",
-      "popularRepository": null,
-      "why": "Ruben Fiszel is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "zhulinsen",
-      "rank": "#12",
+      "rank": "#04",
       "name": "mumu",
       "username": "ZhuLinsen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=96&v=4",
@@ -210,33 +75,172 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "richiemcilroy",
-      "rank": "#13",
-      "name": "Richie McIlroy",
-      "username": "richiemcilroy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33632126?s=96&v=4",
-      "url": "https://github.com/richiemcilroy",
-      "popularRepository": null,
-      "why": "Richie McIlroy is trending because GitHub users are visiting and following their work today.",
+      "id": "dakra",
+      "rank": "#05",
+      "name": "Daniel Kraus",
+      "username": "dakra",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/574659?s=96&v=4",
+      "url": "https://github.com/dakra",
+      "popularRepository": {
+        "name": "ghostel",
+        "url": "https://github.com/dakra/ghostel",
+        "description": "Terminal emulator powered by libghostty"
+      },
+      "why": "Daniel Kraus is trending because their repository ghostel is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "zhuzilin",
-      "rank": "#14",
-      "name": "Zilin Zhu",
-      "username": "zhuzilin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10428324?s=96&v=4",
-      "url": "https://github.com/zhuzilin",
+      "id": "q00",
+      "rank": "#06",
+      "name": "Q00",
+      "username": "Q00",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31264094?s=96&v=4",
+      "url": "https://github.com/Q00",
       "popularRepository": {
-        "name": "ring-flash-attention",
-        "url": "https://github.com/zhuzilin/ring-flash-attention",
-        "description": "Ring attention implementation with flash attention"
+        "name": "ouroboros",
+        "url": "https://github.com/Q00/ouroboros",
+        "description": "Agent OS: Stop prompting. Start specifying."
       },
-      "why": "Zilin Zhu is trending because their repository ring-flash-attention is receiving visible attention on GitHub today.",
+      "why": "Q00 is trending because their repository ouroboros is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "ericlbuehler",
+      "rank": "#07",
+      "name": "Eric Buehler",
+      "username": "EricLBuehler",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65165915?s=96&v=4",
+      "url": "https://github.com/EricLBuehler",
+      "popularRepository": {
+        "name": "mistral.rs",
+        "url": "https://github.com/EricLBuehler/mistral.rs",
+        "description": "Fast, flexible LLM inference"
+      },
+      "why": "Eric Buehler is trending because their repository mistral.rs is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "kodjima33",
+      "rank": "#08",
+      "name": "Nik Shevchenko",
+      "username": "kodjima33",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43514161?s=96&v=4",
+      "url": "https://github.com/kodjima33",
+      "popularRepository": null,
+      "why": "Nik Shevchenko is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
+      ]
+    },
+    {
+      "id": "jarrodwatts",
+      "rank": "#09",
+      "name": "Jarrod Watts",
+      "username": "jarrodwatts",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35651410?s=96&v=4",
+      "url": "https://github.com/jarrodwatts",
+      "popularRepository": {
+        "name": "claude-hud",
+        "url": "https://github.com/jarrodwatts/claude-hud",
+        "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+      },
+      "why": "Jarrod Watts is trending because their repository claude-hud is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "clementtsang",
+      "rank": "#10",
+      "name": "Clement Tsang",
+      "username": "ClementTsang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34804052?s=96&v=4",
+      "url": "https://github.com/ClementTsang",
+      "popularRepository": {
+        "name": "bottom",
+        "url": "https://github.com/ClementTsang/bottom",
+        "description": "Yet another cross-platform graphical process/system monitor."
+      },
+      "why": "Clement Tsang is trending because their repository bottom is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "maheshthedev",
+      "rank": "#11",
+      "name": "Mahesh Sanikommu",
+      "username": "MaheshtheDev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38828053?s=96&v=4",
+      "url": "https://github.com/MaheshtheDev",
+      "popularRepository": null,
+      "why": "Mahesh Sanikommu is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "marketcalls",
+      "rank": "#12",
+      "name": "Marketcalls",
+      "username": "marketcalls",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8728989?s=96&v=4",
+      "url": "https://github.com/marketcalls",
+      "popularRepository": {
+        "name": "openalgo",
+        "url": "https://github.com/marketcalls/openalgo",
+        "description": "Open Source Algo Trading Platform for Everyone"
+      },
+      "why": "Marketcalls is trending because their repository openalgo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "raullenchai",
+      "rank": "#13",
+      "name": "Raullen Chai",
+      "username": "raullenchai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
+      "url": "https://github.com/raullenchai",
+      "popularRepository": {
+        "name": "Rapid-MLX",
+        "url": "https://github.com/raullenchai/Rapid-MLX",
+        "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cac…"
+      },
+      "why": "Raullen Chai is trending because their repository Rapid-MLX is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "xiaolai",
+      "rank": "#14",
+      "name": "xiaolai",
+      "username": "xiaolai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/152970?s=96&v=4",
+      "url": "https://github.com/xiaolai",
+      "popularRepository": {
+        "name": "too-late",
+        "url": "https://github.com/xiaolai/too-late",
+        "description": "《迟到》— 笑来的第一部中篇小说（十六年整·生不见人·死不见尸）"
+      },
+      "why": "xiaolai is trending because their repository too-late is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
       ]
     }
   ]
