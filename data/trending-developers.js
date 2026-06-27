@@ -1,10 +1,95 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-06-26T01:21:13.005Z",
+  "updatedAt": "2026-06-27T01:16:48.286Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "zhulinsen",
+      "id": "max-sixty",
       "rank": "#01",
+      "name": "Maximilian Roos",
+      "username": "max-sixty",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
+      "url": "https://github.com/max-sixty",
+      "popularRepository": {
+        "name": "worktrunk",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+      },
+      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "danielmeppiel",
+      "rank": "#02",
+      "name": "Daniel Meppiel",
+      "username": "danielmeppiel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51440732?s=96&v=4",
+      "url": "https://github.com/danielmeppiel",
+      "popularRepository": {
+        "name": "finops-workshop",
+        "url": "https://github.com/danielmeppiel/finops-workshop",
+        "description": "Minimalist, speaker-driven 1-hour workshop on controlling GitHub Copilot agentic-coding cost (FinOps): deck, demos, and a stdlib-only ses…"
+      },
+      "why": "Daniel Meppiel is trending because their repository finops-workshop is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "sozercan",
+      "rank": "#03",
+      "name": "Sertaç Özercan",
+      "username": "sozercan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/852750?s=96&v=4",
+      "url": "https://github.com/sozercan",
+      "popularRepository": {
+        "name": "kaset",
+        "url": "https://github.com/sozercan/kaset",
+        "description": "📻 The missing YouTube and YouTube Music macOS app"
+      },
+      "why": "Sertaç Özercan is trending because their repository kaset is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "bridgear",
+      "rank": "#04",
+      "name": "Ruben Bridgewater",
+      "username": "BridgeAR",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8822573?s=96&v=4",
+      "url": "https://github.com/BridgeAR",
+      "popularRepository": null,
+      "why": "Ruben Bridgewater is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "capcom6",
+      "rank": "#05",
+      "name": "Aleksandr",
+      "username": "capcom6",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26476232?s=96&v=4",
+      "url": "https://github.com/capcom6",
+      "popularRepository": {
+        "name": "android-sms-gateway",
+        "url": "https://github.com/capcom6/android-sms-gateway",
+        "description": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or…"
+      },
+      "why": "Aleksandr is trending because their repository android-sms-gateway is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "zhulinsen",
+      "rank": "#06",
       "name": "zhulinsen",
       "username": "ZhuLinsen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=96&v=4",
@@ -22,21 +107,56 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "ko3n1g",
-      "rank": "#02",
-      "name": "oliver könig",
-      "username": "ko3n1g",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16716991?s=96&v=4",
-      "url": "https://github.com/ko3n1g",
+      "id": "tobi",
+      "rank": "#07",
+      "name": "Tobias Lütke",
+      "username": "tobi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/347?s=96&v=4",
+      "url": "https://github.com/tobi",
+      "popularRepository": {
+        "name": "qmd",
+        "url": "https://github.com/tobi/qmd",
+        "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
+      },
+      "why": "Tobias Lütke is trending because their repository qmd is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "metux",
+      "rank": "#08",
+      "name": "Enrico Weigelt",
+      "username": "metux",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46083?s=96&v=4",
+      "url": "https://github.com/metux",
       "popularRepository": null,
-      "why": "oliver könig is trending because GitHub users are visiting and following their work today.",
+      "why": "Enrico Weigelt is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "fzyzcjy",
+      "rank": "#09",
+      "name": "fzyzcjy",
+      "username": "fzyzcjy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5236035?s=96&v=4",
+      "url": "https://github.com/fzyzcjy",
+      "popularRepository": {
+        "name": "flutter_rust_bridge",
+        "url": "https://github.com/fzyzcjy/flutter_rust_bridge",
+        "description": "Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple."
+      },
+      "why": "fzyzcjy is trending because their repository flutter_rust_bridge is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "hoangsonww",
-      "rank": "#03",
+      "rank": "#10",
       "name": "dav nguyxn",
       "username": "hoangsonww",
       "avatarUrl": "https://avatars.githubusercontent.com/u/124531104?s=96&v=4",
@@ -54,91 +174,21 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "1c7",
-      "rank": "#04",
-      "name": "郑诚 (Cheng Zheng)",
-      "username": "1c7",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1804755?s=96&v=4",
-      "url": "https://github.com/1c7",
-      "popularRepository": {
-        "name": "chinese-independent-developer",
-        "url": "https://github.com/1c7/chinese-independent-developer",
-        "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
-      },
-      "why": "郑诚 (Cheng Zheng) is trending because their repository chinese-independent-developer is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "clementtsang",
-      "rank": "#05",
-      "name": "Clement Tsang",
-      "username": "ClementTsang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34804052?s=96&v=4",
-      "url": "https://github.com/ClementTsang",
-      "popularRepository": {
-        "name": "bottom",
-        "url": "https://github.com/ClementTsang/bottom",
-        "description": "Yet another cross-platform graphical process/system monitor."
-      },
-      "why": "Clement Tsang is trending because their repository bottom is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "mervinpraison",
-      "rank": "#06",
-      "name": "Mervin Praison",
-      "username": "MervinPraison",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/454862?s=96&v=4",
-      "url": "https://github.com/MervinPraison",
-      "popularRepository": {
-        "name": "PraisonAI",
-        "url": "https://github.com/MervinPraison/PraisonAI",
-        "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan,…"
-      },
-      "why": "Mervin Praison is trending because their repository PraisonAI is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "kangzj",
-      "rank": "#07",
-      "name": "Jasper Kang",
-      "username": "kangzj",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1425433?s=96&v=4",
-      "url": "https://github.com/kangzj",
+      "id": "benhalpern",
+      "rank": "#11",
+      "name": "Ben Halpern",
+      "username": "benhalpern",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3102842?s=96&v=4",
+      "url": "https://github.com/benhalpern",
       "popularRepository": null,
-      "why": "Jasper Kang is trending because GitHub users are visiting and following their work today.",
+      "why": "Ben Halpern is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
-      ]
-    },
-    {
-      "id": "bholmesdev",
-      "rank": "#08",
-      "name": "Ben Holmes",
-      "username": "bholmesdev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/51384119?s=96&v=4",
-      "url": "https://github.com/bholmesdev",
-      "popularRepository": {
-        "name": "hubble.md",
-        "url": "https://github.com/bholmesdev/hubble.md",
-        "description": "The best notepad for you and your agents"
-      },
-      "why": "Ben Holmes is trending because their repository hubble.md is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
       ]
     },
     {
       "id": "ctate",
-      "rank": "#09",
+      "rank": "#12",
       "name": "Chris Tate",
       "username": "ctate",
       "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=96&v=4",
@@ -155,86 +205,31 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "ruvnet",
-      "rank": "#10",
-      "name": "rUv",
-      "username": "ruvnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
-      "url": "https://github.com/ruvnet",
-      "popularRepository": {
-        "name": "ruflo",
-        "url": "https://github.com/ruvnet/ruflo",
-        "description": "🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversati…"
-      },
-      "why": "rUv is trending because their repository ruflo is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "jrouwe",
-      "rank": "#11",
-      "name": "Jorrit Rouwe",
-      "username": "jrouwe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1621693?s=96&v=4",
-      "url": "https://github.com/jrouwe",
-      "popularRepository": {
-        "name": "JoltPhysics",
-        "url": "https://github.com/jrouwe/JoltPhysics",
-        "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by…"
-      },
-      "why": "Jorrit Rouwe is trending because their repository JoltPhysics is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "daleseo",
-      "rank": "#12",
-      "name": "Dale Seo",
-      "username": "DaleSeo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5466341?s=96&v=4",
-      "url": "https://github.com/DaleSeo",
-      "popularRepository": {
-        "name": "korean-skills",
-        "url": "https://github.com/DaleSeo/korean-skills",
-        "description": "🇰🇷 Korean language skills for AI agents"
-      },
-      "why": "Dale Seo is trending because their repository korean-skills is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "scottcjn",
+      "id": "seluj78",
       "rank": "#13",
-      "name": "AutoJanitor",
-      "username": "Scottcjn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/121303252?s=96&v=4",
-      "url": "https://github.com/Scottcjn",
-      "popularRepository": {
-        "name": "Rustchain",
-        "url": "https://github.com/Scottcjn/Rustchain",
-        "description": "DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-powered hardware fingerprinting, 15+ C…"
-      },
-      "why": "AutoJanitor is trending because their repository Rustchain is receiving visible attention on GitHub today.",
+      "name": "Jules Lasne",
+      "username": "Seluj78",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4641317?s=96&v=4",
+      "url": "https://github.com/Seluj78",
+      "popularRepository": null,
+      "why": "Jules Lasne is trending because GitHub users are visiting and following their work today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     },
     {
-      "id": "joshuajbouw",
+      "id": "1c7",
       "rank": "#14",
-      "name": "Joshua J. Bouw",
-      "username": "joshuajbouw",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9986166?s=96&v=4",
-      "url": "https://github.com/joshuajbouw",
-      "popularRepository": null,
-      "why": "Joshua J. Bouw is trending because GitHub users are visiting and following their work today.",
+      "name": "郑诚 (Cheng Zheng)",
+      "username": "1c7",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1804755?s=96&v=4",
+      "url": "https://github.com/1c7",
+      "popularRepository": {
+        "name": "chinese-independent-developer",
+        "url": "https://github.com/1c7/chinese-independent-developer",
+        "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+      },
+      "why": "郑诚 (Cheng Zheng) is trending because their repository chinese-independent-developer is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
