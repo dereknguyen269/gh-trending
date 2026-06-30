@@ -1,5 +1,5 @@
 window.trendingRepos = {
-  "updatedAt": "2026-06-29T01:23:59.171Z",
+  "updatedAt": "2026-06-30T01:18:11.868Z",
   "source": "https://github.com/trending?since=daily",
   "repositories": [
     {
@@ -9,9 +9,9 @@ window.trendingRepos = {
       "title": "simplex-chat / simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
-      "stars": 15053,
-      "forks": 865,
-      "starsToday": 1180,
+      "stars": 16600,
+      "forks": 959,
+      "starsToday": 1607,
       "url": "https://github.com/simplex-chat/simplex-chat",
       "rank": "#01",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
@@ -21,96 +21,22 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "free-for-dev",
-      "owner": "ripienaar",
-      "name": "free-for-dev",
-      "title": "ripienaar / free-for-dev",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "language": "HTML",
-      "stars": 125261,
-      "forks": 13170,
-      "starsToday": 495,
-      "url": "https://github.com/ripienaar/free-for-dev",
+      "id": "agency-agents",
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "title": "msitarzewski / agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 118903,
+      "forks": 19474,
+      "starsToday": 1425,
+      "url": "https://github.com/msitarzewski/agency-agents",
       "rank": "#02",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving HTML repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "HTML"
-      ]
-    },
-    {
-      "id": "openpilot",
-      "owner": "commaai",
-      "name": "openpilot",
-      "title": "commaai / openpilot",
-      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "language": "Python",
-      "stars": 62401,
-      "forks": 11095,
-      "starsToday": 266,
-      "url": "https://github.com/commaai/openpilot",
-      "rank": "#03",
-      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI",
-        "Open source"
-      ]
-    },
-    {
-      "id": "ai-berkshire",
-      "owner": "xbtlin",
-      "name": "ai-berkshire",
-      "title": "xbtlin / ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "stars": 5349,
-      "forks": 726,
-      "starsToday": 1445,
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "rank": "#04",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
       "tags": [
-        "Python",
+        "Shell",
         "AI"
-      ]
-    },
-    {
-      "id": "lingbot-map",
-      "owner": "Robbyant",
-      "name": "lingbot-map",
-      "title": "Robbyant / lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "stars": 8236,
-      "forks": 805,
-      "starsToday": 372,
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "rank": "#05",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python"
-      ]
-    },
-    {
-      "id": "codebase-memory-mcp",
-      "owner": "DeusData",
-      "name": "codebase-memory-mcp",
-      "title": "DeusData / codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars": 19710,
-      "forks": 1426,
-      "starsToday": 2190,
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "rank": "#06",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving C repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "C"
       ]
     },
     {
@@ -120,11 +46,11 @@ window.trendingRepos = {
       "title": "cupy / cupy",
       "description": "NumPy & SciPy for GPU",
       "language": "Python",
-      "stars": 11523,
-      "forks": 1068,
-      "starsToday": 174,
+      "stars": 11827,
+      "forks": 1082,
+      "starsToday": 352,
       "url": "https://github.com/cupy/cupy",
-      "rank": "#07",
+      "rank": "#03",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -138,11 +64,11 @@ window.trendingRepos = {
       "title": "altic-dev / FluidVoice",
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "language": "Swift",
-      "stars": 3751,
-      "forks": 239,
-      "starsToday": 365,
+      "stars": 4401,
+      "forks": 276,
+      "starsToday": 830,
       "url": "https://github.com/altic-dev/FluidVoice",
-      "rank": "#08",
+      "rank": "#04",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
       "fit": "Developers evaluating fast-moving Swift repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -150,38 +76,18 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "mineru",
-      "owner": "opendatalab",
-      "name": "MinerU",
-      "title": "opendatalab / MinerU",
-      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "id": "maigret",
+      "owner": "soxoj",
+      "name": "maigret",
+      "title": "soxoj / maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars": 71610,
-      "forks": 6015,
-      "starsToday": 380,
-      "url": "https://github.com/opendatalab/MinerU",
-      "rank": "#09",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI",
-        "Docs"
-      ]
-    },
-    {
-      "id": "vibe-trading",
-      "owner": "HKUDS",
-      "name": "Vibe-Trading",
-      "title": "HKUDS / Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "stars": 14336,
-      "forks": 2632,
-      "starsToday": 492,
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "rank": "#10",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "stars": 34383,
+      "forks": 2600,
+      "starsToday": 224,
+      "url": "https://github.com/soxoj/maigret",
+      "rank": "#05",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
         "Python",
@@ -189,42 +95,79 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "system-design-101",
-      "owner": "ByteByteGoHq",
-      "name": "system-design-101",
-      "title": "ByteByteGoHq / system-design-101",
-      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
-      "language": "Unknown",
-      "stars": 84471,
-      "forks": 9351,
-      "starsToday": 250,
-      "url": "https://github.com/ByteByteGoHq/system-design-101",
-      "rank": "#11",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Unknown repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Unknown",
-        "AI"
-      ]
-    },
-    {
-      "id": "strix",
-      "owner": "usestrix",
-      "name": "strix",
-      "title": "usestrix / strix",
-      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "id": "openpilot",
+      "owner": "commaai",
+      "name": "openpilot",
+      "title": "commaai / openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
-      "stars": 26746,
-      "forks": 2986,
-      "starsToday": 122,
-      "url": "https://github.com/usestrix/strix",
-      "rank": "#12",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "stars": 62774,
+      "forks": 11110,
+      "starsToday": 458,
+      "url": "https://github.com/commaai/openpilot",
+      "rank": "#06",
+      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
         "Python",
         "AI",
         "Open source"
+      ]
+    },
+    {
+      "id": "free-for-dev",
+      "owner": "ripienaar",
+      "name": "free-for-dev",
+      "title": "ripienaar / free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 126735,
+      "forks": 13257,
+      "starsToday": 1935,
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "rank": "#07",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving HTML repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "HTML"
+      ]
+    },
+    {
+      "id": "logto",
+      "owner": "logto-io",
+      "name": "logto",
+      "title": "logto-io / logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "stars": 12680,
+      "forks": 866,
+      "starsToday": 158,
+      "url": "https://github.com/logto-io/logto",
+      "rank": "#08",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "AI"
+      ]
+    },
+    {
+      "id": "ai-berkshire",
+      "owner": "xbtlin",
+      "name": "ai-berkshire",
+      "title": "xbtlin / ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": 6636,
+      "forks": 868,
+      "starsToday": 1386,
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "rank": "#09",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI"
       ]
     },
     {
@@ -234,16 +177,92 @@ window.trendingRepos = {
       "title": "browser-use / video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars": 11073,
-      "forks": 1524,
-      "starsToday": 196,
+      "stars": 11950,
+      "forks": 1572,
+      "starsToday": 967,
       "url": "https://github.com/browser-use/video-use",
+      "rank": "#10",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI"
+      ]
+    },
+    {
+      "id": "vulnclaw",
+      "owner": "Unclecheng-li",
+      "name": "VulnClaw",
+      "title": "Unclecheng-li / VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "language": "Python",
+      "stars": 1142,
+      "forks": 171,
+      "starsToday": 129,
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "rank": "#11",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI"
+      ]
+    },
+    {
+      "id": "council-of-high-intelligence",
+      "owner": "0xNyk",
+      "name": "council-of-high-intelligence",
+      "title": "0xNyk / council-of-high-intelligence",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "language": "Shell",
+      "stars": 1903,
+      "forks": 201,
+      "starsToday": 331,
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "rank": "#12",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Shell",
+        "AI"
+      ]
+    },
+    {
+      "id": "vibe-trading",
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "title": "HKUDS / Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 15102,
+      "forks": 2688,
+      "starsToday": 839,
+      "url": "https://github.com/HKUDS/Vibe-Trading",
       "rank": "#13",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
         "Python",
         "AI"
+      ]
+    },
+    {
+      "id": "tolaria",
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "title": "refactoringhq / tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 17518,
+      "forks": 1206,
+      "starsToday": 280,
+      "url": "https://github.com/refactoringhq/tolaria",
+      "rank": "#14",
+      "why": "It is trending because document processing is a core layer for search, knowledge bases, and AI retrieval workflows.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "Docs"
       ]
     }
   ]
