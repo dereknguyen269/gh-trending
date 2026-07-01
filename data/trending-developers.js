@@ -1,36 +1,174 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-06-30T01:18:11.868Z",
+  "updatedAt": "2026-07-01T01:23:50.125Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "robobun",
+      "id": "zhaochenyang20",
       "rank": "#01",
-      "name": "robobun",
-      "username": "robobun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/117481402?s=96&v=4",
-      "url": "https://github.com/robobun",
-      "popularRepository": null,
-      "why": "robobun is trending because GitHub users are visiting and following their work today.",
+      "name": "赵晨阳",
+      "username": "zhaochenyang20",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74843776?s=96&v=4",
+      "url": "https://github.com/zhaochenyang20",
+      "popularRepository": {
+        "name": "Awesome-ML-SYS-Tutorial",
+        "url": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial",
+        "description": "My learning notes for ML SYS."
+      },
+      "why": "赵晨阳 is trending because their repository Awesome-ML-SYS-Tutorial is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "seluj78",
+      "id": "marandaneto",
       "rank": "#02",
-      "name": "Jules Lasne",
-      "username": "Seluj78",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4641317?s=96&v=4",
-      "url": "https://github.com/Seluj78",
+      "name": "Manoel Aranda Neto",
+      "username": "marandaneto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5731772?s=96&v=4",
+      "url": "https://github.com/marandaneto",
       "popularRepository": null,
-      "why": "Jules Lasne is trending because GitHub users are visiting and following their work today.",
+      "why": "Manoel Aranda Neto is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "swstegall",
+      "rank": "#03",
+      "name": "Sam Stegall",
+      "username": "swstegall",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9094698?s=96&v=4",
+      "url": "https://github.com/swstegall",
+      "popularRepository": {
+        "name": "garlemald-software-site",
+        "url": "https://github.com/swstegall/garlemald-software-site",
+        "description": "Website (Next.js + TypeScript + MUI) for the Garlemald FFXIV 1.0 project family — server, client, decompilation, agent tooling, and the A…"
+      },
+      "why": "Sam Stegall is trending because their repository garlemald-software-site is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "carlosflorencio",
+      "rank": "#04",
+      "name": "Carlos Florêncio",
+      "username": "carlosflorencio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1500881?s=96&v=4",
+      "url": "https://github.com/carlosflorencio",
+      "popularRepository": null,
+      "why": "Carlos Florêncio is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "zhukunpenglinyutong",
+      "rank": "#05",
+      "name": "朱昆鹏",
+      "username": "zhukunpenglinyutong",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31264015?s=96&v=4",
+      "url": "https://github.com/zhukunpenglinyutong",
+      "popularRepository": {
+        "name": "desktop-cc-gui",
+        "url": "https://github.com/zhukunpenglinyutong/desktop-cc-gui",
+        "description": "CC GUI 客户端（专为开发者打造的VibeCoding平台）"
+      },
+      "why": "朱昆鹏 is trending because their repository desktop-cc-gui is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "denisovav",
+      "rank": "#06",
+      "name": "Sasha Denisov",
+      "username": "DenisovAV",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9622910?s=96&v=4",
+      "url": "https://github.com/DenisovAV",
+      "popularRepository": {
+        "name": "flutter_gemma",
+        "url": "https://github.com/DenisovAV/flutter_gemma",
+        "description": "The Flutter plugin allows running the Gemma AI model locally on a device from a Flutter application."
+      },
+      "why": "Sasha Denisov is trending because their repository flutter_gemma is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "jchris",
+      "rank": "#07",
+      "name": "Chris Anderson",
+      "username": "jchris",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/253?s=96&v=4",
+      "url": "https://github.com/jchris",
+      "popularRepository": null,
+      "why": "Chris Anderson is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "ruvnet",
+      "rank": "#08",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI sy…"
+      },
+      "why": "rUv is trending because their repository ruflo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "erichare",
+      "rank": "#09",
+      "name": "Eric Hare",
+      "username": "erichare",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/700235?s=96&v=4",
+      "url": "https://github.com/erichare",
+      "popularRepository": {
+        "name": "skill-route",
+        "url": "https://github.com/erichare/skill-route",
+        "description": "Semantic routing to select the right skill for AI agents."
+      },
+      "why": "Eric Hare is trending because their repository skill-route is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "comfyanonymous",
+      "rank": "#10",
+      "name": "comfyanonymous",
+      "username": "comfyanonymous",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121283862?s=96&v=4",
+      "url": "https://github.com/comfyanonymous",
+      "popularRepository": {
+        "name": "ComfyUI_examples",
+        "url": "https://github.com/comfyanonymous/ComfyUI_examples",
+        "description": "Examples of ComfyUI workflows"
+      },
+      "why": "comfyanonymous is trending because their repository ComfyUI_examples is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "alexey-milovidov",
-      "rank": "#03",
+      "rank": "#11",
       "name": "Alexey Milovidov",
       "username": "alexey-milovidov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18581488?s=96&v=4",
@@ -42,43 +180,25 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "mnot",
-      "rank": "#04",
-      "name": "Mark Nottingham",
-      "username": "mnot",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74384?s=96&v=4",
-      "url": "https://github.com/mnot",
+      "id": "fatih",
+      "rank": "#12",
+      "name": "Fatih Arslan",
+      "username": "fatih",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/438920?s=96&v=4",
+      "url": "https://github.com/fatih",
       "popularRepository": {
-        "name": "httplint",
-        "url": "https://github.com/mnot/httplint",
-        "description": "Python library to lint HTTP messages"
+        "name": "vim-go",
+        "url": "https://github.com/fatih/vim-go",
+        "description": "Go development plugin for Vim"
       },
-      "why": "Mark Nottingham is trending because their repository httplint is receiving visible attention on GitHub today.",
+      "why": "Fatih Arslan is trending because their repository vim-go is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "capcom6",
-      "rank": "#05",
-      "name": "Aleksandr",
-      "username": "capcom6",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26476232?s=96&v=4",
-      "url": "https://github.com/capcom6",
-      "popularRepository": {
-        "name": "android-sms-gateway",
-        "url": "https://github.com/capcom6/android-sms-gateway",
-        "description": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or…"
-      },
-      "why": "Aleksandr is trending because their repository android-sms-gateway is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
       "id": "fancyboi999",
-      "rank": "#06",
+      "rank": "#13",
       "name": "Xinmin Zeng",
       "username": "fancyboi999",
       "avatarUrl": "https://avatars.githubusercontent.com/u/135568692?s=96&v=4",
@@ -95,135 +215,20 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "xiaoyifang",
-      "rank": "#07",
-      "name": "xiaoyifang",
-      "username": "xiaoyifang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/105986?s=96&v=4",
-      "url": "https://github.com/xiaoyifang",
-      "popularRepository": {
-        "name": "goldendict-ng",
-        "url": "https://github.com/xiaoyifang/goldendict-ng",
-        "description": "The Next Generation GoldenDict"
-      },
-      "why": "xiaoyifang is trending because their repository goldendict-ng is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "cberner",
-      "rank": "#08",
-      "name": "Christopher Berner",
-      "username": "cberner",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/842688?s=96&v=4",
-      "url": "https://github.com/cberner",
-      "popularRepository": {
-        "name": "redb",
-        "url": "https://github.com/cberner/redb",
-        "description": "An embedded key-value database in pure Rust"
-      },
-      "why": "Christopher Berner is trending because their repository redb is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Data"
-      ]
-    },
-    {
-      "id": "eddyizm",
-      "rank": "#09",
-      "name": "eddyizm",
-      "username": "eddyizm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12236892?s=96&v=4",
-      "url": "https://github.com/eddyizm",
-      "popularRepository": {
-        "name": "tempus",
-        "url": "https://github.com/eddyizm/tempus",
-        "description": "An open source and lightweight music client for Subsonic, designed and built natively for Android."
-      },
-      "why": "eddyizm is trending because their repository tempus is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "maziyarpanahi",
-      "rank": "#10",
-      "name": "Maziyar Panahi",
-      "username": "maziyarpanahi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
-      "url": "https://github.com/maziyarpanahi",
-      "popularRepository": {
-        "name": "openmed",
-        "url": "https://github.com/maziyarpanahi/openmed",
-        "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 1,000+ medical models, 12 languages, Appl…"
-      },
-      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "kevinwu098",
-      "rank": "#11",
-      "name": "Kevin Wu",
-      "username": "KevinWu098",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100006999?s=96&v=4",
-      "url": "https://github.com/KevinWu098",
-      "popularRepository": {
-        "name": "codebreaker",
-        "url": "https://github.com/KevinWu098/codebreaker",
-        "description": "🏆 LA Hacks 2026 Grand Prize, 🥇 Cognition Company Challenge 1st Place Winner"
-      },
-      "why": "Kevin Wu is trending because their repository codebreaker is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "igorpecovnik",
-      "rank": "#12",
-      "name": "Igor",
-      "username": "igorpecovnik",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6281704?s=96&v=4",
-      "url": "https://github.com/igorpecovnik",
-      "popularRepository": null,
-      "why": "Igor is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "adsharma",
-      "rank": "#13",
-      "name": "Arun Sharma",
-      "username": "adsharma",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/658691?s=96&v=4",
-      "url": "https://github.com/adsharma",
-      "popularRepository": {
-        "name": "lscope",
-        "url": "https://github.com/adsharma/lscope",
-        "description": "ast-grep using ladybug"
-      },
-      "why": "Arun Sharma is trending because their repository lscope is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "wauplin",
+      "id": "bartlomieju",
       "rank": "#14",
-      "name": "Lucain",
-      "username": "Wauplin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11801849?s=96&v=4",
-      "url": "https://github.com/Wauplin",
-      "popularRepository": null,
-      "why": "Lucain is trending because GitHub users are visiting and following their work today.",
+      "name": "Bartek Iwańczuk",
+      "username": "bartlomieju",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13602871?s=96&v=4",
+      "url": "https://github.com/bartlomieju",
+      "popularRepository": {
+        "name": "lax",
+        "url": "https://github.com/bartlomieju/lax",
+        "description": "Lossless code formatters that adjust only whitespace, so they never reject or rewrite your code. CSS/SCSS/Less, SQL, and HTML/XML/SVG/Vue…"
+      },
+      "why": "Bartek Iwańczuk is trending because their repository lax is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     }
   ]
