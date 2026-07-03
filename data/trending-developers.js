@@ -1,47 +1,28 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-07-02T01:18:16.535Z",
+  "updatedAt": "2026-07-03T04:08:55.269Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "bradygaster",
+      "id": "alirezarezvani",
       "rank": "#01",
-      "name": "Brady Gaster",
-      "username": "bradygaster",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/41929050?s=96&v=4",
-      "url": "https://github.com/bradygaster",
+      "name": "Alireza Rezvani",
+      "username": "alirezarezvani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5697919?s=96&v=4",
+      "url": "https://github.com/alirezarezvani",
       "popularRepository": {
-        "name": "squad",
-        "url": "https://github.com/bradygaster/squad",
-        "description": "Squad: AI agent teams for any project"
+        "name": "claude-skills",
+        "url": "https://github.com/alirezarezvani/claude-skills",
+        "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claud…"
       },
-      "why": "Brady Gaster is trending because their repository squad is receiving visible attention on GitHub today.",
+      "why": "Alireza Rezvani is trending because their repository claude-skills is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "swstegall",
-      "rank": "#02",
-      "name": "Sam Stegall",
-      "username": "swstegall",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9094698?s=96&v=4",
-      "url": "https://github.com/swstegall",
-      "popularRepository": {
-        "name": "garlemald-software-site",
-        "url": "https://github.com/swstegall/garlemald-software-site",
-        "description": "Website (Next.js + TypeScript + MUI) for the Garlemald FFXIV 1.0 project family — server, client, decompilation, agent tooling, and the A…"
-      },
-      "why": "Sam Stegall is trending because their repository garlemald-software-site is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Tooling"
-      ]
-    },
-    {
       "id": "fancyboi999",
-      "rank": "#03",
+      "rank": "#02",
       "name": "Xinmin Zeng",
       "username": "fancyboi999",
       "avatarUrl": "https://avatars.githubusercontent.com/u/135568692?s=96&v=4",
@@ -58,21 +39,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "marandaneto",
-      "rank": "#04",
-      "name": "Manoel Aranda Neto",
-      "username": "marandaneto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5731772?s=96&v=4",
-      "url": "https://github.com/marandaneto",
-      "popularRepository": null,
-      "why": "Manoel Aranda Neto is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "slavingia",
-      "rank": "#05",
+      "rank": "#03",
       "name": "Sahil Lavingia",
       "username": "slavingia",
       "avatarUrl": "https://avatars.githubusercontent.com/u/74396?s=96&v=4",
@@ -88,8 +56,64 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "alexey-milovidov",
+      "id": "simon-he95",
+      "rank": "#04",
+      "name": "Simon He",
+      "username": "Simon-He95",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57086651?s=96&v=4",
+      "url": "https://github.com/Simon-He95",
+      "popularRepository": {
+        "name": "markstream-vue",
+        "url": "https://github.com/Simon-He95/markstream-vue",
+        "description": "Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, Shiki, Monac…"
+      },
+      "why": "Simon He is trending because their repository markstream-vue is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "bradygaster",
+      "rank": "#05",
+      "name": "Brady Gaster",
+      "username": "bradygaster",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/41929050?s=96&v=4",
+      "url": "https://github.com/bradygaster",
+      "popularRepository": {
+        "name": "squad",
+        "url": "https://github.com/bradygaster/squad",
+        "description": "Squad: AI agent teams for any project"
+      },
+      "why": "Brady Gaster is trending because their repository squad is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "tt-a1i",
       "rank": "#06",
+      "name": "tt-a1i",
+      "username": "tt-a1i",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
+      "url": "https://github.com/tt-a1i",
+      "popularRepository": {
+        "name": "archify",
+        "url": "https://github.com/tt-a1i/archify",
+        "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export"
+      },
+      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "alexey-milovidov",
+      "rank": "#07",
       "name": "Alexey Milovidov",
       "username": "alexey-milovidov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18581488?s=96&v=4",
@@ -105,128 +129,120 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "carlosflorencio",
-      "rank": "#07",
-      "name": "Carlos Florêncio",
-      "username": "carlosflorencio",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1500881?s=96&v=4",
-      "url": "https://github.com/carlosflorencio",
-      "popularRepository": {
-        "name": "hetzner_deployer",
-        "url": "https://github.com/carlosflorencio/hetzner_deployer",
-        "description": "Rolling Deployments using Loadbalancers"
-      },
-      "why": "Carlos Florêncio is trending because their repository hetzner_deployer is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "appcypher",
+      "id": "erichare",
       "rank": "#08",
-      "name": "Stephen Akinyemi",
-      "username": "appcypher",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20358651?s=96&v=4",
-      "url": "https://github.com/appcypher",
+      "name": "Eric Hare",
+      "username": "erichare",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/700235?s=96&v=4",
+      "url": "https://github.com/erichare",
       "popularRepository": {
-        "name": "awesome-mcp-servers",
-        "url": "https://github.com/appcypher/awesome-mcp-servers",
-        "description": "Awesome MCP Servers - A curated list of Model Context Protocol servers"
+        "name": "skill-route",
+        "url": "https://github.com/erichare/skill-route",
+        "description": "Semantic routing to select the right skill for AI agents."
       },
-      "why": "Stephen Akinyemi is trending because their repository awesome-mcp-servers is receiving visible attention on GitHub today.",
+      "why": "Eric Hare is trending because their repository skill-route is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Web"
+        "AI"
       ]
     },
     {
-      "id": "clason",
+      "id": "arvinxx",
       "rank": "#09",
-      "name": "Christian Clason",
-      "username": "clason",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2361214?s=96&v=4",
-      "url": "https://github.com/clason",
-      "popularRepository": null,
-      "why": "Christian Clason is trending because GitHub users are visiting and following their work today.",
+      "name": "Arvin Xu",
+      "username": "arvinxx",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28616219?s=96&v=4",
+      "url": "https://github.com/arvinxx",
+      "popularRepository": {
+        "name": "zotero-engine-list",
+        "url": "https://github.com/arvinxx/zotero-engine-list",
+        "description": "一份实用的 Zotero 检索引擎"
+      },
+      "why": "Arvin Xu is trending because their repository zotero-engine-list is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "sergiou87",
+      "id": "bradfitz",
       "rank": "#10",
-      "name": "Sergio Padrino",
-      "username": "sergiou87",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1083228?s=96&v=4",
-      "url": "https://github.com/sergiou87",
+      "name": "Brad Fitzpatrick",
+      "username": "bradfitz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2621?s=96&v=4",
+      "url": "https://github.com/bradfitz",
       "popularRepository": {
-        "name": "SDL2_PSL1GHT",
-        "url": "https://github.com/sergiou87/SDL2_PSL1GHT",
-        "description": "A port of SDL 2 to the free PS3 SDK PSL1GHT"
+        "name": "tswg",
+        "url": "https://github.com/bradfitz/tswg",
+        "description": "static wireguard to tailscale bridge tool"
       },
-      "why": "Sergio Padrino is trending because their repository SDL2_PSL1GHT is receiving visible attention on GitHub today.",
+      "why": "Brad Fitzpatrick is trending because their repository tswg is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI",
+        "Tooling"
       ]
     },
     {
-      "id": "marianfoo",
+      "id": "joeyorlando",
       "rank": "#11",
-      "name": "Marian Zeis",
-      "username": "marianfoo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13335743?s=96&v=4",
-      "url": "https://github.com/marianfoo",
-      "popularRepository": {
-        "name": "sap-ai-mcp-servers",
-        "url": "https://github.com/marianfoo/sap-ai-mcp-servers",
-        "description": "A complete list of SAP MCP Servers and SAP AI Skills"
-      },
-      "why": "Marian Zeis is trending because their repository sap-ai-mcp-servers is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "jchris",
-      "rank": "#12",
-      "name": "Chris Anderson",
-      "username": "jchris",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/253?s=96&v=4",
-      "url": "https://github.com/jchris",
+      "name": "Joey Orlando",
+      "username": "joeyorlando",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9406895?s=96&v=4",
+      "url": "https://github.com/joeyorlando",
       "popularRepository": null,
-      "why": "Chris Anderson is trending because GitHub users are visiting and following their work today.",
+      "why": "Joey Orlando is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "benvinegar",
-      "rank": "#13",
-      "name": "Ben Vinegar",
-      "username": "benvinegar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2153?s=96&v=4",
-      "url": "https://github.com/benvinegar",
+      "id": "lalalune",
+      "rank": "#12",
+      "name": "Shaw",
+      "username": "lalalune",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18633264?s=96&v=4",
+      "url": "https://github.com/lalalune",
       "popularRepository": {
-        "name": "termdraw",
-        "url": "https://github.com/benvinegar/termdraw",
-        "description": "Agent-friendly ASCII illustrator for the terminal"
+        "name": "ArkLib",
+        "url": "https://github.com/lalalune/ArkLib",
+        "description": "Formally Verified Arguments of Knowledge in Lean"
       },
-      "why": "Ben Vinegar is trending because their repository termdraw is receiving visible attention on GitHub today.",
+      "why": "Shaw is trending because their repository ArkLib is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "ruvnet",
+      "rank": "#13",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI sy…"
+      },
+      "why": "rUv is trending because their repository ruflo is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "abidlabs",
+      "id": "loyalsoldier",
       "rank": "#14",
-      "name": "Abubakar Abid",
-      "username": "abidlabs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1778297?s=96&v=4",
-      "url": "https://github.com/abidlabs",
-      "popularRepository": null,
-      "why": "Abubakar Abid is trending because GitHub users are visiting and following their work today.",
+      "name": "Loyalsoldier",
+      "username": "Loyalsoldier",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10487845?s=96&v=4",
+      "url": "https://github.com/Loyalsoldier",
+      "popularRepository": {
+        "name": "clash-rules",
+        "url": "https://github.com/Loyalsoldier/clash-rules",
+        "description": "🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。"
+      },
+      "why": "Loyalsoldier is trending because their repository clash-rules is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
