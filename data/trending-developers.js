@@ -1,28 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-07-04T04:01:52.036Z",
+  "updatedAt": "2026-07-05T04:20:21.858Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "erichare",
-      "rank": "#01",
-      "name": "Eric Hare",
-      "username": "erichare",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/700235?s=96&v=4",
-      "url": "https://github.com/erichare",
-      "popularRepository": {
-        "name": "skill-route",
-        "url": "https://github.com/erichare/skill-route",
-        "description": "Semantic routing to select the right skill for AI agents."
-      },
-      "why": "Eric Hare is trending because their repository skill-route is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "alirezarezvani",
-      "rank": "#02",
+      "rank": "#01",
       "name": "Alireza Rezvani",
       "username": "alirezarezvani",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5697919?s=96&v=4",
@@ -40,7 +22,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "fancyboi999",
-      "rank": "#03",
+      "rank": "#02",
       "name": "Xinmin Zeng",
       "username": "fancyboi999",
       "avatarUrl": "https://avatars.githubusercontent.com/u/135568692?s=96&v=4",
@@ -57,39 +39,39 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "joeyorlando",
+      "id": "backnotprop",
+      "rank": "#03",
+      "name": "Michael Ramos",
+      "username": "backnotprop",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
+      "url": "https://github.com/backnotprop",
+      "popularRepository": {
+        "name": "plannotator",
+        "url": "https://github.com/backnotprop/plannotator",
+        "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click."
+      },
+      "why": "Michael Ramos is trending because their repository plannotator is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "gnanam1990",
       "rank": "#04",
-      "name": "Joey Orlando",
-      "username": "joeyorlando",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9406895?s=96&v=4",
-      "url": "https://github.com/joeyorlando",
+      "name": "KRATOS",
+      "username": "gnanam1990",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84986124?s=96&v=4",
+      "url": "https://github.com/gnanam1990",
       "popularRepository": null,
-      "why": "Joey Orlando is trending because GitHub users are visiting and following their work today.",
+      "why": "KRATOS is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "aandrew-me",
-      "rank": "#05",
-      "name": "Andrew",
-      "username": "aandrew-me",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66430340?s=96&v=4",
-      "url": "https://github.com/aandrew-me",
-      "popularRepository": {
-        "name": "ytDownloader",
-        "url": "https://github.com/aandrew-me/ytDownloader",
-        "description": "Desktop App for downloading Videos and Audios from hundreds of sites"
-      },
-      "why": "Andrew is trending because their repository ytDownloader is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
       "id": "andimarafioti",
-      "rank": "#06",
+      "rank": "#05",
       "name": "Andrés Marafioti",
       "username": "andimarafioti",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9143109?s=96&v=4",
@@ -105,18 +87,98 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "bradygaster",
-      "rank": "#07",
-      "name": "Brady Gaster",
-      "username": "bradygaster",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/41929050?s=96&v=4",
-      "url": "https://github.com/bradygaster",
+      "id": "q00",
+      "rank": "#06",
+      "name": "Q00",
+      "username": "Q00",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31264094?s=96&v=4",
+      "url": "https://github.com/Q00",
       "popularRepository": {
-        "name": "squad",
-        "url": "https://github.com/bradygaster/squad",
-        "description": "Squad: AI agent teams for any project"
+        "name": "ouroboros",
+        "url": "https://github.com/Q00/ouroboros",
+        "description": "Agent OS: Stop prompting. Start specifying."
       },
-      "why": "Brady Gaster is trending because their repository squad is receiving visible attention on GitHub today.",
+      "why": "Q00 is trending because their repository ouroboros is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "erichare",
+      "rank": "#07",
+      "name": "Eric Hare",
+      "username": "erichare",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/700235?s=96&v=4",
+      "url": "https://github.com/erichare",
+      "popularRepository": {
+        "name": "skill-route",
+        "url": "https://github.com/erichare/skill-route",
+        "description": "Semantic routing to select the right skill for AI agents."
+      },
+      "why": "Eric Hare is trending because their repository skill-route is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "kitenite",
+      "rank": "#08",
+      "name": "Kiet",
+      "username": "Kitenite",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31864905?s=96&v=4",
+      "url": "https://github.com/Kitenite",
+      "popularRepository": null,
+      "why": "Kiet is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "cmungall",
+      "rank": "#09",
+      "name": "Chris Mungall",
+      "username": "cmungall",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50745?s=96&v=4",
+      "url": "https://github.com/cmungall",
+      "popularRepository": null,
+      "why": "Chris Mungall is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "ranaroussi",
+      "rank": "#10",
+      "name": "Ran Aroussi",
+      "username": "ranaroussi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1185458?s=96&v=4",
+      "url": "https://github.com/ranaroussi",
+      "popularRepository": {
+        "name": "yfinance",
+        "url": "https://github.com/ranaroussi/yfinance",
+        "description": "Download market data from Yahoo! Finance's API"
+      },
+      "why": "Ran Aroussi is trending because their repository yfinance is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Data"
+      ]
+    },
+    {
+      "id": "ruvnet",
+      "rank": "#11",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI sy…"
+      },
+      "why": "rUv is trending because their repository ruflo is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -124,7 +186,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "stephencelis",
-      "rank": "#08",
+      "rank": "#12",
       "name": "Stephen Celis",
       "username": "stephencelis",
       "avatarUrl": "https://avatars.githubusercontent.com/u/658?s=96&v=4",
@@ -140,92 +202,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "abhiaiyer91",
-      "rank": "#09",
-      "name": "Abhi Aiyer",
-      "username": "abhiaiyer91",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2359375?s=96&v=4",
-      "url": "https://github.com/abhiaiyer91",
-      "popularRepository": null,
-      "why": "Abhi Aiyer is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "chenrui333",
-      "rank": "#10",
-      "name": "Rui Chen",
-      "username": "chenrui333",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1580956?s=96&v=4",
-      "url": "https://github.com/chenrui333",
-      "popularRepository": {
-        "name": "envtpl",
-        "url": "https://github.com/chenrui333/envtpl",
-        "description": "Render Go templates on the command line with shell environment variables"
-      },
-      "why": "Rui Chen is trending because their repository envtpl is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "simon-he95",
-      "rank": "#11",
-      "name": "Simon He",
-      "username": "Simon-He95",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57086651?s=96&v=4",
-      "url": "https://github.com/Simon-He95",
-      "popularRepository": {
-        "name": "markstream-vue",
-        "url": "https://github.com/Simon-He95/markstream-vue",
-        "description": "Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, Shiki, Monac…"
-      },
-      "why": "Simon He is trending because their repository markstream-vue is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "loyalsoldier",
-      "rank": "#12",
-      "name": "Loyalsoldier",
-      "username": "Loyalsoldier",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10487845?s=96&v=4",
-      "url": "https://github.com/Loyalsoldier",
-      "popularRepository": {
-        "name": "clash-rules",
-        "url": "https://github.com/Loyalsoldier/clash-rules",
-        "description": "🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。"
-      },
-      "why": "Loyalsoldier is trending because their repository clash-rules is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "slavingia",
-      "rank": "#13",
-      "name": "Sahil Lavingia",
-      "username": "slavingia",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74396?s=96&v=4",
-      "url": "https://github.com/slavingia",
-      "popularRepository": {
-        "name": "skills",
-        "url": "https://github.com/slavingia/skills",
-        "description": "Based on The Minimalist Entrepreneur by Sahil Lavingia"
-      },
-      "why": "Sahil Lavingia is trending because their repository skills is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "davila7",
-      "rank": "#14",
+      "rank": "#13",
       "name": "Daniel Avila",
       "username": "davila7",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6216945?s=96&v=4",
@@ -239,6 +217,19 @@ window.trendingDevelopers = {
       "tags": [
         "Developer",
         "Tooling"
+      ]
+    },
+    {
+      "id": "joeyorlando",
+      "rank": "#14",
+      "name": "Joey Orlando",
+      "username": "joeyorlando",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9406895?s=96&v=4",
+      "url": "https://github.com/joeyorlando",
+      "popularRepository": null,
+      "why": "Joey Orlando is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
       ]
     }
   ]
