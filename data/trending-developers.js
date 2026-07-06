@@ -1,41 +1,42 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-07-05T04:20:21.858Z",
+  "updatedAt": "2026-07-06T04:38:57.128Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "alirezarezvani",
+      "id": "narumiruna",
       "rank": "#01",
-      "name": "Alireza Rezvani",
-      "username": "alirezarezvani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5697919?s=96&v=4",
-      "url": "https://github.com/alirezarezvani",
+      "name": "なるみ",
+      "username": "narumiruna",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4680567?s=96&v=4",
+      "url": "https://github.com/narumiruna",
       "popularRepository": {
-        "name": "claude-skills",
-        "url": "https://github.com/alirezarezvani/claude-skills",
-        "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claud…"
+        "name": "pi-extensions",
+        "url": "https://github.com/narumiruna/pi-extensions",
+        "description": "Independently installable Pi Coding Agent extensions for AI coding workflows: LSP diagnostics/code actions for TypeScript, JavaScript, Py…"
       },
-      "why": "Alireza Rezvani is trending because their repository claude-skills is receiving visible attention on GitHub today.",
+      "why": "なるみ is trending because their repository pi-extensions is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "fancyboi999",
+      "id": "mvanhorn",
       "rank": "#02",
-      "name": "Xinmin Zeng",
-      "username": "fancyboi999",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/135568692?s=96&v=4",
-      "url": "https://github.com/fancyboi999",
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
+      "url": "https://github.com/mvanhorn",
       "popularRepository": {
-        "name": "ai-engineering-from-scratch-zh",
-        "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-        "description": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南"
+        "name": "last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
       },
-      "why": "Xinmin Zeng is trending because their repository ai-engineering-from-scratch-zh is receiving visible attention on GitHub today.",
+      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "AI",
+        "Web"
       ]
     },
     {
@@ -57,38 +58,62 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "gnanam1990",
+      "id": "koala73",
       "rank": "#04",
-      "name": "KRATOS",
-      "username": "gnanam1990",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/84986124?s=96&v=4",
-      "url": "https://github.com/gnanam1990",
-      "popularRepository": null,
-      "why": "KRATOS is trending because GitHub users are visiting and following their work today.",
+      "name": "Elie Habib",
+      "username": "koala73",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
+      "url": "https://github.com/koala73",
+      "popularRepository": {
+        "name": "worldmonitor",
+        "url": "https://github.com/koala73/worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+      },
+      "why": "Elie Habib is trending because their repository worldmonitor is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
       ]
     },
     {
-      "id": "andimarafioti",
+      "id": "fancyboi999",
       "rank": "#05",
-      "name": "Andrés Marafioti",
-      "username": "andimarafioti",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9143109?s=96&v=4",
-      "url": "https://github.com/andimarafioti",
+      "name": "Xinmin Zeng",
+      "username": "fancyboi999",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/135568692?s=96&v=4",
+      "url": "https://github.com/fancyboi999",
       "popularRepository": {
-        "name": "faster-qwen3-tts",
-        "url": "https://github.com/andimarafioti/faster-qwen3-tts",
-        "description": "Real-time text-to-speech with Qwen3-TTS"
+        "name": "ai-engineering-from-scratch-zh",
+        "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+        "description": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南"
       },
-      "why": "Andrés Marafioti is trending because their repository faster-qwen3-tts is receiving visible attention on GitHub today.",
+      "why": "Xinmin Zeng is trending because their repository ai-engineering-from-scratch-zh is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "alirezarezvani",
+      "rank": "#06",
+      "name": "Alireza Rezvani",
+      "username": "alirezarezvani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5697919?s=96&v=4",
+      "url": "https://github.com/alirezarezvani",
+      "popularRepository": {
+        "name": "claude-skills",
+        "url": "https://github.com/alirezarezvani/claude-skills",
+        "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claud…"
+      },
+      "why": "Alireza Rezvani is trending because their repository claude-skills is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
       ]
     },
     {
       "id": "q00",
-      "rank": "#06",
+      "rank": "#07",
       "name": "Q00",
       "username": "Q00",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31264094?s=96&v=4",
@@ -105,39 +130,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "erichare",
-      "rank": "#07",
-      "name": "Eric Hare",
-      "username": "erichare",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/700235?s=96&v=4",
-      "url": "https://github.com/erichare",
-      "popularRepository": {
-        "name": "skill-route",
-        "url": "https://github.com/erichare/skill-route",
-        "description": "Semantic routing to select the right skill for AI agents."
-      },
-      "why": "Eric Hare is trending because their repository skill-route is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "kitenite",
-      "rank": "#08",
-      "name": "Kiet",
-      "username": "Kitenite",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31864905?s=96&v=4",
-      "url": "https://github.com/Kitenite",
-      "popularRepository": null,
-      "why": "Kiet is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "cmungall",
-      "rank": "#09",
+      "rank": "#08",
       "name": "Chris Mungall",
       "username": "cmungall",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50745?s=96&v=4",
@@ -149,8 +143,45 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "ranaroussi",
+      "id": "raullenchai",
+      "rank": "#09",
+      "name": "Raullen Chai",
+      "username": "raullenchai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
+      "url": "https://github.com/raullenchai",
+      "popularRepository": {
+        "name": "Rapid-MLX",
+        "url": "https://github.com/raullenchai/Rapid-MLX",
+        "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cac…"
+      },
+      "why": "Raullen Chai is trending because their repository Rapid-MLX is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "aandrew-me",
       "rank": "#10",
+      "name": "Andrew",
+      "username": "aandrew-me",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66430340?s=96&v=4",
+      "url": "https://github.com/aandrew-me",
+      "popularRepository": {
+        "name": "ytDownloader",
+        "url": "https://github.com/aandrew-me/ytDownloader",
+        "description": "Desktop App for downloading Videos and Audios from hundreds of sites"
+      },
+      "why": "Andrew is trending because their repository ytDownloader is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "ranaroussi",
+      "rank": "#11",
       "name": "Ran Aroussi",
       "username": "ranaroussi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1185458?s=96&v=4",
@@ -168,7 +199,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "ruvnet",
-      "rank": "#11",
+      "rank": "#12",
       "name": "rUv",
       "username": "ruvnet",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
@@ -185,49 +216,27 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "stephencelis",
-      "rank": "#12",
-      "name": "Stephen Celis",
-      "username": "stephencelis",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/658?s=96&v=4",
-      "url": "https://github.com/stephencelis",
-      "popularRepository": {
-        "name": "SQLite.swift",
-        "url": "https://github.com/stephencelis/SQLite.swift",
-        "description": "A type-safe, Swift-language layer over SQLite3."
-      },
-      "why": "Stephen Celis is trending because their repository SQLite.swift is receiving visible attention on GitHub today.",
+      "id": "lgallard",
+      "rank": "#13",
+      "name": "Luis M. Gallardo D.",
+      "username": "lgallard",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6194359?s=96&v=4",
+      "url": "https://github.com/lgallard",
+      "popularRepository": null,
+      "why": "Luis M. Gallardo D. is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "davila7",
-      "rank": "#13",
-      "name": "Daniel Avila",
-      "username": "davila7",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6216945?s=96&v=4",
-      "url": "https://github.com/davila7",
-      "popularRepository": {
-        "name": "claude-code-templates",
-        "url": "https://github.com/davila7/claude-code-templates",
-        "description": "CLI tool for configuring and monitoring Claude Code"
-      },
-      "why": "Daniel Avila is trending because their repository claude-code-templates is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "joeyorlando",
+      "id": "tommoor",
       "rank": "#14",
-      "name": "Joey Orlando",
-      "username": "joeyorlando",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9406895?s=96&v=4",
-      "url": "https://github.com/joeyorlando",
+      "name": "Tom Moor",
+      "username": "tommoor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/380914?s=96&v=4",
+      "url": "https://github.com/tommoor",
       "popularRepository": null,
-      "why": "Joey Orlando is trending because GitHub users are visiting and following their work today.",
+      "why": "Tom Moor is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
