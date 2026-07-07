@@ -1,20 +1,20 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-07-06T04:38:57.128Z",
+  "updatedAt": "2026-07-07T04:16:39.475Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "narumiruna",
+      "id": "ruvnet",
       "rank": "#01",
-      "name": "なるみ",
-      "username": "narumiruna",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4680567?s=96&v=4",
-      "url": "https://github.com/narumiruna",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
       "popularRepository": {
-        "name": "pi-extensions",
-        "url": "https://github.com/narumiruna/pi-extensions",
-        "description": "Independently installable Pi Coding Agent extensions for AI coding workflows: LSP diagnostics/code actions for TypeScript, JavaScript, Py…"
+        "name": "ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI sy…"
       },
-      "why": "なるみ is trending because their repository pi-extensions is receiving visible attention on GitHub today.",
+      "why": "rUv is trending because their repository ruflo is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -76,62 +76,21 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "fancyboi999",
+      "id": "rubenfiszel",
       "rank": "#05",
-      "name": "Xinmin Zeng",
-      "username": "fancyboi999",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/135568692?s=96&v=4",
-      "url": "https://github.com/fancyboi999",
-      "popularRepository": {
-        "name": "ai-engineering-from-scratch-zh",
-        "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-        "description": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南"
-      },
-      "why": "Xinmin Zeng is trending because their repository ai-engineering-from-scratch-zh is receiving visible attention on GitHub today.",
+      "name": "Ruben Fiszel",
+      "username": "rubenfiszel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/275584?s=96&v=4",
+      "url": "https://github.com/rubenfiszel",
+      "popularRepository": null,
+      "why": "Ruben Fiszel is trending because GitHub users are visiting and following their work today.",
       "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "alirezarezvani",
-      "rank": "#06",
-      "name": "Alireza Rezvani",
-      "username": "alirezarezvani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5697919?s=96&v=4",
-      "url": "https://github.com/alirezarezvani",
-      "popularRepository": {
-        "name": "claude-skills",
-        "url": "https://github.com/alirezarezvani/claude-skills",
-        "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claud…"
-      },
-      "why": "Alireza Rezvani is trending because their repository claude-skills is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "q00",
-      "rank": "#07",
-      "name": "Q00",
-      "username": "Q00",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31264094?s=96&v=4",
-      "url": "https://github.com/Q00",
-      "popularRepository": {
-        "name": "ouroboros",
-        "url": "https://github.com/Q00/ouroboros",
-        "description": "Agent OS: Stop prompting. Start specifying."
-      },
-      "why": "Q00 is trending because their repository ouroboros is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     },
     {
       "id": "cmungall",
-      "rank": "#08",
+      "rank": "#06",
       "name": "Chris Mungall",
       "username": "cmungall",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50745?s=96&v=4",
@@ -143,8 +102,115 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "raullenchai",
+      "id": "alirezarezvani",
+      "rank": "#07",
+      "name": "Alireza Rezvani",
+      "username": "alirezarezvani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5697919?s=96&v=4",
+      "url": "https://github.com/alirezarezvani",
+      "popularRepository": {
+        "name": "claude-skills",
+        "url": "https://github.com/alirezarezvani/claude-skills",
+        "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claud…"
+      },
+      "why": "Alireza Rezvani is trending because their repository claude-skills is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "777genius",
+      "rank": "#08",
+      "name": "Илия",
+      "username": "777genius",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13103045?s=96&v=4",
+      "url": "https://github.com/777genius",
+      "popularRepository": {
+        "name": "agent-teams-ai",
+        "url": "https://github.com/777genius/agent-teams-ai",
+        "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+      },
+      "why": "Илия is trending because their repository agent-teams-ai is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "jeswr",
       "rank": "#09",
+      "name": "Jesse Wright",
+      "username": "jeswr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63333554?s=96&v=4",
+      "url": "https://github.com/jeswr",
+      "popularRepository": {
+        "name": "http-query-adoption",
+        "url": "https://github.com/jeswr/http-query-adoption",
+        "description": "Tracking ecosystem adoption of the HTTP QUERY method (RFC 10008)"
+      },
+      "why": "Jesse Wright is trending because their repository http-query-adoption is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "dalathegreat",
+      "rank": "#10",
+      "name": "Daniel Öster",
+      "username": "dalathegreat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26695010?s=96&v=4",
+      "url": "https://github.com/dalathegreat",
+      "popularRepository": {
+        "name": "Battery-Emulator",
+        "url": "https://github.com/dalathegreat/Battery-Emulator",
+        "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
+      },
+      "why": "Daniel Öster is trending because their repository Battery-Emulator is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "esokullu",
+      "rank": "#11",
+      "name": "Emre Sokullu",
+      "username": "esokullu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19166?s=96&v=4",
+      "url": "https://github.com/esokullu",
+      "popularRepository": {
+        "name": "webbrain",
+        "url": "https://github.com/esokullu/webbrain",
+        "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠"
+      },
+      "why": "Emre Sokullu is trending because their repository webbrain is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "guibranco",
+      "rank": "#12",
+      "name": "Guilherme Branco Stracini",
+      "username": "guibranco",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3362854?s=96&v=4",
+      "url": "https://github.com/guibranco",
+      "popularRepository": {
+        "name": "pancake",
+        "url": "https://github.com/guibranco/pancake",
+        "description": "🧰 🛠️ Pancake project - toolkit for PHP projects"
+      },
+      "why": "Guilherme Branco Stracini is trending because their repository pancake is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "raullenchai",
+      "rank": "#13",
       "name": "Raullen Chai",
       "username": "raullenchai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
@@ -162,83 +228,21 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "aandrew-me",
-      "rank": "#10",
-      "name": "Andrew",
-      "username": "aandrew-me",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66430340?s=96&v=4",
-      "url": "https://github.com/aandrew-me",
+      "id": "narumiruna",
+      "rank": "#14",
+      "name": "なるみ",
+      "username": "narumiruna",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4680567?s=96&v=4",
+      "url": "https://github.com/narumiruna",
       "popularRepository": {
-        "name": "ytDownloader",
-        "url": "https://github.com/aandrew-me/ytDownloader",
-        "description": "Desktop App for downloading Videos and Audios from hundreds of sites"
+        "name": "pi-extensions",
+        "url": "https://github.com/narumiruna/pi-extensions",
+        "description": "Independently installable Pi Coding Agent extensions for AI coding workflows: LSP diagnostics/code actions for TypeScript, JavaScript, Py…"
       },
-      "why": "Andrew is trending because their repository ytDownloader is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "ranaroussi",
-      "rank": "#11",
-      "name": "Ran Aroussi",
-      "username": "ranaroussi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1185458?s=96&v=4",
-      "url": "https://github.com/ranaroussi",
-      "popularRepository": {
-        "name": "yfinance",
-        "url": "https://github.com/ranaroussi/yfinance",
-        "description": "Download market data from Yahoo! Finance's API"
-      },
-      "why": "Ran Aroussi is trending because their repository yfinance is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Data"
-      ]
-    },
-    {
-      "id": "ruvnet",
-      "rank": "#12",
-      "name": "rUv",
-      "username": "ruvnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
-      "url": "https://github.com/ruvnet",
-      "popularRepository": {
-        "name": "ruflo",
-        "url": "https://github.com/ruvnet/ruflo",
-        "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI sy…"
-      },
-      "why": "rUv is trending because their repository ruflo is receiving visible attention on GitHub today.",
+      "why": "なるみ is trending because their repository pi-extensions is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
-      ]
-    },
-    {
-      "id": "lgallard",
-      "rank": "#13",
-      "name": "Luis M. Gallardo D.",
-      "username": "lgallard",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6194359?s=96&v=4",
-      "url": "https://github.com/lgallard",
-      "popularRepository": null,
-      "why": "Luis M. Gallardo D. is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "tommoor",
-      "rank": "#14",
-      "name": "Tom Moor",
-      "username": "tommoor",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/380914?s=96&v=4",
-      "url": "https://github.com/tommoor",
-      "popularRepository": null,
-      "why": "Tom Moor is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
       ]
     }
   ]
