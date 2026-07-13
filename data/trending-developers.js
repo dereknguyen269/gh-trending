@@ -1,24 +1,22 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-07-12T03:57:15.831Z",
+  "updatedAt": "2026-07-13T03:59:45.214Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "technicalpickles",
+      "id": "poteto",
       "rank": "#01",
-      "name": "Josh Nichols",
-      "username": "technicalpickles",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/159?s=96&v=4",
-      "url": "https://github.com/technicalpickles",
+      "name": "lauren",
+      "username": "poteto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
+      "url": "https://github.com/poteto",
       "popularRepository": {
-        "name": "request-log-analyzer",
-        "url": "https://github.com/technicalpickles/request-log-analyzer",
-        "description": "A command line tool that analyzes request logfiles (e.g. Rails, Merb, Apache) to produce a performance report."
+        "name": "hiring-without-whiteboards",
+        "url": "https://github.com/poteto/hiring-without-whiteboards",
+        "description": "⭐️ Companies that don't have a broken hiring process"
       },
-      "why": "Josh Nichols is trending because their repository request-log-analyzer is receiving visible attention on GitHub today.",
+      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI",
-        "Tooling"
+        "Developer"
       ]
     },
     {
@@ -40,8 +38,44 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "shubhamsaboo",
+      "id": "marcusquinn",
       "rank": "#03",
+      "name": "Marcus Quinn",
+      "username": "marcusquinn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6428977?s=96&v=4",
+      "url": "https://github.com/marcusquinn",
+      "popularRepository": {
+        "name": "aidevops",
+        "url": "https://github.com/marcusquinn/aidevops",
+        "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development.…"
+      },
+      "why": "Marcus Quinn is trending because their repository aidevops is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "lfnovo",
+      "rank": "#04",
+      "name": "Luis Novo",
+      "username": "lfnovo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/579178?s=96&v=4",
+      "url": "https://github.com/lfnovo",
+      "popularRepository": {
+        "name": "open-notebook",
+        "url": "https://github.com/lfnovo/open-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+      },
+      "why": "Luis Novo is trending because their repository open-notebook is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "shubhamsaboo",
+      "rank": "#05",
       "name": "Shubham Saboo",
       "username": "Shubhamsaboo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31396011?s=96&v=4",
@@ -59,72 +93,18 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "neptunehub",
-      "rank": "#04",
-      "name": "NeptuneHub",
-      "username": "NeptuneHub",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/171392533?s=96&v=4",
-      "url": "https://github.com/NeptuneHub",
-      "popularRepository": {
-        "name": "AudioMuse-AI",
-        "url": "https://github.com/NeptuneHub/AudioMuse-AI",
-        "description": "AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligen…"
-      },
-      "why": "NeptuneHub is trending because their repository AudioMuse-AI is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "zhukunpenglinyutong",
-      "rank": "#05",
-      "name": "朱昆鹏",
-      "username": "zhukunpenglinyutong",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31264015?s=96&v=4",
-      "url": "https://github.com/zhukunpenglinyutong",
-      "popularRepository": {
-        "name": "jetbrains-cc-gui",
-        "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
-        "description": "Jetbrains Claude Code and Codex GUI Plugin"
-      },
-      "why": "朱昆鹏 is trending because their repository jetbrains-cc-gui is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "danielmeppiel",
+      "id": "maziyarpanahi",
       "rank": "#06",
-      "name": "Daniel Meppiel",
-      "username": "danielmeppiel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/51440732?s=96&v=4",
-      "url": "https://github.com/danielmeppiel",
+      "name": "Maziyar Panahi",
+      "username": "maziyarpanahi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
+      "url": "https://github.com/maziyarpanahi",
       "popularRepository": {
-        "name": "agentic-sdlc-handbook",
-        "url": "https://github.com/danielmeppiel/agentic-sdlc-handbook",
-        "description": "The Agentic SDLC Handbook — dual-audience guide for C-suite and practitioners"
+        "name": "openmed",
+        "url": "https://github.com/maziyarpanahi/openmed",
+        "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 1,000+ medical models, 12 languages, Appl…"
       },
-      "why": "Daniel Meppiel is trending because their repository agentic-sdlc-handbook is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "mvanhorn",
-      "rank": "#07",
-      "name": "Matt Van Horn",
-      "username": "mvanhorn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
-      "url": "https://github.com/mvanhorn",
-      "popularRepository": {
-        "name": "last30days-skill",
-        "url": "https://github.com/mvanhorn/last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
-      },
-      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
+      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI",
@@ -132,109 +112,91 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "lfnovo",
-      "rank": "#08",
-      "name": "Luis Novo",
-      "username": "lfnovo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/579178?s=96&v=4",
-      "url": "https://github.com/lfnovo",
+      "id": "louistrue",
+      "rank": "#07",
+      "name": "Louis Trümpler",
+      "username": "louistrue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/78563314?s=96&v=4",
+      "url": "https://github.com/louistrue",
       "popularRepository": {
-        "name": "open-notebook",
-        "url": "https://github.com/lfnovo/open-notebook",
-        "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+        "name": "ifc-flow",
+        "url": "https://github.com/louistrue/ifc-flow",
+        "description": "A visual node-based tool for working with Industry Foundation Classes (IFC) files"
       },
-      "why": "Luis Novo is trending because their repository open-notebook is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "max-sixty",
-      "rank": "#09",
-      "name": "Maximilian Roos",
-      "username": "max-sixty",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
-      "url": "https://github.com/max-sixty",
-      "popularRepository": {
-        "name": "worktrunk",
-        "url": "https://github.com/max-sixty/worktrunk",
-        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
-      },
-      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "mattsse",
-      "rank": "#10",
-      "name": "Matthias Seitz",
-      "username": "mattsse",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19890894?s=96&v=4",
-      "url": "https://github.com/mattsse",
-      "popularRepository": {
-        "name": "chromiumoxide",
-        "url": "https://github.com/mattsse/chromiumoxide",
-        "description": "Chrome Devtools Protocol rust API"
-      },
-      "why": "Matthias Seitz is trending because their repository chromiumoxide is receiving visible attention on GitHub today.",
+      "why": "Louis Trümpler is trending because their repository ifc-flow is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "Tooling"
       ]
     },
     {
-      "id": "koaning",
-      "rank": "#11",
-      "name": "vincent d warmerdam",
-      "username": "koaning",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1019791?s=96&v=4",
-      "url": "https://github.com/koaning",
+      "id": "hrydgard",
+      "rank": "#08",
+      "name": "Henrik Rydgård",
+      "username": "hrydgard",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/130929?s=96&v=4",
+      "url": "https://github.com/hrydgard",
       "popularRepository": {
-        "name": "wigglystuff",
-        "url": "https://github.com/koaning/wigglystuff",
-        "description": "A collection of creative AnyWidgets for Python notebook environments"
+        "name": "ppsspp",
+        "url": "https://github.com/hrydgard/ppsspp",
+        "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
       },
-      "why": "vincent d warmerdam is trending because their repository wigglystuff is receiving visible attention on GitHub today.",
+      "why": "Henrik Rydgård is trending because their repository ppsspp is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "robobun",
-      "rank": "#12",
-      "name": "robobun",
-      "username": "robobun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/117481402?s=96&v=4",
-      "url": "https://github.com/robobun",
+      "id": "agoodkind",
+      "rank": "#09",
+      "name": "Alex Goodkind",
+      "username": "agoodkind",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1017680?s=96&v=4",
+      "url": "https://github.com/agoodkind",
       "popularRepository": null,
-      "why": "robobun is trending because GitHub users are visiting and following their work today.",
+      "why": "Alex Goodkind is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "wszqkzqk",
-      "rank": "#13",
-      "name": "wszqkzqk",
-      "username": "wszqkzqk",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12961135?s=96&v=4",
-      "url": "https://github.com/wszqkzqk",
+      "id": "twpayne",
+      "rank": "#10",
+      "name": "Tom Payne",
+      "username": "twpayne",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6942?s=96&v=4",
+      "url": "https://github.com/twpayne",
       "popularRepository": {
-        "name": "PvZ-Portable",
-        "url": "https://github.com/wszqkzqk/PvZ-Portable",
-        "description": "A cross-platform reimplementation of Plants vs. Zombies by the community. Aiming to bring 100% authentic experience of GOTY edition."
+        "name": "chezmoi",
+        "url": "https://github.com/twpayne/chezmoi",
+        "description": "Manage your dotfiles across multiple diverse machines, securely."
       },
-      "why": "wszqkzqk is trending because their repository PvZ-Portable is receiving visible attention on GitHub today.",
+      "why": "Tom Payne is trending because their repository chezmoi is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "mwaskom",
+      "rank": "#11",
+      "name": "Michael Waskom",
+      "username": "mwaskom",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/315810?s=96&v=4",
+      "url": "https://github.com/mwaskom",
+      "popularRepository": {
+        "name": "seaborn",
+        "url": "https://github.com/mwaskom/seaborn",
+        "description": "Statistical data visualization in Python"
+      },
+      "why": "Michael Waskom is trending because their repository seaborn is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "Data"
       ]
     },
     {
       "id": "deusdata",
-      "rank": "#14",
+      "rank": "#12",
       "name": "Martin Vogel",
       "username": "DeusData",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=96&v=4",
@@ -248,6 +210,42 @@ window.trendingDevelopers = {
       "tags": [
         "Developer",
         "Data"
+      ]
+    },
+    {
+      "id": "alan-thegentleman",
+      "rank": "#13",
+      "name": "Alan Buscaglia",
+      "username": "Alan-TheGentleman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6935240?s=96&v=4",
+      "url": "https://github.com/Alan-TheGentleman",
+      "popularRepository": {
+        "name": "gentleman-book-mcp",
+        "url": "https://github.com/Alan-TheGentleman/gentleman-book-mcp",
+        "description": "MCP Server for Gentleman Programming Book - Give AI assistants direct access to 18 chapters of software architecture knowledge"
+      },
+      "why": "Alan Buscaglia is trending because their repository gentleman-book-mcp is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "scottcjn",
+      "rank": "#14",
+      "name": "AutoJanitor",
+      "username": "Scottcjn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121303252?s=96&v=4",
+      "url": "https://github.com/Scottcjn",
+      "popularRepository": {
+        "name": "Rustchain",
+        "url": "https://github.com/Scottcjn/Rustchain",
+        "description": "DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-powered hardware fingerprinting, 15+ C…"
+      },
+      "why": "AutoJanitor is trending because their repository Rustchain is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
       ]
     }
   ]
