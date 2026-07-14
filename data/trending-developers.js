@@ -1,27 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-07-13T03:59:45.214Z",
+  "updatedAt": "2026-07-14T03:33:47.989Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "poteto",
-      "rank": "#01",
-      "name": "lauren",
-      "username": "poteto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
-      "url": "https://github.com/poteto",
-      "popularRepository": {
-        "name": "hiring-without-whiteboards",
-        "url": "https://github.com/poteto/hiring-without-whiteboards",
-        "description": "⭐️ Companies that don't have a broken hiring process"
-      },
-      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "colemurray",
-      "rank": "#02",
+      "rank": "#01",
       "name": "Cole Murray",
       "username": "ColeMurray",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?s=96&v=4",
@@ -38,8 +21,60 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "marcusquinn",
+      "id": "alan-thegentleman",
+      "rank": "#02",
+      "name": "Alan Buscaglia",
+      "username": "Alan-TheGentleman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6935240?s=96&v=4",
+      "url": "https://github.com/Alan-TheGentleman",
+      "popularRepository": {
+        "name": "gentleman-book-mcp",
+        "url": "https://github.com/Alan-TheGentleman/gentleman-book-mcp",
+        "description": "MCP Server for Gentleman Programming Book - Give AI assistants direct access to 18 chapters of software architecture knowledge"
+      },
+      "why": "Alan Buscaglia is trending because their repository gentleman-book-mcp is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "lfnovo",
       "rank": "#03",
+      "name": "Luis Novo",
+      "username": "lfnovo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/579178?s=96&v=4",
+      "url": "https://github.com/lfnovo",
+      "popularRepository": {
+        "name": "open-notebook",
+        "url": "https://github.com/lfnovo/open-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+      },
+      "why": "Luis Novo is trending because their repository open-notebook is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "krille-chan",
+      "rank": "#04",
+      "name": "Krille-chan",
+      "username": "krille-chan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24619905?s=96&v=4",
+      "url": "https://github.com/krille-chan",
+      "popularRepository": {
+        "name": "fluffychat",
+        "url": "https://github.com/krille-chan/fluffychat",
+        "description": "The cutest instant messenger in the [matrix]"
+      },
+      "why": "Krille-chan is trending because their repository fluffychat is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "marcusquinn",
+      "rank": "#05",
       "name": "Marcus Quinn",
       "username": "marcusquinn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6428977?s=96&v=4",
@@ -57,25 +92,25 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "lfnovo",
-      "rank": "#04",
-      "name": "Luis Novo",
-      "username": "lfnovo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/579178?s=96&v=4",
-      "url": "https://github.com/lfnovo",
+      "id": "poteto",
+      "rank": "#06",
+      "name": "lauren",
+      "username": "poteto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
+      "url": "https://github.com/poteto",
       "popularRepository": {
-        "name": "open-notebook",
-        "url": "https://github.com/lfnovo/open-notebook",
-        "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+        "name": "hiring-without-whiteboards",
+        "url": "https://github.com/poteto/hiring-without-whiteboards",
+        "description": "⭐️ Companies that don't have a broken hiring process"
       },
-      "why": "Luis Novo is trending because their repository open-notebook is receiving visible attention on GitHub today.",
+      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "shubhamsaboo",
-      "rank": "#05",
+      "rank": "#07",
       "name": "Shubham Saboo",
       "username": "Shubhamsaboo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31396011?s=96&v=4",
@@ -93,62 +128,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "maziyarpanahi",
-      "rank": "#06",
-      "name": "Maziyar Panahi",
-      "username": "maziyarpanahi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
-      "url": "https://github.com/maziyarpanahi",
-      "popularRepository": {
-        "name": "openmed",
-        "url": "https://github.com/maziyarpanahi/openmed",
-        "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 1,000+ medical models, 12 languages, Appl…"
-      },
-      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "louistrue",
-      "rank": "#07",
-      "name": "Louis Trümpler",
-      "username": "louistrue",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/78563314?s=96&v=4",
-      "url": "https://github.com/louistrue",
-      "popularRepository": {
-        "name": "ifc-flow",
-        "url": "https://github.com/louistrue/ifc-flow",
-        "description": "A visual node-based tool for working with Industry Foundation Classes (IFC) files"
-      },
-      "why": "Louis Trümpler is trending because their repository ifc-flow is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "hrydgard",
-      "rank": "#08",
-      "name": "Henrik Rydgård",
-      "username": "hrydgard",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/130929?s=96&v=4",
-      "url": "https://github.com/hrydgard",
-      "popularRepository": {
-        "name": "ppsspp",
-        "url": "https://github.com/hrydgard/ppsspp",
-        "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
-      },
-      "why": "Henrik Rydgård is trending because their repository ppsspp is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "agoodkind",
-      "rank": "#09",
+      "rank": "#08",
       "name": "Alex Goodkind",
       "username": "agoodkind",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1017680?s=96&v=4",
@@ -160,89 +141,105 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "twpayne",
-      "rank": "#10",
-      "name": "Tom Payne",
-      "username": "twpayne",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6942?s=96&v=4",
-      "url": "https://github.com/twpayne",
+      "id": "majiayu000",
+      "rank": "#09",
+      "name": "lif",
+      "username": "majiayu000",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19658300?s=96&v=4",
+      "url": "https://github.com/majiayu000",
       "popularRepository": {
-        "name": "chezmoi",
-        "url": "https://github.com/twpayne/chezmoi",
-        "description": "Manage your dotfiles across multiple diverse machines, securely."
+        "name": "claude-skill-registry",
+        "url": "https://github.com/majiayu000/claude-skill-registry",
+        "description": "The most comprehensive Claude Code skills registry | Web Search: https://majiayu000.github.io/claude-skill-registry-core/"
       },
-      "why": "Tom Payne is trending because their repository chezmoi is receiving visible attention on GitHub today.",
+      "why": "lif is trending because their repository claude-skill-registry is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "barre",
+      "rank": "#10",
+      "name": "Pierre Barre",
+      "username": "Barre",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45085843?s=96&v=4",
+      "url": "https://github.com/Barre",
+      "popularRepository": {
+        "name": "ZeroFS",
+        "url": "https://github.com/Barre/ZeroFS",
+        "description": "ZeroFS: A log-structured filesystem for S3. ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block dev…"
+      },
+      "why": "Pierre Barre is trending because their repository ZeroFS is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "mwaskom",
+      "id": "dalathegreat",
       "rank": "#11",
-      "name": "Michael Waskom",
-      "username": "mwaskom",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/315810?s=96&v=4",
-      "url": "https://github.com/mwaskom",
+      "name": "Daniel Öster",
+      "username": "dalathegreat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26695010?s=96&v=4",
+      "url": "https://github.com/dalathegreat",
       "popularRepository": {
-        "name": "seaborn",
-        "url": "https://github.com/mwaskom/seaborn",
-        "description": "Statistical data visualization in Python"
+        "name": "Battery-Emulator",
+        "url": "https://github.com/dalathegreat/Battery-Emulator",
+        "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
       },
-      "why": "Michael Waskom is trending because their repository seaborn is receiving visible attention on GitHub today.",
+      "why": "Daniel Öster is trending because their repository Battery-Emulator is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "Data"
+        "Developer"
       ]
     },
     {
-      "id": "deusdata",
+      "id": "soju06",
       "rank": "#12",
-      "name": "Martin Vogel",
-      "username": "DeusData",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=96&v=4",
-      "url": "https://github.com/DeusData",
+      "name": "Soju06",
+      "username": "Soju06",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34199905?s=96&v=4",
+      "url": "https://github.com/Soju06",
       "popularRepository": {
-        "name": "codebase-memory-mcp",
-        "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 la…"
+        "name": "codex-lb",
+        "url": "https://github.com/Soju06/codex-lb",
+        "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints"
       },
-      "why": "Martin Vogel is trending because their repository codebase-memory-mcp is receiving visible attention on GitHub today.",
+      "why": "Soju06 is trending because their repository codex-lb is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "Data"
+        "Developer"
       ]
     },
     {
-      "id": "alan-thegentleman",
+      "id": "sozercan",
       "rank": "#13",
-      "name": "Alan Buscaglia",
-      "username": "Alan-TheGentleman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6935240?s=96&v=4",
-      "url": "https://github.com/Alan-TheGentleman",
+      "name": "Sertaç Özercan",
+      "username": "sozercan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/852750?s=96&v=4",
+      "url": "https://github.com/sozercan",
       "popularRepository": {
-        "name": "gentleman-book-mcp",
-        "url": "https://github.com/Alan-TheGentleman/gentleman-book-mcp",
-        "description": "MCP Server for Gentleman Programming Book - Give AI assistants direct access to 18 chapters of software architecture knowledge"
+        "name": "kaset",
+        "url": "https://github.com/sozercan/kaset",
+        "description": "📼 The missing YouTube and YouTube Music macOS app"
       },
-      "why": "Alan Buscaglia is trending because their repository gentleman-book-mcp is receiving visible attention on GitHub today.",
+      "why": "Sertaç Özercan is trending because their repository kaset is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "Web"
       ]
     },
     {
-      "id": "scottcjn",
+      "id": "danielmeppiel",
       "rank": "#14",
-      "name": "AutoJanitor",
-      "username": "Scottcjn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/121303252?s=96&v=4",
-      "url": "https://github.com/Scottcjn",
+      "name": "Daniel Meppiel",
+      "username": "danielmeppiel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51440732?s=96&v=4",
+      "url": "https://github.com/danielmeppiel",
       "popularRepository": {
-        "name": "Rustchain",
-        "url": "https://github.com/Scottcjn/Rustchain",
-        "description": "DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-powered hardware fingerprinting, 15+ C…"
+        "name": "agentic-sdlc-handbook",
+        "url": "https://github.com/danielmeppiel/agentic-sdlc-handbook",
+        "description": "The Agentic SDLC Handbook — dual-audience guide for C-suite and practitioners"
       },
-      "why": "AutoJanitor is trending because their repository Rustchain is receiving visible attention on GitHub today.",
+      "why": "Daniel Meppiel is trending because their repository agentic-sdlc-handbook is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
