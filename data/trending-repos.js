@@ -1,7 +1,45 @@
 window.trendingRepos = {
-  "updatedAt": "2026-07-21T03:45:01.647Z",
+  "updatedAt": "2026-07-22T03:46:03.929Z",
   "source": "https://github.com/trending?since=daily",
   "repositories": [
+    {
+      "id": "worldmonitor",
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "title": "koala73 / worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 65929,
+      "forks": 10244,
+      "starsToday": 1295,
+      "url": "https://github.com/koala73/worldmonitor",
+      "rank": "#01",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "AI"
+      ]
+    },
+    {
+      "id": "ai-agent-book",
+      "owner": "bojieli",
+      "name": "ai-agent-book",
+      "title": "bojieli / ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars": 15298,
+      "forks": 1439,
+      "starsToday": 4624,
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "rank": "#02",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI"
+      ]
+    },
     {
       "id": "code-review-graph",
       "owner": "tirth8205",
@@ -9,11 +47,11 @@ window.trendingRepos = {
       "title": "tirth8205 / code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars": 23500,
-      "forks": 2287,
-      "starsToday": 1833,
+      "stars": 24723,
+      "forks": 2361,
+      "starsToday": 1925,
       "url": "https://github.com/tirth8205/code-review-graph",
-      "rank": "#01",
+      "rank": "#03",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -23,17 +61,55 @@ window.trendingRepos = {
       ]
     },
     {
+      "id": "i-have-adhd",
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "title": "ayghri / i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "Unknown",
+      "stars": 7075,
+      "forks": 299,
+      "starsToday": 1866,
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "rank": "#04",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Unknown repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Unknown",
+        "AI"
+      ]
+    },
+    {
+      "id": "text-to-cad",
+      "owner": "earthtojake",
+      "name": "text-to-cad",
+      "title": "earthtojake / text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars": 9241,
+      "forks": 1029,
+      "starsToday": 291,
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "rank": "#05",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "JavaScript",
+        "AI"
+      ]
+    },
+    {
       "id": "jcode",
       "owner": "1jehuang",
       "name": "jcode",
       "title": "1jehuang / jcode",
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
-      "stars": 9756,
-      "forks": 1087,
-      "starsToday": 568,
+      "stars": 10416,
+      "forks": 1144,
+      "starsToday": 843,
       "url": "https://github.com/1jehuang/jcode",
-      "rank": "#02",
+      "rank": "#06",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -42,176 +118,22 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "omniroute",
-      "owner": "diegosouzapw",
-      "name": "OmniRoute",
-      "title": "diegosouzapw / OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "id": "openship",
+      "owner": "oblien",
+      "name": "openship",
+      "title": "oblien / openship",
+      "description": "Self-hosted deployment platform",
       "language": "TypeScript",
-      "stars": 22093,
-      "forks": 2985,
-      "starsToday": 1107,
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "rank": "#03",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
-        "AI"
-      ]
-    },
-    {
-      "id": "ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "name": "ai-engineering-from-scratch",
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars": 40686,
-      "forks": 6747,
-      "starsToday": 823,
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "rank": "#04",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI",
-        "Learning"
-      ]
-    },
-    {
-      "id": "agency-agents",
-      "owner": "msitarzewski",
-      "name": "agency-agents",
-      "title": "msitarzewski / agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars": 134846,
-      "forks": 21982,
-      "starsToday": 862,
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "rank": "#05",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Shell",
-        "AI"
-      ]
-    },
-    {
-      "id": "ktransformers",
-      "owner": "kvcache-ai",
-      "name": "ktransformers",
-      "title": "kvcache-ai / ktransformers",
-      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-      "language": "Python",
-      "stars": 18764,
-      "forks": 1463,
-      "starsToday": 458,
-      "url": "https://github.com/kvcache-ai/ktransformers",
-      "rank": "#06",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "voicebox",
-      "owner": "jamiepine",
-      "name": "voicebox",
-      "title": "jamiepine / voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars": 44313,
-      "forks": 5385,
-      "starsToday": 821,
-      "url": "https://github.com/jamiepine/voicebox",
+      "stars": 6369,
+      "forks": 458,
+      "starsToday": 1562,
+      "url": "https://github.com/oblien/openship",
       "rank": "#07",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
-        "AI",
-        "Open source"
-      ]
-    },
-    {
-      "id": "cognee",
-      "owner": "topoteretes",
-      "name": "cognee",
-      "title": "topoteretes / cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "language": "Python",
-      "stars": 28848,
-      "forks": 2746,
-      "starsToday": 234,
-      "url": "https://github.com/topoteretes/cognee",
-      "rank": "#08",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI",
-        "Open source"
-      ]
-    },
-    {
-      "id": "lingbot-map",
-      "owner": "Robbyant",
-      "name": "lingbot-map",
-      "title": "Robbyant / lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "stars": 14332,
-      "forks": 1487,
-      "starsToday": 565,
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "rank": "#09",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python"
-      ]
-    },
-    {
-      "id": "open-seo",
-      "owner": "every-app",
-      "name": "open-seo",
-      "title": "every-app / open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "stars": 5974,
-      "forks": 655,
-      "starsToday": 939,
-      "url": "https://github.com/every-app/open-seo",
-      "rank": "#10",
-      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
       "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
         "TypeScript",
         "Open source"
-      ]
-    },
-    {
-      "id": "kimi-cli",
-      "owner": "MoonshotAI",
-      "name": "kimi-cli",
-      "title": "MoonshotAI / kimi-cli",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "language": "Python",
-      "stars": 10288,
-      "forks": 1223,
-      "starsToday": 410,
-      "url": "https://github.com/MoonshotAI/kimi-cli",
-      "rank": "#11",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI"
       ]
     },
     {
@@ -221,11 +143,11 @@ window.trendingRepos = {
       "title": "AstrBotDevs / AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
-      "stars": 37164,
-      "forks": 2585,
-      "starsToday": 317,
+      "stars": 37540,
+      "forks": 2617,
+      "starsToday": 416,
       "url": "https://github.com/AstrBotDevs/AstrBot",
-      "rank": "#12",
+      "rank": "#08",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -235,40 +157,114 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "fastmcp",
-      "owner": "PrefectHQ",
-      "name": "fastmcp",
-      "title": "PrefectHQ / fastmcp",
-      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
-      "language": "Python",
-      "stars": 26586,
-      "forks": 2165,
-      "starsToday": 96,
-      "url": "https://github.com/PrefectHQ/fastmcp",
-      "rank": "#13",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python"
-      ]
-    },
-    {
-      "id": "wigolo",
-      "owner": "KnockOutEZ",
-      "name": "wigolo",
-      "title": "KnockOutEZ / wigolo",
-      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "id": "open-seo",
+      "owner": "every-app",
+      "name": "open-seo",
+      "title": "every-app / open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars": 2636,
-      "forks": 155,
-      "starsToday": 689,
-      "url": "https://github.com/KnockOutEZ/wigolo",
-      "rank": "#14",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "stars": 6660,
+      "forks": 717,
+      "starsToday": 849,
+      "url": "https://github.com/every-app/open-seo",
+      "rank": "#09",
+      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
       "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
         "TypeScript",
+        "Open source"
+      ]
+    },
+    {
+      "id": "tradingview-mcp",
+      "owner": "tradesdontlie",
+      "name": "tradingview-mcp",
+      "title": "tradesdontlie / tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars": 4893,
+      "forks": 2178,
+      "starsToday": 114,
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "rank": "#10",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "JavaScript",
         "AI"
+      ]
+    },
+    {
+      "id": "llmfit",
+      "owner": "AlexsJones",
+      "name": "llmfit",
+      "title": "AlexsJones / llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars": 30269,
+      "forks": 1844,
+      "starsToday": 129,
+      "url": "https://github.com/AlexsJones/llmfit",
+      "rank": "#11",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Rust",
+        "AI"
+      ]
+    },
+    {
+      "id": "hyprland",
+      "owner": "hyprwm",
+      "name": "Hyprland",
+      "title": "hyprwm / Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": 37074,
+      "forks": 1862,
+      "starsToday": 58,
+      "url": "https://github.com/hyprwm/Hyprland",
+      "rank": "#12",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving C++ repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "C++"
+      ]
+    },
+    {
+      "id": "apollo-11",
+      "owner": "chrislgarry",
+      "name": "Apollo-11",
+      "title": "chrislgarry / Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 70012,
+      "forks": 7845,
+      "starsToday": 1235,
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "rank": "#13",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Assembly repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Assembly"
+      ]
+    },
+    {
+      "id": "dioxus",
+      "owner": "DioxusLabs",
+      "name": "dioxus",
+      "title": "DioxusLabs / dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars": 37722,
+      "forks": 1778,
+      "starsToday": 271,
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "rank": "#14",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Rust"
       ]
     }
   ]
