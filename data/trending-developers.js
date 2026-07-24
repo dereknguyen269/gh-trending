@@ -1,5 +1,5 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-07-23T03:44:23.418Z",
+  "updatedAt": "2026-07-24T03:44:07.520Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
@@ -20,8 +20,46 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "koala73",
+      "id": "maziyarpanahi",
       "rank": "#02",
+      "name": "Maziyar Panahi",
+      "username": "maziyarpanahi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
+      "url": "https://github.com/maziyarpanahi",
+      "popularRepository": {
+        "name": "openmed",
+        "url": "https://github.com/maziyarpanahi/openmed",
+        "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Appl…"
+      },
+      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "mvanhorn",
+      "rank": "#03",
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
+      "url": "https://github.com/mvanhorn",
+      "popularRepository": {
+        "name": "last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+      },
+      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "koala73",
+      "rank": "#04",
       "name": "Elie Habib",
       "username": "koala73",
       "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
@@ -39,7 +77,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "ruvnet",
-      "rank": "#03",
+      "rank": "#05",
       "name": "rUv",
       "username": "ruvnet",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
@@ -55,41 +93,6 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "vitali87",
-      "rank": "#04",
-      "name": "Vitali Avagyan",
-      "username": "vitali87",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22404335?s=96&v=4",
-      "url": "https://github.com/vitali87",
-      "popularRepository": {
-        "name": "code-graph-rag",
-        "url": "https://github.com/vitali87/code-graph-rag",
-        "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs"
-      },
-      "why": "Vitali Avagyan is trending because their repository code-graph-rag is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "momo5502",
-      "rank": "#05",
-      "name": "Maurice Heumann",
-      "username": "momo5502",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4027748?s=96&v=4",
-      "url": "https://github.com/momo5502",
-      "popularRepository": {
-        "name": "sogen",
-        "url": "https://github.com/momo5502/sogen",
-        "description": "🪅 Windows & Linux userspace emulator"
-      },
-      "why": "Maurice Heumann is trending because their repository sogen is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "raullenchai",
       "rank": "#06",
       "name": "Raullen Chai",
@@ -97,82 +100,60 @@ window.trendingDevelopers = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
       "url": "https://github.com/raullenchai",
       "popularRepository": {
-        "name": "Agent-Reach",
-        "url": "https://github.com/raullenchai/Agent-Reach",
-        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero…"
+        "name": "Rapid-MLX",
+        "url": "https://github.com/raullenchai/Rapid-MLX",
+        "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cac…"
       },
-      "why": "Raullen Chai is trending because their repository Agent-Reach is receiving visible attention on GitHub today.",
+      "why": "Raullen Chai is trending because their repository Rapid-MLX is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "AI",
+        "Tooling"
       ]
     },
     {
-      "id": "charliermarsh",
+      "id": "itsthisjustin",
       "rank": "#07",
-      "name": "Charlie Marsh",
-      "username": "charliermarsh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1309177?s=96&v=4",
-      "url": "https://github.com/charliermarsh",
-      "popularRepository": {
-        "name": "crossterm",
-        "url": "https://github.com/charliermarsh/crossterm",
-        "description": "Cross platform terminal library rust"
-      },
-      "why": "Charlie Marsh is trending because their repository crossterm is receiving visible attention on GitHub today.",
+      "name": "Justin Mitchell",
+      "username": "itsthisjustin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1875695?s=96&v=4",
+      "url": "https://github.com/itsthisjustin",
+      "popularRepository": null,
+      "why": "Justin Mitchell is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "perminder-klair",
+      "id": "eddyizm",
       "rank": "#08",
-      "name": "Parminder Klair",
-      "username": "perminder-klair",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3984412?s=96&v=4",
-      "url": "https://github.com/perminder-klair",
+      "name": "eddyizm",
+      "username": "eddyizm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12236892?s=96&v=4",
+      "url": "https://github.com/eddyizm",
       "popularRepository": {
-        "name": "subwave",
-        "url": "https://github.com/perminder-klair/subwave",
-        "description": "Personal internet radio: Agentic AI DJ"
+        "name": "tempus",
+        "url": "https://github.com/eddyizm/tempus",
+        "description": "An open source and lightweight music client for Subsonic, designed and built natively for Android."
       },
-      "why": "Parminder Klair is trending because their repository subwave is receiving visible attention on GitHub today.",
+      "why": "eddyizm is trending because their repository tempus is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     },
     {
-      "id": "narumiruna",
+      "id": "simon-he95",
       "rank": "#09",
-      "name": "なるみ",
-      "username": "narumiruna",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4680567?s=96&v=4",
-      "url": "https://github.com/narumiruna",
+      "name": "Simon He",
+      "username": "Simon-He95",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57086651?s=96&v=4",
+      "url": "https://github.com/Simon-He95",
       "popularRepository": {
-        "name": "pi-extensions",
-        "url": "https://github.com/narumiruna/pi-extensions",
-        "description": "Independently installable Pi Coding Agent extensions for AI coding workflows: LSP diagnostics/code actions for TypeScript, JavaScript, Py…"
+        "name": "markstream-vue",
+        "url": "https://github.com/Simon-He95/markstream-vue",
+        "description": "Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, Shiki, Monac…"
       },
-      "why": "なるみ is trending because their repository pi-extensions is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "erickwendel",
-      "rank": "#10",
-      "name": "Erick Wendel",
-      "username": "ErickWendel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8060102?s=96&v=4",
-      "url": "https://github.com/ErickWendel",
-      "popularRepository": {
-        "name": "localstudio",
-        "url": "https://github.com/ErickWendel/localstudio",
-        "description": "Browser-only Canva-style presentation studio, powered by local Web AI."
-      },
-      "why": "Erick Wendel is trending because their repository localstudio is receiving visible attention on GitHub today.",
+      "why": "Simon He is trending because their repository markstream-vue is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI",
@@ -180,74 +161,91 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "oschwartz10612",
+      "id": "78",
+      "rank": "#10",
+      "name": "Xiaoxia",
+      "username": "78",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4488133?s=96&v=4",
+      "url": "https://github.com/78",
+      "popularRepository": {
+        "name": "xiaozhi-esp32",
+        "url": "https://github.com/78/xiaozhi-esp32",
+        "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人"
+      },
+      "why": "Xiaoxia is trending because their repository xiaozhi-esp32 is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "bradfitz",
       "rank": "#11",
-      "name": "Owen Schwartz",
-      "username": "oschwartz10612",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4999704?s=96&v=4",
-      "url": "https://github.com/oschwartz10612",
+      "name": "Brad Fitzpatrick",
+      "username": "bradfitz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2621?s=96&v=4",
+      "url": "https://github.com/bradfitz",
       "popularRepository": {
-        "name": "poppler-windows",
-        "url": "https://github.com/oschwartz10612/poppler-windows",
-        "description": "Download Poppler binaries packaged for Windows with dependencies"
+        "name": "gomemcache",
+        "url": "https://github.com/bradfitz/gomemcache",
+        "description": "Go Memcached client library #golang"
       },
-      "why": "Owen Schwartz is trending because their repository poppler-windows is receiving visible attention on GitHub today.",
+      "why": "Brad Fitzpatrick is trending because their repository gomemcache is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "andrewrabert",
+      "id": "kentcdodds",
       "rank": "#12",
-      "name": "Andrew Rabert",
-      "username": "andrewrabert",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6550543?s=96&v=4",
-      "url": "https://github.com/andrewrabert",
+      "name": "Kent C. Dodds",
+      "username": "kentcdodds",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1500684?s=96&v=4",
+      "url": "https://github.com/kentcdodds",
       "popularRepository": {
-        "name": "jellium-desktop",
-        "url": "https://github.com/andrewrabert/jellium-desktop",
-        "description": "An unofficial desktop client for Jellyfin"
+        "name": "kody",
+        "url": "https://github.com/kentcdodds/kody",
+        "description": "Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare …"
       },
-      "why": "Andrew Rabert is trending because their repository jellium-desktop is receiving visible attention on GitHub today.",
+      "why": "Kent C. Dodds is trending because their repository kody is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
       ]
     },
     {
-      "id": "jbaruch",
+      "id": "catsjuice",
       "rank": "#13",
-      "name": "Baruch Sadogursky",
-      "username": "jbaruch",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/247332?s=96&v=4",
-      "url": "https://github.com/jbaruch",
+      "name": "Cats Juice",
+      "username": "CatsJuice",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39363750?s=96&v=4",
+      "url": "https://github.com/CatsJuice",
       "popularRepository": {
-        "name": "speaker-toolkit",
-        "url": "https://github.com/jbaruch/speaker-toolkit",
-        "description": "Two-skill presentation system: analyze your speaking style into a rhetoric knowledge vault, then create new presentations that match your…"
+        "name": "sticker-forge",
+        "url": "https://github.com/CatsJuice/sticker-forge",
+        "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics."
       },
-      "why": "Baruch Sadogursky is trending because their repository speaker-toolkit is receiving visible attention on GitHub today.",
+      "why": "Cats Juice is trending because their repository sticker-forge is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Tooling"
+        "Web"
       ]
     },
     {
-      "id": "zhulinsen",
+      "id": "max-sixty",
       "rank": "#14",
-      "name": "zhulinsen",
-      "username": "ZhuLinsen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=96&v=4",
-      "url": "https://github.com/ZhuLinsen",
+      "name": "Maximilian Roos",
+      "username": "max-sixty",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
+      "url": "https://github.com/max-sixty",
       "popularRepository": {
-        "name": "daily_stock_analysis",
-        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time…"
+        "name": "worktrunk",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
       },
-      "why": "zhulinsen is trending because their repository daily_stock_analysis is receiving visible attention on GitHub today.",
+      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI",
-        "Data"
+        "AI"
       ]
     }
   ]
