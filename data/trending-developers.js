@@ -1,10 +1,23 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-07-27T04:01:55.851Z",
+  "updatedAt": "2026-07-28T03:35:21.260Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "max-sixty",
+      "id": "agoodkind",
       "rank": "#01",
+      "name": "Alex Goodkind",
+      "username": "agoodkind",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1017680?s=96&v=4",
+      "url": "https://github.com/agoodkind",
+      "popularRepository": null,
+      "why": "Alex Goodkind is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "max-sixty",
+      "rank": "#02",
       "name": "Maximilian Roos",
       "username": "max-sixty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
@@ -21,62 +34,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "777genius",
-      "rank": "#02",
-      "name": "Илия",
-      "username": "777genius",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13103045?s=96&v=4",
-      "url": "https://github.com/777genius",
-      "popularRepository": {
-        "name": "agent-teams-ai",
-        "url": "https://github.com/777genius/agent-teams-ai",
-        "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
-      },
-      "why": "Илия is trending because their repository agent-teams-ai is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "raullenchai",
-      "rank": "#03",
-      "name": "Raullen Chai",
-      "username": "raullenchai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
-      "url": "https://github.com/raullenchai",
-      "popularRepository": {
-        "name": "Rapid-MLX",
-        "url": "https://github.com/raullenchai/Rapid-MLX",
-        "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cac…"
-      },
-      "why": "Raullen Chai is trending because their repository Rapid-MLX is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "binaricat",
-      "rank": "#04",
-      "name": "陈大猫",
-      "username": "binaricat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16399091?s=96&v=4",
-      "url": "https://github.com/binaricat",
-      "popularRepository": {
-        "name": "Netcatty",
-        "url": "https://github.com/binaricat/Netcatty",
-        "description": "SSH workspace, SFTP, and terminals in one"
-      },
-      "why": "陈大猫 is trending because their repository Netcatty is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "pbakaus",
-      "rank": "#05",
+      "rank": "#03",
       "name": "Paul Bakaus",
       "username": "pbakaus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
@@ -93,92 +52,152 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "sanity",
-      "rank": "#06",
-      "name": "Ian Clarke",
-      "username": "sanity",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23075?s=96&v=4",
-      "url": "https://github.com/sanity",
+      "id": "zhulinsen",
+      "rank": "#04",
+      "name": "zhulinsen",
+      "username": "ZhuLinsen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=96&v=4",
+      "url": "https://github.com/ZhuLinsen",
       "popularRepository": {
-        "name": "renegade",
-        "url": "https://github.com/sanity/renegade",
-        "description": "Zero-config nonparametric supervised learning for Rust"
+        "name": "daily_stock_analysis",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time…"
       },
-      "why": "Ian Clarke is trending because their repository renegade is receiving visible attention on GitHub today.",
+      "why": "zhulinsen is trending because their repository daily_stock_analysis is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI",
+        "Data"
       ]
     },
     {
-      "id": "zzet",
-      "rank": "#07",
-      "name": "Andrew Kumanyaev",
-      "username": "zzet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/510788?s=96&v=4",
-      "url": "https://github.com/zzet",
+      "id": "colemurray",
+      "rank": "#05",
+      "name": "Cole Murray",
+      "username": "ColeMurray",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?s=96&v=4",
+      "url": "https://github.com/ColeMurray",
       "popularRepository": {
-        "name": "gortex",
-        "url": "https://github.com/zzet/gortex",
-        "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access …"
+        "name": "background-agents",
+        "url": "https://github.com/ColeMurray/background-agents",
+        "description": "An open-source background agents coding system"
       },
-      "why": "Andrew Kumanyaev is trending because their repository gortex is receiving visible attention on GitHub today.",
+      "why": "Cole Murray is trending because their repository background-agents is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "deusdata",
-      "rank": "#08",
-      "name": "Martin Vogel",
-      "username": "DeusData",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=96&v=4",
-      "url": "https://github.com/DeusData",
+      "id": "delano",
+      "rank": "#06",
+      "name": "Delano",
+      "username": "delano",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1206?s=96&v=4",
+      "url": "https://github.com/delano",
       "popularRepository": {
-        "name": "codebase-memory-mcp",
-        "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 la…"
+        "name": "drdad",
+        "url": "https://github.com/delano/drdad",
+        "description": "Daily Report of Developer Activity Data - Git productivity tracking with AI summaries"
       },
-      "why": "Martin Vogel is trending because their repository codebase-memory-mcp is receiving visible attention on GitHub today.",
+      "why": "Delano is trending because their repository drdad is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
+        "AI",
         "Data"
       ]
     },
     {
-      "id": "bdraco",
-      "rank": "#09",
-      "name": "J. Nick Koston",
-      "username": "bdraco",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/663432?s=96&v=4",
-      "url": "https://github.com/bdraco",
-      "popularRepository": null,
-      "why": "J. Nick Koston is trending because GitHub users are visiting and following their work today.",
+      "id": "777genius",
+      "rank": "#07",
+      "name": "Илия",
+      "username": "777genius",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13103045?s=96&v=4",
+      "url": "https://github.com/777genius",
+      "popularRepository": {
+        "name": "agent-teams-ai",
+        "url": "https://github.com/777genius/agent-teams-ai",
+        "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+      },
+      "why": "Илия is trending because their repository agent-teams-ai is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "cbcoutinho",
+      "rank": "#08",
+      "name": "Chris Coutinho",
+      "username": "cbcoutinho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12901868?s=96&v=4",
+      "url": "https://github.com/cbcoutinho",
+      "popularRepository": {
+        "name": "nextcloud-mcp-server",
+        "url": "https://github.com/cbcoutinho/nextcloud-mcp-server",
+        "description": "Nextcloud MCP Server"
+      },
+      "why": "Chris Coutinho is trending because their repository nextcloud-mcp-server is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "cmungall",
-      "rank": "#10",
-      "name": "Chris Mungall",
-      "username": "cmungall",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50745?s=96&v=4",
-      "url": "https://github.com/cmungall",
+      "id": "xpzouying",
+      "rank": "#09",
+      "name": "zy",
+      "username": "xpzouying",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3946563?s=96&v=4",
+      "url": "https://github.com/xpzouying",
       "popularRepository": {
-        "name": "owljs",
-        "url": "https://github.com/cmungall/owljs",
-        "description": "Javascript wrapper for the OWLAPI"
+        "name": "xiaohongshu-mcp",
+        "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+        "description": "MCP for xiaohongshu.com"
       },
-      "why": "Chris Mungall is trending because their repository owljs is receiving visible attention on GitHub today.",
+      "why": "zy is trending because their repository xiaohongshu-mcp is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "dashhuang",
+      "rank": "#10",
+      "name": "Dash",
+      "username": "dashhuang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125997726?s=96&v=4",
+      "url": "https://github.com/dashhuang",
+      "popularRepository": {
+        "name": "DisplayFill",
+        "url": "https://github.com/dashhuang/DisplayFill",
+        "description": "No popular repository description available."
+      },
+      "why": "Dash is trending because their repository DisplayFill is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Web"
+        "AI"
+      ]
+    },
+    {
+      "id": "jeswr",
+      "rank": "#11",
+      "name": "Jesse Wright",
+      "username": "jeswr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63333554?s=96&v=4",
+      "url": "https://github.com/jeswr",
+      "popularRepository": {
+        "name": "kernel-of-truth",
+        "url": "https://github.com/jeswr/kernel-of-truth",
+        "description": "Research programme: a training-free kernel of formalised concepts with canonical vectors for LLM/LCM architectures"
+      },
+      "why": "Jesse Wright is trending because their repository kernel-of-truth is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
       ]
     },
     {
       "id": "amir1376",
-      "rank": "#11",
+      "rank": "#12",
       "name": "AmirHossein Abdolmotallebi",
       "username": "amir1376",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38394888?s=96&v=4",
@@ -194,56 +213,33 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "backnotprop",
-      "rank": "#12",
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
-      "url": "https://github.com/backnotprop",
-      "popularRepository": {
-        "name": "plannotator",
-        "url": "https://github.com/backnotprop/plannotator",
-        "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click."
-      },
-      "why": "Michael Ramos is trending because their repository plannotator is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "coddingtonbear",
+      "id": "bdraco",
       "rank": "#13",
-      "name": "Adam Coddington",
-      "username": "coddingtonbear",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/527661?s=96&v=4",
-      "url": "https://github.com/coddingtonbear",
-      "popularRepository": {
-        "name": "obsidian-local-rest-api",
-        "url": "https://github.com/coddingtonbear/obsidian-local-rest-api",
-        "description": "A secure REST API and Model Context Protocol (MCP) server for your vault."
-      },
-      "why": "Adam Coddington is trending because their repository obsidian-local-rest-api is receiving visible attention on GitHub today.",
+      "name": "J. Nick Koston",
+      "username": "bdraco",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/663432?s=96&v=4",
+      "url": "https://github.com/bdraco",
+      "popularRepository": null,
+      "why": "J. Nick Koston is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "kim-em",
+      "id": "binaricat",
       "rank": "#14",
-      "name": "Kim Morrison",
-      "username": "kim-em",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/477956?s=96&v=4",
-      "url": "https://github.com/kim-em",
+      "name": "陈大猫",
+      "username": "binaricat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16399091?s=96&v=4",
+      "url": "https://github.com/binaricat",
       "popularRepository": {
-        "name": "lean-zip",
-        "url": "https://github.com/kim-em/lean-zip",
-        "description": "No popular repository description available."
+        "name": "Netcatty",
+        "url": "https://github.com/binaricat/Netcatty",
+        "description": "SSH workspace, SFTP, and terminals in one"
       },
-      "why": "Kim Morrison is trending because their repository lean-zip is receiving visible attention on GitHub today.",
+      "why": "陈大猫 is trending because their repository Netcatty is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     }
   ]
