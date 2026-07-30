@@ -1,41 +1,24 @@
 window.trendingRepos = {
-  "updatedAt": "2026-07-29T03:39:47.635Z",
+  "updatedAt": "2026-07-30T03:28:27.202Z",
   "source": "https://github.com/trending?since=daily",
   "repositories": [
     {
-      "id": "editor",
-      "owner": "pascalorg",
-      "name": "editor",
-      "title": "pascalorg / editor",
-      "description": "Create and share 3D architectural projects.",
+      "id": "geolibre",
+      "owner": "opengeos",
+      "name": "GeoLibre",
+      "title": "opengeos / GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
-      "stars": 18863,
-      "forks": 2535,
-      "starsToday": 341,
-      "url": "https://github.com/pascalorg/editor",
+      "stars": 4141,
+      "forks": 436,
+      "starsToday": 671,
+      "url": "https://github.com/opengeos/GeoLibre",
       "rank": "#01",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
       "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
-        "TypeScript"
-      ]
-    },
-    {
-      "id": "jenkins",
-      "owner": "jenkinsci",
-      "name": "jenkins",
-      "title": "jenkinsci / jenkins",
-      "description": "Jenkins automation server",
-      "language": "Java",
-      "stars": 26104,
-      "forks": 9688,
-      "starsToday": 180,
-      "url": "https://github.com/jenkinsci/jenkins",
-      "rank": "#02",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Java repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Java"
+        "TypeScript",
+        "Open source"
       ]
     },
     {
@@ -45,34 +28,15 @@ window.trendingRepos = {
       "title": "moeru-ai / airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars": 44871,
-      "forks": 4453,
-      "starsToday": 797,
+      "stars": 45473,
+      "forks": 4491,
+      "starsToday": 682,
       "url": "https://github.com/moeru-ai/airi",
-      "rank": "#03",
+      "rank": "#02",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
         "TypeScript",
-        "AI"
-      ]
-    },
-    {
-      "id": "aisuite",
-      "owner": "andrewyng",
-      "name": "aisuite",
-      "title": "andrewyng / aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "stars": 15719,
-      "forks": 1657,
-      "starsToday": 62,
-      "url": "https://github.com/andrewyng/aisuite",
-      "rank": "#04",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
         "AI"
       ]
     },
@@ -83,11 +47,11 @@ window.trendingRepos = {
       "title": "affaan-m / ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 234942,
-      "forks": 35796,
-      "starsToday": 636,
+      "stars": 235676,
+      "forks": 35882,
+      "starsToday": 857,
       "url": "https://github.com/affaan-m/ECC",
-      "rank": "#05",
+      "rank": "#03",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -97,35 +61,17 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "free-stockdb",
-      "owner": "hello245m",
-      "name": "free-stockdb",
-      "title": "hello245m / free-stockdb",
-      "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
-      "language": "HTML",
-      "stars": 1413,
-      "forks": 214,
-      "starsToday": 50,
-      "url": "https://github.com/hello245m/free-stockdb",
-      "rank": "#06",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving HTML repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "HTML"
-      ]
-    },
-    {
       "id": "speech-to-speech",
       "owner": "huggingface",
       "name": "speech-to-speech",
       "title": "huggingface / speech-to-speech",
       "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "stars": 7348,
-      "forks": 960,
-      "starsToday": 227,
+      "stars": 7959,
+      "forks": 1003,
+      "starsToday": 827,
       "url": "https://github.com/huggingface/speech-to-speech",
-      "rank": "#07",
+      "rank": "#04",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -135,17 +81,54 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "book-to-skill",
-      "owner": "virgiliojr94",
-      "name": "book-to-skill",
-      "title": "virgiliojr94 / book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "id": "jcode",
+      "owner": "1jehuang",
+      "name": "jcode",
+      "title": "1jehuang / jcode",
+      "description": "The most RAM efficient harness",
+      "language": "Rust",
+      "stars": 13555,
+      "forks": 1486,
+      "starsToday": 640,
+      "url": "https://github.com/1jehuang/jcode",
+      "rank": "#05",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Rust"
+      ]
+    },
+    {
+      "id": "snipe-it",
+      "owner": "grokability",
+      "name": "snipe-it",
+      "title": "grokability / snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "stars": 14494,
+      "forks": 3903,
+      "starsToday": 164,
+      "url": "https://github.com/grokability/snipe-it",
+      "rank": "#06",
+      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
+      "fit": "Developers evaluating fast-moving PHP repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "PHP",
+        "Open source"
+      ]
+    },
+    {
+      "id": "faceswap",
+      "owner": "deepfakes",
+      "name": "faceswap",
+      "title": "deepfakes / faceswap",
+      "description": "Deepfakes Software For All",
       "language": "Python",
-      "stars": 11611,
-      "forks": 1350,
-      "starsToday": 423,
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "rank": "#08",
+      "stars": 56395,
+      "forks": 13439,
+      "starsToday": 166,
+      "url": "https://github.com/deepfakes/faceswap",
+      "rank": "#07",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -153,21 +136,118 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "geolibre",
-      "owner": "opengeos",
-      "name": "GeoLibre",
-      "title": "opengeos / GeoLibre",
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "id": "vibevoice",
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "title": "microsoft / VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 51386,
+      "forks": 5718,
+      "starsToday": 336,
+      "url": "https://github.com/microsoft/VibeVoice",
+      "rank": "#08",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI",
+        "Open source"
+      ]
+    },
+    {
+      "id": "openwork",
+      "owner": "different-ai",
+      "name": "openwork",
+      "title": "different-ai / openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
-      "stars": 3480,
-      "forks": 397,
-      "starsToday": 607,
-      "url": "https://github.com/opengeos/GeoLibre",
+      "stars": 18042,
+      "forks": 1861,
+      "starsToday": 97,
+      "url": "https://github.com/different-ai/openwork",
       "rank": "#09",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
       "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
         "TypeScript",
+        "AI",
+        "Open source"
+      ]
+    },
+    {
+      "id": "superpowers",
+      "owner": "obra",
+      "name": "superpowers",
+      "title": "obra / superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 263380,
+      "forks": 23516,
+      "starsToday": 616,
+      "url": "https://github.com/obra/superpowers",
+      "rank": "#10",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Shell",
+        "AI"
+      ]
+    },
+    {
+      "id": "flashkda",
+      "owner": "MoonshotAI",
+      "name": "FlashKDA",
+      "title": "MoonshotAI / FlashKDA",
+      "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+      "language": "Cuda",
+      "stars": 1016,
+      "forks": 97,
+      "starsToday": 91,
+      "url": "https://github.com/MoonshotAI/FlashKDA",
+      "rank": "#11",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Cuda repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Cuda",
+        "AI"
+      ]
+    },
+    {
+      "id": "mediacrawler",
+      "owner": "NanmiCoder",
+      "name": "MediaCrawler",
+      "title": "NanmiCoder / MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 59173,
+      "forks": 11681,
+      "starsToday": 154,
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "rank": "#12",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python"
+      ]
+    },
+    {
+      "id": "open-code-review",
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "title": "alibaba / open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 16124,
+      "forks": 1085,
+      "starsToday": 359,
+      "url": "https://github.com/alibaba/open-code-review",
+      "rank": "#13",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Go repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Go",
+        "AI",
         "Open source"
       ]
     },
@@ -178,67 +258,11 @@ window.trendingRepos = {
       "title": "paperswithbacktest / awesome-systematic-trading",
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
       "language": "Python",
-      "stars": 9756,
-      "forks": 1302,
-      "starsToday": 309,
+      "stars": 10465,
+      "forks": 1352,
+      "starsToday": 945,
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "rank": "#10",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python"
-      ]
-    },
-    {
-      "id": "agent-governance-toolkit",
-      "owner": "microsoft",
-      "name": "agent-governance-toolkit",
-      "title": "microsoft / agent-governance-toolkit",
-      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-      "language": "Python",
-      "stars": 5270,
-      "forks": 838,
-      "starsToday": 46,
-      "url": "https://github.com/microsoft/agent-governance-toolkit",
-      "rank": "#11",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "superfile",
-      "owner": "yorukot",
-      "name": "superfile",
-      "title": "yorukot / superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "stars": 21550,
-      "forks": 698,
-      "starsToday": 662,
-      "url": "https://github.com/yorukot/superfile",
-      "rank": "#12",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Go repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Go"
-      ]
-    },
-    {
-      "id": "claude-video",
-      "owner": "bradautomates",
-      "name": "claude-video",
-      "title": "bradautomates / claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "stars": 12228,
-      "forks": 1223,
-      "starsToday": 988,
-      "url": "https://github.com/bradautomates/claude-video",
-      "rank": "#13",
+      "rank": "#14",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [

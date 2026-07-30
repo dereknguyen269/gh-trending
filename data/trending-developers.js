@@ -1,27 +1,58 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-07-29T03:39:47.635Z",
+  "updatedAt": "2026-07-30T03:28:27.202Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "binaricat",
+      "id": "jkomyno",
       "rank": "#01",
-      "name": "陈大猫",
-      "username": "binaricat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16399091?s=96&v=4",
-      "url": "https://github.com/binaricat",
+      "name": "Alberto Schiabel",
+      "username": "jkomyno",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12381818?s=96&v=4",
+      "url": "https://github.com/jkomyno",
+      "popularRepository": null,
+      "why": "Alberto Schiabel is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "kunchenguid",
+      "rank": "#02",
+      "name": "Kun Chen",
+      "username": "kunchenguid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3233006?s=96&v=4",
+      "url": "https://github.com/kunchenguid",
       "popularRepository": {
-        "name": "Netcatty",
-        "url": "https://github.com/binaricat/Netcatty",
-        "description": "SSH workspace, SFTP, and terminals in one"
+        "name": "firstmate",
+        "url": "https://github.com/kunchenguid/firstmate",
+        "description": "Talk to one agent. Ship with a crew."
       },
-      "why": "陈大猫 is trending because their repository Netcatty is receiving visible attention on GitHub today.",
+      "why": "Kun Chen is trending because their repository firstmate is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "amir1376",
+      "rank": "#03",
+      "name": "AmirHossein Abdolmotallebi",
+      "username": "amir1376",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38394888?s=96&v=4",
+      "url": "https://github.com/amir1376",
+      "popularRepository": {
+        "name": "ab-download-manager",
+        "url": "https://github.com/amir1376/ab-download-manager",
+        "description": "A Download Manager that speeds up your downloads"
+      },
+      "why": "AmirHossein Abdolmotallebi is trending because their repository ab-download-manager is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "elie222",
-      "rank": "#02",
+      "rank": "#04",
       "name": "Elie Steinbock",
       "username": "elie222",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
@@ -39,56 +70,20 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "xpzouying",
-      "rank": "#03",
-      "name": "zy",
-      "username": "xpzouying",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3946563?s=96&v=4",
-      "url": "https://github.com/xpzouying",
+      "id": "1jehuang",
+      "rank": "#05",
+      "name": "Jeremy Huang",
+      "username": "1jehuang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94247773?s=96&v=4",
+      "url": "https://github.com/1jehuang",
       "popularRepository": {
-        "name": "xiaohongshu-mcp",
-        "url": "https://github.com/xpzouying/xiaohongshu-mcp",
-        "description": "MCP for xiaohongshu.com"
+        "name": "jcode",
+        "url": "https://github.com/1jehuang/jcode",
+        "description": "The most RAM efficient harness"
       },
-      "why": "zy is trending because their repository xiaohongshu-mcp is receiving visible attention on GitHub today.",
+      "why": "Jeremy Huang is trending because their repository jcode is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
-      ]
-    },
-    {
-      "id": "dashhuang",
-      "rank": "#04",
-      "name": "Dash",
-      "username": "dashhuang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/125997726?s=96&v=4",
-      "url": "https://github.com/dashhuang",
-      "popularRepository": {
-        "name": "DisplayFill",
-        "url": "https://github.com/dashhuang/DisplayFill",
-        "description": "No popular repository description available."
-      },
-      "why": "Dash is trending because their repository DisplayFill is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "777genius",
-      "rank": "#05",
-      "name": "Илия",
-      "username": "777genius",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13103045?s=96&v=4",
-      "url": "https://github.com/777genius",
-      "popularRepository": {
-        "name": "agent-teams-ai",
-        "url": "https://github.com/777genius/agent-teams-ai",
-        "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
-      },
-      "why": "Илия is trending because their repository agent-teams-ai is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
       ]
     },
     {
@@ -110,61 +105,25 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "zzet",
+      "id": "xpzouying",
       "rank": "#07",
-      "name": "Andrew Kumanyaev",
-      "username": "zzet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/510788?s=96&v=4",
-      "url": "https://github.com/zzet",
+      "name": "zy",
+      "username": "xpzouying",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3946563?s=96&v=4",
+      "url": "https://github.com/xpzouying",
       "popularRepository": {
-        "name": "gortex",
-        "url": "https://github.com/zzet/gortex",
-        "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access …"
+        "name": "xiaohongshu-mcp",
+        "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+        "description": "MCP for xiaohongshu.com"
       },
-      "why": "Andrew Kumanyaev is trending because their repository gortex is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "max-sixty",
-      "rank": "#08",
-      "name": "Maximilian Roos",
-      "username": "max-sixty",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
-      "url": "https://github.com/max-sixty",
-      "popularRepository": {
-        "name": "worktrunk",
-        "url": "https://github.com/max-sixty/worktrunk",
-        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
-      },
-      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "colbymchenry",
-      "rank": "#09",
-      "name": "Colby Mchenry",
-      "username": "colbymchenry",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
-      "url": "https://github.com/colbymchenry",
-      "popularRepository": {
-        "name": "codegraph",
-        "url": "https://github.com/colbymchenry/codegraph",
-        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and He…"
-      },
-      "why": "Colby Mchenry is trending because their repository codegraph is receiving visible attention on GitHub today.",
+      "why": "zy is trending because their repository xiaohongshu-mcp is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "yorukot",
-      "rank": "#10",
+      "rank": "#08",
       "name": "Yorukot",
       "username": "yorukot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/107802416?s=96&v=4",
@@ -181,7 +140,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "owainlewis",
-      "rank": "#11",
+      "rank": "#09",
       "name": "Owain Lewis",
       "username": "owainlewis",
       "avatarUrl": "https://avatars.githubusercontent.com/u/733944?s=96&v=4",
@@ -198,57 +157,92 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "perminder-klair",
+      "id": "dashhuang",
+      "rank": "#10",
+      "name": "Dash",
+      "username": "dashhuang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125997726?s=96&v=4",
+      "url": "https://github.com/dashhuang",
+      "popularRepository": {
+        "name": "DisplayFill",
+        "url": "https://github.com/dashhuang/DisplayFill",
+        "description": "No popular repository description available."
+      },
+      "why": "Dash is trending because their repository DisplayFill is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "clubanderson",
+      "rank": "#11",
+      "name": "Andy Anderson",
+      "username": "clubanderson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/407614?s=96&v=4",
+      "url": "https://github.com/clubanderson",
+      "popularRepository": {
+        "name": "clubTivi",
+        "url": "https://github.com/clubanderson/clubTivi",
+        "description": "Open-source cross-platform IPTV player with intelligent EPG mapping, multi-provider stream failover, and remote control support. Built wi…"
+      },
+      "why": "Andy Anderson is trending because their repository clubTivi is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "binaricat",
       "rank": "#12",
-      "name": "Parminder Klair",
-      "username": "perminder-klair",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3984412?s=96&v=4",
-      "url": "https://github.com/perminder-klair",
+      "name": "陈大猫",
+      "username": "binaricat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16399091?s=96&v=4",
+      "url": "https://github.com/binaricat",
       "popularRepository": {
-        "name": "subwave",
-        "url": "https://github.com/perminder-klair/subwave",
-        "description": "Personal internet radio: Agentic AI DJ"
+        "name": "Netcatty",
+        "url": "https://github.com/binaricat/Netcatty",
+        "description": "SSH workspace, SFTP, and terminals in one"
       },
-      "why": "Parminder Klair is trending because their repository subwave is receiving visible attention on GitHub today.",
+      "why": "陈大猫 is trending because their repository Netcatty is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     },
     {
-      "id": "jeswr",
+      "id": "zzet",
       "rank": "#13",
-      "name": "Jesse Wright",
-      "username": "jeswr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/63333554?s=96&v=4",
-      "url": "https://github.com/jeswr",
+      "name": "Andrew Kumanyaev",
+      "username": "zzet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/510788?s=96&v=4",
+      "url": "https://github.com/zzet",
       "popularRepository": {
-        "name": "agent-account-registry",
-        "url": "https://github.com/jeswr/agent-account-registry",
-        "description": "Private cross-codebase registry of model accounts (Anthropic/OpenAI): limits, resets, and reaction-based worker claim/release. No public …"
+        "name": "gortex",
+        "url": "https://github.com/zzet/gortex",
+        "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access …"
       },
-      "why": "Jesse Wright is trending because their repository agent-account-registry is receiving visible attention on GitHub today.",
+      "why": "Andrew Kumanyaev is trending because their repository gortex is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "hiyouga",
+      "id": "technicalpickles",
       "rank": "#14",
-      "name": "Yaowei Zheng",
-      "username": "hiyouga",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16256802?s=96&v=4",
-      "url": "https://github.com/hiyouga",
+      "name": "Josh Nichols",
+      "username": "technicalpickles",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/159?s=96&v=4",
+      "url": "https://github.com/technicalpickles",
       "popularRepository": {
-        "name": "LlamaFactory",
-        "url": "https://github.com/hiyouga/LlamaFactory",
-        "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+        "name": "homesick",
+        "url": "https://github.com/technicalpickles/homesick",
+        "description": "Your home directory is your castle. Don't leave your dotfiles behind."
       },
-      "why": "Yaowei Zheng is trending because their repository LlamaFactory is receiving visible attention on GitHub today.",
+      "why": "Josh Nichols is trending because their repository homesick is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     }
   ]
