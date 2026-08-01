@@ -1,10 +1,45 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-07-31T03:49:50.680Z",
+  "updatedAt": "2026-08-01T03:50:14.980Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "1jehuang",
+      "id": "wenshao",
       "rank": "#01",
+      "name": "Shaojin Wen",
+      "username": "wenshao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1166785?s=96&v=4",
+      "url": "https://github.com/wenshao",
+      "popularRepository": {
+        "name": "codeagents",
+        "url": "https://github.com/wenshao/codeagents",
+        "description": "No popular repository description available."
+      },
+      "why": "Shaojin Wen is trending because their repository codeagents is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "jkomyno",
+      "rank": "#02",
+      "name": "Alberto Schiabel",
+      "username": "jkomyno",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12381818?s=96&v=4",
+      "url": "https://github.com/jkomyno",
+      "popularRepository": {
+        "name": "pnpm-monorepo-template",
+        "url": "https://github.com/jkomyno/pnpm-monorepo-template",
+        "description": "Opinionated Node.js monorepo example with pnpm, turborepo, and vitest"
+      },
+      "why": "Alberto Schiabel is trending because their repository pnpm-monorepo-template is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "1jehuang",
+      "rank": "#03",
       "name": "Jeremy Huang",
       "username": "1jehuang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/94247773?s=96&v=4",
@@ -20,21 +55,26 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "joeyorlando",
-      "rank": "#02",
-      "name": "Joey Orlando",
-      "username": "joeyorlando",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9406895?s=96&v=4",
-      "url": "https://github.com/joeyorlando",
-      "popularRepository": null,
-      "why": "Joey Orlando is trending because GitHub users are visiting and following their work today.",
+      "id": "saoudrizwan",
+      "rank": "#04",
+      "name": "Saoud Rizwan",
+      "username": "saoudrizwan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7799382?s=96&v=4",
+      "url": "https://github.com/saoudrizwan",
+      "popularRepository": {
+        "name": "Disk",
+        "url": "https://github.com/saoudrizwan/Disk",
+        "description": "Easily persist structs, images, and data on iOS"
+      },
+      "why": "Saoud Rizwan is trending because their repository Disk is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "Data"
       ]
     },
     {
       "id": "justjavac",
-      "rank": "#03",
+      "rank": "#05",
       "name": "迷渡",
       "username": "justjavac",
       "avatarUrl": "https://avatars.githubusercontent.com/u/359395?s=96&v=4",
@@ -50,18 +90,36 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "clubanderson",
-      "rank": "#04",
-      "name": "Andy Anderson",
-      "username": "clubanderson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/407614?s=96&v=4",
-      "url": "https://github.com/clubanderson",
+      "id": "obviyus",
+      "rank": "#06",
+      "name": "Ayaan Zaidi",
+      "username": "obviyus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22031114?s=96&v=4",
+      "url": "https://github.com/obviyus",
       "popularRepository": {
-        "name": "clubTivi",
-        "url": "https://github.com/clubanderson/clubTivi",
-        "description": "Open-source cross-platform IPTV player with intelligent EPG mapping, multi-provider stream failover, and remote control support. Built wi…"
+        "name": "codex-changelog",
+        "url": "https://github.com/obviyus/codex-changelog",
+        "description": "No popular repository description available."
       },
-      "why": "Andy Anderson is trending because their repository clubTivi is receiving visible attention on GitHub today.",
+      "why": "Ayaan Zaidi is trending because their repository codex-changelog is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "maziyarpanahi",
+      "rank": "#07",
+      "name": "Maziyar Panahi",
+      "username": "maziyarpanahi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
+      "url": "https://github.com/maziyarpanahi",
+      "popularRepository": {
+        "name": "openmed",
+        "url": "https://github.com/maziyarpanahi/openmed",
+        "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Appl…"
+      },
+      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI",
@@ -69,42 +127,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "binaricat",
-      "rank": "#05",
-      "name": "陈大猫",
-      "username": "binaricat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16399091?s=96&v=4",
-      "url": "https://github.com/binaricat",
-      "popularRepository": {
-        "name": "Netcatty",
-        "url": "https://github.com/binaricat/Netcatty",
-        "description": "SSH workspace, SFTP, and terminals in one"
-      },
-      "why": "陈大猫 is trending because their repository Netcatty is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "ruvnet",
-      "rank": "#06",
-      "name": "rUv",
-      "username": "ruvnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
-      "url": "https://github.com/ruvnet",
-      "popularRepository": {
-        "name": "RuView",
-        "url": "https://github.com/ruvnet/RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
-      },
-      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "elie222",
-      "rank": "#07",
+      "rank": "#08",
       "name": "Elie Steinbock",
       "username": "elie222",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
@@ -119,24 +143,6 @@ window.trendingDevelopers = {
         "Developer",
         "AI",
         "Web"
-      ]
-    },
-    {
-      "id": "amelnagdy",
-      "rank": "#08",
-      "name": "Ahmed Nagdy",
-      "username": "amElnagdy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7650147?s=96&v=4",
-      "url": "https://github.com/amElnagdy",
-      "popularRepository": {
-        "name": "delegate-skills",
-        "url": "https://github.com/amElnagdy/delegate-skills",
-        "description": "Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer."
-      },
-      "why": "Ahmed Nagdy is trending because their repository delegate-skills is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
       ]
     },
     {
@@ -157,18 +163,36 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "wenshao",
+      "id": "wei-shaw",
       "rank": "#10",
-      "name": "Shaojin Wen",
-      "username": "wenshao",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1166785?s=96&v=4",
-      "url": "https://github.com/wenshao",
+      "name": "Wesley Liddick",
+      "username": "Wei-Shaw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26101719?s=96&v=4",
+      "url": "https://github.com/Wei-Shaw",
       "popularRepository": {
-        "name": "codeagents",
-        "url": "https://github.com/wenshao/codeagents",
-        "description": "No popular repository description available."
+        "name": "sub2api",
+        "url": "https://github.com/Wei-Shaw/sub2api",
+        "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
       },
-      "why": "Shaojin Wen is trending because their repository codeagents is receiving visible attention on GitHub today.",
+      "why": "Wesley Liddick is trending because their repository sub2api is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "ericlbuehler",
+      "rank": "#11",
+      "name": "Eric Buehler",
+      "username": "EricLBuehler",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65165915?s=96&v=4",
+      "url": "https://github.com/EricLBuehler",
+      "popularRepository": {
+        "name": "mistral.rs",
+        "url": "https://github.com/EricLBuehler/mistral.rs",
+        "description": "Fast, flexible LLM inference"
+      },
+      "why": "Eric Buehler is trending because their repository mistral.rs is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -176,7 +200,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "xpzouying",
-      "rank": "#11",
+      "rank": "#12",
       "name": "zy",
       "username": "xpzouying",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3946563?s=96&v=4",
@@ -192,56 +216,37 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "yorukot",
-      "rank": "#12",
-      "name": "Yorukot",
-      "username": "yorukot",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/107802416?s=96&v=4",
-      "url": "https://github.com/yorukot",
+      "id": "wassgha",
+      "rank": "#13",
+      "name": "Wassim Gharbi",
+      "username": "wassgha",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/591655?s=96&v=4",
+      "url": "https://github.com/wassgha",
       "popularRepository": {
-        "name": "superfile",
-        "url": "https://github.com/yorukot/superfile",
-        "description": "Pretty fancy and modern terminal file manager"
+        "name": "rescript",
+        "url": "https://github.com/wassgha/rescript",
+        "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser."
       },
-      "why": "Yorukot is trending because their repository superfile is receiving visible attention on GitHub today.",
+      "why": "Wassim Gharbi is trending because their repository rescript is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "serenakeyitan",
-      "rank": "#13",
-      "name": "Serena",
-      "username": "serenakeyitan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94026305?s=96&v=4",
-      "url": "https://github.com/serenakeyitan",
-      "popularRepository": {
-        "name": "awesome-notebookLM-prompts",
-        "url": "https://github.com/serenakeyitan/awesome-notebookLM-prompts",
-        "description": "A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI po…"
-      },
-      "why": "Serena is trending because their repository awesome-notebookLM-prompts is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "owainlewis",
+      "id": "paddor",
       "rank": "#14",
-      "name": "Owain Lewis",
-      "username": "owainlewis",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/733944?s=96&v=4",
-      "url": "https://github.com/owainlewis",
+      "name": "Patrik Wenger",
+      "username": "paddor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8876?s=96&v=4",
+      "url": "https://github.com/paddor",
       "popularRepository": {
-        "name": "awesome-artificial-intelligence",
-        "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
-        "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers."
+        "name": "omq.rs",
+        "url": "https://github.com/paddor/omq.rs",
+        "description": "ØMQ in Rust. Most complete alternative implementation."
       },
-      "why": "Owain Lewis is trending because their repository awesome-artificial-intelligence is receiving visible attention on GitHub today.",
+      "why": "Patrik Wenger is trending because their repository omq.rs is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     }
   ]
