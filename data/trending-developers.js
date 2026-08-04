@@ -1,62 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-08-03T03:54:38.943Z",
+  "updatedAt": "2026-08-04T03:36:46.459Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "wenshao",
-      "rank": "#01",
-      "name": "Shaojin Wen",
-      "username": "wenshao",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1166785?s=96&v=4",
-      "url": "https://github.com/wenshao",
-      "popularRepository": {
-        "name": "codeagents",
-        "url": "https://github.com/wenshao/codeagents",
-        "description": "No popular repository description available."
-      },
-      "why": "Shaojin Wen is trending because their repository codeagents is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "marketcalls",
-      "rank": "#02",
-      "name": "Marketcalls",
-      "username": "marketcalls",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8728989?s=96&v=4",
-      "url": "https://github.com/marketcalls",
-      "popularRepository": {
-        "name": "openalgo",
-        "url": "https://github.com/marketcalls/openalgo",
-        "description": "Open Source Algo Trading Platform for Everyone"
-      },
-      "why": "Marketcalls is trending because their repository openalgo is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "cbcoutinho",
-      "rank": "#03",
-      "name": "Chris Coutinho",
-      "username": "cbcoutinho",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12901868?s=96&v=4",
-      "url": "https://github.com/cbcoutinho",
-      "popularRepository": {
-        "name": "nextcloud-mcp-server",
-        "url": "https://github.com/cbcoutinho/nextcloud-mcp-server",
-        "description": "Nextcloud MCP Server"
-      },
-      "why": "Chris Coutinho is trending because their repository nextcloud-mcp-server is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "maziyarpanahi",
-      "rank": "#04",
+      "rank": "#01",
       "name": "Maziyar Panahi",
       "username": "maziyarpanahi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
@@ -74,112 +22,109 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "stevemacenski",
+      "id": "jakevdp",
+      "rank": "#02",
+      "name": "Jake Vanderplas",
+      "username": "jakevdp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/781659?s=96&v=4",
+      "url": "https://github.com/jakevdp",
+      "popularRepository": {
+        "name": "PythonDataScienceHandbook",
+        "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+        "description": "Python Data Science Handbook: full text in Jupyter Notebooks"
+      },
+      "why": "Jake Vanderplas is trending because their repository PythonDataScienceHandbook is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Data"
+      ]
+    },
+    {
+      "id": "astro-han",
+      "rank": "#03",
+      "name": "AstroHan",
+      "username": "Astro-Han",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?s=96&v=4",
+      "url": "https://github.com/Astro-Han",
+      "popularRepository": {
+        "name": "karpathy-llm-wiki",
+        "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
+        "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, a…"
+      },
+      "why": "AstroHan is trending because their repository karpathy-llm-wiki is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "alan-thegentleman",
+      "rank": "#04",
+      "name": "Alan Buscaglia",
+      "username": "Alan-TheGentleman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6935240?s=96&v=4",
+      "url": "https://github.com/Alan-TheGentleman",
+      "popularRepository": {
+        "name": "gentleman-programming-book",
+        "url": "https://github.com/Alan-TheGentleman/gentleman-programming-book",
+        "description": "No popular repository description available."
+      },
+      "why": "Alan Buscaglia is trending because their repository gentleman-programming-book is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "louistrue",
       "rank": "#05",
-      "name": "Steve Macenski",
-      "username": "SteveMacenski",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14944147?s=96&v=4",
-      "url": "https://github.com/SteveMacenski",
-      "popularRepository": {
-        "name": "slam_toolbox",
-        "url": "https://github.com/SteveMacenski/slam_toolbox",
-        "description": "Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS"
-      },
-      "why": "Steve Macenski is trending because their repository slam_toolbox is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Tooling",
-        "Web"
-      ]
-    },
-    {
-      "id": "marcusquinn",
-      "rank": "#06",
-      "name": "Marcus Quinn",
-      "username": "marcusquinn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6428977?s=96&v=4",
-      "url": "https://github.com/marcusquinn",
-      "popularRepository": {
-        "name": "aidevops",
-        "url": "https://github.com/marcusquinn/aidevops",
-        "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development.…"
-      },
-      "why": "Marcus Quinn is trending because their repository aidevops is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "tommoor",
-      "rank": "#07",
-      "name": "Tom Moor",
-      "username": "tommoor",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/380914?s=96&v=4",
-      "url": "https://github.com/tommoor",
+      "name": "Louis Trümpler",
+      "username": "louistrue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/78563314?s=96&v=4",
+      "url": "https://github.com/louistrue",
       "popularRepository": null,
-      "why": "Tom Moor is trending because GitHub users are visiting and following their work today.",
+      "why": "Louis Trümpler is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "poteto",
-      "rank": "#08",
-      "name": "lauren",
-      "username": "poteto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
-      "url": "https://github.com/poteto",
+      "id": "abimaelmartell",
+      "rank": "#06",
+      "name": "Abimael Martell",
+      "username": "abimaelmartell",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1450169?s=96&v=4",
+      "url": "https://github.com/abimaelmartell",
       "popularRepository": {
-        "name": "hiring-without-whiteboards",
-        "url": "https://github.com/poteto/hiring-without-whiteboards",
-        "description": "⭐️ Companies that don't have a broken hiring process"
+        "name": "system_monitor",
+        "url": "https://github.com/abimaelmartell/system_monitor",
+        "description": "multi-platform system monitor"
       },
-      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
+      "why": "Abimael Martell is trending because their repository system_monitor is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "beingpax",
-      "rank": "#09",
-      "name": "Prakash Joshi Pax",
-      "username": "Beingpax",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101010368?s=96&v=4",
-      "url": "https://github.com/Beingpax",
+      "id": "cbcoutinho",
+      "rank": "#07",
+      "name": "Chris Coutinho",
+      "username": "cbcoutinho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12901868?s=96&v=4",
+      "url": "https://github.com/cbcoutinho",
       "popularRepository": {
-        "name": "VoiceInk",
-        "url": "https://github.com/Beingpax/VoiceInk",
-        "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription"
+        "name": "nextcloud-mcp-server",
+        "url": "https://github.com/cbcoutinho/nextcloud-mcp-server",
+        "description": "Nextcloud MCP Server"
       },
-      "why": "Prakash Joshi Pax is trending because their repository VoiceInk is receiving visible attention on GitHub today.",
+      "why": "Chris Coutinho is trending because their repository nextcloud-mcp-server is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "sbryngelson",
-      "rank": "#10",
-      "name": "Spencer Bryngelson",
-      "username": "sbryngelson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39740593?s=96&v=4",
-      "url": "https://github.com/sbryngelson",
-      "popularRepository": {
-        "name": "academic-website-template",
-        "url": "https://github.com/sbryngelson/academic-website-template",
-        "description": "Static web template for academics/research groups"
-      },
-      "why": "Spencer Bryngelson is trending because their repository academic-website-template is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
+        "Developer"
       ]
     },
     {
       "id": "lidge-jun",
-      "rank": "#11",
+      "rank": "#08",
       "name": "JUN",
       "username": "lidge-jun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
@@ -197,53 +142,104 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "justjavac",
-      "rank": "#12",
-      "name": "迷渡",
-      "username": "justjavac",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/359395?s=96&v=4",
-      "url": "https://github.com/justjavac",
+      "id": "marketcalls",
+      "rank": "#09",
+      "name": "Marketcalls",
+      "username": "marketcalls",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8728989?s=96&v=4",
+      "url": "https://github.com/marketcalls",
       "popularRepository": {
-        "name": "free-programming-books-zh_CN",
-        "url": "https://github.com/justjavac/free-programming-books-zh_CN",
-        "description": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+        "name": "openalgo",
+        "url": "https://github.com/marketcalls/openalgo",
+        "description": "Open Source Algo Trading Platform for Everyone"
       },
-      "why": "迷渡 is trending because their repository free-programming-books-zh_CN is receiving visible attention on GitHub today.",
+      "why": "Marketcalls is trending because their repository openalgo is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "isair",
-      "rank": "#13",
-      "name": "Baris Sencan",
-      "username": "isair",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/988213?s=96&v=4",
-      "url": "https://github.com/isair",
+      "id": "poteto",
+      "rank": "#10",
+      "name": "lauren",
+      "username": "poteto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
+      "url": "https://github.com/poteto",
       "popularRepository": {
-        "name": "jarvis",
-        "url": "https://github.com/isair/jarvis",
-        "description": "A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room,…"
+        "name": "hiring-without-whiteboards",
+        "url": "https://github.com/poteto/hiring-without-whiteboards",
+        "description": "⭐️ Companies that don't have a broken hiring process"
       },
-      "why": "Baris Sencan is trending because their repository jarvis is receiving visible attention on GitHub today.",
+      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     },
     {
-      "id": "rabestro",
-      "rank": "#14",
-      "name": "Jegors Čemisovs",
-      "username": "rabestro",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52966251?s=96&v=4",
-      "url": "https://github.com/rabestro",
+      "id": "slavingia",
+      "rank": "#11",
+      "name": "Sahil Lavingia",
+      "username": "slavingia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74396?s=96&v=4",
+      "url": "https://github.com/slavingia",
       "popularRepository": {
-        "name": "dicechess-engine-scala",
-        "url": "https://github.com/rabestro/dicechess-engine-scala",
-        "description": "High-performance parallelized Expectimax game engine and probability calculator for Dice Chess, written in Scala 3."
+        "name": "skills",
+        "url": "https://github.com/slavingia/skills",
+        "description": "Based on The Minimalist Entrepreneur by Sahil Lavingia"
       },
-      "why": "Jegors Čemisovs is trending because their repository dicechess-engine-scala is receiving visible attention on GitHub today.",
+      "why": "Sahil Lavingia is trending because their repository skills is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "beingpax",
+      "rank": "#12",
+      "name": "Prakash Joshi Pax",
+      "username": "Beingpax",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/101010368?s=96&v=4",
+      "url": "https://github.com/Beingpax",
+      "popularRepository": {
+        "name": "VoiceInk",
+        "url": "https://github.com/Beingpax/VoiceInk",
+        "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription"
+      },
+      "why": "Prakash Joshi Pax is trending because their repository VoiceInk is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "dalathegreat",
+      "rank": "#13",
+      "name": "Daniel Öster",
+      "username": "dalathegreat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26695010?s=96&v=4",
+      "url": "https://github.com/dalathegreat",
+      "popularRepository": {
+        "name": "Battery-Emulator",
+        "url": "https://github.com/dalathegreat/Battery-Emulator",
+        "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
+      },
+      "why": "Daniel Öster is trending because their repository Battery-Emulator is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "sdatkinson",
+      "rank": "#14",
+      "name": "Steven Atkinson",
+      "username": "sdatkinson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12240186?s=96&v=4",
+      "url": "https://github.com/sdatkinson",
+      "popularRepository": {
+        "name": "neural-amp-modeler",
+        "url": "https://github.com/sdatkinson/neural-amp-modeler",
+        "description": "Neural network emulator for guitar amplifiers."
+      },
+      "why": "Steven Atkinson is trending because their repository neural-amp-modeler is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
