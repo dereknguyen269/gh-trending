@@ -1,10 +1,46 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-08-04T03:36:46.459Z",
+  "updatedAt": "2026-08-05T03:32:30.153Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "maziyarpanahi",
+      "id": "astro-han",
       "rank": "#01",
+      "name": "AstroHan",
+      "username": "Astro-Han",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?s=96&v=4",
+      "url": "https://github.com/Astro-Han",
+      "popularRepository": {
+        "name": "karpathy-llm-wiki",
+        "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
+        "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, a…"
+      },
+      "why": "AstroHan is trending because their repository karpathy-llm-wiki is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "lalalune",
+      "rank": "#02",
+      "name": "Shaw",
+      "username": "lalalune",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18633264?s=96&v=4",
+      "url": "https://github.com/lalalune",
+      "popularRepository": {
+        "name": "outreachr",
+        "url": "https://github.com/lalalune/outreachr",
+        "description": "Local-first, open-source investor fundraising CRM for founders"
+      },
+      "why": "Shaw is trending because their repository outreachr is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "maziyarpanahi",
+      "rank": "#03",
       "name": "Maziyar Panahi",
       "username": "maziyarpanahi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
@@ -22,109 +58,43 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "jakevdp",
-      "rank": "#02",
-      "name": "Jake Vanderplas",
-      "username": "jakevdp",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/781659?s=96&v=4",
-      "url": "https://github.com/jakevdp",
-      "popularRepository": {
-        "name": "PythonDataScienceHandbook",
-        "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
-        "description": "Python Data Science Handbook: full text in Jupyter Notebooks"
-      },
-      "why": "Jake Vanderplas is trending because their repository PythonDataScienceHandbook is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Data"
-      ]
-    },
-    {
-      "id": "astro-han",
-      "rank": "#03",
-      "name": "AstroHan",
-      "username": "Astro-Han",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?s=96&v=4",
-      "url": "https://github.com/Astro-Han",
-      "popularRepository": {
-        "name": "karpathy-llm-wiki",
-        "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
-        "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, a…"
-      },
-      "why": "AstroHan is trending because their repository karpathy-llm-wiki is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "alan-thegentleman",
+      "id": "esengine",
       "rank": "#04",
-      "name": "Alan Buscaglia",
-      "username": "Alan-TheGentleman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6935240?s=96&v=4",
-      "url": "https://github.com/Alan-TheGentleman",
+      "name": "YHH",
+      "username": "esengine",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18465053?s=96&v=4",
+      "url": "https://github.com/esengine",
       "popularRepository": {
-        "name": "gentleman-programming-book",
-        "url": "https://github.com/Alan-TheGentleman/gentleman-programming-book",
-        "description": "No popular repository description available."
+        "name": "DeepSeek-Reasonix",
+        "url": "https://github.com/esengine/DeepSeek-Reasonix",
+        "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
       },
-      "why": "Alan Buscaglia is trending because their repository gentleman-programming-book is receiving visible attention on GitHub today.",
+      "why": "YHH is trending because their repository DeepSeek-Reasonix is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "louistrue",
+      "id": "lalitmaganti",
       "rank": "#05",
-      "name": "Louis Trümpler",
-      "username": "louistrue",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/78563314?s=96&v=4",
-      "url": "https://github.com/louistrue",
-      "popularRepository": null,
-      "why": "Louis Trümpler is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "abimaelmartell",
-      "rank": "#06",
-      "name": "Abimael Martell",
-      "username": "abimaelmartell",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1450169?s=96&v=4",
-      "url": "https://github.com/abimaelmartell",
+      "name": "Lalit Maganti",
+      "username": "LalitMaganti",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/679100?s=96&v=4",
+      "url": "https://github.com/LalitMaganti",
       "popularRepository": {
-        "name": "system_monitor",
-        "url": "https://github.com/abimaelmartell/system_monitor",
-        "description": "multi-platform system monitor"
+        "name": "syntaqlite",
+        "url": "https://github.com/LalitMaganti/syntaqlite",
+        "description": "A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite's own grammar and tokenizer"
       },
-      "why": "Abimael Martell is trending because their repository system_monitor is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "cbcoutinho",
-      "rank": "#07",
-      "name": "Chris Coutinho",
-      "username": "cbcoutinho",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12901868?s=96&v=4",
-      "url": "https://github.com/cbcoutinho",
-      "popularRepository": {
-        "name": "nextcloud-mcp-server",
-        "url": "https://github.com/cbcoutinho/nextcloud-mcp-server",
-        "description": "Nextcloud MCP Server"
-      },
-      "why": "Chris Coutinho is trending because their repository nextcloud-mcp-server is receiving visible attention on GitHub today.",
+      "why": "Lalit Maganti is trending because their repository syntaqlite is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "lidge-jun",
-      "rank": "#08",
+      "rank": "#06",
       "name": "JUN",
       "username": "lidge-jun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
@@ -142,77 +112,43 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "marketcalls",
-      "rank": "#09",
-      "name": "Marketcalls",
-      "username": "marketcalls",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8728989?s=96&v=4",
-      "url": "https://github.com/marketcalls",
+      "id": "louistrue",
+      "rank": "#07",
+      "name": "Louis Trümpler",
+      "username": "louistrue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/78563314?s=96&v=4",
+      "url": "https://github.com/louistrue",
       "popularRepository": {
-        "name": "openalgo",
-        "url": "https://github.com/marketcalls/openalgo",
-        "description": "Open Source Algo Trading Platform for Everyone"
+        "name": "ifcx-mcp",
+        "url": "https://github.com/louistrue/ifcx-mcp",
+        "description": "MCP server for authoring IFC5/IFCX building information models through AI assistants. Supports spatial structures, geometry, materials, c…"
       },
-      "why": "Marketcalls is trending because their repository openalgo is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "poteto",
-      "rank": "#10",
-      "name": "lauren",
-      "username": "poteto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
-      "url": "https://github.com/poteto",
-      "popularRepository": {
-        "name": "hiring-without-whiteboards",
-        "url": "https://github.com/poteto/hiring-without-whiteboards",
-        "description": "⭐️ Companies that don't have a broken hiring process"
-      },
-      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "slavingia",
-      "rank": "#11",
-      "name": "Sahil Lavingia",
-      "username": "slavingia",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74396?s=96&v=4",
-      "url": "https://github.com/slavingia",
-      "popularRepository": {
-        "name": "skills",
-        "url": "https://github.com/slavingia/skills",
-        "description": "Based on The Minimalist Entrepreneur by Sahil Lavingia"
-      },
-      "why": "Sahil Lavingia is trending because their repository skills is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "beingpax",
-      "rank": "#12",
-      "name": "Prakash Joshi Pax",
-      "username": "Beingpax",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101010368?s=96&v=4",
-      "url": "https://github.com/Beingpax",
-      "popularRepository": {
-        "name": "VoiceInk",
-        "url": "https://github.com/Beingpax/VoiceInk",
-        "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription"
-      },
-      "why": "Prakash Joshi Pax is trending because their repository VoiceInk is receiving visible attention on GitHub today.",
+      "why": "Louis Trümpler is trending because their repository ifcx-mcp is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Web"
+        "AI"
+      ]
+    },
+    {
+      "id": "abimaelmartell",
+      "rank": "#08",
+      "name": "Abimael Martell",
+      "username": "abimaelmartell",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1450169?s=96&v=4",
+      "url": "https://github.com/abimaelmartell",
+      "popularRepository": {
+        "name": "system_monitor",
+        "url": "https://github.com/abimaelmartell/system_monitor",
+        "description": "multi-platform system monitor"
+      },
+      "why": "Abimael Martell is trending because their repository system_monitor is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
       ]
     },
     {
       "id": "dalathegreat",
-      "rank": "#13",
+      "rank": "#09",
       "name": "Daniel Öster",
       "username": "dalathegreat",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26695010?s=96&v=4",
@@ -228,18 +164,85 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "sdatkinson",
-      "rank": "#14",
-      "name": "Steven Atkinson",
-      "username": "sdatkinson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12240186?s=96&v=4",
-      "url": "https://github.com/sdatkinson",
+      "id": "emontnemery",
+      "rank": "#10",
+      "name": "Erik Montnemery",
+      "username": "emontnemery",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14281572?s=96&v=4",
+      "url": "https://github.com/emontnemery",
+      "popularRepository": null,
+      "why": "Erik Montnemery is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "marcusquinn",
+      "rank": "#11",
+      "name": "Marcus Quinn",
+      "username": "marcusquinn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6428977?s=96&v=4",
+      "url": "https://github.com/marcusquinn",
       "popularRepository": {
-        "name": "neural-amp-modeler",
-        "url": "https://github.com/sdatkinson/neural-amp-modeler",
-        "description": "Neural network emulator for guitar amplifiers."
+        "name": "aidevops",
+        "url": "https://github.com/marcusquinn/aidevops",
+        "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development.…"
       },
-      "why": "Steven Atkinson is trending because their repository neural-amp-modeler is receiving visible attention on GitHub today.",
+      "why": "Marcus Quinn is trending because their repository aidevops is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "marketcalls",
+      "rank": "#12",
+      "name": "Marketcalls",
+      "username": "marketcalls",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8728989?s=96&v=4",
+      "url": "https://github.com/marketcalls",
+      "popularRepository": {
+        "name": "openalgo",
+        "url": "https://github.com/marketcalls/openalgo",
+        "description": "Open Source Algo Trading Platform for Everyone"
+      },
+      "why": "Marketcalls is trending because their repository openalgo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "alan-thegentleman",
+      "rank": "#13",
+      "name": "Alan Buscaglia",
+      "username": "Alan-TheGentleman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6935240?s=96&v=4",
+      "url": "https://github.com/Alan-TheGentleman",
+      "popularRepository": {
+        "name": "gentle-ai-enterprise",
+        "url": "https://github.com/Alan-TheGentleman/gentle-ai-enterprise",
+        "description": "Gentle AI Enterprise Setup — OpenCode + VS Code Copilot with SDD orchestration for Angular/.NET/Azure DevOps"
+      },
+      "why": "Alan Buscaglia is trending because their repository gentle-ai-enterprise is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "poteto",
+      "rank": "#14",
+      "name": "lauren",
+      "username": "poteto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
+      "url": "https://github.com/poteto",
+      "popularRepository": {
+        "name": "hiring-without-whiteboards",
+        "url": "https://github.com/poteto/hiring-without-whiteboards",
+        "description": "⭐️ Companies that don't have a broken hiring process"
+      },
+      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
