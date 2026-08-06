@@ -1,65 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-08-05T03:32:30.153Z",
+  "updatedAt": "2026-08-06T03:37:01.288Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "astro-han",
-      "rank": "#01",
-      "name": "AstroHan",
-      "username": "Astro-Han",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?s=96&v=4",
-      "url": "https://github.com/Astro-Han",
-      "popularRepository": {
-        "name": "karpathy-llm-wiki",
-        "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
-        "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, a…"
-      },
-      "why": "AstroHan is trending because their repository karpathy-llm-wiki is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "lalalune",
-      "rank": "#02",
-      "name": "Shaw",
-      "username": "lalalune",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18633264?s=96&v=4",
-      "url": "https://github.com/lalalune",
-      "popularRepository": {
-        "name": "outreachr",
-        "url": "https://github.com/lalalune/outreachr",
-        "description": "Local-first, open-source investor fundraising CRM for founders"
-      },
-      "why": "Shaw is trending because their repository outreachr is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "maziyarpanahi",
-      "rank": "#03",
-      "name": "Maziyar Panahi",
-      "username": "maziyarpanahi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
-      "url": "https://github.com/maziyarpanahi",
-      "popularRepository": {
-        "name": "openmed",
-        "url": "https://github.com/maziyarpanahi/openmed",
-        "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Appl…"
-      },
-      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
       "id": "esengine",
-      "rank": "#04",
+      "rank": "#01",
       "name": "YHH",
       "username": "esengine",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18465053?s=96&v=4",
@@ -76,25 +21,26 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "lalitmaganti",
-      "rank": "#05",
-      "name": "Lalit Maganti",
-      "username": "LalitMaganti",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/679100?s=96&v=4",
-      "url": "https://github.com/LalitMaganti",
+      "id": "astro-han",
+      "rank": "#02",
+      "name": "AstroHan",
+      "username": "Astro-Han",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?s=96&v=4",
+      "url": "https://github.com/Astro-Han",
       "popularRepository": {
-        "name": "syntaqlite",
-        "url": "https://github.com/LalitMaganti/syntaqlite",
-        "description": "A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite's own grammar and tokenizer"
+        "name": "karpathy-llm-wiki",
+        "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
+        "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, a…"
       },
-      "why": "Lalit Maganti is trending because their repository syntaqlite is receiving visible attention on GitHub today.",
+      "why": "AstroHan is trending because their repository karpathy-llm-wiki is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
       ]
     },
     {
       "id": "lidge-jun",
-      "rank": "#06",
+      "rank": "#03",
       "name": "JUN",
       "username": "lidge-jun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
@@ -112,26 +58,45 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "louistrue",
-      "rank": "#07",
-      "name": "Louis Trümpler",
-      "username": "louistrue",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/78563314?s=96&v=4",
-      "url": "https://github.com/louistrue",
+      "id": "zhukunpenglinyutong",
+      "rank": "#04",
+      "name": "朱昆鹏",
+      "username": "zhukunpenglinyutong",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31264015?s=96&v=4",
+      "url": "https://github.com/zhukunpenglinyutong",
       "popularRepository": {
-        "name": "ifcx-mcp",
-        "url": "https://github.com/louistrue/ifcx-mcp",
-        "description": "MCP server for authoring IFC5/IFCX building information models through AI assistants. Supports spatial structures, geometry, materials, c…"
+        "name": "jetbrains-cc-gui",
+        "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
+        "description": "Jetbrains Claude Code and Codex GUI Plugin"
       },
-      "why": "Louis Trümpler is trending because their repository ifcx-mcp is receiving visible attention on GitHub today.",
+      "why": "朱昆鹏 is trending because their repository jetbrains-cc-gui is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
+      "id": "maziyarpanahi",
+      "rank": "#05",
+      "name": "Maziyar Panahi",
+      "username": "maziyarpanahi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
+      "url": "https://github.com/maziyarpanahi",
+      "popularRepository": {
+        "name": "openmed",
+        "url": "https://github.com/maziyarpanahi/openmed",
+        "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Appl…"
+      },
+      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
       "id": "abimaelmartell",
-      "rank": "#08",
+      "rank": "#06",
       "name": "Abimael Martell",
       "username": "abimaelmartell",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1450169?s=96&v=4",
@@ -147,104 +112,145 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "dalathegreat",
-      "rank": "#09",
-      "name": "Daniel Öster",
-      "username": "dalathegreat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26695010?s=96&v=4",
-      "url": "https://github.com/dalathegreat",
+      "id": "yhirose",
+      "rank": "#07",
+      "name": "yhirose",
+      "username": "yhirose",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/357397?s=96&v=4",
+      "url": "https://github.com/yhirose",
       "popularRepository": {
-        "name": "Battery-Emulator",
-        "url": "https://github.com/dalathegreat/Battery-Emulator",
-        "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
+        "name": "cpp-httplib",
+        "url": "https://github.com/yhirose/cpp-httplib",
+        "description": "A C++ header-only HTTP/HTTPS server and client library"
       },
-      "why": "Daniel Öster is trending because their repository Battery-Emulator is receiving visible attention on GitHub today.",
+      "why": "yhirose is trending because their repository cpp-httplib is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "emontnemery",
-      "rank": "#10",
-      "name": "Erik Montnemery",
-      "username": "emontnemery",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14281572?s=96&v=4",
-      "url": "https://github.com/emontnemery",
-      "popularRepository": null,
-      "why": "Erik Montnemery is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "marcusquinn",
-      "rank": "#11",
-      "name": "Marcus Quinn",
-      "username": "marcusquinn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6428977?s=96&v=4",
-      "url": "https://github.com/marcusquinn",
+      "id": "hiyouga",
+      "rank": "#08",
+      "name": "Yaowei Zheng",
+      "username": "hiyouga",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16256802?s=96&v=4",
+      "url": "https://github.com/hiyouga",
       "popularRepository": {
-        "name": "aidevops",
-        "url": "https://github.com/marcusquinn/aidevops",
-        "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development.…"
+        "name": "LlamaFactory",
+        "url": "https://github.com/hiyouga/LlamaFactory",
+        "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
       },
-      "why": "Marcus Quinn is trending because their repository aidevops is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "marketcalls",
-      "rank": "#12",
-      "name": "Marketcalls",
-      "username": "marketcalls",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8728989?s=96&v=4",
-      "url": "https://github.com/marketcalls",
-      "popularRepository": {
-        "name": "openalgo",
-        "url": "https://github.com/marketcalls/openalgo",
-        "description": "Open Source Algo Trading Platform for Everyone"
-      },
-      "why": "Marketcalls is trending because their repository openalgo is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "alan-thegentleman",
-      "rank": "#13",
-      "name": "Alan Buscaglia",
-      "username": "Alan-TheGentleman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6935240?s=96&v=4",
-      "url": "https://github.com/Alan-TheGentleman",
-      "popularRepository": {
-        "name": "gentle-ai-enterprise",
-        "url": "https://github.com/Alan-TheGentleman/gentle-ai-enterprise",
-        "description": "Gentle AI Enterprise Setup — OpenCode + VS Code Copilot with SDD orchestration for Angular/.NET/Azure DevOps"
-      },
-      "why": "Alan Buscaglia is trending because their repository gentle-ai-enterprise is receiving visible attention on GitHub today.",
+      "why": "Yaowei Zheng is trending because their repository LlamaFactory is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "poteto",
-      "rank": "#14",
-      "name": "lauren",
-      "username": "poteto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
-      "url": "https://github.com/poteto",
+      "id": "igorls",
+      "rank": "#09",
+      "name": "Igor Lins e Silva",
+      "username": "igorls",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4753812?s=96&v=4",
+      "url": "https://github.com/igorls",
       "popularRepository": {
-        "name": "hiring-without-whiteboards",
-        "url": "https://github.com/poteto/hiring-without-whiteboards",
-        "description": "⭐️ Companies that don't have a broken hiring process"
+        "name": "universal-llm-client",
+        "url": "https://github.com/igorls/universal-llm-client",
+        "description": "No popular repository description available."
       },
-      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
+      "why": "Igor Lins e Silva is trending because their repository universal-llm-client is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "tt-a1i",
+      "rank": "#10",
+      "name": "tt-a1i",
+      "username": "tt-a1i",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
+      "url": "https://github.com/tt-a1i",
+      "popularRepository": {
+        "name": "archify",
+        "url": "https://github.com/tt-a1i/archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion…"
+      },
+      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "id": "backnotprop",
+      "rank": "#11",
+      "name": "Michael Ramos",
+      "username": "backnotprop",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
+      "url": "https://github.com/backnotprop",
+      "popularRepository": {
+        "name": "plannotator",
+        "url": "https://github.com/backnotprop/plannotator",
+        "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click."
+      },
+      "why": "Michael Ramos is trending because their repository plannotator is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "alshedivat",
+      "rank": "#12",
+      "name": "Maruan",
+      "username": "alshedivat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2126561?s=96&v=4",
+      "url": "https://github.com/alshedivat",
+      "popularRepository": {
+        "name": "al-folio",
+        "url": "https://github.com/alshedivat/al-folio",
+        "description": "A beautiful, simple, clean, and responsive Jekyll theme for academics"
+      },
+      "why": "Maruan is trending because their repository al-folio is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
+      ]
+    },
+    {
+      "id": "imchong",
+      "rank": "#13",
+      "name": "Chong Liu",
+      "username": "ImChong",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74563097?s=96&v=4",
+      "url": "https://github.com/ImChong",
+      "popularRepository": {
+        "name": "Robotics_Notebooks",
+        "url": "https://github.com/ImChong/Robotics_Notebooks",
+        "description": "机器人技术栈资料汇总"
+      },
+      "why": "Chong Liu is trending because their repository Robotics_Notebooks is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "danielmeppiel",
+      "rank": "#14",
+      "name": "Daniel Meppiel",
+      "username": "danielmeppiel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51440732?s=96&v=4",
+      "url": "https://github.com/danielmeppiel",
+      "popularRepository": {
+        "name": "agentic-sdlc-handbook",
+        "url": "https://github.com/danielmeppiel/agentic-sdlc-handbook",
+        "description": "The Agentic SDLC Handbook — dual-audience guide for C-suite and practitioners"
+      },
+      "why": "Daniel Meppiel is trending because their repository agentic-sdlc-handbook is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
       ]
     }
   ]
