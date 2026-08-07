@@ -1,5 +1,5 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-08-06T03:37:01.288Z",
+  "updatedAt": "2026-08-07T03:14:37.720Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
@@ -21,26 +21,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "astro-han",
-      "rank": "#02",
-      "name": "AstroHan",
-      "username": "Astro-Han",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?s=96&v=4",
-      "url": "https://github.com/Astro-Han",
-      "popularRepository": {
-        "name": "karpathy-llm-wiki",
-        "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
-        "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, a…"
-      },
-      "why": "AstroHan is trending because their repository karpathy-llm-wiki is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "lidge-jun",
-      "rank": "#03",
+      "rank": "#02",
       "name": "JUN",
       "username": "lidge-jun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
@@ -58,18 +40,35 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "zhukunpenglinyutong",
-      "rank": "#04",
-      "name": "朱昆鹏",
-      "username": "zhukunpenglinyutong",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31264015?s=96&v=4",
-      "url": "https://github.com/zhukunpenglinyutong",
+      "id": "kane50613",
+      "rank": "#03",
+      "name": "Kane Wang",
+      "username": "kane50613",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33802653?s=96&v=4",
+      "url": "https://github.com/kane50613",
       "popularRepository": {
-        "name": "jetbrains-cc-gui",
-        "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
-        "description": "Jetbrains Claude Code and Codex GUI Plugin"
+        "name": "takumi",
+        "url": "https://github.com/kane50613/takumi",
+        "description": "Render JSX & HTML to image, SVG or PDF. 170+ CSS properties supported. Drop-in next/og replacement."
       },
-      "why": "朱昆鹏 is trending because their repository jetbrains-cc-gui is receiving visible attention on GitHub today.",
+      "why": "Kane Wang is trending because their repository takumi is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "backnotprop",
+      "rank": "#04",
+      "name": "Michael Ramos",
+      "username": "backnotprop",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
+      "url": "https://github.com/backnotprop",
+      "popularRepository": {
+        "name": "plannotator",
+        "url": "https://github.com/backnotprop/plannotator",
+        "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click."
+      },
+      "why": "Michael Ramos is trending because their repository plannotator is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -95,42 +94,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "abimaelmartell",
-      "rank": "#06",
-      "name": "Abimael Martell",
-      "username": "abimaelmartell",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1450169?s=96&v=4",
-      "url": "https://github.com/abimaelmartell",
-      "popularRepository": {
-        "name": "system_monitor",
-        "url": "https://github.com/abimaelmartell/system_monitor",
-        "description": "multi-platform system monitor"
-      },
-      "why": "Abimael Martell is trending because their repository system_monitor is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "yhirose",
-      "rank": "#07",
-      "name": "yhirose",
-      "username": "yhirose",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/357397?s=96&v=4",
-      "url": "https://github.com/yhirose",
-      "popularRepository": {
-        "name": "cpp-httplib",
-        "url": "https://github.com/yhirose/cpp-httplib",
-        "description": "A C++ header-only HTTP/HTTPS server and client library"
-      },
-      "why": "yhirose is trending because their repository cpp-httplib is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "hiyouga",
-      "rank": "#08",
+      "rank": "#06",
       "name": "Yaowei Zheng",
       "username": "hiyouga",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16256802?s=96&v=4",
@@ -147,26 +112,27 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "igorls",
-      "rank": "#09",
-      "name": "Igor Lins e Silva",
-      "username": "igorls",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4753812?s=96&v=4",
-      "url": "https://github.com/igorls",
+      "id": "shadowfax92",
+      "rank": "#07",
+      "name": "Nikhil",
+      "username": "shadowfax92",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1223275?s=96&v=4",
+      "url": "https://github.com/shadowfax92",
       "popularRepository": {
-        "name": "universal-llm-client",
-        "url": "https://github.com/igorls/universal-llm-client",
+        "name": "apple-calendar-mcp",
+        "url": "https://github.com/shadowfax92/apple-calendar-mcp",
         "description": "No popular repository description available."
       },
-      "why": "Igor Lins e Silva is trending because their repository universal-llm-client is receiving visible attention on GitHub today.",
+      "why": "Nikhil is trending because their repository apple-calendar-mcp is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "AI",
+        "Web"
       ]
     },
     {
       "id": "tt-a1i",
-      "rank": "#10",
+      "rank": "#08",
       "name": "tt-a1i",
       "username": "tt-a1i",
       "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
@@ -184,26 +150,42 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "backnotprop",
-      "rank": "#11",
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
-      "url": "https://github.com/backnotprop",
+      "id": "yhirose",
+      "rank": "#09",
+      "name": "yhirose",
+      "username": "yhirose",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/357397?s=96&v=4",
+      "url": "https://github.com/yhirose",
       "popularRepository": {
-        "name": "plannotator",
-        "url": "https://github.com/backnotprop/plannotator",
-        "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click."
+        "name": "cpp-httplib",
+        "url": "https://github.com/yhirose/cpp-httplib",
+        "description": "A C++ header-only HTTP/HTTPS server and client library"
       },
-      "why": "Michael Ramos is trending because their repository plannotator is receiving visible attention on GitHub today.",
+      "why": "yhirose is trending because their repository cpp-httplib is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
+      ]
+    },
+    {
+      "id": "bdero",
+      "rank": "#10",
+      "name": "Brandon DeRosier",
+      "username": "bdero",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/919017?s=96&v=4",
+      "url": "https://github.com/bdero",
+      "popularRepository": {
+        "name": "flutter_scene",
+        "url": "https://github.com/bdero/flutter_scene",
+        "description": "A realtime 3D engine for Flutter."
+      },
+      "why": "Brandon DeRosier is trending because their repository flutter_scene is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
       ]
     },
     {
       "id": "alshedivat",
-      "rank": "#12",
+      "rank": "#11",
       "name": "Maruan",
       "username": "alshedivat",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2126561?s=96&v=4",
@@ -219,35 +201,54 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "imchong",
-      "rank": "#13",
-      "name": "Chong Liu",
-      "username": "ImChong",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74563097?s=96&v=4",
-      "url": "https://github.com/ImChong",
+      "id": "igorls",
+      "rank": "#12",
+      "name": "Igor Lins e Silva",
+      "username": "igorls",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4753812?s=96&v=4",
+      "url": "https://github.com/igorls",
       "popularRepository": {
-        "name": "Robotics_Notebooks",
-        "url": "https://github.com/ImChong/Robotics_Notebooks",
-        "description": "机器人技术栈资料汇总"
+        "name": "universal-llm-client",
+        "url": "https://github.com/igorls/universal-llm-client",
+        "description": "No popular repository description available."
       },
-      "why": "Chong Liu is trending because their repository Robotics_Notebooks is receiving visible attention on GitHub today.",
+      "why": "Igor Lins e Silva is trending because their repository universal-llm-client is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
       ]
     },
     {
-      "id": "danielmeppiel",
-      "rank": "#14",
-      "name": "Daniel Meppiel",
-      "username": "danielmeppiel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/51440732?s=96&v=4",
-      "url": "https://github.com/danielmeppiel",
+      "id": "pbakaus",
+      "rank": "#13",
+      "name": "Paul Bakaus",
+      "username": "pbakaus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
+      "url": "https://github.com/pbakaus",
       "popularRepository": {
-        "name": "agentic-sdlc-handbook",
-        "url": "https://github.com/danielmeppiel/agentic-sdlc-handbook",
-        "description": "The Agentic SDLC Handbook — dual-audience guide for C-suite and practitioners"
+        "name": "impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "description": "The design language that makes your AI harness better at design."
       },
-      "why": "Daniel Meppiel is trending because their repository agentic-sdlc-handbook is receiving visible attention on GitHub today.",
+      "why": "Paul Bakaus is trending because their repository impeccable is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "astro-han",
+      "rank": "#14",
+      "name": "AstroHan",
+      "username": "Astro-Han",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?s=96&v=4",
+      "url": "https://github.com/Astro-Han",
+      "popularRepository": {
+        "name": "karpathy-llm-wiki",
+        "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
+        "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, a…"
+      },
+      "why": "AstroHan is trending because their repository karpathy-llm-wiki is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
