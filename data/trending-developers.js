@@ -1,99 +1,62 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-08-11T02:27:36.898Z",
+  "updatedAt": "2026-08-12T02:44:04.304Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "agoodkind",
+      "id": "artokun",
       "rank": "#01",
-      "name": "Alex Goodkind",
-      "username": "agoodkind",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1017680?s=96&v=4",
-      "url": "https://github.com/agoodkind",
+      "name": "Arthur R Longbottom",
+      "username": "artokun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7666455?s=96&v=4",
+      "url": "https://github.com/artokun",
       "popularRepository": {
-        "name": "macos-smc-fan",
-        "url": "https://github.com/agoodkind/macos-smc-fan",
-        "description": "Research into SMC fan control on Apple Silicon (M1-M5). Documents the unlock mechanism and provides a working implementation for educatio…"
+        "name": "comfyui-mcp",
+        "url": "https://github.com/artokun/comfyui-mcp",
+        "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs w…"
       },
-      "why": "Alex Goodkind is trending because their repository macos-smc-fan is receiving visible attention on GitHub today.",
+      "why": "Arthur R Longbottom is trending because their repository comfyui-mcp is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Web"
+        "AI"
       ]
     },
     {
-      "id": "ohdearquant",
+      "id": "nicoloboschi",
       "rank": "#02",
-      "name": "OceanLi",
-      "username": "ohdearquant",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/122793010?s=96&v=4",
-      "url": "https://github.com/ohdearquant",
+      "name": "Nicolò Boschi",
+      "username": "nicoloboschi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23314389?s=96&v=4",
+      "url": "https://github.com/nicoloboschi",
       "popularRepository": {
-        "name": "khive",
-        "url": "https://github.com/ohdearquant/khive",
-        "description": "A knowledge graph your AI agents build, query, and grow. Built for agents that need structure beyond vectors"
+        "name": "gh-stars",
+        "url": "https://github.com/nicoloboschi/gh-stars",
+        "description": "alternative to https://github.com/star-history/star-history"
       },
-      "why": "OceanLi is trending because their repository khive is receiving visible attention on GitHub today.",
+      "why": "Nicolò Boschi is trending because their repository gh-stars is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     },
     {
-      "id": "cmungall",
+      "id": "mikepenz",
       "rank": "#03",
-      "name": "Chris Mungall",
-      "username": "cmungall",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50745?s=96&v=4",
-      "url": "https://github.com/cmungall",
+      "name": "Mike Penz",
+      "username": "mikepenz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1476232?s=96&v=4",
+      "url": "https://github.com/mikepenz",
       "popularRepository": {
-        "name": "PrologInfo",
-        "url": "https://github.com/cmungall/PrologInfo",
-        "description": "Prolog, Datalog, languages, resources, and beyond!"
+        "name": "multiplatform-markdown-renderer",
+        "url": "https://github.com/mikepenz/multiplatform-markdown-renderer",
+        "description": "Markdown renderer for Kotlin Multiplatform Projects (Android, iOS, Desktop), using Compose."
       },
-      "why": "Chris Mungall is trending because their repository PrologInfo is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Data"
-      ]
-    },
-    {
-      "id": "abhiaiyer91",
-      "rank": "#04",
-      "name": "Abhi Aiyer",
-      "username": "abhiaiyer91",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2359375?s=96&v=4",
-      "url": "https://github.com/abhiaiyer91",
-      "popularRepository": {
-        "name": "apollo-storybook-decorator",
-        "url": "https://github.com/abhiaiyer91/apollo-storybook-decorator",
-        "description": "Wrap your storybook environment with Apollo Client, provide mocks for isolated UI testing with GraphQL"
-      },
-      "why": "Abhi Aiyer is trending because their repository apollo-storybook-decorator is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "hrydgard",
-      "rank": "#05",
-      "name": "Henrik Rydgård",
-      "username": "hrydgard",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/130929?s=96&v=4",
-      "url": "https://github.com/hrydgard",
-      "popularRepository": {
-        "name": "ppsspp",
-        "url": "https://github.com/hrydgard/ppsspp",
-        "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
-      },
-      "why": "Henrik Rydgård is trending because their repository ppsspp is receiving visible attention on GitHub today.",
+      "why": "Mike Penz is trending because their repository multiplatform-markdown-renderer is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "zhulinsen",
-      "rank": "#06",
+      "rank": "#04",
       "name": "zhulinsen",
       "username": "ZhuLinsen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=96&v=4",
@@ -111,26 +74,26 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "skyzh",
-      "rank": "#07",
-      "name": "Alex Chi Z",
-      "username": "skyzh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4198311?s=96&v=4",
-      "url": "https://github.com/skyzh",
+      "id": "bholmesdev",
+      "rank": "#05",
+      "name": "Ben Holmes",
+      "username": "bholmesdev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51384119?s=96&v=4",
+      "url": "https://github.com/bholmesdev",
       "popularRepository": {
-        "name": "mini-lsm",
-        "url": "https://github.com/skyzh/mini-lsm",
-        "description": "learn database internals by building a storage engine in Rust"
+        "name": "hubble.md",
+        "url": "https://github.com/bholmesdev/hubble.md",
+        "description": "The best notepad for you and your agents"
       },
-      "why": "Alex Chi Z is trending because their repository mini-lsm is receiving visible attention on GitHub today.",
+      "why": "Ben Holmes is trending because their repository hubble.md is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Data"
+        "AI"
       ]
     },
     {
       "id": "amelnagdy",
-      "rank": "#08",
+      "rank": "#06",
       "name": "Ahmed Nagdy",
       "username": "amElnagdy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7650147?s=96&v=4",
@@ -147,22 +110,55 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "elie222",
-      "rank": "#09",
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
-      "url": "https://github.com/elie222",
+      "id": "soju06",
+      "rank": "#07",
+      "name": "Soju06",
+      "username": "Soju06",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34199905?s=96&v=4",
+      "url": "https://github.com/Soju06",
       "popularRepository": {
-        "name": "inbox-zero",
-        "url": "https://github.com/elie222/inbox-zero",
-        "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast."
+        "name": "codex-lb",
+        "url": "https://github.com/Soju06/codex-lb",
+        "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints"
       },
-      "why": "Elie Steinbock is trending because their repository inbox-zero is receiving visible attention on GitHub today.",
+      "why": "Soju06 is trending because their repository codex-lb is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "skyzh",
+      "rank": "#08",
+      "name": "Alex Chi Z",
+      "username": "skyzh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4198311?s=96&v=4",
+      "url": "https://github.com/skyzh",
+      "popularRepository": {
+        "name": "mini-lsm",
+        "url": "https://github.com/skyzh/mini-lsm",
+        "description": "learn database internals by building a storage engine in Rust"
+      },
+      "why": "Alex Chi Z is trending because their repository mini-lsm is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI",
-        "Web"
+        "Data"
+      ]
+    },
+    {
+      "id": "ruvnet",
+      "rank": "#09",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+      },
+      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
       ]
     },
     {
@@ -185,61 +181,26 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "ascorbic",
+      "id": "capcom6",
       "rank": "#11",
-      "name": "Matt Kane",
-      "username": "ascorbic",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/213306?s=96&v=4",
-      "url": "https://github.com/ascorbic",
+      "name": "Aleksandr",
+      "username": "capcom6",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26476232?s=96&v=4",
+      "url": "https://github.com/capcom6",
       "popularRepository": {
-        "name": "cirrus",
-        "url": "https://github.com/ascorbic/cirrus",
-        "description": "A single-user ATProto PDS that runs on a Cloudflare Worker"
+        "name": "android-sms-gateway",
+        "url": "https://github.com/capcom6/android-sms-gateway",
+        "description": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or…"
       },
-      "why": "Matt Kane is trending because their repository cirrus is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "git-on-my-level",
-      "rank": "#12",
-      "name": "David Zhang",
-      "username": "Git-on-my-level",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9387252?s=96&v=4",
-      "url": "https://github.com/Git-on-my-level",
-      "popularRepository": {
-        "name": "codex-autorunner",
-        "url": "https://github.com/Git-on-my-level/codex-autorunner",
-        "description": "No popular repository description available."
-      },
-      "why": "David Zhang is trending because their repository codex-autorunner is receiving visible attention on GitHub today.",
+      "why": "Aleksandr is trending because their repository android-sms-gateway is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "obviyus",
-      "rank": "#13",
-      "name": "Ayaan Zaidi",
-      "username": "obviyus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22031114?s=96&v=4",
-      "url": "https://github.com/obviyus",
-      "popularRepository": {
-        "name": "shelleport",
-        "url": "https://github.com/obviyus/shelleport",
-        "description": "Start, monitor, and interact with AI coding sessions on any machine. All from your browser."
-      },
-      "why": "Ayaan Zaidi is trending because their repository shelleport is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
+        "Web"
       ]
     },
     {
       "id": "aandrew-me",
-      "rank": "#14",
+      "rank": "#12",
       "name": "Andrew",
       "username": "aandrew-me",
       "avatarUrl": "https://avatars.githubusercontent.com/u/66430340?s=96&v=4",
@@ -247,12 +208,45 @@ window.trendingDevelopers = {
       "popularRepository": {
         "name": "ytDownloader",
         "url": "https://github.com/aandrew-me/ytDownloader",
-        "description": "Desktop App for downloading Videos and Audios from hundreds of sites"
+        "description": "CA: HBbDPYzpidbTVUuRwLeWGAAJbGir7NvejvbWNCRdpump"
       },
       "why": "Andrew is trending because their repository ytDownloader is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "Web"
+        "Developer"
+      ]
+    },
+    {
+      "id": "1jehuang",
+      "rank": "#13",
+      "name": "Jeremy Huang",
+      "username": "1jehuang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94247773?s=96&v=4",
+      "url": "https://github.com/1jehuang",
+      "popularRepository": {
+        "name": "jcode",
+        "url": "https://github.com/1jehuang/jcode",
+        "description": "The most RAM efficient harness"
+      },
+      "why": "Jeremy Huang is trending because their repository jcode is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "momo5502",
+      "rank": "#14",
+      "name": "Maurice Heumann",
+      "username": "momo5502",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4027748?s=96&v=4",
+      "url": "https://github.com/momo5502",
+      "popularRepository": {
+        "name": "sogen",
+        "url": "https://github.com/momo5502/sogen",
+        "description": "🪅 Windows & Linux userspace emulator"
+      },
+      "why": "Maurice Heumann is trending because their repository sogen is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
       ]
     }
   ]
