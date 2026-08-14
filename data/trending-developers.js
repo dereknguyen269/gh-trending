@@ -1,5 +1,5 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-08-13T02:47:01.905Z",
+  "updatedAt": "2026-08-14T02:45:48.709Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
@@ -20,80 +20,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "looplj",
-      "rank": "#02",
-      "name": "Loop",
-      "username": "looplj",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/231043908?s=96&v=4",
-      "url": "https://github.com/looplj",
-      "popularRepository": {
-        "name": "axonhub",
-        "url": "https://github.com/looplj/axonhub",
-        "description": "⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing."
-      },
-      "why": "Loop is trending because their repository axonhub is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "amelnagdy",
-      "rank": "#03",
-      "name": "Ahmed Nagdy",
-      "username": "amElnagdy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7650147?s=96&v=4",
-      "url": "https://github.com/amElnagdy",
-      "popularRepository": {
-        "name": "delegate-skills",
-        "url": "https://github.com/amElnagdy/delegate-skills",
-        "description": "Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer."
-      },
-      "why": "Ahmed Nagdy is trending because their repository delegate-skills is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "1jehuang",
-      "rank": "#04",
-      "name": "Jeremy Huang",
-      "username": "1jehuang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94247773?s=96&v=4",
-      "url": "https://github.com/1jehuang",
-      "popularRepository": {
-        "name": "jcode",
-        "url": "https://github.com/1jehuang/jcode",
-        "description": "The most RAM efficient harness"
-      },
-      "why": "Jeremy Huang is trending because their repository jcode is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "elie222",
-      "rank": "#05",
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
-      "url": "https://github.com/elie222",
-      "popularRepository": {
-        "name": "inbox-zero",
-        "url": "https://github.com/elie222/inbox-zero",
-        "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast."
-      },
-      "why": "Elie Steinbock is trending because their repository inbox-zero is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
       "id": "zhulinsen",
-      "rank": "#06",
+      "rank": "#02",
       "name": "zhulinsen",
       "username": "ZhuLinsen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=96&v=4",
@@ -111,8 +39,26 @@ window.trendingDevelopers = {
       ]
     },
     {
+      "id": "thecodingdad-tisonk",
+      "rank": "#03",
+      "name": "TisonK",
+      "username": "TheCodingDad-TisonK",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/256881441?s=96&v=4",
+      "url": "https://github.com/TheCodingDad-TisonK",
+      "popularRepository": {
+        "name": "fs25-claude-skill",
+        "url": "https://github.com/TheCodingDad-TisonK/fs25-claude-skill",
+        "description": "Claude skill for FS25 mod development — answers verified against the game's own decompiled engine source (1,842 files). 1,413 classes, 11…"
+      },
+      "why": "TisonK is trending because their repository fs25-claude-skill is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
       "id": "artokun",
-      "rank": "#07",
+      "rank": "#04",
       "name": "Arthur R Longbottom",
       "username": "artokun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7666455?s=96&v=4",
@@ -129,8 +75,97 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "deusdata",
+      "id": "ruvnet",
+      "rank": "#05",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+      },
+      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "amelnagdy",
+      "rank": "#06",
+      "name": "Ahmed Nagdy",
+      "username": "amElnagdy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7650147?s=96&v=4",
+      "url": "https://github.com/amElnagdy",
+      "popularRepository": {
+        "name": "delegate-skills",
+        "url": "https://github.com/amElnagdy/delegate-skills",
+        "description": "Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer."
+      },
+      "why": "Ahmed Nagdy is trending because their repository delegate-skills is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "looplj",
+      "rank": "#07",
+      "name": "Loop",
+      "username": "looplj",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/231043908?s=96&v=4",
+      "url": "https://github.com/looplj",
+      "popularRepository": {
+        "name": "axonhub",
+        "url": "https://github.com/looplj/axonhub",
+        "description": "⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing."
+      },
+      "why": "Loop is trending because their repository axonhub is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "kunchenguid",
       "rank": "#08",
+      "name": "Kun Chen",
+      "username": "kunchenguid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3233006?s=96&v=4",
+      "url": "https://github.com/kunchenguid",
+      "popularRepository": {
+        "name": "firstmate",
+        "url": "https://github.com/kunchenguid/firstmate",
+        "description": "Talk to one agent. Ship with a crew."
+      },
+      "why": "Kun Chen is trending because their repository firstmate is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "tobi",
+      "rank": "#09",
+      "name": "Tobias Lütke",
+      "username": "tobi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/347?s=96&v=4",
+      "url": "https://github.com/tobi",
+      "popularRepository": {
+        "name": "qmd",
+        "url": "https://github.com/tobi/qmd",
+        "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
+      },
+      "why": "Tobias Lütke is trending because their repository qmd is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "deusdata",
+      "rank": "#10",
       "name": "Martin Vogel",
       "username": "DeusData",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=96&v=4",
@@ -147,25 +182,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "ruvnet",
-      "rank": "#09",
-      "name": "rUv",
-      "username": "ruvnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
-      "url": "https://github.com/ruvnet",
-      "popularRepository": {
-        "name": "RuView",
-        "url": "https://github.com/ruvnet/RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
-      },
-      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "bholmesdev",
-      "rank": "#10",
+      "rank": "#11",
       "name": "Ben Holmes",
       "username": "bholmesdev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51384119?s=96&v=4",
@@ -182,67 +200,55 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "danielhanchen",
-      "rank": "#11",
-      "name": "Daniel Han",
-      "username": "danielhanchen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23090290?s=96&v=4",
-      "url": "https://github.com/danielhanchen",
-      "popularRepository": null,
-      "why": "Daniel Han is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "garrytan",
+      "id": "elie222",
       "rank": "#12",
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
-      "url": "https://github.com/garrytan",
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
+      "url": "https://github.com/elie222",
       "popularRepository": {
-        "name": "gstack",
-        "url": "https://github.com/garrytan/gstack",
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+        "name": "inbox-zero",
+        "url": "https://github.com/elie222/inbox-zero",
+        "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast."
       },
-      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
+      "why": "Elie Steinbock is trending because their repository inbox-zero is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Tooling"
+        "AI",
+        "Web"
       ]
     },
     {
-      "id": "xiaolai",
+      "id": "capcom6",
       "rank": "#13",
-      "name": "xiaolai",
-      "username": "xiaolai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/152970?s=96&v=4",
-      "url": "https://github.com/xiaolai",
+      "name": "Aleksandr",
+      "username": "capcom6",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26476232?s=96&v=4",
+      "url": "https://github.com/capcom6",
       "popularRepository": {
-        "name": "regular-investing-in-box",
-        "url": "https://github.com/xiaolai/regular-investing-in-box",
-        "description": "定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com"
+        "name": "android-sms-gateway",
+        "url": "https://github.com/capcom6/android-sms-gateway",
+        "description": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or…"
       },
-      "why": "xiaolai is trending because their repository regular-investing-in-box is receiving visible attention on GitHub today.",
+      "why": "Aleksandr is trending because their repository android-sms-gateway is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "Web"
       ]
     },
     {
-      "id": "baseballyama",
+      "id": "justvugg",
       "rank": "#14",
-      "name": "Yuichiro Yamashita",
-      "username": "baseballyama",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19153718?s=96&v=4",
-      "url": "https://github.com/baseballyama",
+      "name": "Vincenzo Fornaro",
+      "username": "JustVugg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
+      "url": "https://github.com/JustVugg",
       "popularRepository": {
-        "name": "rsvelte",
-        "url": "https://github.com/baseballyama/rsvelte",
-        "description": "Rust-powered Svelte ecosystem"
+        "name": "colibri",
+        "url": "https://github.com/JustVugg/colibri",
+        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
       },
-      "why": "Yuichiro Yamashita is trending because their repository rsvelte is receiving visible attention on GitHub today.",
+      "why": "Vincenzo Fornaro is trending because their repository colibri is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
