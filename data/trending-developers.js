@@ -1,5 +1,5 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-08-19T01:52:44.952Z",
+  "updatedAt": "2026-08-20T01:51:14.852Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
@@ -21,20 +21,22 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "eddyizm",
+      "id": "lidge-jun",
       "rank": "#02",
-      "name": "eddyizm",
-      "username": "eddyizm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12236892?s=96&v=4",
-      "url": "https://github.com/eddyizm",
+      "name": "JUN",
+      "username": "lidge-jun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
+      "url": "https://github.com/lidge-jun",
       "popularRepository": {
-        "name": "tempus",
-        "url": "https://github.com/eddyizm/tempus",
-        "description": "An open source and lightweight music client for Subsonic, designed and built natively for Android."
+        "name": "opencodex",
+        "url": "https://github.com/lidge-jun/opencodex",
+        "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
       },
-      "why": "eddyizm is trending because their repository tempus is receiving visible attention on GitHub today.",
+      "why": "JUN is trending because their repository opencodex is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI",
+        "Web"
       ]
     },
     {
@@ -55,8 +57,25 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "akitaonrails",
+      "id": "jdubois",
       "rank": "#04",
+      "name": "Julien Dubois",
+      "username": "jdubois",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/316835?s=96&v=4",
+      "url": "https://github.com/jdubois",
+      "popularRepository": {
+        "name": "boot-ui",
+        "url": "https://github.com/jdubois/boot-ui",
+        "description": "The missing developer UI for Spring Boot and Quarkus!"
+      },
+      "why": "Julien Dubois is trending because their repository boot-ui is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "akitaonrails",
+      "rank": "#05",
       "name": "Fabio Akita",
       "username": "akitaonrails",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2840?s=96&v=4",
@@ -73,8 +92,38 @@ window.trendingDevelopers = {
       ]
     },
     {
+      "id": "dashhuang",
+      "rank": "#06",
+      "name": "Dash",
+      "username": "dashhuang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125997726?s=96&v=4",
+      "url": "https://github.com/dashhuang",
+      "popularRepository": null,
+      "why": "Dash is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "elie222",
+      "rank": "#07",
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
+      "url": "https://github.com/elie222",
+      "popularRepository": {
+        "name": "rakazo",
+        "url": "https://github.com/elie222/rakazo",
+        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+      },
+      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
       "id": "owainlewis",
-      "rank": "#05",
+      "rank": "#08",
       "name": "Owain Lewis",
       "username": "owainlewis",
       "avatarUrl": "https://avatars.githubusercontent.com/u/733944?s=96&v=4",
@@ -92,7 +141,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "tt-a1i",
-      "rank": "#06",
+      "rank": "#09",
       "name": "tt-a1i",
       "username": "tt-a1i",
       "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
@@ -110,26 +159,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "kunchenguid",
-      "rank": "#07",
-      "name": "Kun Chen",
-      "username": "kunchenguid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3233006?s=96&v=4",
-      "url": "https://github.com/kunchenguid",
-      "popularRepository": {
-        "name": "firstmate",
-        "url": "https://github.com/kunchenguid/firstmate",
-        "description": "Talk to one agent. Ship with a crew."
-      },
-      "why": "Kun Chen is trending because their repository firstmate is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "mvanhorn",
-      "rank": "#08",
+      "rank": "#10",
       "name": "Matt Van Horn",
       "username": "mvanhorn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
@@ -147,110 +178,71 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "magnus919",
-      "rank": "#09",
-      "name": "Magnus Hedemark",
-      "username": "magnus919",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/942000?s=96&v=4",
-      "url": "https://github.com/magnus919",
-      "popularRepository": {
-        "name": "hermes-profiles",
-        "url": "https://github.com/magnus919/hermes-profiles",
-        "description": "Curated Hermes Agent profiles for specialist swarms — opinionated, Hermes-optimized, artifact-pyramid native"
-      },
-      "why": "Magnus Hedemark is trending because their repository hermes-profiles is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "ericlbuehler",
-      "rank": "#10",
-      "name": "Eric Buehler",
-      "username": "EricLBuehler",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65165915?s=96&v=4",
-      "url": "https://github.com/EricLBuehler",
-      "popularRepository": {
-        "name": "mistral.rs",
-        "url": "https://github.com/EricLBuehler/mistral.rs",
-        "description": "Fast, flexible LLM inference"
-      },
-      "why": "Eric Buehler is trending because their repository mistral.rs is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "narumiruna",
+      "id": "eddyizm",
       "rank": "#11",
-      "name": "なるみ",
-      "username": "narumiruna",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4680567?s=96&v=4",
-      "url": "https://github.com/narumiruna",
+      "name": "eddyizm",
+      "username": "eddyizm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12236892?s=96&v=4",
+      "url": "https://github.com/eddyizm",
       "popularRepository": {
-        "name": "pi-extensions",
-        "url": "https://github.com/narumiruna/pi-extensions",
-        "description": "A TypeScript monorepo of Pi Coding Agent extensions for automation, planning, language tooling, browser control, web research, Git workfl…"
+        "name": "tempus",
+        "url": "https://github.com/eddyizm/tempus",
+        "description": "An open source and lightweight music client for Subsonic, designed and built natively for Android."
       },
-      "why": "なるみ is trending because their repository pi-extensions is receiving visible attention on GitHub today.",
+      "why": "eddyizm is trending because their repository tempus is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI",
-        "Tooling"
+        "Developer"
       ]
     },
     {
-      "id": "anionex",
+      "id": "garrytan",
       "rank": "#12",
-      "name": "anionex",
-      "username": "Anionex",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/123177548?s=96&v=4",
-      "url": "https://github.com/Anionex",
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
+      "url": "https://github.com/garrytan",
       "popularRepository": {
-        "name": "dsh-vision-toolkit",
-        "url": "https://github.com/Anionex/dsh-vision-toolkit",
-        "description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-s…"
+        "name": "gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
       },
-      "why": "anionex is trending because their repository dsh-vision-toolkit is receiving visible attention on GitHub today.",
+      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI",
         "Tooling"
       ]
     },
     {
-      "id": "dashhuang",
+      "id": "kunchenguid",
       "rank": "#13",
-      "name": "Dash",
-      "username": "dashhuang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/125997726?s=96&v=4",
-      "url": "https://github.com/dashhuang",
+      "name": "Kun Chen",
+      "username": "kunchenguid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3233006?s=96&v=4",
+      "url": "https://github.com/kunchenguid",
       "popularRepository": {
-        "name": "game-starkyries",
-        "url": "https://github.com/dashhuang/game-starkyries",
-        "description": "No popular repository description available."
+        "name": "firstmate",
+        "url": "https://github.com/kunchenguid/firstmate",
+        "description": "Talk to one agent. Ship with a crew."
       },
-      "why": "Dash is trending because their repository game-starkyries is receiving visible attention on GitHub today.",
+      "why": "Kun Chen is trending because their repository firstmate is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "cagnulein",
+      "id": "jkomyno",
       "rank": "#14",
-      "name": "Roberto Viola",
-      "username": "cagnulein",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48216?s=96&v=4",
-      "url": "https://github.com/cagnulein",
+      "name": "Alberto Schiabel",
+      "username": "jkomyno",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12381818?s=96&v=4",
+      "url": "https://github.com/jkomyno",
       "popularRepository": {
-        "name": "qdomyos-zwift",
-        "url": "https://github.com/cagnulein/qdomyos-zwift",
-        "description": "Zwift bridge for smart treadmills and bike/cyclette"
+        "name": "pnpm-monorepo-template",
+        "url": "https://github.com/jkomyno/pnpm-monorepo-template",
+        "description": "Opinionated Node.js monorepo example with pnpm, turborepo, and vitest"
       },
-      "why": "Roberto Viola is trending because their repository qdomyos-zwift is receiving visible attention on GitHub today.",
+      "why": "Alberto Schiabel is trending because their repository pnpm-monorepo-template is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
