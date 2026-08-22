@@ -1,27 +1,47 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-08-21T01:57:09.772Z",
+  "updatedAt": "2026-08-22T01:49:51.882Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "eddyizm",
+      "id": "mvanhorn",
       "rank": "#01",
-      "name": "eddyizm",
-      "username": "eddyizm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12236892?s=96&v=4",
-      "url": "https://github.com/eddyizm",
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
+      "url": "https://github.com/mvanhorn",
       "popularRepository": {
-        "name": "tempus",
-        "url": "https://github.com/eddyizm/tempus",
-        "description": "An open source and lightweight music client for Subsonic, designed and built natively for Android."
+        "name": "last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
       },
-      "why": "eddyizm is trending because their repository tempus is receiving visible attention on GitHub today.",
+      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "kunchenguid",
+      "rank": "#02",
+      "name": "Kun Chen",
+      "username": "kunchenguid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3233006?s=96&v=4",
+      "url": "https://github.com/kunchenguid",
+      "popularRepository": {
+        "name": "firstmate",
+        "url": "https://github.com/kunchenguid/firstmate",
+        "description": "Talk to one agent. Ship with a crew."
+      },
+      "why": "Kun Chen is trending because their repository firstmate is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
       ]
     },
     {
       "id": "zzet",
-      "rank": "#02",
+      "rank": "#03",
       "name": "Andrew Kumanyaev",
       "username": "zzet",
       "avatarUrl": "https://avatars.githubusercontent.com/u/510788?s=96&v=4",
@@ -38,91 +58,34 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "artokun",
-      "rank": "#03",
-      "name": "Arthur R Longbottom",
-      "username": "artokun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7666455?s=96&v=4",
-      "url": "https://github.com/artokun",
-      "popularRepository": {
-        "name": "comfyui-mcp",
-        "url": "https://github.com/artokun/comfyui-mcp",
-        "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs w…"
-      },
-      "why": "Arthur R Longbottom is trending because their repository comfyui-mcp is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "agalwood",
+      "id": "jeremy",
       "rank": "#04",
-      "name": "Dr_rOot",
-      "username": "agalwood",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1032175?s=96&v=4",
-      "url": "https://github.com/agalwood",
-      "popularRepository": {
-        "name": "Motrix",
-        "url": "https://github.com/agalwood/Motrix",
-        "description": "A full-featured download manager."
-      },
-      "why": "Dr_rOot is trending because their repository Motrix is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "inotia00",
-      "rank": "#05",
-      "name": "inotia00",
-      "username": "inotia00",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/108592928?s=96&v=4",
-      "url": "https://github.com/inotia00",
-      "popularRepository": {
-        "name": "piko",
-        "url": "https://github.com/inotia00/piko",
-        "description": "morphe patches for twitter and instagram"
-      },
-      "why": "inotia00 is trending because their repository piko is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "sozercan",
-      "rank": "#06",
-      "name": "Sertaç Özercan",
-      "username": "sozercan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/852750?s=96&v=4",
-      "url": "https://github.com/sozercan",
-      "popularRepository": {
-        "name": "kaset",
-        "url": "https://github.com/sozercan/kaset",
-        "description": "📼 The missing YouTube and YouTube Music macOS app"
-      },
-      "why": "Sertaç Özercan is trending because their repository kaset is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "sunchao",
-      "rank": "#07",
-      "name": "Chao Sun",
-      "username": "sunchao",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/506679?s=96&v=4",
-      "url": "https://github.com/sunchao",
+      "name": "Jeremy Daer",
+      "username": "jeremy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199?s=96&v=4",
+      "url": "https://github.com/jeremy",
       "popularRepository": null,
-      "why": "Chao Sun is trending because GitHub users are visiting and following their work today.",
+      "why": "Jeremy Daer is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "dashhuang",
+      "rank": "#05",
+      "name": "Dash",
+      "username": "dashhuang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125997726?s=96&v=4",
+      "url": "https://github.com/dashhuang",
+      "popularRepository": null,
+      "why": "Dash is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "dreamhunter2333",
-      "rank": "#08",
+      "rank": "#06",
       "name": "Dream Hunter",
       "username": "dreamhunter2333",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32295532?s=96&v=4",
@@ -139,103 +102,147 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "arsenm",
-      "rank": "#09",
-      "name": "Matt Arsenault",
-      "username": "arsenm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138339?s=96&v=4",
-      "url": "https://github.com/arsenm",
-      "popularRepository": null,
-      "why": "Matt Arsenault is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "jdubois",
-      "rank": "#10",
-      "name": "Julien Dubois",
-      "username": "jdubois",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/316835?s=96&v=4",
-      "url": "https://github.com/jdubois",
+      "id": "emilk",
+      "rank": "#07",
+      "name": "Emil Ernerfeldt",
+      "username": "emilk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1148717?s=96&v=4",
+      "url": "https://github.com/emilk",
       "popularRepository": {
-        "name": "boot-ui",
-        "url": "https://github.com/jdubois/boot-ui",
-        "description": "The missing developer UI for Spring Boot and Quarkus!"
+        "name": "egui",
+        "url": "https://github.com/emilk/egui",
+        "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
       },
-      "why": "Julien Dubois is trending because their repository boot-ui is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "ruvnet",
-      "rank": "#11",
-      "name": "rUv",
-      "username": "ruvnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
-      "url": "https://github.com/ruvnet",
-      "popularRepository": {
-        "name": "RuView",
-        "url": "https://github.com/ruvnet/RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
-      },
-      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "tobi",
-      "rank": "#12",
-      "name": "Tobias Lütke",
-      "username": "tobi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/347?s=96&v=4",
-      "url": "https://github.com/tobi",
-      "popularRepository": {
-        "name": "qmd",
-        "url": "https://github.com/tobi/qmd",
-        "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
-      },
-      "why": "Tobias Lütke is trending because their repository qmd is receiving visible attention on GitHub today.",
+      "why": "Emil Ernerfeldt is trending because their repository egui is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "Web"
       ]
     },
     {
-      "id": "hiyouga",
-      "rank": "#13",
-      "name": "Yaowei Zheng",
-      "username": "hiyouga",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16256802?s=96&v=4",
-      "url": "https://github.com/hiyouga",
+      "id": "jtydhr88",
+      "rank": "#08",
+      "name": "Terry Jia",
+      "username": "jtydhr88",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/860985?s=96&v=4",
+      "url": "https://github.com/jtydhr88",
       "popularRepository": {
-        "name": "LlamaFactory",
-        "url": "https://github.com/hiyouga/LlamaFactory",
-        "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+        "name": "ComfyTV",
+        "url": "https://github.com/jtydhr88/ComfyTV",
+        "description": "ComfyTV — the canvas-based app that truly belongs to ComfyUI."
       },
-      "why": "Yaowei Zheng is trending because their repository LlamaFactory is receiving visible attention on GitHub today.",
+      "why": "Terry Jia is trending because their repository ComfyTV is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "eddyizm",
+      "rank": "#09",
+      "name": "eddyizm",
+      "username": "eddyizm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12236892?s=96&v=4",
+      "url": "https://github.com/eddyizm",
+      "popularRepository": {
+        "name": "tempus",
+        "url": "https://github.com/eddyizm/tempus",
+        "description": "An open source and lightweight music client for Subsonic, designed and built natively for Android."
+      },
+      "why": "eddyizm is trending because their repository tempus is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "lidge-jun",
+      "rank": "#10",
+      "name": "JUN",
+      "username": "lidge-jun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
+      "url": "https://github.com/lidge-jun",
+      "popularRepository": {
+        "name": "opencodex",
+        "url": "https://github.com/lidge-jun/opencodex",
+        "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+      },
+      "why": "JUN is trending because their repository opencodex is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "vvolhejn",
+      "rank": "#11",
+      "name": "Václav Volhejn",
+      "username": "vvolhejn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8401624?s=96&v=4",
+      "url": "https://github.com/vvolhejn",
+      "popularRepository": {
+        "name": "samuel",
+        "url": "https://github.com/vvolhejn/samuel",
+        "description": "A silly speech model - Pink Trombone automated"
+      },
+      "why": "Václav Volhejn is trending because their repository samuel is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "bradygaster",
+      "rank": "#12",
+      "name": "Brady Gaster",
+      "username": "bradygaster",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/41929050?s=96&v=4",
+      "url": "https://github.com/bradygaster",
+      "popularRepository": {
+        "name": "squad",
+        "url": "https://github.com/bradygaster/squad",
+        "description": "Squad: AI agent teams for any project"
+      },
+      "why": "Brady Gaster is trending because their repository squad is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "davatron5000",
-      "rank": "#14",
-      "name": "Dave Rupert",
-      "username": "davatron5000",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42218?s=96&v=4",
-      "url": "https://github.com/davatron5000",
+      "id": "artokun",
+      "rank": "#13",
+      "name": "Arthur R Longbottom",
+      "username": "artokun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7666455?s=96&v=4",
+      "url": "https://github.com/artokun",
       "popularRepository": {
-        "name": "microlighter",
-        "url": "https://github.com/davatron5000/microlighter",
-        "description": "A zero-dep syntax highlighter that uses the CSS Highlights API"
+        "name": "comfyui-mcp",
+        "url": "https://github.com/artokun/comfyui-mcp",
+        "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs w…"
       },
-      "why": "Dave Rupert is trending because their repository microlighter is receiving visible attention on GitHub today.",
+      "why": "Arthur R Longbottom is trending because their repository comfyui-mcp is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "sztheory",
+      "rank": "#14",
+      "name": "szTheory",
+      "username": "szTheory",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28652?s=96&v=4",
+      "url": "https://github.com/szTheory",
+      "popularRepository": {
+        "name": "exifcleaner",
+        "url": "https://github.com/szTheory/exifcleaner",
+        "description": "Cross-platform desktop GUI app to clean image metadata"
+      },
+      "why": "szTheory is trending because their repository exifcleaner is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web",
+        "Data"
       ]
     }
   ]
