@@ -1,5 +1,5 @@
 window.trendingRepos = {
-  "updatedAt": "2026-08-23T01:59:45.676Z",
+  "updatedAt": "2026-08-24T01:57:31.241Z",
   "source": "https://github.com/trending?since=daily",
   "repositories": [
     {
@@ -9,9 +9,9 @@ window.trendingRepos = {
       "title": "openai / codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
-      "stars": 113499,
-      "forks": 17375,
-      "starsToday": 1544,
+      "stars": 115354,
+      "forks": 17587,
+      "starsToday": 2715,
       "url": "https://github.com/openai/codex",
       "rank": "#01",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
@@ -23,57 +23,36 @@ window.trendingRepos = {
       ]
     },
     {
+      "id": "awesome-gpt-image-2",
+      "owner": "freestylefly",
+      "name": "awesome-gpt-image-2",
+      "title": "freestylefly / awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars": 12857,
+      "forks": 1438,
+      "starsToday": 401,
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "rank": "#02",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "JavaScript"
+      ]
+    },
+    {
       "id": "skills",
       "owner": "mattpocock",
       "name": "skills",
       "title": "mattpocock / skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars": 232142,
-      "forks": 19813,
-      "starsToday": 2683,
+      "stars": 233937,
+      "forks": 19949,
+      "starsToday": 2447,
       "url": "https://github.com/mattpocock/skills",
-      "rank": "#02",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Shell",
-        "AI"
-      ]
-    },
-    {
-      "id": "ecc",
-      "owner": "affaan-m",
-      "name": "ECC",
-      "title": "affaan-m / ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars": 242186,
-      "forks": 36701,
-      "starsToday": 411,
-      "url": "https://github.com/affaan-m/ECC",
       "rank": "#03",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "JavaScript",
-        "AI",
-        "Open source"
-      ]
-    },
-    {
-      "id": "superpowers",
-      "owner": "obra",
-      "name": "superpowers",
-      "title": "obra / superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars": 276204,
-      "forks": 24703,
-      "starsToday": 592,
-      "url": "https://github.com/obra/superpowers",
-      "rank": "#04",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
       "tags": [
         "Shell",
@@ -81,81 +60,21 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "sub2api",
-      "owner": "Wei-Shaw",
-      "name": "sub2api",
-      "title": "Wei-Shaw / sub2api",
-      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "language": "Go",
-      "stars": 38803,
-      "forks": 8039,
-      "starsToday": 278,
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "rank": "#05",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Go repositories and deciding what deserves a deeper look.",
+      "id": "omarchy",
+      "owner": "basecamp",
+      "name": "omarchy",
+      "title": "basecamp / omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 29174,
+      "forks": 2965,
+      "starsToday": 750,
+      "url": "https://github.com/basecamp/omarchy",
+      "rank": "#04",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
       "tags": [
-        "Go",
-        "AI",
-        "Open source"
-      ]
-    },
-    {
-      "id": "plane",
-      "owner": "makeplane",
-      "name": "plane",
-      "title": "makeplane / plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "language": "TypeScript",
-      "stars": 57240,
-      "forks": 5446,
-      "starsToday": 263,
-      "url": "https://github.com/makeplane/plane",
-      "rank": "#06",
-      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
-        "Open source"
-      ]
-    },
-    {
-      "id": "n8n",
-      "owner": "n8n-io",
-      "name": "n8n",
-      "title": "n8n-io / n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "language": "TypeScript",
-      "stars": 201838,
-      "forks": 60306,
-      "starsToday": 149,
-      "url": "https://github.com/n8n-io/n8n",
-      "rank": "#07",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
-        "AI"
-      ]
-    },
-    {
-      "id": "claude-code",
-      "owner": "anthropics",
-      "name": "claude-code",
-      "title": "anthropics / claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "language": "Python",
-      "stars": 142552,
-      "forks": 22838,
-      "starsToday": 127,
-      "url": "https://github.com/anthropics/claude-code",
-      "rank": "#08",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI",
-        "Tooling"
+        "Shell"
       ]
     },
     {
@@ -165,11 +84,11 @@ window.trendingRepos = {
       "title": "AprilNEA / OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars": 13981,
-      "forks": 374,
-      "starsToday": 959,
+      "stars": 14996,
+      "forks": 404,
+      "starsToday": 1009,
       "url": "https://github.com/AprilNEA/OpenLogi",
-      "rank": "#09",
+      "rank": "#05",
       "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
       "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -178,35 +97,134 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "modular",
-      "owner": "modular",
-      "name": "modular",
-      "title": "modular / modular",
-      "description": "The Modular Platform (includes MAX & Mojo)",
-      "language": "Mojo",
-      "stars": 28852,
-      "forks": 3066,
-      "starsToday": 395,
-      "url": "https://github.com/modular/modular",
-      "rank": "#10",
+      "id": "buzz",
+      "owner": "block",
+      "name": "buzz",
+      "title": "block / buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 30135,
+      "forks": 3832,
+      "starsToday": 410,
+      "url": "https://github.com/block/buzz",
+      "rank": "#06",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Mojo repositories and deciding what deserves a deeper look.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
       "tags": [
-        "Mojo"
+        "Rust"
       ]
     },
     {
-      "id": "andrej-karpathy-skills",
-      "owner": "multica-ai",
-      "name": "andrej-karpathy-skills",
-      "title": "multica-ai / andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "language": "Unknown",
-      "stars": 205327,
-      "forks": 21008,
-      "starsToday": 315,
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "id": "maka",
+      "owner": "apache",
+      "name": "maka",
+      "title": "apache / maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "stars": 2370,
+      "forks": 270,
+      "starsToday": 51,
+      "url": "https://github.com/apache/maka",
+      "rank": "#07",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "AI",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "free-claude-code",
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "title": "Alishahryar1 / free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "stars": 48008,
+      "forks": 7893,
+      "starsToday": 1081,
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "rank": "#08",
+      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "Open source"
+      ]
+    },
+    {
+      "id": "openhuman",
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "title": "tinyhumansai / openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "language": "Rust",
+      "stars": 36784,
+      "forks": 3673,
+      "starsToday": 39,
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "rank": "#09",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Rust",
+        "AI",
+        "Open source"
+      ]
+    },
+    {
+      "id": "ecc",
+      "owner": "affaan-m",
+      "name": "ECC",
+      "title": "affaan-m / ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 242579,
+      "forks": 36721,
+      "starsToday": 427,
+      "url": "https://github.com/affaan-m/ECC",
+      "rank": "#10",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "JavaScript",
+        "AI",
+        "Open source"
+      ]
+    },
+    {
+      "id": "ruflo",
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "title": "ruvnet / ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 69097,
+      "forks": 8273,
+      "starsToday": 131,
+      "url": "https://github.com/ruvnet/ruflo",
       "rank": "#11",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "AI",
+        "Learning"
+      ]
+    },
+    {
+      "id": "awesome-agent-skills",
+      "owner": "VoltAgent",
+      "name": "awesome-agent-skills",
+      "title": "VoltAgent / awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "language": "Unknown",
+      "stars": 31326,
+      "forks": 3365,
+      "starsToday": 156,
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "rank": "#12",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Unknown repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -215,57 +233,39 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "google-timeline-visualizer",
-      "owner": "mahlernim",
-      "name": "google-timeline-visualizer",
-      "title": "mahlernim / google-timeline-visualizer",
-      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
-      "language": "Kotlin",
-      "stars": 2574,
-      "forks": 303,
-      "starsToday": 441,
-      "url": "https://github.com/mahlernim/google-timeline-visualizer",
-      "rank": "#12",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Kotlin repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Kotlin"
-      ]
-    },
-    {
-      "id": "free-for-dev",
-      "owner": "ripienaar",
-      "name": "free-for-dev",
-      "title": "ripienaar / free-for-dev",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "language": "HTML",
-      "stars": 133930,
-      "forks": 14029,
-      "starsToday": 829,
-      "url": "https://github.com/ripienaar/free-for-dev",
+      "id": "book-to-skill",
+      "owner": "virgiliojr94",
+      "name": "book-to-skill",
+      "title": "virgiliojr94 / book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 24696,
+      "forks": 2584,
+      "starsToday": 417,
+      "url": "https://github.com/virgiliojr94/book-to-skill",
       "rank": "#13",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving HTML repositories and deciding what deserves a deeper look.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
-        "HTML"
+        "Python"
       ]
     },
     {
-      "id": "typescript",
-      "owner": "microsoft",
-      "name": "TypeScript",
-      "title": "microsoft / TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "language": "Go",
-      "stars": 110544,
-      "forks": 13745,
-      "starsToday": 104,
-      "url": "https://github.com/microsoft/TypeScript",
+      "id": "vaultwarden",
+      "owner": "dani-garcia",
+      "name": "vaultwarden",
+      "title": "dani-garcia / vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": 65970,
+      "forks": 3127,
+      "starsToday": 78,
+      "url": "https://github.com/dani-garcia/vaultwarden",
       "rank": "#14",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Go repositories and deciding what deserves a deeper look.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
       "tags": [
-        "Go"
+        "Rust"
       ]
     }
   ]
