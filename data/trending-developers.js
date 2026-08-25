@@ -1,28 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-08-24T01:57:31.241Z",
+  "updatedAt": "2026-08-25T01:52:09.119Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "kunchenguid",
-      "rank": "#01",
-      "name": "Kun Chen",
-      "username": "kunchenguid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3233006?s=96&v=4",
-      "url": "https://github.com/kunchenguid",
-      "popularRepository": {
-        "name": "firstmate",
-        "url": "https://github.com/kunchenguid/firstmate",
-        "description": "Talk to one agent. Ship with a crew."
-      },
-      "why": "Kun Chen is trending because their repository firstmate is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "astro-han",
-      "rank": "#02",
+      "rank": "#01",
       "name": "AstroHan",
       "username": "Astro-Han",
       "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?s=96&v=4",
@@ -39,161 +21,42 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "etiennelescot",
+      "id": "hancore-linux",
+      "rank": "#02",
+      "name": "HANCORE",
+      "username": "HANCORE-linux",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/230438592?s=96&v=4",
+      "url": "https://github.com/HANCORE-linux",
+      "popularRepository": {
+        "name": "omarchy-plugin-marketplace",
+        "url": "https://github.com/HANCORE-linux/omarchy-plugin-marketplace",
+        "description": "Community-curated marketplace for Omarchy plugins"
+      },
+      "why": "HANCORE is trending because their repository omarchy-plugin-marketplace is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "justvugg",
       "rank": "#03",
-      "name": "Etienne Lescot",
-      "username": "EtienneLescot",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/215859519?s=96&v=4",
-      "url": "https://github.com/EtienneLescot",
+      "name": "Vincenzo Fornaro",
+      "username": "JustVugg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
+      "url": "https://github.com/JustVugg",
       "popularRepository": {
-        "name": "n8n-as-code",
-        "url": "https://github.com/EtienneLescot/n8n-as-code",
-        "description": "Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700+ templates, Git-like sync, and TypeScript workflows."
+        "name": "colibri",
+        "url": "https://github.com/JustVugg/colibri",
+        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
       },
-      "why": "Etienne Lescot is trending because their repository n8n-as-code is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "emilk",
-      "rank": "#04",
-      "name": "Emil Ernerfeldt",
-      "username": "emilk",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1148717?s=96&v=4",
-      "url": "https://github.com/emilk",
-      "popularRepository": {
-        "name": "egui",
-        "url": "https://github.com/emilk/egui",
-        "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
-      },
-      "why": "Emil Ernerfeldt is trending because their repository egui is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "maziyarpanahi",
-      "rank": "#05",
-      "name": "Maziyar Panahi",
-      "username": "maziyarpanahi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
-      "url": "https://github.com/maziyarpanahi",
-      "popularRepository": {
-        "name": "openmed",
-        "url": "https://github.com/maziyarpanahi/openmed",
-        "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Appl…"
-      },
-      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "henrygd",
-      "rank": "#06",
-      "name": "hank",
-      "username": "henrygd",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8519632?s=96&v=4",
-      "url": "https://github.com/henrygd",
-      "popularRepository": {
-        "name": "beszel",
-        "url": "https://github.com/henrygd/beszel",
-        "description": "Lightweight server monitoring with historical data, docker stats, and alerts."
-      },
-      "why": "hank is trending because their repository beszel is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Data"
-      ]
-    },
-    {
-      "id": "colbymchenry",
-      "rank": "#07",
-      "name": "Colby Mchenry",
-      "username": "colbymchenry",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
-      "url": "https://github.com/colbymchenry",
-      "popularRepository": {
-        "name": "codegraph",
-        "url": "https://github.com/colbymchenry/codegraph",
-        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and He…"
-      },
-      "why": "Colby Mchenry is trending because their repository codegraph is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "dreamhunter2333",
-      "rank": "#08",
-      "name": "Dream Hunter",
-      "username": "dreamhunter2333",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32295532?s=96&v=4",
-      "url": "https://github.com/dreamhunter2333",
-      "popularRepository": {
-        "name": "cloudflare_temp_email",
-        "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
-        "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot"
-      },
-      "why": "Dream Hunter is trending because their repository cloudflare_temp_email is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "jeremy",
-      "rank": "#09",
-      "name": "Jeremy Daer",
-      "username": "jeremy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/199?s=96&v=4",
-      "url": "https://github.com/jeremy",
-      "popularRepository": null,
-      "why": "Jeremy Daer is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "sztheory",
-      "rank": "#10",
-      "name": "szTheory",
-      "username": "szTheory",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28652?s=96&v=4",
-      "url": "https://github.com/szTheory",
-      "popularRepository": {
-        "name": "exifcleaner",
-        "url": "https://github.com/szTheory/exifcleaner",
-        "description": "Cross-platform desktop GUI app to clean image metadata"
-      },
-      "why": "szTheory is trending because their repository exifcleaner is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web",
-        "Data"
-      ]
-    },
-    {
-      "id": "carlosflorencio",
-      "rank": "#11",
-      "name": "Carlos Florêncio",
-      "username": "carlosflorencio",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1500881?s=96&v=4",
-      "url": "https://github.com/carlosflorencio",
-      "popularRepository": null,
-      "why": "Carlos Florêncio is trending because GitHub users are visiting and following their work today.",
+      "why": "Vincenzo Fornaro is trending because their repository colibri is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "max-sixty",
-      "rank": "#12",
+      "rank": "#04",
       "name": "Maximilian Roos",
       "username": "max-sixty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
@@ -210,39 +73,178 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "wenshao",
-      "rank": "#13",
-      "name": "Shaojin Wen",
-      "username": "wenshao",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1166785?s=96&v=4",
-      "url": "https://github.com/wenshao",
+      "id": "lykhoyda",
+      "rank": "#05",
+      "name": "Anton Lykhoyda",
+      "username": "Lykhoyda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8141917?s=96&v=4",
+      "url": "https://github.com/Lykhoyda",
       "popularRepository": {
-        "name": "codeagents",
-        "url": "https://github.com/wenshao/codeagents",
-        "description": "No popular repository description available."
+        "name": "ask-llm",
+        "url": "https://github.com/Lykhoyda/ask-llm",
+        "description": "MCP server for AI-to-AI collaboration — bridge Claude with Gemini, Codex, and other LLMs for code review, second opinions, and plan debate"
       },
-      "why": "Shaojin Wen is trending because their repository codeagents is receiving visible attention on GitHub today.",
+      "why": "Anton Lykhoyda is trending because their repository ask-llm is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "artokun",
-      "rank": "#14",
-      "name": "Arthur R Longbottom",
-      "username": "artokun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7666455?s=96&v=4",
-      "url": "https://github.com/artokun",
+      "id": "tobi",
+      "rank": "#06",
+      "name": "Tobias Lütke",
+      "username": "tobi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/347?s=96&v=4",
+      "url": "https://github.com/tobi",
       "popularRepository": {
-        "name": "comfyui-mcp",
-        "url": "https://github.com/artokun/comfyui-mcp",
-        "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs w…"
+        "name": "qmd",
+        "url": "https://github.com/tobi/qmd",
+        "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
       },
-      "why": "Arthur R Longbottom is trending because their repository comfyui-mcp is receiving visible attention on GitHub today.",
+      "why": "Tobias Lütke is trending because their repository qmd is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "etiennelescot",
+      "rank": "#07",
+      "name": "Etienne Lescot",
+      "username": "EtienneLescot",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/215859519?s=96&v=4",
+      "url": "https://github.com/EtienneLescot",
+      "popularRepository": {
+        "name": "n8n-as-code",
+        "url": "https://github.com/EtienneLescot/n8n-as-code",
+        "description": "Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700+ templates, Git-like sync, and TypeScript workflows."
+      },
+      "why": "Etienne Lescot is trending because their repository n8n-as-code is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
+      ]
+    },
+    {
+      "id": "danielmeppiel",
+      "rank": "#08",
+      "name": "Daniel Meppiel",
+      "username": "danielmeppiel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51440732?s=96&v=4",
+      "url": "https://github.com/danielmeppiel",
+      "popularRepository": {
+        "name": "agentic-sdlc-handbook",
+        "url": "https://github.com/danielmeppiel/agentic-sdlc-handbook",
+        "description": "The Agentic SDLC Handbook — dual-audience guide for C-suite and practitioners"
+      },
+      "why": "Daniel Meppiel is trending because their repository agentic-sdlc-handbook is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "kunchenguid",
+      "rank": "#09",
+      "name": "Kun Chen",
+      "username": "kunchenguid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3233006?s=96&v=4",
+      "url": "https://github.com/kunchenguid",
+      "popularRepository": {
+        "name": "firstmate",
+        "url": "https://github.com/kunchenguid/firstmate",
+        "description": "Talk to one agent. Ship with a crew."
+      },
+      "why": "Kun Chen is trending because their repository firstmate is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "bdraco",
+      "rank": "#10",
+      "name": "J. Nick Koston",
+      "username": "bdraco",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/663432?s=96&v=4",
+      "url": "https://github.com/bdraco",
+      "popularRepository": null,
+      "why": "J. Nick Koston is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "gakonst",
+      "rank": "#11",
+      "name": "Georgios Konstantopoulos",
+      "username": "gakonst",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17802178?s=96&v=4",
+      "url": "https://github.com/gakonst",
+      "popularRepository": {
+        "name": "nanocodex",
+        "url": "https://github.com/gakonst/nanocodex",
+        "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere."
+      },
+      "why": "Georgios Konstantopoulos is trending because their repository nanocodex is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "henrygd",
+      "rank": "#12",
+      "name": "hank",
+      "username": "henrygd",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8519632?s=96&v=4",
+      "url": "https://github.com/henrygd",
+      "popularRepository": {
+        "name": "beszel",
+        "url": "https://github.com/henrygd/beszel",
+        "description": "Lightweight server monitoring with historical data, docker stats, and alerts."
+      },
+      "why": "hank is trending because their repository beszel is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Data"
+      ]
+    },
+    {
+      "id": "elie222",
+      "rank": "#13",
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
+      "url": "https://github.com/elie222",
+      "popularRepository": {
+        "name": "rakazo",
+        "url": "https://github.com/elie222/rakazo",
+        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+      },
+      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "mvanhorn",
+      "rank": "#14",
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
+      "url": "https://github.com/mvanhorn",
+      "popularRepository": {
+        "name": "last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+      },
+      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
       ]
     }
   ]
