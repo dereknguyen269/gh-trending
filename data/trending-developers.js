@@ -1,45 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-08-26T01:58:17.123Z",
+  "updatedAt": "2026-08-27T09:49:15.271Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "max-sixty",
-      "rank": "#01",
-      "name": "Maximilian Roos",
-      "username": "max-sixty",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
-      "url": "https://github.com/max-sixty",
-      "popularRepository": {
-        "name": "worktrunk",
-        "url": "https://github.com/max-sixty/worktrunk",
-        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
-      },
-      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "cixzhang",
-      "rank": "#02",
-      "name": "Cindy Zhang",
-      "username": "cixzhang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2781099?s=96&v=4",
-      "url": "https://github.com/cixzhang",
-      "popularRepository": {
-        "name": "mdx-a2ui",
-        "url": "https://github.com/cixzhang/mdx-a2ui",
-        "description": "Experimental: convert MDX (prose + a closed component catalog) into A2UI JSON — the JSX is parsed, never evaluated"
-      },
-      "why": "Cindy Zhang is trending because their repository mdx-a2ui is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "1weiho",
-      "rank": "#03",
+      "rank": "#01",
       "name": "Yiwei Ho",
       "username": "1weiho",
       "avatarUrl": "https://avatars.githubusercontent.com/u/75478661?s=96&v=4",
@@ -56,8 +21,62 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "astro-han",
+      "id": "scottcjn",
+      "rank": "#02",
+      "name": "AutoJanitor",
+      "username": "Scottcjn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121303252?s=96&v=4",
+      "url": "https://github.com/Scottcjn",
+      "popularRepository": {
+        "name": "Rustchain",
+        "url": "https://github.com/Scottcjn/Rustchain",
+        "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU archite…"
+      },
+      "why": "AutoJanitor is trending because their repository Rustchain is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "nvk",
+      "rank": "#03",
+      "name": "nvk",
+      "username": "nvk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/797193?s=96&v=4",
+      "url": "https://github.com/nvk",
+      "popularRepository": {
+        "name": "llm-wiki",
+        "url": "https://github.com/nvk/llm-wiki",
+        "description": "LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compila…"
+      },
+      "why": "nvk is trending because their repository llm-wiki is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "max-sixty",
       "rank": "#04",
+      "name": "Maximilian Roos",
+      "username": "max-sixty",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
+      "url": "https://github.com/max-sixty",
+      "popularRepository": {
+        "name": "worktrunk",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+      },
+      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "astro-han",
+      "rank": "#05",
       "name": "AstroHan",
       "username": "Astro-Han",
       "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?s=96&v=4",
@@ -71,25 +90,6 @@ window.trendingDevelopers = {
       "tags": [
         "Developer",
         "AI"
-      ]
-    },
-    {
-      "id": "assafelovic",
-      "rank": "#05",
-      "name": "Assaf Elovic",
-      "username": "assafelovic",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13554167?s=96&v=4",
-      "url": "https://github.com/assafelovic",
-      "popularRepository": {
-        "name": "gpt-researcher",
-        "url": "https://github.com/assafelovic/gpt-researcher",
-        "description": "An autonomous agent that conducts deep research on any data using any LLM providers"
-      },
-      "why": "Assaf Elovic is trending because their repository gpt-researcher is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Data"
       ]
     },
     {
@@ -110,69 +110,38 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "maheshthedev",
+      "id": "niels9001",
       "rank": "#07",
-      "name": "Mahesh Sanikommu",
-      "username": "MaheshtheDev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38828053?s=96&v=4",
-      "url": "https://github.com/MaheshtheDev",
+      "name": "Niels Laute",
+      "username": "niels9001",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9866362?s=96&v=4",
+      "url": "https://github.com/niels9001",
       "popularRepository": null,
-      "why": "Mahesh Sanikommu is trending because GitHub users are visiting and following their work today.",
+      "why": "Niels Laute is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "wenshao",
+      "id": "elie222",
       "rank": "#08",
-      "name": "Shaojin Wen",
-      "username": "wenshao",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1166785?s=96&v=4",
-      "url": "https://github.com/wenshao",
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
+      "url": "https://github.com/elie222",
       "popularRepository": {
-        "name": "codeagents",
-        "url": "https://github.com/wenshao/codeagents",
-        "description": "No popular repository description available."
+        "name": "rakazo",
+        "url": "https://github.com/elie222/rakazo",
+        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
       },
-      "why": "Shaojin Wen is trending because their repository codeagents is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "joeyorlando",
-      "rank": "#09",
-      "name": "Joey Orlando",
-      "username": "joeyorlando",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9406895?s=96&v=4",
-      "url": "https://github.com/joeyorlando",
-      "popularRepository": null,
-      "why": "Joey Orlando is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "justvugg",
-      "rank": "#10",
-      "name": "Vincenzo Fornaro",
-      "username": "JustVugg",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
-      "url": "https://github.com/JustVugg",
-      "popularRepository": {
-        "name": "colibri",
-        "url": "https://github.com/JustVugg/colibri",
-        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
-      },
-      "why": "Vincenzo Fornaro is trending because their repository colibri is receiving visible attention on GitHub today.",
+      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "emilk",
-      "rank": "#11",
+      "rank": "#09",
       "name": "Emil Ernerfeldt",
       "username": "emilk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1148717?s=96&v=4",
@@ -189,21 +158,51 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "mattsse",
-      "rank": "#12",
-      "name": "Matthias Seitz",
-      "username": "mattsse",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19890894?s=96&v=4",
-      "url": "https://github.com/mattsse",
+      "id": "gakonst",
+      "rank": "#10",
+      "name": "Georgios Konstantopoulos",
+      "username": "gakonst",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17802178?s=96&v=4",
+      "url": "https://github.com/gakonst",
       "popularRepository": {
-        "name": "chromiumoxide",
-        "url": "https://github.com/mattsse/chromiumoxide",
-        "description": "Chrome Devtools Protocol rust API"
+        "name": "nanocodex",
+        "url": "https://github.com/gakonst/nanocodex",
+        "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere."
       },
-      "why": "Matthias Seitz is trending because their repository chromiumoxide is receiving visible attention on GitHub today.",
+      "why": "Georgios Konstantopoulos is trending because their repository nanocodex is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Tooling"
+        "AI"
+      ]
+    },
+    {
+      "id": "carlosflorencio",
+      "rank": "#11",
+      "name": "Carlos Florêncio",
+      "username": "carlosflorencio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1500881?s=96&v=4",
+      "url": "https://github.com/carlosflorencio",
+      "popularRepository": null,
+      "why": "Carlos Florêncio is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "cixzhang",
+      "rank": "#12",
+      "name": "Cindy Zhang",
+      "username": "cixzhang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2781099?s=96&v=4",
+      "url": "https://github.com/cixzhang",
+      "popularRepository": {
+        "name": "huayuan",
+        "url": "https://github.com/cixzhang/huayuan",
+        "description": "A terminal garden game for learning Chinese and Vim"
+      },
+      "why": "Cindy Zhang is trending because their repository huayuan is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
       ]
     },
     {
@@ -225,21 +224,16 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "tobi",
+      "id": "timetobuildbob",
       "rank": "#14",
-      "name": "Tobias Lütke",
-      "username": "tobi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/347?s=96&v=4",
-      "url": "https://github.com/tobi",
-      "popularRepository": {
-        "name": "walgit",
-        "url": "https://github.com/tobi/walgit",
-        "description": "No popular repository description available."
-      },
-      "why": "Tobias Lütke is trending because their repository walgit is receiving visible attention on GitHub today.",
+      "name": "Bob",
+      "username": "TimeToBuildBob",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/189876176?s=96&v=4",
+      "url": "https://github.com/TimeToBuildBob",
+      "popularRepository": null,
+      "why": "Bob is trending because GitHub users are visiting and following their work today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     }
   ]
