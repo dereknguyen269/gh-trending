@@ -1,64 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-08-27T09:49:15.271Z",
+  "updatedAt": "2026-08-28T11:23:42.971Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "1weiho",
-      "rank": "#01",
-      "name": "Yiwei Ho",
-      "username": "1weiho",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/75478661?s=96&v=4",
-      "url": "https://github.com/1weiho",
-      "popularRepository": {
-        "name": "open-slide",
-        "url": "https://github.com/1weiho/open-slide",
-        "description": "A slide framework built for agents."
-      },
-      "why": "Yiwei Ho is trending because their repository open-slide is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "scottcjn",
-      "rank": "#02",
-      "name": "AutoJanitor",
-      "username": "Scottcjn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/121303252?s=96&v=4",
-      "url": "https://github.com/Scottcjn",
-      "popularRepository": {
-        "name": "Rustchain",
-        "url": "https://github.com/Scottcjn/Rustchain",
-        "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU archite…"
-      },
-      "why": "AutoJanitor is trending because their repository Rustchain is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "nvk",
-      "rank": "#03",
-      "name": "nvk",
-      "username": "nvk",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/797193?s=96&v=4",
-      "url": "https://github.com/nvk",
-      "popularRepository": {
-        "name": "llm-wiki",
-        "url": "https://github.com/nvk/llm-wiki",
-        "description": "LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compila…"
-      },
-      "why": "nvk is trending because their repository llm-wiki is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "max-sixty",
-      "rank": "#04",
+      "rank": "#01",
       "name": "Maximilian Roos",
       "username": "max-sixty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
@@ -75,26 +21,132 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "astro-han",
-      "rank": "#05",
-      "name": "AstroHan",
-      "username": "Astro-Han",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?s=96&v=4",
-      "url": "https://github.com/Astro-Han",
+      "id": "nvk",
+      "rank": "#02",
+      "name": "nvk",
+      "username": "nvk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/797193?s=96&v=4",
+      "url": "https://github.com/nvk",
       "popularRepository": {
-        "name": "karpathy-llm-wiki",
-        "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
-        "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, a…"
+        "name": "llm-wiki",
+        "url": "https://github.com/nvk/llm-wiki",
+        "description": "LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compila…"
       },
-      "why": "AstroHan is trending because their repository karpathy-llm-wiki is receiving visible attention on GitHub today.",
+      "why": "nvk is trending because their repository llm-wiki is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "hancore-linux",
+      "id": "backnotprop",
+      "rank": "#03",
+      "name": "Michael Ramos",
+      "username": "backnotprop",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
+      "url": "https://github.com/backnotprop",
+      "popularRepository": {
+        "name": "plannotator",
+        "url": "https://github.com/backnotprop/plannotator",
+        "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click."
+      },
+      "why": "Michael Ramos is trending because their repository plannotator is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "1weiho",
+      "rank": "#04",
+      "name": "Yiwei Ho",
+      "username": "1weiho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/75478661?s=96&v=4",
+      "url": "https://github.com/1weiho",
+      "popularRepository": {
+        "name": "open-slide",
+        "url": "https://github.com/1weiho/open-slide",
+        "description": "A slide framework built for agents."
+      },
+      "why": "Yiwei Ho is trending because their repository open-slide is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "huangruiteng",
+      "rank": "#05",
+      "name": "huangruiteng",
+      "username": "huangruiteng",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14976749?s=96&v=4",
+      "url": "https://github.com/huangruiteng",
+      "popularRepository": {
+        "name": "loopx",
+        "url": "https://github.com/huangruiteng/loopx",
+        "description": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses."
+      },
+      "why": "huangruiteng is trending because their repository loopx is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "yfedoseev",
       "rank": "#06",
+      "name": "Yury F.",
+      "username": "yfedoseev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1532172?s=96&v=4",
+      "url": "https://github.com/yfedoseev",
+      "popularRepository": {
+        "name": "pdf_oxide",
+        "url": "https://github.com/yfedoseev/pdf_oxide",
+        "description": "The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, …"
+      },
+      "why": "Yury F. is trending because their repository pdf_oxide is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "benvinegar",
+      "rank": "#07",
+      "name": "Ben Vinegar",
+      "username": "benvinegar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2153?s=96&v=4",
+      "url": "https://github.com/benvinegar",
+      "popularRepository": {
+        "name": "termdraw",
+        "url": "https://github.com/benvinegar/termdraw",
+        "description": "Agent-friendly ASCII illustrator for the terminal"
+      },
+      "why": "Ben Vinegar is trending because their repository termdraw is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "abimaelmartell",
+      "rank": "#08",
+      "name": "Abimael Martell",
+      "username": "abimaelmartell",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1450169?s=96&v=4",
+      "url": "https://github.com/abimaelmartell",
+      "popularRepository": {
+        "name": "system_monitor",
+        "url": "https://github.com/abimaelmartell/system_monitor",
+        "description": "multi-platform system monitor"
+      },
+      "why": "Abimael Martell is trending because their repository system_monitor is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "hancore-linux",
+      "rank": "#09",
       "name": "HANCORE",
       "username": "HANCORE-linux",
       "avatarUrl": "https://avatars.githubusercontent.com/u/230438592?s=96&v=4",
@@ -110,38 +162,61 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "niels9001",
-      "rank": "#07",
-      "name": "Niels Laute",
-      "username": "niels9001",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9866362?s=96&v=4",
-      "url": "https://github.com/niels9001",
-      "popularRepository": null,
-      "why": "Niels Laute is trending because GitHub users are visiting and following their work today.",
+      "id": "colbymchenry",
+      "rank": "#10",
+      "name": "Colby Mchenry",
+      "username": "colbymchenry",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
+      "url": "https://github.com/colbymchenry",
+      "popularRepository": {
+        "name": "codegraph",
+        "url": "https://github.com/colbymchenry/codegraph",
+        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+      },
+      "why": "Colby Mchenry is trending because their repository codegraph is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "elie222",
-      "rank": "#08",
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
-      "url": "https://github.com/elie222",
+      "id": "mitchellh",
+      "rank": "#11",
+      "name": "Mitchell Hashimoto",
+      "username": "mitchellh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1299?s=96&v=4",
+      "url": "https://github.com/mitchellh",
       "popularRepository": {
-        "name": "rakazo",
-        "url": "https://github.com/elie222/rakazo",
-        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+        "name": "libxev",
+        "url": "https://github.com/mitchellh/libxev",
+        "description": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and work…"
       },
-      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
+      "why": "Mitchell Hashimoto is trending because their repository libxev is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "Events"
+      ]
+    },
+    {
+      "id": "am-will",
+      "rank": "#12",
+      "name": "am.will",
+      "username": "am-will",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42459108?s=96&v=4",
+      "url": "https://github.com/am-will",
+      "popularRepository": {
+        "name": "gooey-pi",
+        "url": "https://github.com/am-will/gooey-pi",
+        "description": "Desktop workspace for Pi, OMP, and Prime Agent"
+      },
+      "why": "am.will is trending because their repository gooey-pi is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
       ]
     },
     {
       "id": "emilk",
-      "rank": "#09",
+      "rank": "#13",
       "name": "Emil Ernerfeldt",
       "username": "emilk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1148717?s=96&v=4",
@@ -158,82 +233,21 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "gakonst",
-      "rank": "#10",
-      "name": "Georgios Konstantopoulos",
-      "username": "gakonst",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17802178?s=96&v=4",
-      "url": "https://github.com/gakonst",
+      "id": "chenhg5",
+      "rank": "#14",
+      "name": "cg33",
+      "username": "chenhg5",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4344486?s=96&v=4",
+      "url": "https://github.com/chenhg5",
       "popularRepository": {
-        "name": "nanocodex",
-        "url": "https://github.com/gakonst/nanocodex",
-        "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere."
+        "name": "cc-connect",
+        "url": "https://github.com/chenhg5/cc-connect",
+        "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Di…"
       },
-      "why": "Georgios Konstantopoulos is trending because their repository nanocodex is receiving visible attention on GitHub today.",
+      "why": "cg33 is trending because their repository cc-connect is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
-      ]
-    },
-    {
-      "id": "carlosflorencio",
-      "rank": "#11",
-      "name": "Carlos Florêncio",
-      "username": "carlosflorencio",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1500881?s=96&v=4",
-      "url": "https://github.com/carlosflorencio",
-      "popularRepository": null,
-      "why": "Carlos Florêncio is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "cixzhang",
-      "rank": "#12",
-      "name": "Cindy Zhang",
-      "username": "cixzhang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2781099?s=96&v=4",
-      "url": "https://github.com/cixzhang",
-      "popularRepository": {
-        "name": "huayuan",
-        "url": "https://github.com/cixzhang/huayuan",
-        "description": "A terminal garden game for learning Chinese and Vim"
-      },
-      "why": "Cindy Zhang is trending because their repository huayuan is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "capcom6",
-      "rank": "#13",
-      "name": "Aleksandr",
-      "username": "capcom6",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26476232?s=96&v=4",
-      "url": "https://github.com/capcom6",
-      "popularRepository": {
-        "name": "android-sms-gateway",
-        "url": "https://github.com/capcom6/android-sms-gateway",
-        "description": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or…"
-      },
-      "why": "Aleksandr is trending because their repository android-sms-gateway is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "timetobuildbob",
-      "rank": "#14",
-      "name": "Bob",
-      "username": "TimeToBuildBob",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/189876176?s=96&v=4",
-      "url": "https://github.com/TimeToBuildBob",
-      "popularRepository": null,
-      "why": "Bob is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
       ]
     }
   ]
