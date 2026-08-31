@@ -1,45 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-08-30T05:24:44.916Z",
+  "updatedAt": "2026-08-31T05:35:30.112Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "hrydgard",
-      "rank": "#01",
-      "name": "Henrik Rydgård",
-      "username": "hrydgard",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/130929?s=96&v=4",
-      "url": "https://github.com/hrydgard",
-      "popularRepository": {
-        "name": "ppsspp",
-        "url": "https://github.com/hrydgard/ppsspp",
-        "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
-      },
-      "why": "Henrik Rydgård is trending because their repository ppsspp is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "mervinpraison",
-      "rank": "#02",
-      "name": "Mervin Praison",
-      "username": "MervinPraison",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/454862?s=96&v=4",
-      "url": "https://github.com/MervinPraison",
-      "popularRepository": {
-        "name": "PraisonAI",
-        "url": "https://github.com/MervinPraison/PraisonAI",
-        "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan,…"
-      },
-      "why": "Mervin Praison is trending because their repository PraisonAI is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "koala73",
-      "rank": "#03",
+      "rank": "#01",
       "name": "Elie Habib",
       "username": "koala73",
       "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
@@ -56,43 +21,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "deusdata",
-      "rank": "#04",
-      "name": "Martin Vogel",
-      "username": "DeusData",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=96&v=4",
-      "url": "https://github.com/DeusData",
-      "popularRepository": {
-        "name": "codebase-memory-mcp",
-        "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 la…"
-      },
-      "why": "Martin Vogel is trending because their repository codebase-memory-mcp is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Data"
-      ]
-    },
-    {
-      "id": "cmungall",
-      "rank": "#05",
-      "name": "Chris Mungall",
-      "username": "cmungall",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50745?s=96&v=4",
-      "url": "https://github.com/cmungall",
-      "popularRepository": {
-        "name": "sparqlprog",
-        "url": "https://github.com/cmungall/sparqlprog",
-        "description": "logic programming with SPARQL"
-      },
-      "why": "Chris Mungall is trending because their repository sparqlprog is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "tt-a1i",
-      "rank": "#06",
+      "rank": "#02",
       "name": "tt-a1i",
       "username": "tt-a1i",
       "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
@@ -110,57 +40,123 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "yhirose",
-      "rank": "#07",
-      "name": "yhirose",
-      "username": "yhirose",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/357397?s=96&v=4",
-      "url": "https://github.com/yhirose",
-      "popularRepository": {
-        "name": "cpp-httplib",
-        "url": "https://github.com/yhirose/cpp-httplib",
-        "description": "A C++ header-only HTTP/HTTPS server and client library"
-      },
-      "why": "yhirose is trending because their repository cpp-httplib is receiving visible attention on GitHub today.",
+      "id": "leecalcote",
+      "rank": "#03",
+      "name": "Lee Calcote",
+      "username": "leecalcote",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7570704?s=96&v=4",
+      "url": "https://github.com/leecalcote",
+      "popularRepository": null,
+      "why": "Lee Calcote is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "erickwendel",
-      "rank": "#08",
-      "name": "Erick Wendel",
-      "username": "ErickWendel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8060102?s=96&v=4",
-      "url": "https://github.com/ErickWendel",
+      "id": "cmungall",
+      "rank": "#04",
+      "name": "Chris Mungall",
+      "username": "cmungall",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50745?s=96&v=4",
+      "url": "https://github.com/cmungall",
       "popularRepository": {
-        "name": "localstudio",
-        "url": "https://github.com/ErickWendel/localstudio",
-        "description": "Browser-only Canva-style presentation studio, powered by local Web AI."
+        "name": "sparqlprog",
+        "url": "https://github.com/cmungall/sparqlprog",
+        "description": "logic programming with SPARQL"
       },
-      "why": "Erick Wendel is trending because their repository localstudio is receiving visible attention on GitHub today.",
+      "why": "Chris Mungall is trending because their repository sparqlprog is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "lionsr",
+      "rank": "#05",
+      "name": "Sirui Lu",
+      "username": "LionSR",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14889516?s=96&v=4",
+      "url": "https://github.com/LionSR",
+      "popularRepository": {
+        "name": "TeXRA",
+        "url": "https://github.com/LionSR/TeXRA",
+        "description": "TeXRA — an AI theorist (math, physics, computer science). VS Code extension and terminal CLI."
+      },
+      "why": "Sirui Lu is trending because their repository TeXRA is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI",
+        "AI"
+      ]
+    },
+    {
+      "id": "raullenchai",
+      "rank": "#06",
+      "name": "Raullen Chai",
+      "username": "raullenchai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
+      "url": "https://github.com/raullenchai",
+      "popularRepository": {
+        "name": "twinspark",
+        "url": "https://github.com/raullenchai/twinspark",
+        "description": "Production-grade recipe for DeepSeek-V4-Flash-0731 (284B MoE) on 2x NVIDIA DGX Spark: self-healing 2-node vLLM cluster, reboot-verified, …"
+      },
+      "why": "Raullen Chai is trending because their repository twinspark is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "sozercan",
+      "rank": "#07",
+      "name": "Sertaç Özercan",
+      "username": "sozercan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/852750?s=96&v=4",
+      "url": "https://github.com/sozercan",
+      "popularRepository": {
+        "name": "kaset",
+        "url": "https://github.com/sozercan/kaset",
+        "description": "📼 The missing YouTube and YouTube Music macOS app"
+      },
+      "why": "Sertaç Özercan is trending because their repository kaset is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
         "Web"
       ]
     },
     {
-      "id": "alirezarezvani",
-      "rank": "#09",
-      "name": "Alireza Rezvani",
-      "username": "alirezarezvani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5697919?s=96&v=4",
-      "url": "https://github.com/alirezarezvani",
+      "id": "majd",
+      "rank": "#08",
+      "name": "Majd",
+      "username": "majd",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1644696?s=96&v=4",
+      "url": "https://github.com/majd",
       "popularRepository": {
-        "name": "claude-skills",
-        "url": "https://github.com/alirezarezvani/claude-skills",
-        "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claud…"
+        "name": "ipatool",
+        "url": "https://github.com/majd/ipatool",
+        "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the Ap…"
       },
-      "why": "Alireza Rezvani is trending because their repository claude-skills is receiving visible attention on GitHub today.",
+      "why": "Majd is trending because their repository ipatool is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "Tooling",
+        "Web"
+      ]
+    },
+    {
+      "id": "hrydgard",
+      "rank": "#09",
+      "name": "Henrik Rydgård",
+      "username": "hrydgard",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/130929?s=96&v=4",
+      "url": "https://github.com/hrydgard",
+      "popularRepository": {
+        "name": "ppsspp",
+        "url": "https://github.com/hrydgard/ppsspp",
+        "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
+      },
+      "why": "Henrik Rydgård is trending because their repository ppsspp is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
       ]
     },
     {
@@ -182,25 +178,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "soju06",
-      "rank": "#11",
-      "name": "Soju06",
-      "username": "Soju06",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34199905?s=96&v=4",
-      "url": "https://github.com/Soju06",
-      "popularRepository": {
-        "name": "codex-lb",
-        "url": "https://github.com/Soju06/codex-lb",
-        "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints"
-      },
-      "why": "Soju06 is trending because their repository codex-lb is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "chenhg5",
-      "rank": "#12",
+      "rank": "#11",
       "name": "cg33",
       "username": "chenhg5",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4344486?s=96&v=4",
@@ -217,38 +196,57 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "max-sixty",
-      "rank": "#13",
-      "name": "Maximilian Roos",
-      "username": "max-sixty",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
-      "url": "https://github.com/max-sixty",
+      "id": "yschimke",
+      "rank": "#12",
+      "name": "Yuri Schimke",
+      "username": "yschimke",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/231923?s=96&v=4",
+      "url": "https://github.com/yschimke",
       "popularRepository": {
-        "name": "worktrunk",
-        "url": "https://github.com/max-sixty/worktrunk",
-        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+        "name": "wear-m3-catalog",
+        "url": "https://github.com/yschimke/wear-m3-catalog",
+        "description": "The M3 Wear OS Apps Design Kit rebuilt as design-led Jetpack Compose previews, published as an importable catalog"
       },
-      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
+      "why": "Yuri Schimke is trending because their repository wear-m3-catalog is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "alirezarezvani",
+      "rank": "#13",
+      "name": "Alireza Rezvani",
+      "username": "alirezarezvani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5697919?s=96&v=4",
+      "url": "https://github.com/alirezarezvani",
+      "popularRepository": {
+        "name": "claude-skills",
+        "url": "https://github.com/alirezarezvani/claude-skills",
+        "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claud…"
+      },
+      "why": "Alireza Rezvani is trending because their repository claude-skills is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "colbymchenry",
+      "id": "ducha-aiki",
       "rank": "#14",
-      "name": "Colby Mchenry",
-      "username": "colbymchenry",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
-      "url": "https://github.com/colbymchenry",
+      "name": "Dmytro Mishkin",
+      "username": "ducha-aiki",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4803565?s=96&v=4",
+      "url": "https://github.com/ducha-aiki",
       "popularRepository": {
-        "name": "codegraph",
-        "url": "https://github.com/colbymchenry/codegraph",
-        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+        "name": "mods-light-zmq",
+        "url": "https://github.com/ducha-aiki/mods-light-zmq",
+        "description": "MODS with external deep descriptors/detectors"
       },
-      "why": "Colby Mchenry is trending because their repository codegraph is receiving visible attention on GitHub today.",
+      "why": "Dmytro Mishkin is trending because their repository mods-light-zmq is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
       ]
     }
   ]
