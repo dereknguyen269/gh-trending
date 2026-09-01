@@ -1,5 +1,5 @@
 window.trendingRepos = {
-  "updatedAt": "2026-08-31T05:35:30.112Z",
+  "updatedAt": "2026-09-01T05:08:25.451Z",
   "source": "https://github.com/trending?since=daily",
   "repositories": [
     {
@@ -9,9 +9,9 @@ window.trendingRepos = {
       "title": "THU-MAIC / OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars": 24743,
-      "forks": 4539,
-      "starsToday": 1370,
+      "stars": 27759,
+      "forks": 4827,
+      "starsToday": 2824,
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "rank": "#01",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
@@ -23,56 +23,17 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "scientific-agent-skills",
-      "owner": "K-Dense-AI",
-      "name": "scientific-agent-skills",
-      "title": "K-Dense-AI / scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "stars": 39680,
-      "forks": 3693,
-      "starsToday": 1114,
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "rank": "#02",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI",
-        "Open source"
-      ]
-    },
-    {
-      "id": "vphone-cli",
-      "owner": "Lakr233",
-      "name": "vphone-cli",
-      "title": "Lakr233 / vphone-cli",
-      "description": "No repository description available.",
-      "language": "Swift",
-      "stars": 9788,
-      "forks": 1294,
-      "starsToday": 361,
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "rank": "#03",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Swift repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Swift",
-        "AI"
-      ]
-    },
-    {
       "id": "archify",
       "owner": "tt-a1i",
       "name": "archify",
       "title": "tt-a1i / archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars": 35614,
-      "forks": 2283,
-      "starsToday": 3722,
+      "stars": 39571,
+      "forks": 2522,
+      "starsToday": 3991,
       "url": "https://github.com/tt-a1i/archify",
-      "rank": "#04",
+      "rank": "#02",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -81,35 +42,17 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "heretic",
-      "owner": "p-e-w",
-      "name": "heretic",
-      "title": "p-e-w / heretic",
-      "description": "Fully automatic censorship removal for language models",
+      "id": "scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
-      "stars": 29282,
-      "forks": 3212,
-      "starsToday": 369,
-      "url": "https://github.com/p-e-w/heretic",
-      "rank": "#05",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python"
-      ]
-    },
-    {
-      "id": "crawl4ai",
-      "owner": "unclecode",
-      "name": "crawl4ai",
-      "title": "unclecode / crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "stars": 80366,
-      "forks": 8318,
-      "starsToday": 221,
-      "url": "https://github.com/unclecode/crawl4ai",
-      "rank": "#06",
+      "stars": 40925,
+      "forks": 3784,
+      "starsToday": 1980,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "rank": "#03",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -119,22 +62,21 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "last30days-skill",
-      "owner": "mvanhorn",
-      "name": "last30days-skill",
-      "title": "mvanhorn / last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars": 60615,
-      "forks": 5302,
-      "starsToday": 230,
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "rank": "#07",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "id": "wand-enhancer",
+      "owner": "k1tbyte",
+      "name": "Wand-Enhancer",
+      "title": "k1tbyte / Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars": 23461,
+      "forks": 59690,
+      "starsToday": 582,
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "rank": "#04",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving C# repositories and deciding what deserves a deeper look.",
       "tags": [
-        "Python",
-        "AI"
+        "C#"
       ]
     },
     {
@@ -144,11 +86,11 @@ window.trendingRepos = {
       "title": "majd / ipatool",
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
-      "stars": 10299,
-      "forks": 886,
-      "starsToday": 58,
+      "stars": 10610,
+      "forks": 898,
+      "starsToday": 373,
       "url": "https://github.com/majd/ipatool",
-      "rank": "#08",
+      "rank": "#05",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
       "fit": "Developers evaluating fast-moving Go repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -157,21 +99,41 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "awesome-mcp-servers",
-      "owner": "punkpeye",
-      "name": "awesome-mcp-servers",
-      "title": "punkpeye / awesome-mcp-servers",
-      "description": "A collection of MCP servers.",
-      "language": "Unknown",
-      "stars": 93445,
-      "forks": 15325,
-      "starsToday": 96,
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "rank": "#09",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Unknown repositories and deciding what deserves a deeper look.",
+      "id": "minimind",
+      "owner": "jingyaogong",
+      "name": "minimind",
+      "title": "jingyaogong / minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars": 56365,
+      "forks": 7343,
+      "starsToday": 495,
+      "url": "https://github.com/jingyaogong/minimind",
+      "rank": "#06",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
-        "Unknown"
+        "Python",
+        "AI"
+      ]
+    },
+    {
+      "id": "ods",
+      "owner": "Osmantic",
+      "name": "ODS",
+      "title": "Osmantic / ODS",
+      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "language": "Python",
+      "stars": 5608,
+      "forks": 785,
+      "starsToday": 77,
+      "url": "https://github.com/Osmantic/ODS",
+      "rank": "#07",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI"
       ]
     },
     {
@@ -181,11 +143,11 @@ window.trendingRepos = {
       "title": "checkstyle / checkstyle",
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
-      "stars": 9246,
-      "forks": 4197,
-      "starsToday": 115,
+      "stars": 9447,
+      "forks": 4208,
+      "starsToday": 198,
       "url": "https://github.com/checkstyle/checkstyle",
-      "rank": "#10",
+      "rank": "#08",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
       "fit": "Developers evaluating fast-moving Java repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -195,40 +157,99 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "ghidra",
-      "owner": "NationalSecurityAgency",
-      "name": "ghidra",
-      "title": "NationalSecurityAgency / ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "stars": 74001,
-      "forks": 8070,
-      "starsToday": 198,
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "rank": "#11",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Java repositories and deciding what deserves a deeper look.",
+      "id": "reverse-skill",
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "title": "zhaoxuya520 / reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars": 33337,
+      "forks": 4520,
+      "starsToday": 1401,
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "rank": "#09",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving PowerShell repositories and deciding what deserves a deeper look.",
       "tags": [
-        "Java"
+        "PowerShell",
+        "AI",
+        "Tooling"
       ]
     },
     {
-      "id": "microduck-rl",
-      "owner": "pollen-robotics",
-      "name": "microduck_rl",
-      "title": "pollen-robotics / microduck_rl",
-      "description": "RL training environments for Microduck (mjlab)",
+      "id": "ecc",
+      "owner": "affaan-m",
+      "name": "ECC",
+      "title": "affaan-m / ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 245356,
+      "forks": 37060,
+      "starsToday": 512,
+      "url": "https://github.com/affaan-m/ECC",
+      "rank": "#10",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "JavaScript",
+        "AI",
+        "Open source"
+      ]
+    },
+    {
+      "id": "user-scanner",
+      "owner": "kaifcodec",
+      "name": "user-scanner",
+      "title": "kaifcodec / user-scanner",
+      "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
       "language": "Python",
-      "stars": 876,
-      "forks": 152,
-      "starsToday": 168,
-      "url": "https://github.com/pollen-robotics/microduck_rl",
-      "rank": "#12",
+      "stars": 4362,
+      "forks": 452,
+      "starsToday": 93,
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "rank": "#11",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
         "Python",
         "AI"
+      ]
+    },
+    {
+      "id": "open-seo",
+      "owner": "every-app",
+      "name": "open-seo",
+      "title": "every-app / open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": 15842,
+      "forks": 1910,
+      "starsToday": 610,
+      "url": "https://github.com/every-app/open-seo",
+      "rank": "#12",
+      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "Open source"
+      ]
+    },
+    {
+      "id": "heretic",
+      "owner": "p-e-w",
+      "name": "heretic",
+      "title": "p-e-w / heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": 29747,
+      "forks": 3256,
+      "starsToday": 537,
+      "url": "https://github.com/p-e-w/heretic",
+      "rank": "#13",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python"
       ]
     },
     {
@@ -238,34 +259,15 @@ window.trendingRepos = {
       "title": "handsomestWei / patent-disclosure-skill",
       "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
       "language": "Python",
-      "stars": 5848,
-      "forks": 710,
-      "starsToday": 62,
+      "stars": 6361,
+      "forks": 739,
+      "starsToday": 571,
       "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "rank": "#13",
+      "rank": "#14",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
         "Python"
-      ]
-    },
-    {
-      "id": "corsair",
-      "owner": "corsairdev",
-      "name": "corsair",
-      "title": "corsairdev / corsair",
-      "description": "Connect your users to their apps",
-      "language": "TypeScript",
-      "stars": 11030,
-      "forks": 528,
-      "starsToday": 126,
-      "url": "https://github.com/corsairdev/corsair",
-      "rank": "#14",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
-        "AI"
       ]
     }
   ]
