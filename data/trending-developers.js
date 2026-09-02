@@ -1,46 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-09-01T05:08:25.451Z",
+  "updatedAt": "2026-09-02T04:34:18.709Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "koala73",
-      "rank": "#01",
-      "name": "Elie Habib",
-      "username": "koala73",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
-      "url": "https://github.com/koala73",
-      "popularRepository": {
-        "name": "worldmonitor",
-        "url": "https://github.com/koala73/worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
-      },
-      "why": "Elie Habib is trending because their repository worldmonitor is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "lionsr",
-      "rank": "#02",
-      "name": "Sirui Lu",
-      "username": "LionSR",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14889516?s=96&v=4",
-      "url": "https://github.com/LionSR",
-      "popularRepository": {
-        "name": "TeXRA",
-        "url": "https://github.com/LionSR/TeXRA",
-        "description": "TeXRA — an AI theorist (math, physics, computer science). VS Code extension and terminal CLI."
-      },
-      "why": "Sirui Lu is trending because their repository TeXRA is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "soju06",
-      "rank": "#03",
+      "rank": "#01",
       "name": "Soju06",
       "username": "Soju06",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34199905?s=96&v=4",
@@ -56,63 +20,56 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "tt-a1i",
+      "id": "teng-lin",
+      "rank": "#02",
+      "name": "Teng Lin",
+      "username": "teng-lin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/737447?s=96&v=4",
+      "url": "https://github.com/teng-lin",
+      "popularRepository": {
+        "name": "notebooklm-py",
+        "url": "https://github.com/teng-lin/notebooklm-py",
+        "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilit…"
+      },
+      "why": "Teng Lin is trending because their repository notebooklm-py is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "jeswr",
+      "rank": "#03",
+      "name": "Jesse Wright",
+      "username": "jeswr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63333554?s=96&v=4",
+      "url": "https://github.com/jeswr",
+      "popularRepository": null,
+      "why": "Jesse Wright is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "justvugg",
       "rank": "#04",
-      "name": "tt-a1i",
-      "username": "tt-a1i",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
-      "url": "https://github.com/tt-a1i",
+      "name": "Vincenzo Fornaro",
+      "username": "JustVugg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
+      "url": "https://github.com/JustVugg",
       "popularRepository": {
-        "name": "archify",
-        "url": "https://github.com/tt-a1i/archify",
-        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion…"
+        "name": "colibri",
+        "url": "https://github.com/JustVugg/colibri",
+        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
       },
-      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Data"
-      ]
-    },
-    {
-      "id": "lidge-jun",
-      "rank": "#05",
-      "name": "JUN",
-      "username": "lidge-jun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
-      "url": "https://github.com/lidge-jun",
-      "popularRepository": {
-        "name": "opencodex",
-        "url": "https://github.com/lidge-jun/opencodex",
-        "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
-      },
-      "why": "JUN is trending because their repository opencodex is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "cmungall",
-      "rank": "#06",
-      "name": "Chris Mungall",
-      "username": "cmungall",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50745?s=96&v=4",
-      "url": "https://github.com/cmungall",
-      "popularRepository": {
-        "name": "sparqlprog",
-        "url": "https://github.com/cmungall/sparqlprog",
-        "description": "logic programming with SPARQL"
-      },
-      "why": "Chris Mungall is trending because their repository sparqlprog is receiving visible attention on GitHub today.",
+      "why": "Vincenzo Fornaro is trending because their repository colibri is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "majd",
-      "rank": "#07",
+      "rank": "#05",
       "name": "Majd",
       "username": "majd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1644696?s=96&v=4",
@@ -130,43 +87,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "hrydgard",
-      "rank": "#08",
-      "name": "Henrik Rydgård",
-      "username": "hrydgard",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/130929?s=96&v=4",
-      "url": "https://github.com/hrydgard",
-      "popularRepository": {
-        "name": "ppsspp",
-        "url": "https://github.com/hrydgard/ppsspp",
-        "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
-      },
-      "why": "Henrik Rydgård is trending because their repository ppsspp is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "teng-lin",
-      "rank": "#09",
-      "name": "Teng Lin",
-      "username": "teng-lin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/737447?s=96&v=4",
-      "url": "https://github.com/teng-lin",
-      "popularRepository": {
-        "name": "notebooklm-py",
-        "url": "https://github.com/teng-lin/notebooklm-py",
-        "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilit…"
-      },
-      "why": "Teng Lin is trending because their repository notebooklm-py is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "raullenchai",
-      "rank": "#10",
+      "rank": "#06",
       "name": "Raullen Chai",
       "username": "raullenchai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
@@ -183,74 +105,138 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "justvugg",
-      "rank": "#11",
-      "name": "Vincenzo Fornaro",
-      "username": "JustVugg",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
-      "url": "https://github.com/JustVugg",
+      "id": "doitsujin",
+      "rank": "#07",
+      "name": "Philip Rebohle",
+      "username": "doitsujin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25567304?s=96&v=4",
+      "url": "https://github.com/doitsujin",
       "popularRepository": {
-        "name": "colibri",
-        "url": "https://github.com/JustVugg/colibri",
-        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+        "name": "dxvk",
+        "url": "https://github.com/doitsujin/dxvk",
+        "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine"
       },
-      "why": "Vincenzo Fornaro is trending because their repository colibri is receiving visible attention on GitHub today.",
+      "why": "Philip Rebohle is trending because their repository dxvk is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "max-sixty",
-      "rank": "#12",
-      "name": "Maximilian Roos",
-      "username": "max-sixty",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
-      "url": "https://github.com/max-sixty",
+      "id": "lidge-jun",
+      "rank": "#08",
+      "name": "JUN",
+      "username": "lidge-jun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
+      "url": "https://github.com/lidge-jun",
       "popularRepository": {
-        "name": "worktrunk",
-        "url": "https://github.com/max-sixty/worktrunk",
-        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+        "name": "opencodex",
+        "url": "https://github.com/lidge-jun/opencodex",
+        "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
       },
-      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
+      "why": "JUN is trending because their repository opencodex is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "artokun",
-      "rank": "#13",
-      "name": "Arthur R Longbottom",
-      "username": "artokun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7666455?s=96&v=4",
-      "url": "https://github.com/artokun",
-      "popularRepository": {
-        "name": "comfyui-mcp",
-        "url": "https://github.com/artokun/comfyui-mcp",
-        "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs w…"
-      },
-      "why": "Arthur R Longbottom is trending because their repository comfyui-mcp is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "majiayu000",
-      "rank": "#14",
-      "name": "lif",
-      "username": "majiayu000",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19658300?s=96&v=4",
-      "url": "https://github.com/majiayu000",
-      "popularRepository": {
-        "name": "quotabar",
-        "url": "https://github.com/majiayu000/quotabar",
-        "description": "Tauri v2 menubar app for monitoring Claude Code, Codex, Cursor, Antigravity quotas and local usage cost."
-      },
-      "why": "lif is trending because their repository quotabar is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
+        "AI",
         "Web"
+      ]
+    },
+    {
+      "id": "garrytan",
+      "rank": "#09",
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
+      "url": "https://github.com/garrytan",
+      "popularRepository": {
+        "name": "gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+      },
+      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "lukasmasuch",
+      "rank": "#10",
+      "name": "Lukas Masuch",
+      "username": "lukasmasuch",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2852129?s=96&v=4",
+      "url": "https://github.com/lukasmasuch",
+      "popularRepository": {
+        "name": "best-of-ml-python",
+        "url": "https://github.com/lukasmasuch/best-of-ml-python",
+        "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly."
+      },
+      "why": "Lukas Masuch is trending because their repository best-of-ml-python is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "ruvnet",
+      "rank": "#11",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+      },
+      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "pratham-mishra04",
+      "rank": "#12",
+      "name": "Pratham Mishra",
+      "username": "Pratham-Mishra04",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/99235987?s=96&v=4",
+      "url": "https://github.com/Pratham-Mishra04",
+      "popularRepository": null,
+      "why": "Pratham Mishra is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "marketcalls",
+      "rank": "#13",
+      "name": "Marketcalls",
+      "username": "marketcalls",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8728989?s=96&v=4",
+      "url": "https://github.com/marketcalls",
+      "popularRepository": {
+        "name": "openalgo",
+        "url": "https://github.com/marketcalls/openalgo",
+        "description": "Open Source Algo Trading Platform for Everyone"
+      },
+      "why": "Marketcalls is trending because their repository openalgo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "topjohnwu",
+      "rank": "#14",
+      "name": "John Wu",
+      "username": "topjohnwu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7337301?s=96&v=4",
+      "url": "https://github.com/topjohnwu",
+      "popularRepository": {
+        "name": "Magisk",
+        "url": "https://github.com/topjohnwu/Magisk",
+        "description": "The Magic Mask for Android"
+      },
+      "why": "John Wu is trending because their repository Magisk is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
       ]
     }
   ]
