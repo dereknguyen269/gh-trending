@@ -1,24 +1,195 @@
 window.trendingRepos = {
-  "updatedAt": "2026-09-02T04:34:18.709Z",
+  "updatedAt": "2026-09-03T04:33:56.495Z",
   "source": "https://github.com/trending?since=daily",
   "repositories": [
     {
-      "id": "openclaude",
-      "owner": "Gitlawb",
-      "name": "openclaude",
-      "title": "Gitlawb / openclaude",
-      "description": "runs anywhere. uses anything",
-      "language": "TypeScript",
-      "stars": 31461,
-      "forks": 8960,
-      "starsToday": 80,
-      "url": "https://github.com/Gitlawb/openclaude",
+      "id": "fmt",
+      "owner": "fmtlib",
+      "name": "fmt",
+      "title": "fmtlib / fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": 24402,
+      "forks": 2993,
+      "starsToday": 14,
+      "url": "https://github.com/fmtlib/fmt",
       "rank": "#01",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving C++ repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "C++"
+      ]
+    },
+    {
+      "id": "timesfm",
+      "owner": "google-research",
+      "name": "timesfm",
+      "title": "google-research / timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 30053,
+      "forks": 2881,
+      "starsToday": 343,
+      "url": "https://github.com/google-research/timesfm",
+      "rank": "#02",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI"
+      ]
+    },
+    {
+      "id": "ponytail",
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "title": "DietrichGebert / ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 121985,
+      "forks": 6592,
+      "starsToday": 1354,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "rank": "#03",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "JavaScript",
+        "AI"
+      ]
+    },
+    {
+      "id": "voicestudio",
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "title": "debpalash / VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 15066,
+      "forks": 2132,
+      "starsToday": 832,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "rank": "#04",
+      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "Open source"
+      ]
+    },
+    {
+      "id": "sequoia-x",
+      "owner": "sngyai",
+      "name": "Sequoia-X",
+      "title": "sngyai / Sequoia-X",
+      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "language": "Python",
+      "stars": 6233,
+      "forks": 1275,
+      "starsToday": 63,
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "rank": "#05",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI"
+      ]
+    },
+    {
+      "id": "chrome-devtools-mcp",
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 50706,
+      "forks": 3556,
+      "starsToday": 148,
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "rank": "#06",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
         "TypeScript",
+        "AI",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "hermes-agent",
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "title": "NousResearch / hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 240243,
+      "forks": 49173,
+      "starsToday": 533,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "rank": "#07",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI"
+      ]
+    },
+    {
+      "id": "sie",
+      "owner": "superlinked",
+      "name": "sie",
+      "title": "superlinked / sie",
+      "description": "Open-source inference server and production cluster for all the models your agent needs.",
+      "language": "Python",
+      "stars": 3107,
+      "forks": 299,
+      "starsToday": 60,
+      "url": "https://github.com/superlinked/sie",
+      "rank": "#08",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI",
         "Open source"
+      ]
+    },
+    {
+      "id": "atlas",
+      "owner": "pacifio",
+      "name": "atlas",
+      "title": "pacifio / atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "stars": 2985,
+      "forks": 193,
+      "starsToday": 888,
+      "url": "https://github.com/pacifio/atlas",
+      "rank": "#09",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Rust",
+        "AI"
+      ]
+    },
+    {
+      "id": "typewords",
+      "owner": "zyronon",
+      "name": "TypeWords",
+      "title": "zyronon / TypeWords",
+      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+      "language": "Vue",
+      "stars": 9410,
+      "forks": 1137,
+      "starsToday": 21,
+      "url": "https://github.com/zyronon/TypeWords",
+      "rank": "#10",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Vue repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Vue"
       ]
     },
     {
@@ -28,202 +199,15 @@ window.trendingRepos = {
       "title": "Imbad0202 / academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars": 45058,
-      "forks": 3556,
-      "starsToday": 193,
+      "stars": 45650,
+      "forks": 3587,
+      "starsToday": 799,
       "url": "https://github.com/Imbad0202/academic-research-skills",
-      "rank": "#02",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python"
-      ]
-    },
-    {
-      "id": "openmaic",
-      "owner": "THU-MAIC",
-      "name": "OpenMAIC",
-      "title": "THU-MAIC / OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "stars": 29745,
-      "forks": 4999,
-      "starsToday": 3128,
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "rank": "#03",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
-        "AI",
-        "Open source"
-      ]
-    },
-    {
-      "id": "invidious",
-      "owner": "iv-org",
-      "name": "invidious",
-      "title": "iv-org / invidious",
-      "description": "Invidious is an alternative front-end to YouTube",
-      "language": "Crystal",
-      "stars": 23827,
-      "forks": 2676,
-      "starsToday": 577,
-      "url": "https://github.com/iv-org/invidious",
-      "rank": "#04",
-      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
-      "fit": "Developers evaluating fast-moving Crystal repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Crystal"
-      ]
-    },
-    {
-      "id": "minimind",
-      "owner": "jingyaogong",
-      "name": "minimind",
-      "title": "jingyaogong / minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "language": "Python",
-      "stars": 57258,
-      "forks": 7444,
-      "starsToday": 1005,
-      "url": "https://github.com/jingyaogong/minimind",
-      "rank": "#05",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "manim",
-      "owner": "3b1b",
-      "name": "manim",
-      "title": "3b1b / manim",
-      "description": "Animation engine for explanatory math videos",
-      "language": "Python",
-      "stars": 92646,
-      "forks": 7624,
-      "starsToday": 86,
-      "url": "https://github.com/3b1b/manim",
-      "rank": "#06",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python"
-      ]
-    },
-    {
-      "id": "pdf-inspector",
-      "owner": "firecrawl",
-      "name": "pdf-inspector",
-      "title": "firecrawl / pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "language": "Rust",
-      "stars": 18047,
-      "forks": 1230,
-      "starsToday": 541,
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "rank": "#07",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Rust"
-      ]
-    },
-    {
-      "id": "video-use",
-      "owner": "browser-use",
-      "name": "video-use",
-      "title": "browser-use / video-use",
-      "description": "Edit videos with coding agents",
-      "language": "Python",
-      "stars": 23095,
-      "forks": 2823,
-      "starsToday": 472,
-      "url": "https://github.com/browser-use/video-use",
-      "rank": "#08",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "scientific-agent-skills",
-      "owner": "K-Dense-AI",
-      "name": "scientific-agent-skills",
-      "title": "K-Dense-AI / scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "stars": 41681,
-      "forks": 3833,
-      "starsToday": 912,
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "rank": "#09",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI",
-        "Open source"
-      ]
-    },
-    {
-      "id": "patent-disclosure-skill",
-      "owner": "handsomestWei",
-      "name": "patent-disclosure-skill",
-      "title": "handsomestWei / patent-disclosure-skill",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "language": "Python",
-      "stars": 6836,
-      "forks": 766,
-      "starsToday": 501,
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "rank": "#10",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python"
-      ]
-    },
-    {
-      "id": "awesome-design-md",
-      "owner": "VoltAgent",
-      "name": "awesome-design-md",
-      "title": "VoltAgent / awesome-design-md",
-      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "language": "Unknown",
-      "stars": 113007,
-      "forks": 12793,
-      "starsToday": 323,
-      "url": "https://github.com/VoltAgent/awesome-design-md",
       "rank": "#11",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Unknown repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Unknown",
-        "AI"
-      ]
-    },
-    {
-      "id": "reclip",
-      "owner": "averygan",
-      "name": "reclip",
-      "title": "averygan / reclip",
-      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "language": "HTML",
-      "stars": 7810,
-      "forks": 1323,
-      "starsToday": 56,
-      "url": "https://github.com/averygan/reclip",
-      "rank": "#12",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving HTML repositories and deciding what deserves a deeper look.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
-        "HTML"
+        "Python"
       ]
     },
     {
@@ -233,11 +217,11 @@ window.trendingRepos = {
       "title": "affaan-m / ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 245829,
-      "forks": 37095,
-      "starsToday": 623,
+      "stars": 246457,
+      "forks": 37164,
+      "starsToday": 516,
       "url": "https://github.com/affaan-m/ECC",
-      "rank": "#13",
+      "rank": "#12",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -247,23 +231,40 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "crawl4ai",
-      "owner": "unclecode",
-      "name": "crawl4ai",
-      "title": "unclecode / crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "stars": 80928,
-      "forks": 8362,
-      "starsToday": 145,
-      "url": "https://github.com/unclecode/crawl4ai",
+      "id": "protobuf",
+      "owner": "protocolbuffers",
+      "name": "protobuf",
+      "title": "protocolbuffers / protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 71955,
+      "forks": 16272,
+      "starsToday": 18,
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "rank": "#13",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving C++ repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "C++"
+      ]
+    },
+    {
+      "id": "portless",
+      "owner": "vercel-labs",
+      "name": "portless",
+      "title": "vercel-labs / portless",
+      "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+      "language": "TypeScript",
+      "stars": 11854,
+      "forks": 384,
+      "starsToday": 73,
+      "url": "https://github.com/vercel-labs/portless",
       "rank": "#14",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
-        "Python",
-        "AI",
-        "Open source"
+        "TypeScript",
+        "AI"
       ]
     }
   ]
