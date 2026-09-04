@@ -1,5 +1,5 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-09-03T04:33:56.495Z",
+  "updatedAt": "2026-09-04T04:33:50.306Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
@@ -21,26 +21,128 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "andreknieriem",
+      "id": "soju06",
       "rank": "#02",
-      "name": "Andre Rinas",
-      "username": "andreknieriem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4500367?s=96&v=4",
-      "url": "https://github.com/andreknieriem",
+      "name": "Soju06",
+      "username": "Soju06",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34199905?s=96&v=4",
+      "url": "https://github.com/Soju06",
       "popularRepository": {
-        "name": "open-headunit",
-        "url": "https://github.com/andreknieriem/open-headunit",
-        "description": "Headunit App for displaying Android Auto"
+        "name": "codex-lb",
+        "url": "https://github.com/Soju06/codex-lb",
+        "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints"
       },
-      "why": "Andre Rinas is trending because their repository open-headunit is receiving visible attention on GitHub today.",
+      "why": "Soju06 is trending because their repository codex-lb is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "noonghunna",
+      "rank": "#03",
+      "name": "noonghunna",
+      "username": "noonghunna",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10742901?s=96&v=4",
+      "url": "https://github.com/noonghunna",
+      "popularRepository": {
+        "name": "club-3090",
+        "url": "https://github.com/noonghunna/club-3090",
+        "description": "Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currentl…"
+      },
+      "why": "noonghunna is trending because their repository club-3090 is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "ruvnet",
+      "rank": "#04",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI s…"
+      },
+      "why": "rUv is trending because their repository ruflo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "marketcalls",
+      "rank": "#05",
+      "name": "Marketcalls",
+      "username": "marketcalls",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8728989?s=96&v=4",
+      "url": "https://github.com/marketcalls",
+      "popularRepository": {
+        "name": "openalgo",
+        "url": "https://github.com/marketcalls/openalgo",
+        "description": "Open Source Algo Trading Platform for Everyone"
+      },
+      "why": "Marketcalls is trending because their repository openalgo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "mvanhorn",
+      "rank": "#06",
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
+      "url": "https://github.com/mvanhorn",
+      "popularRepository": {
+        "name": "last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+      },
+      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
         "Web"
       ]
     },
     {
+      "id": "lawrencecchen",
+      "rank": "#07",
+      "name": "Lawrence Chen",
+      "username": "lawrencecchen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54008264?s=96&v=4",
+      "url": "https://github.com/lawrencecchen",
+      "popularRepository": null,
+      "why": "Lawrence Chen is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "kunchenguid",
+      "rank": "#08",
+      "name": "Kun Chen",
+      "username": "kunchenguid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3233006?s=96&v=4",
+      "url": "https://github.com/kunchenguid",
+      "popularRepository": {
+        "name": "firstmate",
+        "url": "https://github.com/kunchenguid/firstmate",
+        "description": "Talk to one agent. Ship with a crew."
+      },
+      "why": "Kun Chen is trending because their repository firstmate is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
       "id": "pbakaus",
-      "rank": "#03",
+      "rank": "#09",
       "name": "Paul Bakaus",
       "username": "pbakaus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
@@ -57,43 +159,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "soju06",
-      "rank": "#04",
-      "name": "Soju06",
-      "username": "Soju06",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34199905?s=96&v=4",
-      "url": "https://github.com/Soju06",
-      "popularRepository": {
-        "name": "codex-lb",
-        "url": "https://github.com/Soju06/codex-lb",
-        "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints"
-      },
-      "why": "Soju06 is trending because their repository codex-lb is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "777genius",
-      "rank": "#05",
-      "name": "Илия",
-      "username": "777genius",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13103045?s=96&v=4",
-      "url": "https://github.com/777genius",
-      "popularRepository": {
-        "name": "agent-teams-ai",
-        "url": "https://github.com/777genius/agent-teams-ai",
-        "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
-      },
-      "why": "Илия is trending because their repository agent-teams-ai is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "lidge-jun",
-      "rank": "#06",
+      "rank": "#10",
       "name": "JUN",
       "username": "lidge-jun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
@@ -111,57 +178,44 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "jeswr",
-      "rank": "#07",
-      "name": "Jesse Wright",
-      "username": "jeswr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/63333554?s=96&v=4",
-      "url": "https://github.com/jeswr",
-      "popularRepository": null,
-      "why": "Jesse Wright is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "backnotprop",
-      "rank": "#08",
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
-      "url": "https://github.com/backnotprop",
+      "id": "777genius",
+      "rank": "#11",
+      "name": "Илия",
+      "username": "777genius",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13103045?s=96&v=4",
+      "url": "https://github.com/777genius",
       "popularRepository": {
-        "name": "plannotator",
-        "url": "https://github.com/backnotprop/plannotator",
-        "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click."
+        "name": "agent-teams-ai",
+        "url": "https://github.com/777genius/agent-teams-ai",
+        "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
       },
-      "why": "Michael Ramos is trending because their repository plannotator is receiving visible attention on GitHub today.",
+      "why": "Илия is trending because their repository agent-teams-ai is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "owainlewis",
-      "rank": "#09",
-      "name": "Owain Lewis",
-      "username": "owainlewis",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/733944?s=96&v=4",
-      "url": "https://github.com/owainlewis",
+      "id": "andreknieriem",
+      "rank": "#12",
+      "name": "Andre Rinas",
+      "username": "andreknieriem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4500367?s=96&v=4",
+      "url": "https://github.com/andreknieriem",
       "popularRepository": {
-        "name": "awesome-artificial-intelligence",
-        "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
-        "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers."
+        "name": "open-headunit",
+        "url": "https://github.com/andreknieriem/open-headunit",
+        "description": "Headunit App for displaying Android Auto"
       },
-      "why": "Owain Lewis is trending because their repository awesome-artificial-intelligence is receiving visible attention on GitHub today.",
+      "why": "Andre Rinas is trending because their repository open-headunit is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "Web"
       ]
     },
     {
       "id": "deusdata",
-      "rank": "#10",
+      "rank": "#13",
       "name": "Martin Vogel",
       "username": "DeusData",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=96&v=4",
@@ -178,65 +232,18 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "yhirose",
-      "rank": "#11",
-      "name": "yhirose",
-      "username": "yhirose",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/357397?s=96&v=4",
-      "url": "https://github.com/yhirose",
-      "popularRepository": {
-        "name": "cpp-httplib",
-        "url": "https://github.com/yhirose/cpp-httplib",
-        "description": "A C++ header-only HTTP/HTTPS server and client library"
-      },
-      "why": "yhirose is trending because their repository cpp-httplib is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "lfnovo",
-      "rank": "#12",
-      "name": "Luis Novo",
-      "username": "lfnovo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/579178?s=96&v=4",
-      "url": "https://github.com/lfnovo",
-      "popularRepository": {
-        "name": "open-notebook",
-        "url": "https://github.com/lfnovo/open-notebook",
-        "description": "An Open Source implementation of Notebook LM with more flexibility and features"
-      },
-      "why": "Luis Novo is trending because their repository open-notebook is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "tommoor",
-      "rank": "#13",
-      "name": "Tom Moor",
-      "username": "tommoor",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/380914?s=96&v=4",
-      "url": "https://github.com/tommoor",
-      "popularRepository": null,
-      "why": "Tom Moor is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "serenakeyitan",
+      "id": "owainlewis",
       "rank": "#14",
-      "name": "Serena",
-      "username": "serenakeyitan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94026305?s=96&v=4",
-      "url": "https://github.com/serenakeyitan",
+      "name": "Owain Lewis",
+      "username": "owainlewis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/733944?s=96&v=4",
+      "url": "https://github.com/owainlewis",
       "popularRepository": {
-        "name": "awesome-notebookLM-prompts",
-        "url": "https://github.com/serenakeyitan/awesome-notebookLM-prompts",
-        "description": "A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI po…"
+        "name": "awesome-artificial-intelligence",
+        "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+        "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers."
       },
-      "why": "Serena is trending because their repository awesome-notebookLM-prompts is receiving visible attention on GitHub today.",
+      "why": "Owain Lewis is trending because their repository awesome-artificial-intelligence is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
