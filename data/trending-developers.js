@@ -1,28 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-09-05T04:29:35.017Z",
+  "updatedAt": "2026-09-06T04:39:30.995Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "teng-lin",
-      "rank": "#01",
-      "name": "Teng Lin",
-      "username": "teng-lin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/737447?s=96&v=4",
-      "url": "https://github.com/teng-lin",
-      "popularRepository": {
-        "name": "notebooklm-py",
-        "url": "https://github.com/teng-lin/notebooklm-py",
-        "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilit…"
-      },
-      "why": "Teng Lin is trending because their repository notebooklm-py is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "pbakaus",
-      "rank": "#02",
+      "rank": "#01",
       "name": "Paul Bakaus",
       "username": "pbakaus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
@@ -39,88 +21,27 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "deusdata",
-      "rank": "#03",
-      "name": "Martin Vogel",
-      "username": "DeusData",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=96&v=4",
-      "url": "https://github.com/DeusData",
+      "id": "maziyarpanahi",
+      "rank": "#02",
+      "name": "Maziyar Panahi",
+      "username": "maziyarpanahi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
+      "url": "https://github.com/maziyarpanahi",
       "popularRepository": {
-        "name": "codebase-memory-mcp",
-        "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 la…"
+        "name": "openmed",
+        "url": "https://github.com/maziyarpanahi/openmed",
+        "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Appl…"
       },
-      "why": "Martin Vogel is trending because their repository codebase-memory-mcp is receiving visible attention on GitHub today.",
+      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Data"
-      ]
-    },
-    {
-      "id": "pratham-mishra04",
-      "rank": "#04",
-      "name": "Pratham Mishra",
-      "username": "Pratham-Mishra04",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/99235987?s=96&v=4",
-      "url": "https://github.com/Pratham-Mishra04",
-      "popularRepository": null,
-      "why": "Pratham Mishra is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "akshaydeo",
-      "rank": "#05",
-      "name": "Akshay Deo",
-      "username": "akshaydeo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1050029?s=96&v=4",
-      "url": "https://github.com/akshaydeo",
-      "popularRepository": null,
-      "why": "Akshay Deo is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "777genius",
-      "rank": "#06",
-      "name": "Илия",
-      "username": "777genius",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13103045?s=96&v=4",
-      "url": "https://github.com/777genius",
-      "popularRepository": {
-        "name": "agent-teams-ai",
-        "url": "https://github.com/777genius/agent-teams-ai",
-        "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
-      },
-      "why": "Илия is trending because their repository agent-teams-ai is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "andreknieriem",
-      "rank": "#07",
-      "name": "Andre Rinas",
-      "username": "andreknieriem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4500367?s=96&v=4",
-      "url": "https://github.com/andreknieriem",
-      "popularRepository": {
-        "name": "open-headunit",
-        "url": "https://github.com/andreknieriem/open-headunit",
-        "description": "Headunit App for displaying Android Auto"
-      },
-      "why": "Andre Rinas is trending because their repository open-headunit is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
+        "AI",
         "Web"
       ]
     },
     {
       "id": "noonghunna",
-      "rank": "#08",
+      "rank": "#03",
       "name": "noonghunna",
       "username": "noonghunna",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10742901?s=96&v=4",
@@ -137,56 +58,149 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "zzet",
-      "rank": "#09",
-      "name": "Andrew Kumanyaev",
-      "username": "zzet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/510788?s=96&v=4",
-      "url": "https://github.com/zzet",
+      "id": "dgtlmoon",
+      "rank": "#04",
+      "name": "dgtlmoon",
+      "username": "dgtlmoon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/275001?s=96&v=4",
+      "url": "https://github.com/dgtlmoon",
       "popularRepository": {
-        "name": "gortex",
-        "url": "https://github.com/zzet/gortex",
-        "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access …"
+        "name": "changedetection.io",
+        "url": "https://github.com/dgtlmoon/changedetection.io",
+        "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes…"
       },
-      "why": "Andrew Kumanyaev is trending because their repository gortex is receiving visible attention on GitHub today.",
+      "why": "dgtlmoon is trending because their repository changedetection.io is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Tooling",
+        "Web"
+      ]
+    },
+    {
+      "id": "huangruiteng",
+      "rank": "#05",
+      "name": "huangruiteng",
+      "username": "huangruiteng",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14976749?s=96&v=4",
+      "url": "https://github.com/huangruiteng",
+      "popularRepository": {
+        "name": "loopx",
+        "url": "https://github.com/huangruiteng/loopx",
+        "description": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses."
+      },
+      "why": "huangruiteng is trending because their repository loopx is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "soju06",
-      "rank": "#10",
-      "name": "Soju06",
-      "username": "Soju06",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34199905?s=96&v=4",
-      "url": "https://github.com/Soju06",
+      "id": "wei-shaw",
+      "rank": "#06",
+      "name": "Wesley Liddick",
+      "username": "Wei-Shaw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26101719?s=96&v=4",
+      "url": "https://github.com/Wei-Shaw",
       "popularRepository": {
-        "name": "codex-lb",
-        "url": "https://github.com/Soju06/codex-lb",
-        "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints"
+        "name": "sub2api",
+        "url": "https://github.com/Wei-Shaw/sub2api",
+        "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
       },
-      "why": "Soju06 is trending because their repository codex-lb is receiving visible attention on GitHub today.",
+      "why": "Wesley Liddick is trending because their repository sub2api is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "teng-lin",
+      "rank": "#07",
+      "name": "Teng Lin",
+      "username": "teng-lin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/737447?s=96&v=4",
+      "url": "https://github.com/teng-lin",
+      "popularRepository": {
+        "name": "notebooklm-py",
+        "url": "https://github.com/teng-lin/notebooklm-py",
+        "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilit…"
+      },
+      "why": "Teng Lin is trending because their repository notebooklm-py is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "gakonst",
+      "rank": "#08",
+      "name": "Georgios Konstantopoulos",
+      "username": "gakonst",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17802178?s=96&v=4",
+      "url": "https://github.com/gakonst",
+      "popularRepository": {
+        "name": "nanocodex",
+        "url": "https://github.com/gakonst/nanocodex",
+        "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere."
+      },
+      "why": "Georgios Konstantopoulos is trending because their repository nanocodex is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "lidge-jun",
+      "rank": "#09",
+      "name": "JUN",
+      "username": "lidge-jun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
+      "url": "https://github.com/lidge-jun",
+      "popularRepository": {
+        "name": "opencodex",
+        "url": "https://github.com/lidge-jun/opencodex",
+        "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+      },
+      "why": "JUN is trending because their repository opencodex is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "colbymchenry",
+      "rank": "#10",
+      "name": "Colby Mchenry",
+      "username": "colbymchenry",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
+      "url": "https://github.com/colbymchenry",
+      "popularRepository": {
+        "name": "codegraph",
+        "url": "https://github.com/colbymchenry/codegraph",
+        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+      },
+      "why": "Colby Mchenry is trending because their repository codegraph is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "mervinpraison",
+      "id": "tt-a1i",
       "rank": "#11",
-      "name": "Mervin Praison",
-      "username": "MervinPraison",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/454862?s=96&v=4",
-      "url": "https://github.com/MervinPraison",
+      "name": "tt-a1i",
+      "username": "tt-a1i",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
+      "url": "https://github.com/tt-a1i",
       "popularRepository": {
-        "name": "PraisonAI",
-        "url": "https://github.com/MervinPraison/PraisonAI",
-        "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan,…"
+        "name": "archify",
+        "url": "https://github.com/tt-a1i/archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion…"
       },
-      "why": "Mervin Praison is trending because their repository PraisonAI is receiving visible attention on GitHub today.",
+      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "AI",
+        "Data"
       ]
     },
     {
@@ -208,39 +222,38 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "ja7ad",
+      "id": "squidfunk",
       "rank": "#13",
-      "name": "Javad Rajabzadeh",
-      "username": "ja7ad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56496801?s=96&v=4",
-      "url": "https://github.com/ja7ad",
+      "name": "Martin Donath",
+      "username": "squidfunk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/932156?s=96&v=4",
+      "url": "https://github.com/squidfunk",
       "popularRepository": {
-        "name": "hydra",
-        "url": "https://github.com/ja7ad/hydra",
-        "description": "A fast, resilient, multi-source file retriever and download engine"
+        "name": "mkdocs-material",
+        "url": "https://github.com/squidfunk/mkdocs-material",
+        "description": "Documentation that simply works"
       },
-      "why": "Javad Rajabzadeh is trending because their repository hydra is receiving visible attention on GitHub today.",
+      "why": "Martin Donath is trending because their repository mkdocs-material is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "mvanhorn",
+      "id": "wuwentao",
       "rank": "#14",
-      "name": "Matt Van Horn",
-      "username": "mvanhorn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
-      "url": "https://github.com/mvanhorn",
+      "name": "Hello World",
+      "username": "wuwentao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3353263?s=96&v=4",
+      "url": "https://github.com/wuwentao",
       "popularRepository": {
-        "name": "last30days-skill",
-        "url": "https://github.com/mvanhorn/last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+        "name": "midea_ac_lan",
+        "url": "https://github.com/wuwentao/midea_ac_lan",
+        "description": "Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network."
       },
-      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
+      "why": "Hello World is trending because their repository midea_ac_lan is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI",
-        "Web"
+        "AI"
       ]
     }
   ]
