@@ -1,27 +1,62 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-09-07T04:41:54.065Z",
+  "updatedAt": "2026-09-08T04:36:40.725Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "benjaminshafii",
+      "id": "pbakaus",
       "rank": "#01",
-      "name": "ben",
-      "username": "benjaminshafii",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11430621?s=96&v=4",
-      "url": "https://github.com/benjaminshafii",
+      "name": "Paul Bakaus",
+      "username": "pbakaus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
+      "url": "https://github.com/pbakaus",
       "popularRepository": {
-        "name": "opencode-browser",
-        "url": "https://github.com/benjaminshafii/opencode-browser",
-        "description": "Browser automation for OpenCode via Chrome extension. Inspired by Claude in Chrome."
+        "name": "impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "description": "The design language that makes your AI harness better at design."
       },
-      "why": "ben is trending because their repository opencode-browser is receiving visible attention on GitHub today.",
+      "why": "Paul Bakaus is trending because their repository impeccable is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "mxsm",
+      "rank": "#02",
+      "name": "mxsm",
+      "username": "mxsm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15797831?s=96&v=4",
+      "url": "https://github.com/mxsm",
+      "popularRepository": {
+        "name": "rocketmq-rust",
+        "url": "https://github.com/mxsm/rocketmq-rust",
+        "description": "🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage. ⭐ Star to support our work❤️!"
+      },
+      "why": "mxsm is trending because their repository rocketmq-rust is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "binaricat",
+      "rank": "#03",
+      "name": "陈大猫",
+      "username": "binaricat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16399091?s=96&v=4",
+      "url": "https://github.com/binaricat",
+      "popularRepository": {
+        "name": "Netcatty",
+        "url": "https://github.com/binaricat/Netcatty",
+        "description": "SSH workspace, SFTP, and terminals in one"
+      },
+      "why": "陈大猫 is trending because their repository Netcatty is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "lidge-jun",
-      "rank": "#02",
+      "rank": "#04",
       "name": "JUN",
       "username": "lidge-jun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
@@ -39,76 +74,93 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "mogery",
-      "rank": "#03",
-      "name": "Gergő Móricz",
-      "username": "mogery",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66118807?s=96&v=4",
-      "url": "https://github.com/mogery",
-      "popularRepository": null,
-      "why": "Gergő Móricz is trending because GitHub users are visiting and following their work today.",
+      "id": "colbymchenry",
+      "rank": "#05",
+      "name": "Colby Mchenry",
+      "username": "colbymchenry",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
+      "url": "https://github.com/colbymchenry",
+      "popularRepository": {
+        "name": "codegraph",
+        "url": "https://github.com/colbymchenry/codegraph",
+        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+      },
+      "why": "Colby Mchenry is trending because their repository codegraph is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "pbakaus",
-      "rank": "#04",
-      "name": "Paul Bakaus",
-      "username": "pbakaus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
-      "url": "https://github.com/pbakaus",
+      "id": "yiliang114",
+      "rank": "#06",
+      "name": "易良",
+      "username": "yiliang114",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11473889?s=96&v=4",
+      "url": "https://github.com/yiliang114",
+      "popularRepository": null,
+      "why": "易良 is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "huangruiteng",
+      "rank": "#07",
+      "name": "huangruiteng",
+      "username": "huangruiteng",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14976749?s=96&v=4",
+      "url": "https://github.com/huangruiteng",
       "popularRepository": {
-        "name": "impeccable",
-        "url": "https://github.com/pbakaus/impeccable",
-        "description": "The design language that makes your AI harness better at design."
+        "name": "loopx",
+        "url": "https://github.com/huangruiteng/loopx",
+        "description": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses."
       },
-      "why": "Paul Bakaus is trending because their repository impeccable is receiving visible attention on GitHub today.",
+      "why": "huangruiteng is trending because their repository loopx is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "maziyarpanahi",
-      "rank": "#05",
-      "name": "Maziyar Panahi",
-      "username": "maziyarpanahi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
-      "url": "https://github.com/maziyarpanahi",
+      "id": "git-on-my-level",
+      "rank": "#08",
+      "name": "David Zhang",
+      "username": "Git-on-my-level",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9387252?s=96&v=4",
+      "url": "https://github.com/Git-on-my-level",
       "popularRepository": {
-        "name": "openmed",
-        "url": "https://github.com/maziyarpanahi/openmed",
-        "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Appl…"
+        "name": "self-improving-agent-ecosystem",
+        "url": "https://github.com/Git-on-my-level/self-improving-agent-ecosystem",
+        "description": "Reference architecture, contracts, skills, and fixtures for safe evaluator-driven self-improving ecosystems."
       },
-      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
+      "why": "David Zhang is trending because their repository self-improving-agent-ecosystem is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI",
+        "AI"
+      ]
+    },
+    {
+      "id": "dgtlmoon",
+      "rank": "#09",
+      "name": "dgtlmoon",
+      "username": "dgtlmoon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/275001?s=96&v=4",
+      "url": "https://github.com/dgtlmoon",
+      "popularRepository": {
+        "name": "changedetection.io",
+        "url": "https://github.com/dgtlmoon/changedetection.io",
+        "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes…"
+      },
+      "why": "dgtlmoon is trending because their repository changedetection.io is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Tooling",
         "Web"
       ]
     },
     {
-      "id": "ikalus1988",
-      "rank": "#06",
-      "name": "Ikalus1988",
-      "username": "Ikalus1988",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136884451?s=96&v=4",
-      "url": "https://github.com/Ikalus1988",
-      "popularRepository": {
-        "name": "MisakaNet",
-        "url": "https://github.com/Ikalus1988/MisakaNet",
-        "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Pyth…"
-      },
-      "why": "Ikalus1988 is trending because their repository MisakaNet is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "lalalune",
-      "rank": "#07",
+      "rank": "#10",
       "name": "Shaw",
       "username": "lalalune",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18633264?s=96&v=4",
@@ -125,125 +177,71 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "ruvnet",
-      "rank": "#08",
-      "name": "rUv",
-      "username": "ruvnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
-      "url": "https://github.com/ruvnet",
+      "id": "1jehuang",
+      "rank": "#11",
+      "name": "Jeremy Huang",
+      "username": "1jehuang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94247773?s=96&v=4",
+      "url": "https://github.com/1jehuang",
       "popularRepository": {
-        "name": "ruflo",
-        "url": "https://github.com/ruvnet/ruflo",
-        "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI s…"
+        "name": "jcode",
+        "url": "https://github.com/1jehuang/jcode",
+        "description": "The most RAM efficient harness"
       },
-      "why": "rUv is trending because their repository ruflo is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "lfnovo",
-      "rank": "#09",
-      "name": "Luis Novo",
-      "username": "lfnovo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/579178?s=96&v=4",
-      "url": "https://github.com/lfnovo",
-      "popularRepository": {
-        "name": "open-notebook",
-        "url": "https://github.com/lfnovo/open-notebook",
-        "description": "An Open Source implementation of Notebook LM with more flexibility and features"
-      },
-      "why": "Luis Novo is trending because their repository open-notebook is receiving visible attention on GitHub today.",
+      "why": "Jeremy Huang is trending because their repository jcode is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "alan-thegentleman",
-      "rank": "#10",
-      "name": "Alan Buscaglia",
-      "username": "Alan-TheGentleman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6935240?s=96&v=4",
-      "url": "https://github.com/Alan-TheGentleman",
-      "popularRepository": {
-        "name": "gentleman-book-mcp",
-        "url": "https://github.com/Alan-TheGentleman/gentleman-book-mcp",
-        "description": "MCP Server for Gentleman Programming Book - Give AI assistants direct access to 18 chapters of software architecture knowledge"
-      },
-      "why": "Alan Buscaglia is trending because their repository gentleman-book-mcp is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "gakonst",
-      "rank": "#11",
-      "name": "Georgios Konstantopoulos",
-      "username": "gakonst",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17802178?s=96&v=4",
-      "url": "https://github.com/gakonst",
-      "popularRepository": {
-        "name": "nanocodex",
-        "url": "https://github.com/gakonst/nanocodex",
-        "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere."
-      },
-      "why": "Georgios Konstantopoulos is trending because their repository nanocodex is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "777genius",
+      "id": "benjaminshafii",
       "rank": "#12",
-      "name": "Илия",
-      "username": "777genius",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13103045?s=96&v=4",
-      "url": "https://github.com/777genius",
+      "name": "ben",
+      "username": "benjaminshafii",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11430621?s=96&v=4",
+      "url": "https://github.com/benjaminshafii",
       "popularRepository": {
-        "name": "agent-teams-ai",
-        "url": "https://github.com/777genius/agent-teams-ai",
-        "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+        "name": "opencode-browser",
+        "url": "https://github.com/benjaminshafii/opencode-browser",
+        "description": "Browser automation for OpenCode via Chrome extension. Inspired by Claude in Chrome."
       },
-      "why": "Илия is trending because their repository agent-teams-ai is receiving visible attention on GitHub today.",
+      "why": "ben is trending because their repository opencode-browser is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     },
     {
-      "id": "fitchmultz",
+      "id": "tt-a1i",
       "rank": "#13",
-      "name": "Mitch Fultz",
-      "username": "fitchmultz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57411549?s=96&v=4",
-      "url": "https://github.com/fitchmultz",
+      "name": "tt-a1i",
+      "username": "tt-a1i",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
+      "url": "https://github.com/tt-a1i",
       "popularRepository": {
-        "name": "pi-posthorse",
-        "url": "https://github.com/fitchmultz/pi-posthorse",
-        "description": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollove…"
+        "name": "archify",
+        "url": "https://github.com/tt-a1i/archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion…"
       },
-      "why": "Mitch Fultz is trending because their repository pi-posthorse is receiving visible attention on GitHub today.",
+      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "AI",
+        "Data"
       ]
     },
     {
-      "id": "zzet",
+      "id": "wuwentao",
       "rank": "#14",
-      "name": "Andrew Kumanyaev",
-      "username": "zzet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/510788?s=96&v=4",
-      "url": "https://github.com/zzet",
+      "name": "Hello World",
+      "username": "wuwentao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3353263?s=96&v=4",
+      "url": "https://github.com/wuwentao",
       "popularRepository": {
-        "name": "gortex",
-        "url": "https://github.com/zzet/gortex",
-        "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access …"
+        "name": "midea_ac_lan",
+        "url": "https://github.com/wuwentao/midea_ac_lan",
+        "description": "Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network."
       },
-      "why": "Andrew Kumanyaev is trending because their repository gortex is receiving visible attention on GitHub today.",
+      "why": "Hello World is trending because their repository midea_ac_lan is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
