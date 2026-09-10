@@ -1,10 +1,152 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-09-09T04:42:36.344Z",
+  "updatedAt": "2026-09-10T04:42:58.619Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "binaricat",
+      "id": "max-sixty",
       "rank": "#01",
+      "name": "Maximilian Roos",
+      "username": "max-sixty",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
+      "url": "https://github.com/max-sixty",
+      "popularRepository": {
+        "name": "worktrunk",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+      },
+      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "magnus919",
+      "rank": "#02",
+      "name": "Magnus Hedemark",
+      "username": "magnus919",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/942000?s=96&v=4",
+      "url": "https://github.com/magnus919",
+      "popularRepository": {
+        "name": "hermes-profiles",
+        "url": "https://github.com/magnus919/hermes-profiles",
+        "description": "Curated Hermes Agent profiles for specialist swarms — opinionated, Hermes-optimized, artifact-pyramid native"
+      },
+      "why": "Magnus Hedemark is trending because their repository hermes-profiles is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "ahmadrosid",
+      "rank": "#03",
+      "name": "ahmadrosid",
+      "username": "ahmadrosid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29406408?s=96&v=4",
+      "url": "https://github.com/ahmadrosid",
+      "popularRepository": {
+        "name": "nakama",
+        "url": "https://github.com/ahmadrosid/nakama",
+        "description": "It's like Hermes Agent & OpenClaw but designed to work nicely with teams."
+      },
+      "why": "ahmadrosid is trending because their repository nakama is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "colbymchenry",
+      "rank": "#04",
+      "name": "Colby Mchenry",
+      "username": "colbymchenry",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
+      "url": "https://github.com/colbymchenry",
+      "popularRepository": {
+        "name": "codegraph",
+        "url": "https://github.com/colbymchenry/codegraph",
+        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+      },
+      "why": "Colby Mchenry is trending because their repository codegraph is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "soju06",
+      "rank": "#05",
+      "name": "Soju06",
+      "username": "Soju06",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34199905?s=96&v=4",
+      "url": "https://github.com/Soju06",
+      "popularRepository": {
+        "name": "codex-lb",
+        "url": "https://github.com/Soju06/codex-lb",
+        "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints"
+      },
+      "why": "Soju06 is trending because their repository codex-lb is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "timetobuildbob",
+      "rank": "#06",
+      "name": "Bob",
+      "username": "TimeToBuildBob",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/189876176?s=96&v=4",
+      "url": "https://github.com/TimeToBuildBob",
+      "popularRepository": {
+        "name": "gptme",
+        "url": "https://github.com/TimeToBuildBob/gptme",
+        "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision."
+      },
+      "why": "Bob is trending because their repository gptme is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "elie222",
+      "rank": "#07",
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
+      "url": "https://github.com/elie222",
+      "popularRepository": {
+        "name": "rakazo",
+        "url": "https://github.com/elie222/rakazo",
+        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+      },
+      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "cathrynlavery",
+      "rank": "#08",
+      "name": "Cathryn Lavery",
+      "username": "cathrynlavery",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=96&v=4",
+      "url": "https://github.com/cathrynlavery",
+      "popularRepository": {
+        "name": "diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+      },
+      "why": "Cathryn Lavery is trending because their repository diagram-design is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "binaricat",
+      "rank": "#09",
       "name": "陈大猫",
       "username": "binaricat",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16399091?s=96&v=4",
@@ -20,8 +162,26 @@ window.trendingDevelopers = {
       ]
     },
     {
+      "id": "git-on-my-level",
+      "rank": "#10",
+      "name": "David Zhang",
+      "username": "Git-on-my-level",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9387252?s=96&v=4",
+      "url": "https://github.com/Git-on-my-level",
+      "popularRepository": {
+        "name": "self-improving-agent-ecosystem",
+        "url": "https://github.com/Git-on-my-level/self-improving-agent-ecosystem",
+        "description": "Reference architecture, contracts, skills, and fixtures for safe evaluator-driven self-improving ecosystems."
+      },
+      "why": "David Zhang is trending because their repository self-improving-agent-ecosystem is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
       "id": "maziyarpanahi",
-      "rank": "#02",
+      "rank": "#11",
       "name": "Maziyar Panahi",
       "username": "maziyarpanahi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
@@ -39,188 +199,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "max-sixty",
-      "rank": "#03",
-      "name": "Maximilian Roos",
-      "username": "max-sixty",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
-      "url": "https://github.com/max-sixty",
-      "popularRepository": {
-        "name": "worktrunk",
-        "url": "https://github.com/max-sixty/worktrunk",
-        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
-      },
-      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "ahmadrosid",
-      "rank": "#04",
-      "name": "ahmadrosid",
-      "username": "ahmadrosid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29406408?s=96&v=4",
-      "url": "https://github.com/ahmadrosid",
-      "popularRepository": {
-        "name": "nakama",
-        "url": "https://github.com/ahmadrosid/nakama",
-        "description": "It's like Hermes Agent & OpenClaw but designed to work nicely with teams."
-      },
-      "why": "ahmadrosid is trending because their repository nakama is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "ikalus1988",
-      "rank": "#05",
-      "name": "Ikalus1988",
-      "username": "Ikalus1988",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136884451?s=96&v=4",
-      "url": "https://github.com/Ikalus1988",
-      "popularRepository": {
-        "name": "MisakaNet",
-        "url": "https://github.com/Ikalus1988/MisakaNet",
-        "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Pyth…"
-      },
-      "why": "Ikalus1988 is trending because their repository MisakaNet is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "ilyhalight",
-      "rank": "#06",
-      "name": "Toil",
-      "username": "ilyhalight",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/62353659?s=96&v=4",
-      "url": "https://github.com/ilyhalight",
-      "popularRepository": {
-        "name": "voice-over-translation",
-        "url": "https://github.com/ilyhalight/voice-over-translation",
-        "description": "Смотрите видео на другом языке с закадровым переводом и субтитрами в любом браузере"
-      },
-      "why": "Toil is trending because their repository voice-over-translation is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "pbakaus",
-      "rank": "#07",
-      "name": "Paul Bakaus",
-      "username": "pbakaus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
-      "url": "https://github.com/pbakaus",
-      "popularRepository": {
-        "name": "impeccable",
-        "url": "https://github.com/pbakaus/impeccable",
-        "description": "The design language that makes your AI harness better at design."
-      },
-      "why": "Paul Bakaus is trending because their repository impeccable is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "lidge-jun",
-      "rank": "#08",
-      "name": "JUN",
-      "username": "lidge-jun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
-      "url": "https://github.com/lidge-jun",
-      "popularRepository": {
-        "name": "opencodex",
-        "url": "https://github.com/lidge-jun/opencodex",
-        "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
-      },
-      "why": "JUN is trending because their repository opencodex is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "tt-a1i",
-      "rank": "#09",
-      "name": "tt-a1i",
-      "username": "tt-a1i",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
-      "url": "https://github.com/tt-a1i",
-      "popularRepository": {
-        "name": "archify",
-        "url": "https://github.com/tt-a1i/archify",
-        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion…"
-      },
-      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Data"
-      ]
-    },
-    {
-      "id": "elie222",
-      "rank": "#10",
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
-      "url": "https://github.com/elie222",
-      "popularRepository": {
-        "name": "rakazo",
-        "url": "https://github.com/elie222/rakazo",
-        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
-      },
-      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "fitchmultz",
-      "rank": "#11",
-      "name": "Mitch Fultz",
-      "username": "fitchmultz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57411549?s=96&v=4",
-      "url": "https://github.com/fitchmultz",
-      "popularRepository": {
-        "name": "pi-posthorse",
-        "url": "https://github.com/fitchmultz/pi-posthorse",
-        "description": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollove…"
-      },
-      "why": "Mitch Fultz is trending because their repository pi-posthorse is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "yairm210",
-      "rank": "#12",
-      "name": "Yair Morgenstern",
-      "username": "yairm210",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8366208?s=96&v=4",
-      "url": "https://github.com/yairm210",
-      "popularRepository": {
-        "name": "Unciv",
-        "url": "https://github.com/yairm210/Unciv",
-        "description": "Open-source Android/Desktop remake of Civ V"
-      },
-      "why": "Yair Morgenstern is trending because their repository Unciv is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "gtsteffaniak",
-      "rank": "#13",
+      "rank": "#12",
       "name": "Graham Steffaniak",
       "username": "gtsteffaniak",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42989099?s=96&v=4",
@@ -237,21 +217,38 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "weblate",
-      "rank": "#14",
-      "name": "Weblate (bot)",
-      "username": "weblate",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1607653?s=96&v=4",
-      "url": "https://github.com/weblate",
+      "id": "abue-ammar",
+      "rank": "#13",
+      "name": "Abue Ammar",
+      "username": "abue-ammar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14371506?s=96&v=4",
+      "url": "https://github.com/abue-ammar",
       "popularRepository": {
-        "name": "plugin-paypal",
-        "url": "https://github.com/weblate/plugin-paypal",
-        "description": "Paypal payment plugin for Galette"
+        "name": "tinycast",
+        "url": "https://github.com/abue-ammar/tinycast",
+        "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
       },
-      "why": "Weblate (bot) is trending because their repository plugin-paypal is receiving visible attention on GitHub today.",
+      "why": "Abue Ammar is trending because their repository tinycast is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "yairm210",
+      "rank": "#14",
+      "name": "Yair Morgenstern",
+      "username": "yairm210",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8366208?s=96&v=4",
+      "url": "https://github.com/yairm210",
+      "popularRepository": {
+        "name": "Unciv",
+        "url": "https://github.com/yairm210/Unciv",
+        "description": "Open-source Android/Desktop remake of Civ V"
+      },
+      "why": "Yair Morgenstern is trending because their repository Unciv is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Web"
+        "AI"
       ]
     }
   ]
