@@ -1,5 +1,5 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-09-10T04:42:58.619Z",
+  "updatedAt": "2026-09-11T04:40:49.845Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
@@ -21,21 +21,20 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "magnus919",
+      "id": "comfyanonymous",
       "rank": "#02",
-      "name": "Magnus Hedemark",
-      "username": "magnus919",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/942000?s=96&v=4",
-      "url": "https://github.com/magnus919",
+      "name": "comfyanonymous",
+      "username": "comfyanonymous",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121283862?s=96&v=4",
+      "url": "https://github.com/comfyanonymous",
       "popularRepository": {
-        "name": "hermes-profiles",
-        "url": "https://github.com/magnus919/hermes-profiles",
-        "description": "Curated Hermes Agent profiles for specialist swarms — opinionated, Hermes-optimized, artifact-pyramid native"
+        "name": "ComfyUI_examples",
+        "url": "https://github.com/comfyanonymous/ComfyUI_examples",
+        "description": "Examples of ComfyUI workflows"
       },
-      "why": "Magnus Hedemark is trending because their repository hermes-profiles is receiving visible attention on GitHub today.",
+      "why": "comfyanonymous is trending because their repository ComfyUI_examples is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     },
     {
@@ -57,123 +56,18 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "colbymchenry",
+      "id": "kunchenguid",
       "rank": "#04",
-      "name": "Colby Mchenry",
-      "username": "colbymchenry",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
-      "url": "https://github.com/colbymchenry",
+      "name": "Kun Chen",
+      "username": "kunchenguid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3233006?s=96&v=4",
+      "url": "https://github.com/kunchenguid",
       "popularRepository": {
-        "name": "codegraph",
-        "url": "https://github.com/colbymchenry/codegraph",
-        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+        "name": "firstmate",
+        "url": "https://github.com/kunchenguid/firstmate",
+        "description": "Talk to one agent. Ship with a crew."
       },
-      "why": "Colby Mchenry is trending because their repository codegraph is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "soju06",
-      "rank": "#05",
-      "name": "Soju06",
-      "username": "Soju06",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34199905?s=96&v=4",
-      "url": "https://github.com/Soju06",
-      "popularRepository": {
-        "name": "codex-lb",
-        "url": "https://github.com/Soju06/codex-lb",
-        "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints"
-      },
-      "why": "Soju06 is trending because their repository codex-lb is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "timetobuildbob",
-      "rank": "#06",
-      "name": "Bob",
-      "username": "TimeToBuildBob",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/189876176?s=96&v=4",
-      "url": "https://github.com/TimeToBuildBob",
-      "popularRepository": {
-        "name": "gptme",
-        "url": "https://github.com/TimeToBuildBob/gptme",
-        "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision."
-      },
-      "why": "Bob is trending because their repository gptme is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "elie222",
-      "rank": "#07",
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
-      "url": "https://github.com/elie222",
-      "popularRepository": {
-        "name": "rakazo",
-        "url": "https://github.com/elie222/rakazo",
-        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
-      },
-      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "cathrynlavery",
-      "rank": "#08",
-      "name": "Cathryn Lavery",
-      "username": "cathrynlavery",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=96&v=4",
-      "url": "https://github.com/cathrynlavery",
-      "popularRepository": {
-        "name": "diagram-design",
-        "url": "https://github.com/cathrynlavery/diagram-design",
-        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
-      },
-      "why": "Cathryn Lavery is trending because their repository diagram-design is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "binaricat",
-      "rank": "#09",
-      "name": "陈大猫",
-      "username": "binaricat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16399091?s=96&v=4",
-      "url": "https://github.com/binaricat",
-      "popularRepository": {
-        "name": "Netcatty",
-        "url": "https://github.com/binaricat/Netcatty",
-        "description": "SSH workspace, SFTP, and terminals in one"
-      },
-      "why": "陈大猫 is trending because their repository Netcatty is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "git-on-my-level",
-      "rank": "#10",
-      "name": "David Zhang",
-      "username": "Git-on-my-level",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9387252?s=96&v=4",
-      "url": "https://github.com/Git-on-my-level",
-      "popularRepository": {
-        "name": "self-improving-agent-ecosystem",
-        "url": "https://github.com/Git-on-my-level/self-improving-agent-ecosystem",
-        "description": "Reference architecture, contracts, skills, and fixtures for safe evaluator-driven self-improving ecosystems."
-      },
-      "why": "David Zhang is trending because their repository self-improving-agent-ecosystem is receiving visible attention on GitHub today.",
+      "why": "Kun Chen is trending because their repository firstmate is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -181,7 +75,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "maziyarpanahi",
-      "rank": "#11",
+      "rank": "#05",
       "name": "Maziyar Panahi",
       "username": "maziyarpanahi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
@@ -199,26 +93,42 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "gtsteffaniak",
-      "rank": "#12",
-      "name": "Graham Steffaniak",
-      "username": "gtsteffaniak",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42989099?s=96&v=4",
-      "url": "https://github.com/gtsteffaniak",
+      "id": "soju06",
+      "rank": "#06",
+      "name": "Soju06",
+      "username": "Soju06",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34199905?s=96&v=4",
+      "url": "https://github.com/Soju06",
       "popularRepository": {
-        "name": "filebrowser",
-        "url": "https://github.com/gtsteffaniak/filebrowser",
-        "description": "📂 Web File Browser"
+        "name": "codex-lb",
+        "url": "https://github.com/Soju06/codex-lb",
+        "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints"
       },
-      "why": "Graham Steffaniak is trending because their repository filebrowser is receiving visible attention on GitHub today.",
+      "why": "Soju06 is trending because their repository codex-lb is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "Web"
+        "Developer"
+      ]
+    },
+    {
+      "id": "binaricat",
+      "rank": "#07",
+      "name": "陈大猫",
+      "username": "binaricat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16399091?s=96&v=4",
+      "url": "https://github.com/binaricat",
+      "popularRepository": {
+        "name": "Netcatty",
+        "url": "https://github.com/binaricat/Netcatty",
+        "description": "SSH workspace, SFTP, and terminals in one"
+      },
+      "why": "陈大猫 is trending because their repository Netcatty is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
       ]
     },
     {
       "id": "abue-ammar",
-      "rank": "#13",
+      "rank": "#08",
       "name": "Abue Ammar",
       "username": "abue-ammar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14371506?s=96&v=4",
@@ -234,21 +144,99 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "yairm210",
-      "rank": "#14",
-      "name": "Yair Morgenstern",
-      "username": "yairm210",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8366208?s=96&v=4",
-      "url": "https://github.com/yairm210",
+      "id": "git-on-my-level",
+      "rank": "#09",
+      "name": "David Zhang",
+      "username": "Git-on-my-level",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9387252?s=96&v=4",
+      "url": "https://github.com/Git-on-my-level",
       "popularRepository": {
-        "name": "Unciv",
-        "url": "https://github.com/yairm210/Unciv",
-        "description": "Open-source Android/Desktop remake of Civ V"
+        "name": "self-improving-agent-ecosystem",
+        "url": "https://github.com/Git-on-my-level/self-improving-agent-ecosystem",
+        "description": "Reference architecture, contracts, skills, and fixtures for safe evaluator-driven self-improving ecosystems."
       },
-      "why": "Yair Morgenstern is trending because their repository Unciv is receiving visible attention on GitHub today.",
+      "why": "David Zhang is trending because their repository self-improving-agent-ecosystem is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
+      ]
+    },
+    {
+      "id": "dalathegreat",
+      "rank": "#10",
+      "name": "Daniel Öster",
+      "username": "dalathegreat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26695010?s=96&v=4",
+      "url": "https://github.com/dalathegreat",
+      "popularRepository": {
+        "name": "Battery-Emulator",
+        "url": "https://github.com/dalathegreat/Battery-Emulator",
+        "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
+      },
+      "why": "Daniel Öster is trending because their repository Battery-Emulator is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "milospaunovic",
+      "rank": "#11",
+      "name": "Miloš Paunović",
+      "username": "MilosPaunovic",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62475782?s=96&v=4",
+      "url": "https://github.com/MilosPaunovic",
+      "popularRepository": null,
+      "why": "Miloš Paunović is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "colbymchenry",
+      "rank": "#12",
+      "name": "Colby Mchenry",
+      "username": "colbymchenry",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
+      "url": "https://github.com/colbymchenry",
+      "popularRepository": {
+        "name": "codegraph",
+        "url": "https://github.com/colbymchenry/codegraph",
+        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+      },
+      "why": "Colby Mchenry is trending because their repository codegraph is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "kentcdodds",
+      "rank": "#13",
+      "name": "Kent C. Dodds",
+      "username": "kentcdodds",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1500684?s=96&v=4",
+      "url": "https://github.com/kentcdodds",
+      "popularRepository": {
+        "name": "kody",
+        "url": "https://github.com/kentcdodds/kody",
+        "description": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflar…"
+      },
+      "why": "Kent C. Dodds is trending because their repository kody is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "andreaskaratzas",
+      "rank": "#14",
+      "name": "Andreas Karatzas",
+      "username": "AndreasKaratzas",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42451412?s=96&v=4",
+      "url": "https://github.com/AndreasKaratzas",
+      "popularRepository": null,
+      "why": "Andreas Karatzas is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
       ]
     }
   ]
