@@ -1,62 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-09-12T04:34:34.607Z",
+  "updatedAt": "2026-09-13T04:48:20.083Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "abue-ammar",
-      "rank": "#01",
-      "name": "Abue Ammar",
-      "username": "abue-ammar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14371506?s=96&v=4",
-      "url": "https://github.com/abue-ammar",
-      "popularRepository": {
-        "name": "tinycast",
-        "url": "https://github.com/abue-ammar/tinycast",
-        "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
-      },
-      "why": "Abue Ammar is trending because their repository tinycast is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "kentcdodds",
-      "rank": "#02",
-      "name": "Kent C. Dodds",
-      "username": "kentcdodds",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1500684?s=96&v=4",
-      "url": "https://github.com/kentcdodds",
-      "popularRepository": {
-        "name": "kody",
-        "url": "https://github.com/kentcdodds/kody",
-        "description": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflar…"
-      },
-      "why": "Kent C. Dodds is trending because their repository kody is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "jtenniswood",
-      "rank": "#03",
-      "name": "James Tenniswood",
-      "username": "jtenniswood",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10881541?s=96&v=4",
-      "url": "https://github.com/jtenniswood",
-      "popularRepository": {
-        "name": "espcontrol",
-        "url": "https://github.com/jtenniswood/espcontrol",
-        "description": "Esphome based smart home control panel"
-      },
-      "why": "James Tenniswood is trending because their repository espcontrol is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "enjoy-digital",
-      "rank": "#04",
+      "rank": "#01",
       "name": "enjoy-digital",
       "username": "enjoy-digital",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1450143?s=96&v=4",
@@ -72,26 +20,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "max-sixty",
-      "rank": "#05",
-      "name": "Maximilian Roos",
-      "username": "max-sixty",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
-      "url": "https://github.com/max-sixty",
-      "popularRepository": {
-        "name": "worktrunk",
-        "url": "https://github.com/max-sixty/worktrunk",
-        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
-      },
-      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "hiyouga",
-      "rank": "#06",
+      "rank": "#02",
       "name": "Yaowei Zheng",
       "username": "hiyouga",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16256802?s=96&v=4",
@@ -108,89 +38,163 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "dentiny",
-      "rank": "#07",
-      "name": "dentiny",
-      "username": "dentiny",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26985418?s=96&v=4",
-      "url": "https://github.com/dentiny",
+      "id": "shubhamsaboo",
+      "rank": "#03",
+      "name": "Shubham Saboo",
+      "username": "Shubhamsaboo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31396011?s=96&v=4",
+      "url": "https://github.com/Shubhamsaboo",
       "popularRepository": {
-        "name": "duckdb-cache-prewarm",
-        "url": "https://github.com/dentiny/duckdb-cache-prewarm",
-        "description": "No popular repository description available."
+        "name": "awesome-llm-apps",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source."
       },
-      "why": "dentiny is trending because their repository duckdb-cache-prewarm is receiving visible attention on GitHub today.",
+      "why": "Shubham Saboo is trending because their repository awesome-llm-apps is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "AI",
+        "Web"
       ]
     },
     {
-      "id": "kgoedecke",
-      "rank": "#08",
-      "name": "Kevin Goedecke",
-      "username": "kgoedecke",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5519740?s=96&v=4",
-      "url": "https://github.com/kgoedecke",
+      "id": "abue-ammar",
+      "rank": "#04",
+      "name": "Abue Ammar",
+      "username": "abue-ammar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14371506?s=96&v=4",
+      "url": "https://github.com/abue-ammar",
       "popularRepository": {
-        "name": "doop",
-        "url": "https://github.com/kgoedecke/doop",
-        "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+        "name": "tinycast",
+        "url": "https://github.com/abue-ammar/tinycast",
+        "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
       },
-      "why": "Kevin Goedecke is trending because their repository doop is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "colbymchenry",
-      "rank": "#09",
-      "name": "Colby Mchenry",
-      "username": "colbymchenry",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
-      "url": "https://github.com/colbymchenry",
-      "popularRepository": {
-        "name": "codegraph",
-        "url": "https://github.com/colbymchenry/codegraph",
-        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
-      },
-      "why": "Colby Mchenry is trending because their repository codegraph is receiving visible attention on GitHub today.",
+      "why": "Abue Ammar is trending because their repository tinycast is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "saoudrizwan",
-      "rank": "#10",
-      "name": "Saoud Rizwan",
-      "username": "saoudrizwan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7799382?s=96&v=4",
-      "url": "https://github.com/saoudrizwan",
+      "id": "scottcjn",
+      "rank": "#05",
+      "name": "AutoJanitor",
+      "username": "Scottcjn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121303252?s=96&v=4",
+      "url": "https://github.com/Scottcjn",
       "popularRepository": {
-        "name": "Disk",
-        "url": "https://github.com/saoudrizwan/Disk",
-        "description": "Easily persist structs, images, and data on iOS"
+        "name": "Rustchain",
+        "url": "https://github.com/Scottcjn/Rustchain",
+        "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU archite…"
       },
-      "why": "Saoud Rizwan is trending because their repository Disk is receiving visible attention on GitHub today.",
+      "why": "AutoJanitor is trending because their repository Rustchain is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Data"
+        "AI"
       ]
     },
     {
-      "id": "ahmadrosid",
-      "rank": "#11",
-      "name": "ahmadrosid",
-      "username": "ahmadrosid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29406408?s=96&v=4",
-      "url": "https://github.com/ahmadrosid",
+      "id": "max-sixty",
+      "rank": "#06",
+      "name": "Maximilian Roos",
+      "username": "max-sixty",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
+      "url": "https://github.com/max-sixty",
       "popularRepository": {
-        "name": "nakama",
-        "url": "https://github.com/ahmadrosid/nakama",
-        "description": "It's like Hermes Agent & OpenClaw but designed to work nicely with teams."
+        "name": "worktrunk",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
       },
-      "why": "ahmadrosid is trending because their repository nakama is receiving visible attention on GitHub today.",
+      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "soju06",
+      "rank": "#07",
+      "name": "Soju06",
+      "username": "Soju06",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34199905?s=96&v=4",
+      "url": "https://github.com/Soju06",
+      "popularRepository": {
+        "name": "codex-lb",
+        "url": "https://github.com/Soju06/codex-lb",
+        "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints"
+      },
+      "why": "Soju06 is trending because their repository codex-lb is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "amir20",
+      "rank": "#08",
+      "name": "Amir Raminfar",
+      "username": "amir20",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/260667?s=96&v=4",
+      "url": "https://github.com/amir20",
+      "popularRepository": {
+        "name": "dozzle",
+        "url": "https://github.com/amir20/dozzle",
+        "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s."
+      },
+      "why": "Amir Raminfar is trending because their repository dozzle is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "abrignoni",
+      "rank": "#09",
+      "name": "Brigs",
+      "username": "abrignoni",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28718987?s=96&v=4",
+      "url": "https://github.com/abrignoni",
+      "popularRepository": {
+        "name": "iLEAPP",
+        "url": "https://github.com/abrignoni/iLEAPP",
+        "description": "iOS Logs, Events, And Plist Parser"
+      },
+      "why": "Brigs is trending because their repository iLEAPP is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Events",
+        "Web"
+      ]
+    },
+    {
+      "id": "maziyarpanahi",
+      "rank": "#10",
+      "name": "Maziyar Panahi",
+      "username": "maziyarpanahi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
+      "url": "https://github.com/maziyarpanahi",
+      "popularRepository": {
+        "name": "openmed",
+        "url": "https://github.com/maziyarpanahi/openmed",
+        "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Appl…"
+      },
+      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "tshemsedinov",
+      "rank": "#11",
+      "name": "Timur Shemsedinov",
+      "username": "tshemsedinov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4405297?s=96&v=4",
+      "url": "https://github.com/tshemsedinov",
+      "popularRepository": {
+        "name": "reslop",
+        "url": "https://github.com/tshemsedinov/reslop",
+        "description": "👁️ Review AI generated code and plan changes"
+      },
+      "why": "Timur Shemsedinov is trending because their repository reslop is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -214,38 +218,38 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "tshemsedinov",
+      "id": "jtenniswood",
       "rank": "#13",
-      "name": "Timur Shemsedinov",
-      "username": "tshemsedinov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4405297?s=96&v=4",
-      "url": "https://github.com/tshemsedinov",
+      "name": "James Tenniswood",
+      "username": "jtenniswood",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10881541?s=96&v=4",
+      "url": "https://github.com/jtenniswood",
       "popularRepository": {
-        "name": "reslop",
-        "url": "https://github.com/tshemsedinov/reslop",
-        "description": "Interactive terminal code review git diff with intra-line highlighting"
+        "name": "espcontrol",
+        "url": "https://github.com/jtenniswood/espcontrol",
+        "description": "Esphome based smart home control panel"
       },
-      "why": "Timur Shemsedinov is trending because their repository reslop is receiving visible attention on GitHub today.",
+      "why": "James Tenniswood is trending because their repository espcontrol is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "koala73",
+      "id": "garrytan",
       "rank": "#14",
-      "name": "Elie Habib",
-      "username": "koala73",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
-      "url": "https://github.com/koala73",
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
+      "url": "https://github.com/garrytan",
       "popularRepository": {
-        "name": "worldmonitor",
-        "url": "https://github.com/koala73/worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+        "name": "gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
       },
-      "why": "Elie Habib is trending because their repository worldmonitor is receiving visible attention on GitHub today.",
+      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "Tooling"
       ]
     }
   ]
