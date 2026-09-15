@@ -1,5 +1,5 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-09-14T04:57:06.981Z",
+  "updatedAt": "2026-09-15T04:55:13.138Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
@@ -20,8 +20,42 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "abrignoni",
+      "id": "justvugg",
       "rank": "#02",
+      "name": "Vincenzo Fornaro",
+      "username": "JustVugg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
+      "url": "https://github.com/JustVugg",
+      "popularRepository": {
+        "name": "colibri",
+        "url": "https://github.com/JustVugg/colibri",
+        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+      },
+      "why": "Vincenzo Fornaro is trending because their repository colibri is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "neubig",
+      "rank": "#03",
+      "name": "Graham Neubig",
+      "username": "neubig",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/398875?s=96&v=4",
+      "url": "https://github.com/neubig",
+      "popularRepository": {
+        "name": "starter-repo",
+        "url": "https://github.com/neubig/starter-repo",
+        "description": "An example starter repo for Python projects"
+      },
+      "why": "Graham Neubig is trending because their repository starter-repo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "abrignoni",
+      "rank": "#04",
       "name": "Brigs",
       "username": "abrignoni",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28718987?s=96&v=4",
@@ -39,18 +73,18 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "shubhamsaboo",
-      "rank": "#03",
-      "name": "Shubham Saboo",
-      "username": "Shubhamsaboo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31396011?s=96&v=4",
-      "url": "https://github.com/Shubhamsaboo",
+      "id": "mvanhorn",
+      "rank": "#05",
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
+      "url": "https://github.com/mvanhorn",
       "popularRepository": {
-        "name": "awesome-llm-apps",
-        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source."
+        "name": "last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
       },
-      "why": "Shubham Saboo is trending because their repository awesome-llm-apps is receiving visible attention on GitHub today.",
+      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI",
@@ -58,26 +92,129 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "jtydhr88",
-      "rank": "#04",
-      "name": "Terry Jia",
-      "username": "jtydhr88",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/860985?s=96&v=4",
-      "url": "https://github.com/jtydhr88",
+      "id": "lalitmaganti",
+      "rank": "#06",
+      "name": "Lalit Maganti",
+      "username": "LalitMaganti",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/679100?s=96&v=4",
+      "url": "https://github.com/LalitMaganti",
       "popularRepository": {
-        "name": "screenwriting-skills",
-        "url": "https://github.com/jtydhr88/screenwriting-skills",
-        "description": "Professional agent skills for screenwriting, television writing and dramaturgy"
+        "name": "buildprof",
+        "url": "https://github.com/LalitMaganti/buildprof",
+        "description": "Records every process and file access in a build and shows it as an interactive timeline"
       },
-      "why": "Terry Jia is trending because their repository screenwriting-skills is receiving visible attention on GitHub today.",
+      "why": "Lalit Maganti is trending because their repository buildprof is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "raullenchai",
+      "rank": "#07",
+      "name": "Raullen Chai",
+      "username": "raullenchai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
+      "url": "https://github.com/raullenchai",
+      "popularRepository": {
+        "name": "Rapid-MLX",
+        "url": "https://github.com/raullenchai/Rapid-MLX",
+        "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cac…"
+      },
+      "why": "Raullen Chai is trending because their repository Rapid-MLX is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "noonghunna",
+      "rank": "#08",
+      "name": "noonghunna",
+      "username": "noonghunna",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10742901?s=96&v=4",
+      "url": "https://github.com/noonghunna",
+      "popularRepository": {
+        "name": "club-3090",
+        "url": "https://github.com/noonghunna/club-3090",
+        "description": "Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currentl…"
+      },
+      "why": "noonghunna is trending because their repository club-3090 is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
+      "id": "lidge-jun",
+      "rank": "#09",
+      "name": "JUN",
+      "username": "lidge-jun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
+      "url": "https://github.com/lidge-jun",
+      "popularRepository": {
+        "name": "opencodex",
+        "url": "https://github.com/lidge-jun/opencodex",
+        "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+      },
+      "why": "JUN is trending because their repository opencodex is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "enjoy-digital",
+      "rank": "#10",
+      "name": "enjoy-digital",
+      "username": "enjoy-digital",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1450143?s=96&v=4",
+      "url": "https://github.com/enjoy-digital",
+      "popularRepository": {
+        "name": "litex",
+        "url": "https://github.com/enjoy-digital/litex",
+        "description": "Build your hardware, easily!"
+      },
+      "why": "enjoy-digital is trending because their repository litex is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "astro-han",
+      "rank": "#11",
+      "name": "AstroHan",
+      "username": "Astro-Han",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?s=96&v=4",
+      "url": "https://github.com/Astro-Han",
+      "popularRepository": {
+        "name": "karpathy-llm-wiki",
+        "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
+        "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, a…"
+      },
+      "why": "AstroHan is trending because their repository karpathy-llm-wiki is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "bdraco",
+      "rank": "#12",
+      "name": "J. Nick Koston",
+      "username": "bdraco",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/663432?s=96&v=4",
+      "url": "https://github.com/bdraco",
+      "popularRepository": null,
+      "why": "J. Nick Koston is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
       "id": "abue-ammar",
-      "rank": "#05",
+      "rank": "#13",
       "name": "Abue Ammar",
       "username": "abue-ammar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14371506?s=96&v=4",
@@ -93,159 +230,14 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "max-sixty",
-      "rank": "#06",
-      "name": "Maximilian Roos",
-      "username": "max-sixty",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
-      "url": "https://github.com/max-sixty",
-      "popularRepository": {
-        "name": "worktrunk",
-        "url": "https://github.com/max-sixty/worktrunk",
-        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
-      },
-      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "narumiruna",
-      "rank": "#07",
-      "name": "なるみ",
-      "username": "narumiruna",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4680567?s=96&v=4",
-      "url": "https://github.com/narumiruna",
-      "popularRepository": {
-        "name": "pi-extensions",
-        "url": "https://github.com/narumiruna/pi-extensions",
-        "description": "A monorepo of Pi Coding Agent extensions"
-      },
-      "why": "なるみ is trending because their repository pi-extensions is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "a-edev",
-      "rank": "#08",
-      "name": "AE",
-      "username": "A-EDev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98699388?s=96&v=4",
-      "url": "https://github.com/A-EDev",
-      "popularRepository": {
-        "name": "Flow",
-        "url": "https://github.com/A-EDev/Flow",
-        "description": "A modern, feature-rich YouTube and YouTube Music client with local recommendation for Android built with Jetpack Compose"
-      },
-      "why": "AE is trending because their repository Flow is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "justvugg",
-      "rank": "#09",
-      "name": "Vincenzo Fornaro",
-      "username": "JustVugg",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
-      "url": "https://github.com/JustVugg",
-      "popularRepository": {
-        "name": "colibri",
-        "url": "https://github.com/JustVugg/colibri",
-        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
-      },
-      "why": "Vincenzo Fornaro is trending because their repository colibri is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "colemurray",
-      "rank": "#10",
-      "name": "Cole Murray",
-      "username": "ColeMurray",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?s=96&v=4",
-      "url": "https://github.com/ColeMurray",
-      "popularRepository": {
-        "name": "background-agents",
-        "url": "https://github.com/ColeMurray/background-agents",
-        "description": "An open-source background agents coding system"
-      },
-      "why": "Cole Murray is trending because their repository background-agents is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "scottcjn",
-      "rank": "#11",
-      "name": "AutoJanitor",
-      "username": "Scottcjn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/121303252?s=96&v=4",
-      "url": "https://github.com/Scottcjn",
-      "popularRepository": {
-        "name": "Rustchain",
-        "url": "https://github.com/Scottcjn/Rustchain",
-        "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU archite…"
-      },
-      "why": "AutoJanitor is trending because their repository Rustchain is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "hiyouga",
-      "rank": "#12",
-      "name": "Yaowei Zheng",
-      "username": "hiyouga",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16256802?s=96&v=4",
-      "url": "https://github.com/hiyouga",
-      "popularRepository": {
-        "name": "LlamaFactory",
-        "url": "https://github.com/hiyouga/LlamaFactory",
-        "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
-      },
-      "why": "Yaowei Zheng is trending because their repository LlamaFactory is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "nicoburns",
-      "rank": "#13",
-      "name": "Nico Burns",
-      "username": "nicoburns",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1007307?s=96&v=4",
-      "url": "https://github.com/nicoburns",
-      "popularRepository": {
-        "name": "wuff",
-        "url": "https://github.com/nicoburns/wuff",
-        "description": "Pure rust WOFF and WOFF2 decoding"
-      },
-      "why": "Nico Burns is trending because their repository wuff is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "enjoy-digital",
+      "id": "magmueller",
       "rank": "#14",
-      "name": "enjoy-digital",
-      "username": "enjoy-digital",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1450143?s=96&v=4",
-      "url": "https://github.com/enjoy-digital",
-      "popularRepository": {
-        "name": "litex",
-        "url": "https://github.com/enjoy-digital/litex",
-        "description": "Build your hardware, easily!"
-      },
-      "why": "enjoy-digital is trending because their repository litex is receiving visible attention on GitHub today.",
+      "name": "Magnus Müller",
+      "username": "MagMueller",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67061560?s=96&v=4",
+      "url": "https://github.com/MagMueller",
+      "popularRepository": null,
+      "why": "Magnus Müller is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
