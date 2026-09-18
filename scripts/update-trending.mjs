@@ -3,8 +3,9 @@ import path from "node:path";
 
 const outputPath = new URL("../data/trending-repos.js", import.meta.url);
 const developerOutputPath = new URL("../data/trending-developers.js", import.meta.url);
-const sourceUrl = "https://github.com/trending?since=daily";
-const developerSourceUrl = "https://github.com/trending/developers?since=daily";
+const range = process.env.TRENDING_RANGE || 'daily';
+const sourceUrl = `https://github.com/trending?since=${range}`;
+const developerSourceUrl = `https://github.com/trending/developers?since=${range}`;
 const limit = Number(process.env.TRENDING_LIMIT || 14);
 
 function decodeHtml(value = "") {

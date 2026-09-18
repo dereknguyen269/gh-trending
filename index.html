@@ -17,13 +17,14 @@
     <header class="site-header">
       <a class="brand" href="https://github.com/trending" aria-label="Open GitHub Trending">
         <span class="brand-mark" aria-hidden="true">GH</span>
-        <span>Trending Repos Radar</span>
+        <span data-i18n="brand">Trending Repos Radar</span>
       </a>
       <nav class="header-nav" aria-label="Page">
-        <a href="#repos">Repositories</a>
-        <a href="#developers">Developers</a>
-        <a href="#method">Snapshot</a>
-        <a class="nav-cta" href="https://github.com/trending">View source</a>
+        <a href="#repos" data-i18n="nav-repos">Repositories</a>
+        <a href="#developers" data-i18n="nav-devs">Developers</a>
+        <a href="#method" data-i18n="nav-method">Snapshot</a>
+        <a class="nav-cta" href="https://github.com/trending" data-i18n="nav-source">View source</a>
+        <button class="lang-toggle" id="lang-toggle" type="button" aria-label="Switch language" data-i18n="lang-en">EN</button>
       </nav>
     </header>
 
@@ -31,8 +32,8 @@
       <section class="hero" aria-labelledby="page-title">
         <div class="hero-copy">
           <p class="eyebrow" data-snapshot-date>GitHub Trending · Today · May 30, 2026</p>
-          <h1 id="page-title">A signal board for repos moving fast right now.</h1>
-          <p class="hero-text">
+          <h1 id="page-title" data-i18n="hero-title">A signal board for repos moving fast right now.</h1>
+          <p class="hero-text" data-i18n="hero-desc">
             A static snapshot of notable projects the GitHub community is watching today, tuned
             for quick scanning: what it is, how much traction it has, and why it deserves a click.
           </p>
@@ -79,6 +80,12 @@
       <div class="feed-tabs" role="tablist" aria-label="Trending feed">
         <button class="feed-tab active" id="tab-repositories" type="button" role="tab" aria-selected="true" aria-controls="repositories-panel" data-feed-tab="repositories">Repositories</button>
         <button class="feed-tab" id="tab-developers" type="button" role="tab" aria-selected="false" aria-controls="developers-panel" data-feed-tab="developers">Developers</button>
+      </div>
+
+      <div class="range-tabs" role="tablist" aria-label="Time range">
+        <button class="range-tab active" type="button" role="tab" aria-selected="true" data-range="daily">Daily</button>
+        <button class="range-tab" type="button" role="tab" aria-selected="false" data-range="weekly">Weekly</button>
+        <button class="range-tab" type="button" role="tab" aria-selected="false" data-range="monthly">Monthly</button>
       </div>
 
       <section class="repo-grid feed-panel active" id="repositories-panel" role="tabpanel" aria-labelledby="tab-repositories" aria-label="Trending repositories" data-repo-grid>
