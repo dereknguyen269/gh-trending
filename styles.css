@@ -362,6 +362,53 @@ dt {
   background: var(--surface);
 }
 
+.range-tabs {
+  display: inline-flex;
+  gap: 4px;
+  margin: 0 0 24px;
+  padding: 3px;
+  border: 1px solid var(--border-soft);
+  border-radius: 7px;
+  background: var(--surface-raised);
+}
+
+.range-tab {
+  min-height: 32px;
+  padding: 0 12px;
+  border: 0;
+  border-radius: 5px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.range-tab:hover,
+.range-tab.active {
+  background: var(--fg);
+  color: #ffffff;
+}
+
+.lang-toggle {
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--fg);
+  cursor: pointer;
+  font: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.lang-toggle:hover {
+  border-color: var(--accent);
+  color: var(--accent-dark);
+}
+
 .feed-tab {
   min-height: 36px;
   padding: 0 14px;

@@ -1,9 +1,82 @@
 const repoData = window.trendingRepos || { updatedAt: new Date().toISOString(), repositories: [] };
 const developerData = window.trendingDevelopers || { updatedAt: repoData.updatedAt, developers: [] };
-const repositories = repoData.repositories || [];
-const developers = developerData.developers || [];
-const repoDetails = Object.fromEntries(repositories.map((repo) => [repo.id, repo]));
-const developerDetails = Object.fromEntries(developers.map((developer) => [developer.id, developer]));
+let currentRange = 'daily';
+let currentLang = 'en';
+
+const translations = {
+  en: {
+    brand: 'Trending Repos Radar',
+    'nav-repos': 'Repositories',
+    'nav-devs': 'Developers',
+    'nav-method': 'Snapshot',
+    'nav-source': 'View source',
+    'lang-en': 'EN',
+    'lang-vi': 'VI',
+    'hero-title': 'A signal board for repos moving fast right now.',
+    'hero-desc': 'A static snapshot of notable projects the GitHub community is watching today, tuned for quick scanning: what it is, how much traction it has, and why it deserves a click.',
+    'range-daily': 'Daily',
+    'range-weekly': 'Weekly',
+    'range-monthly': 'Monthly',
+    'tab-repos': 'Repositories',
+    'tab-devs': 'Developers',
+    'label-stars': 'Stars',
+    'label-forks': 'Forks',
+    'label-today': 'Today',
+    'label-week': 'This week',
+    'label-month': 'This month',
+    'label-profile': 'Profile',
+    'label-repo': 'Popular repo',
+    'label-rank': 'Rank',
+    'why-default': 'It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.',
+    'fit-default': 'Developers evaluating fast-moving repositories and deciding what deserves a deeper look.',
+    'method-copy': 'Built from visible GitHub Trending data, last updated {date}. Plain HTML/CSS with generated data files — the workflow can refresh without redesigning the interface.',
+    'no-desc': 'No repository description available.',
+    'no-dev-desc': 'GitHub Trending did not list a popular repository description for this developer.',
+    'open-gh': 'Open GitHub',
+    'open-profile': 'Open profile',
+    'why-it': 'Why it is trending',
+    'why-dev': 'Why this developer is trending',
+    'best-fit': 'Best fit',
+    'popular-repo': 'Popular repository',
+    'close': 'Close',
+  },
+  vi: {
+    brand: 'Radar Repos Trending',
+    'nav-repos': 'Kho',
+    'nav-devs': 'Devs',
+    'nav-method': 'Snapshot',
+    'nav-source': 'Xem nguồn',
+    'lang-en': 'EN',
+    'lang-vi': 'VI',
+    'hero-title': 'Bảng tín hiệu các repo đang bay nhanh right now.',
+    'hero-desc': 'Snapshot tĩnh các dự án nổi bật community GitHub đang theo dõi hôm nay — nhanh, gọn, click để xem chi tiết.',
+    'range-daily': 'Hôm nay',
+    'range-weekly': 'Tuần',
+    'range-monthly': 'Tháng',
+    'tab-repos': 'Kho',
+    'tab-devs': 'Devs',
+    'label-stars': 'Sao',
+    'label-forks': 'Fork',
+    'label-today': 'Hôm nay',
+    'label-week': 'Tuần này',
+    'label-month': 'Tháng này',
+    'label-profile': 'Hồ sơ',
+    'label-repo': 'Repo nổi bật',
+    'label-rank': 'Hạng',
+    'why-default': 'Trending vì devs đang test AI workflows, agents, automation patterns.',
+    'fit-default': 'Devs đánh giá repo nhanh và quyết định xem sâu.',
+    'method-copy': 'Dữ liệu từ GitHub Trending, cập nhật {date}. HTML/CSS thuần + data files — workflow refresh mà không cần redesign.',
+    'no-desc': 'Không có mô tả.',
+    'no-dev-desc': 'GitHub Trending không liệt kê mô tả cho dev này.',
+    'open-gh': 'Mở GitHub',
+    'open-profile': 'Mở hồ sơ',
+    'why-it': 'Vì sao trending',
+    'why-dev': 'Vì sao dev trending',
+    'best-fit': 'Phù hợp',
+    'popular-repo': 'Repo nổi bật',
+    'close': 'Đóng',
+  },
+};
 
 const formatNumber = (value) => new Intl.NumberFormat("en-US").format(Number(value || 0));
 
@@ -46,9 +119,40 @@ function getFastestMover() {
   return [...repositories].sort((a, b) => Number(b.starsToday || 0) - Number(a.starsToday || 0))[0];
 }
 
+function t(key) {
+  return (translations[currentLang] && translations[currentLang][key]) || key;
+}
+
 function setText(selector, text) {
   const element = document.querySelector(selector);
   if (element) element.textContent = text;
+}
+
+function setTextI18n(selector, key) {
+  setText(selector, t(key));
+}
+
+function applyI18n() {
+  document.querySelectorAll('[data-i18n]').forEach((el) => {
+    const key = el.dataset.i18n;
+    const val = t(key);
+    if (el.tagName === 'INPUT' || el.tagName === 'TEXTAREA') {
+      el.placeholder = val;
+    } else {
+      el.textContent = val;
+    }
+  });
+  // Update metric labels in modal
+  setTextI18n('#detail-metric-label-1', currentRange === 'daily' ? 'label-today' : currentRange === 'weekly' ? 'label-week' : 'label-month');
+  setTextI18n('#detail-section-title-1', 'why-it');
+  setTextI18n('#detail-section-title-2', 'best-fit');
+  setTextI18n('#detail-link', 'open-gh');
+  // Update lang toggle label
+  const toggle = document.getElementById('lang-toggle');
+  if (toggle) {
+    toggle.textContent = currentLang === 'en' ? t('lang-vi') : t('lang-en');
+    toggle.setAttribute('data-i18n', currentLang === 'en' ? 'lang-vi' : 'lang-en');
+  }
 }
 
 function renderSnapshotCopy() {
@@ -322,8 +426,15 @@ document.addEventListener("click", (event) => {
   }
 });
 
-closeButtons.forEach((button) => {
-  button.addEventListener("click", closeRepoDetail);
+// ── Range filter tabs ──
+document.querySelector('.range-tabs')?.addEventListener('click', (e) => {
+  const btn = e.target.closest('[data-range]');
+  if (btn) setActiveRange(btn.dataset.range);
+});
+
+// ── Language toggle ─-
+document.getElementById('lang-toggle')?.addEventListener('click', () => {
+  setActiveLang(currentLang === 'en' ? 'vi' : 'en');
 });
 
 document.addEventListener("keydown", (event) => {
@@ -366,7 +477,36 @@ if (panel) {
   }, { passive: true });
 }
 
-renderSnapshotCopy();
-renderLeaderCard();
-renderRepoGrid();
-renderDeveloperGrid();
+// ── Range filter: daily/weekly/monthly ──
+function filterByRange(repos, range) {
+  if (range === 'daily') return repos;
+  if (range === 'weekly') return repos.filter((r) => Number(r.starsToday || 0) >= 50);
+  return repos.filter((r) => Number(r.starsToday || 0) >= 200);
+}
+
+function setActiveRange(range) {
+  currentRange = range;
+  document.querySelectorAll('[data-range]').forEach((btn) => {
+    const active = btn.dataset.range === range;
+    btn.classList.toggle('active', active);
+    btn.setAttribute('aria-selected', String(active));
+  });
+  renderAll();
+}
+
+function setActiveLang(lang) {
+  currentLang = lang;
+  applyI18n();
+  renderAll();
+}
+
+function renderAll() {
+  const filtered = filterByRange(repositories, currentRange);
+  const grid = document.querySelector('[data-repo-grid]');
+  if (grid) {
+    grid.innerHTML = filtered.map((repo, i) => renderRepoCard(repo, i)).join('');
+  }
+  renderSnapshotCopy();
+  renderLeaderCard();
+  renderDeveloperGrid();
+}
