@@ -1,5 +1,7 @@
 const repoData = window.trendingRepos || { updatedAt: new Date().toISOString(), repositories: [] };
 const developerData = window.trendingDevelopers || { updatedAt: repoData.updatedAt, developers: [] };
+const repositories = repoData.repositories || [];
+const developers = developerData.developers || [];
 let currentRange = 'daily';
 let currentLang = 'en';
 
