@@ -1,99 +1,28 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-09-17T04:53:35.307Z",
+  "updatedAt": "2026-09-18T04:43:58.400Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "justvugg",
+      "id": "backnotprop",
       "rank": "#01",
-      "name": "Vincenzo Fornaro",
-      "username": "JustVugg",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
-      "url": "https://github.com/JustVugg",
+      "name": "Michael Ramos",
+      "username": "backnotprop",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
+      "url": "https://github.com/backnotprop",
       "popularRepository": {
-        "name": "colibri",
-        "url": "https://github.com/JustVugg/colibri",
-        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+        "name": "plannotator",
+        "url": "https://github.com/backnotprop/plannotator",
+        "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click."
       },
-      "why": "Vincenzo Fornaro is trending because their repository colibri is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "abue-ammar",
-      "rank": "#02",
-      "name": "Abue Ammar",
-      "username": "abue-ammar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14371506?s=96&v=4",
-      "url": "https://github.com/abue-ammar",
-      "popularRepository": {
-        "name": "tinycast",
-        "url": "https://github.com/abue-ammar/tinycast",
-        "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
-      },
-      "why": "Abue Ammar is trending because their repository tinycast is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "astro-han",
-      "rank": "#03",
-      "name": "AstroHan",
-      "username": "Astro-Han",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?s=96&v=4",
-      "url": "https://github.com/Astro-Han",
-      "popularRepository": {
-        "name": "karpathy-llm-wiki",
-        "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
-        "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, a…"
-      },
-      "why": "AstroHan is trending because their repository karpathy-llm-wiki is receiving visible attention on GitHub today.",
+      "why": "Michael Ramos is trending because their repository plannotator is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "lidge-jun",
-      "rank": "#04",
-      "name": "JUN",
-      "username": "lidge-jun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
-      "url": "https://github.com/lidge-jun",
-      "popularRepository": {
-        "name": "opencodex",
-        "url": "https://github.com/lidge-jun/opencodex",
-        "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
-      },
-      "why": "JUN is trending because their repository opencodex is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "garrytan",
-      "rank": "#05",
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
-      "url": "https://github.com/garrytan",
-      "popularRepository": {
-        "name": "gstack",
-        "url": "https://github.com/garrytan/gstack",
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
-      },
-      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Tooling"
-      ]
-    },
-    {
       "id": "zhukunpenglinyutong",
-      "rank": "#06",
+      "rank": "#02",
       "name": "朱昆鹏",
       "username": "zhukunpenglinyutong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31264015?s=96&v=4",
@@ -110,26 +39,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "kunchenguid",
-      "rank": "#07",
-      "name": "Kun Chen",
-      "username": "kunchenguid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3233006?s=96&v=4",
-      "url": "https://github.com/kunchenguid",
-      "popularRepository": {
-        "name": "firstmate",
-        "url": "https://github.com/kunchenguid/firstmate",
-        "description": "Talk to one agent. Ship with a crew."
-      },
-      "why": "Kun Chen is trending because their repository firstmate is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "bradygaster",
-      "rank": "#08",
+      "rank": "#03",
       "name": "Brady Gaster",
       "username": "bradygaster",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41929050?s=96&v=4",
@@ -146,46 +57,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "abrignoni",
-      "rank": "#09",
-      "name": "Brigs",
-      "username": "abrignoni",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28718987?s=96&v=4",
-      "url": "https://github.com/abrignoni",
-      "popularRepository": {
-        "name": "iLEAPP",
-        "url": "https://github.com/abrignoni/iLEAPP",
-        "description": "iOS Logs, Events, And Plist Parser"
-      },
-      "why": "Brigs is trending because their repository iLEAPP is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Events",
-        "Web"
-      ]
-    },
-    {
-      "id": "raullenchai",
-      "rank": "#10",
-      "name": "Raullen Chai",
-      "username": "raullenchai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
-      "url": "https://github.com/raullenchai",
-      "popularRepository": {
-        "name": "Rapid-MLX",
-        "url": "https://github.com/raullenchai/Rapid-MLX",
-        "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cac…"
-      },
-      "why": "Raullen Chai is trending because their repository Rapid-MLX is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Tooling"
-      ]
-    },
-    {
       "id": "cyan4973",
-      "rank": "#11",
+      "rank": "#04",
       "name": "Yann Collet",
       "username": "Cyan4973",
       "avatarUrl": "https://avatars.githubusercontent.com/u/750081?s=96&v=4",
@@ -201,50 +74,178 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "colemurray",
+      "id": "callumalpass",
+      "rank": "#05",
+      "name": "callumalpass",
+      "username": "callumalpass",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12558714?s=96&v=4",
+      "url": "https://github.com/callumalpass",
+      "popularRepository": {
+        "name": "tasknotes",
+        "url": "https://github.com/callumalpass/tasknotes",
+        "description": "Task and time-tracking management with calendar integration for Obsidian"
+      },
+      "why": "callumalpass is trending because their repository tasknotes is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "outthislife",
+      "rank": "#06",
+      "name": "brooklyn!",
+      "username": "OutThisLife",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/770929?s=96&v=4",
+      "url": "https://github.com/OutThisLife",
+      "popularRepository": {
+        "name": "brooklyn-skills",
+        "url": "https://github.com/OutThisLife/brooklyn-skills",
+        "description": "Skills that drive best-in-class engineering"
+      },
+      "why": "brooklyn! is trending because their repository brooklyn-skills is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "stackia",
+      "rank": "#07",
+      "name": "Stackie Jia",
+      "username": "stackia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5107241?s=96&v=4",
+      "url": "https://github.com/stackia",
+      "popularRepository": {
+        "name": "rtp2httpd",
+        "url": "https://github.com/stackia/rtp2httpd",
+        "description": "Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!"
+      },
+      "why": "Stackie Jia is trending because their repository rtp2httpd is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "emilk",
+      "rank": "#08",
+      "name": "Emil Ernerfeldt",
+      "username": "emilk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1148717?s=96&v=4",
+      "url": "https://github.com/emilk",
+      "popularRepository": {
+        "name": "egui",
+        "url": "https://github.com/emilk/egui",
+        "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
+      },
+      "why": "Emil Ernerfeldt is trending because their repository egui is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "garrytan",
+      "rank": "#09",
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
+      "url": "https://github.com/garrytan",
+      "popularRepository": {
+        "name": "gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+      },
+      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "tt-a1i",
+      "rank": "#10",
+      "name": "tt-a1i",
+      "username": "tt-a1i",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
+      "url": "https://github.com/tt-a1i",
+      "popularRepository": {
+        "name": "archify",
+        "url": "https://github.com/tt-a1i/archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion…"
+      },
+      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "id": "deusdata",
+      "rank": "#11",
+      "name": "Martin Vogel",
+      "username": "DeusData",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=96&v=4",
+      "url": "https://github.com/DeusData",
+      "popularRepository": {
+        "name": "codebase-memory-mcp",
+        "url": "https://github.com/DeusData/codebase-memory-mcp",
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 la…"
+      },
+      "why": "Martin Vogel is trending because their repository codebase-memory-mcp is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Data"
+      ]
+    },
+    {
+      "id": "ovr",
       "rank": "#12",
-      "name": "Cole Murray",
-      "username": "ColeMurray",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?s=96&v=4",
-      "url": "https://github.com/ColeMurray",
+      "name": "Dmitry Patsura",
+      "username": "ovr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/572096?s=96&v=4",
+      "url": "https://github.com/ovr",
       "popularRepository": {
-        "name": "background-agents",
-        "url": "https://github.com/ColeMurray/background-agents",
-        "description": "An open-source background agents coding system"
+        "name": "StaticScript",
+        "url": "https://github.com/ovr/StaticScript",
+        "description": "🚀 TypeScript compiler on top of TypeScript as frontend and LLVM as backend"
       },
-      "why": "Cole Murray is trending because their repository background-agents is receiving visible attention on GitHub today.",
+      "why": "Dmitry Patsura is trending because their repository StaticScript is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     },
     {
-      "id": "noonghunna",
+      "id": "yetone",
       "rank": "#13",
-      "name": "noonghunna",
-      "username": "noonghunna",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10742901?s=96&v=4",
-      "url": "https://github.com/noonghunna",
+      "name": "yetone",
+      "username": "yetone",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1206493?s=96&v=4",
+      "url": "https://github.com/yetone",
       "popularRepository": {
-        "name": "club-3090",
-        "url": "https://github.com/noonghunna/club-3090",
-        "description": "Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currentl…"
+        "name": "cumora",
+        "url": "https://github.com/yetone/cumora",
+        "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code …"
       },
-      "why": "noonghunna is trending because their repository club-3090 is receiving visible attention on GitHub today.",
+      "why": "yetone is trending because their repository cumora is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "emontnemery",
+      "id": "lalitmaganti",
       "rank": "#14",
-      "name": "Erik Montnemery",
-      "username": "emontnemery",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14281572?s=96&v=4",
-      "url": "https://github.com/emontnemery",
-      "popularRepository": null,
-      "why": "Erik Montnemery is trending because GitHub users are visiting and following their work today.",
+      "name": "Lalit Maganti",
+      "username": "LalitMaganti",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/679100?s=96&v=4",
+      "url": "https://github.com/LalitMaganti",
+      "popularRepository": {
+        "name": "buildprof",
+        "url": "https://github.com/LalitMaganti/buildprof",
+        "description": "Records every process and file access in a build and shows it as an interactive timeline"
+      },
+      "why": "Lalit Maganti is trending because their repository buildprof is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
