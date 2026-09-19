@@ -38,8 +38,8 @@
             for quick scanning: what it is, how much traction it has, and why it deserves a click.
           </p>
           <div class="hero-actions">
-            <a class="button primary" href="#repos">Scan repos</a>
-            <a class="button secondary" href="https://github.com/trending">Open GitHub Trending</a>
+            <a class="button primary" href="#repos" data-i18n="hero-scan">Scan repos</a>
+            <a class="button secondary" href="https://github.com/trending" data-i18n="hero-open-gh">Open GitHub Trending</a>
           </div>
         </div>
 
@@ -49,43 +49,43 @@
 
       <section class="stats" aria-label="Snapshot statistics">
         <article>
-          <span class="stat-label">Repos</span>
+          <span class="stat-label" data-i18n="stats-repos">Repos</span>
           <strong data-repo-count>14</strong>
         </article>
         <article>
-          <span class="stat-label">Developers</span>
+          <span class="stat-label" data-i18n="stats-devs">Developers</span>
           <strong data-developer-count>0</strong>
         </article>
         <article>
-          <span class="stat-label">Stars today</span>
+          <span class="stat-label" data-i18n="stats-stars-today">Stars today</span>
           <strong data-total-stars-today>15,405</strong>
         </article>
         <article>
-          <span class="stat-label">Top language</span>
+          <span class="stat-label" data-i18n="stats-top-language">Top language</span>
           <strong data-top-language>Python</strong>
         </article>
       </section>
 
       <section class="section-heading" id="repos">
         <div>
-          <p class="eyebrow">Repository feed</p>
-          <h2>Notable trending repositories</h2>
+          <p class="eyebrow" data-i18n="repos-eyebrow">Repository feed</p>
+          <h2 data-i18n="repos-title">Notable trending repositories</h2>
         </div>
-        <p>
+        <p data-i18n="repos-desc">
           Ranked from the visible GitHub Trending snapshot. Each card keeps the signal tight:
           language, total stars, forks, and new stars today.
         </p>
       </section>
 
       <div class="feed-tabs" role="tablist" aria-label="Trending feed">
-        <button class="feed-tab active" id="tab-repositories" type="button" role="tab" aria-selected="true" aria-controls="repositories-panel" data-feed-tab="repositories">Repositories</button>
-        <button class="feed-tab" id="tab-developers" type="button" role="tab" aria-selected="false" aria-controls="developers-panel" data-feed-tab="developers">Developers</button>
+        <button class="feed-tab active" id="tab-repositories" type="button" role="tab" aria-selected="true" aria-controls="repositories-panel" data-feed-tab="repositories" data-i18n="tab-repos">Repositories</button>
+        <button class="feed-tab" id="tab-developers" type="button" role="tab" aria-selected="false" aria-controls="developers-panel" data-feed-tab="developers" data-i18n="tab-devs">Developers</button>
       </div>
 
       <div class="range-tabs" role="tablist" aria-label="Time range">
-        <button class="range-tab active" type="button" role="tab" aria-selected="true" data-range="daily">Daily</button>
-        <button class="range-tab" type="button" role="tab" aria-selected="false" data-range="weekly">Weekly</button>
-        <button class="range-tab" type="button" role="tab" aria-selected="false" data-range="monthly">Monthly</button>
+        <button class="range-tab active" type="button" role="tab" aria-selected="true" data-range="daily" data-i18n="range-daily">Daily</button>
+        <button class="range-tab" type="button" role="tab" aria-selected="false" data-range="weekly" data-i18n="range-weekly">Weekly</button>
+        <button class="range-tab" type="button" role="tab" aria-selected="false" data-range="monthly" data-i18n="range-monthly">Monthly</button>
       </div>
 
       <section class="repo-grid feed-panel active" id="repositories-panel" role="tabpanel" aria-labelledby="tab-repositories" aria-label="Trending repositories" data-repo-grid>
@@ -95,8 +95,8 @@
       </section>
 
       <section class="method" id="method" aria-labelledby="method-title">
-        <p class="eyebrow">Snapshot method</p>
-        <h2 id="method-title">Static, transparent, and easy to update.</h2>
+        <p class="eyebrow" data-i18n="method-eyebrow">Snapshot method</p>
+        <h2 id="method-title" data-i18n="method-title">Static, transparent, and easy to update.</h2>
         <p data-method-copy>
           The page uses visible repository data from GitHub Trending for May 30, 2026. It is built
           as plain HTML and CSS so it can be opened directly, copied into a static host, or wired to
@@ -106,7 +106,7 @@
     </main>
 
     <footer class="site-footer">
-      <span>Built as a static interface snapshot.</span>
+      <span data-i18n="footer-copy">Built as a static interface snapshot.</span>
       <a href="https://github.com/trending">github.com/trending</a>
     </footer>
 
@@ -114,10 +114,10 @@
     <div class="repo-modal" id="repo-modal" aria-hidden="true">
       <div class="repo-modal-backdrop" data-close-detail></div>
       <section class="repo-detail-panel" role="dialog" aria-modal="true" aria-labelledby="detail-title" tabindex="-1">
-        <button class="modal-close" type="button" data-close-detail aria-label="Close repo detail">Close</button>
+        <button class="modal-close" type="button" data-close-detail aria-label="Close repo detail" data-i18n="close">Close</button>
         <div class="detail-topline">
           <span class="rank" id="detail-rank">#00</span>
-          <span class="language" id="detail-language">Language</span>
+          <span class="language" id="detail-language" data-i18n="language">Language</span>
         </div>
         <h2 id="detail-title">Repository detail</h2>
         <p class="detail-description" id="detail-description"></p>
