@@ -1,5 +1,5 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-09-18T15:17:03.133Z",
+  "updatedAt": "2026-09-18T18:19:58.363Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
