@@ -538,3 +538,6 @@ function renderAll() {
   renderLeaderCard();
   renderDeveloperGrid();
 }
+
+// Initial render on page load
+renderAll();
