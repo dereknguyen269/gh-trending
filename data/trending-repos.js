@@ -1,27 +1,7 @@
 window.trendingRepos = {
-  "updatedAt": "2026-09-21T04:56:15.460Z",
+  "updatedAt": "2026-09-22T04:56:49.070Z",
   "source": "https://github.com/trending?since=daily",
   "repositories": [
-    {
-      "id": "ecc",
-      "owner": "affaan-m",
-      "name": "ECC",
-      "title": "affaan-m / ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars": 263938,
-      "forks": 39482,
-      "starsToday": 826,
-      "url": "https://github.com/affaan-m/ECC",
-      "rank": "#01",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "JavaScript",
-        "AI",
-        "Open source"
-      ]
-    },
     {
       "id": "agent-native",
       "owner": "BuilderIO",
@@ -29,34 +9,15 @@ window.trendingRepos = {
       "title": "BuilderIO / agent-native",
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
-      "stars": 5365,
-      "forks": 498,
-      "starsToday": 98,
+      "stars": 6050,
+      "forks": 553,
+      "starsToday": 607,
       "url": "https://github.com/BuilderIO/agent-native",
-      "rank": "#02",
+      "rank": "#01",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
         "TypeScript",
-        "AI"
-      ]
-    },
-    {
-      "id": "security-audit-skill",
-      "owner": "cloudflare",
-      "name": "security-audit-skill",
-      "title": "cloudflare / security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars": 18228,
-      "forks": 1020,
-      "starsToday": 2428,
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "rank": "#03",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "JavaScript",
         "AI"
       ]
     },
@@ -67,11 +28,11 @@ window.trendingRepos = {
       "title": "trycua / cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
-      "stars": 25277,
-      "forks": 1741,
-      "starsToday": 1018,
+      "stars": 25788,
+      "forks": 1772,
+      "starsToday": 609,
       "url": "https://github.com/trycua/cua",
-      "rank": "#04",
+      "rank": "#02",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving HTML repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -81,114 +42,17 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "financial-services",
-      "owner": "anthropics",
-      "name": "financial-services",
-      "title": "anthropics / financial-services",
-      "description": "No repository description available.",
-      "language": "Python",
-      "stars": 35463,
-      "forks": 5254,
-      "starsToday": 260,
-      "url": "https://github.com/anthropics/financial-services",
-      "rank": "#05",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "paperless-ngx",
-      "owner": "paperless-ngx",
-      "name": "paperless-ngx",
-      "title": "paperless-ngx / paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "language": "Python",
-      "stars": 45649,
-      "forks": 3154,
-      "starsToday": 57,
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "rank": "#06",
-      "why": "It is trending because document processing is a core layer for search, knowledge bases, and AI retrieval workflows.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "Docs"
-      ]
-    },
-    {
-      "id": "claude-code",
-      "owner": "anthropics",
-      "name": "claude-code",
-      "title": "anthropics / claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "language": "TypeScript",
-      "stars": 147226,
-      "forks": 24083,
-      "starsToday": 419,
-      "url": "https://github.com/anthropics/claude-code",
-      "rank": "#07",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
-        "AI",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "modern-software-dev-assignments",
-      "owner": "mihail911",
-      "name": "modern-software-dev-assignments",
-      "title": "mihail911 / modern-software-dev-assignments",
-      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
-      "language": "Python",
-      "stars": 4626,
-      "forks": 1014,
-      "starsToday": 172,
-      "url": "https://github.com/mihail911/modern-software-dev-assignments",
-      "rank": "#08",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "higgsfield",
-      "owner": "higgsfield-ai",
-      "name": "higgsfield",
-      "title": "higgsfield-ai / higgsfield",
-      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "language": "Jupyter Notebook",
-      "stars": 5454,
-      "forks": 962,
-      "starsToday": 465,
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "rank": "#09",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Jupyter Notebook repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Jupyter Notebook",
-        "AI",
-        "Learning"
-      ]
-    },
-    {
       "id": "openstock",
       "owner": "Open-Dev-Society",
       "name": "OpenStock",
       "title": "Open-Dev-Society / OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars": 16980,
-      "forks": 2144,
-      "starsToday": 755,
+      "stars": 17947,
+      "forks": 2215,
+      "starsToday": 844,
       "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "rank": "#10",
+      "rank": "#03",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -198,17 +62,36 @@ window.trendingRepos = {
       ]
     },
     {
+      "id": "ai-memory",
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "title": "akitaonrails / ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 7804,
+      "forks": 526,
+      "starsToday": 167,
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "rank": "#04",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Rust",
+        "AI"
+      ]
+    },
+    {
       "id": "coder",
       "owner": "coder",
       "name": "coder",
       "title": "coder / coder",
       "description": "Secure environments for developers and their agents",
       "language": "Go",
-      "stars": 16130,
-      "forks": 1545,
-      "starsToday": 379,
+      "stars": 16488,
+      "forks": 1568,
+      "starsToday": 460,
       "url": "https://github.com/coder/coder",
-      "rank": "#11",
+      "rank": "#05",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Go repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -217,40 +100,135 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "json-render",
-      "owner": "vercel-labs",
-      "name": "json-render",
-      "title": "vercel-labs / json-render",
-      "description": "The Generative UI framework",
-      "language": "TypeScript",
-      "stars": 17484,
-      "forks": 926,
-      "starsToday": 291,
-      "url": "https://github.com/vercel-labs/json-render",
-      "rank": "#12",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "id": "financial-services",
+      "owner": "anthropics",
+      "name": "financial-services",
+      "title": "anthropics / financial-services",
+      "description": "No repository description available.",
+      "language": "Python",
+      "stars": 35911,
+      "forks": 5272,
+      "starsToday": 424,
+      "url": "https://github.com/anthropics/financial-services",
+      "rank": "#06",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
-        "TypeScript"
+        "Python",
+        "AI"
       ]
     },
     {
-      "id": "agent-skills",
-      "owner": "addyosmani",
-      "name": "agent-skills",
-      "title": "addyosmani / agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars": 97801,
-      "forks": 10300,
-      "starsToday": 736,
-      "url": "https://github.com/addyosmani/agent-skills",
-      "rank": "#13",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
+      "id": "quiche",
+      "owner": "cloudflare",
+      "name": "quiche",
+      "title": "cloudflare / quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 12402,
+      "forks": 1137,
+      "starsToday": 32,
+      "url": "https://github.com/cloudflare/quiche",
+      "rank": "#07",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
       "tags": [
-        "JavaScript",
+        "Rust"
+      ]
+    },
+    {
+      "id": "mvt",
+      "owner": "mvt-project",
+      "name": "mvt",
+      "title": "mvt-project / mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": 13678,
+      "forks": 1332,
+      "starsToday": 169,
+      "url": "https://github.com/mvt-project/mvt",
+      "rank": "#08",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "autoclip",
+      "owner": "zhouxiaoka",
+      "name": "autoclip",
+      "title": "zhouxiaoka / autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "language": "Python",
+      "stars": 8398,
+      "forks": 1581,
+      "starsToday": 250,
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "rank": "#09",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
         "AI"
+      ]
+    },
+    {
+      "id": "weekly",
+      "owner": "ruanyf",
+      "name": "weekly",
+      "title": "ruanyf / weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": "Unknown",
+      "stars": 104153,
+      "forks": 4456,
+      "starsToday": 182,
+      "url": "https://github.com/ruanyf/weekly",
+      "rank": "#10",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Unknown repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Unknown"
+      ]
+    },
+    {
+      "id": "project-nomad",
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "title": "Crosstalk-Solutions / project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "stars": 37952,
+      "forks": 3775,
+      "starsToday": 394,
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "rank": "#11",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "AI"
+      ]
+    },
+    {
+      "id": "codex-x",
+      "owner": "yynxxxxx",
+      "name": "Codex-X",
+      "title": "yynxxxxx / Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "stars": 3745,
+      "forks": 468,
+      "starsToday": 50,
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "rank": "#12",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Rust",
+        "AI",
+        "Open source"
       ]
     }
   ]
