@@ -1,5 +1,5 @@
 window.trendingRepos = {
-  "updatedAt": "2026-09-26T04:58:39.974Z",
+  "updatedAt": "2026-09-27T05:18:47.418Z",
   "source": "https://github.com/trending?since=daily",
   "repositories": [
     {
@@ -9,9 +9,9 @@ window.trendingRepos = {
       "title": "paperclipai / paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars": 85278,
-      "forks": 15262,
-      "starsToday": 2109,
+      "stars": 87740,
+      "forks": 15474,
+      "starsToday": 2608,
       "url": "https://github.com/paperclipai/paperclip",
       "rank": "#01",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
@@ -23,35 +23,36 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "claude-plugins-official",
-      "owner": "anthropics",
-      "name": "claude-plugins-official",
-      "title": "anthropics / claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "stars": 36970,
-      "forks": 4155,
-      "starsToday": 83,
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "rank": "#02",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "Plugin"
-      ]
-    },
-    {
       "id": "hindsight",
       "owner": "vectorize-io",
       "name": "hindsight",
       "title": "vectorize-io / hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars": 30050,
-      "forks": 3200,
-      "starsToday": 1653,
+      "stars": 33135,
+      "forks": 3808,
+      "starsToday": 2147,
       "url": "https://github.com/vectorize-io/hindsight",
+      "rank": "#02",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI",
+        "Learning"
+      ]
+    },
+    {
+      "id": "model-optimizer",
+      "owner": "NVIDIA",
+      "name": "Model-Optimizer",
+      "title": "NVIDIA / Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "language": "Python",
+      "stars": 4803,
+      "forks": 670,
+      "starsToday": 357,
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
       "rank": "#03",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
@@ -62,55 +63,17 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "superpowers",
-      "owner": "obra",
-      "name": "superpowers",
-      "title": "obra / superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars": 291717,
-      "forks": 26110,
-      "starsToday": 468,
-      "url": "https://github.com/obra/superpowers",
-      "rank": "#04",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Shell",
-        "AI"
-      ]
-    },
-    {
-      "id": "skills",
-      "owner": "mattpocock",
-      "name": "skills",
-      "title": "mattpocock / skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": 269806,
-      "forks": 22736,
-      "starsToday": 583,
-      "url": "https://github.com/mattpocock/skills",
-      "rank": "#05",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Shell",
-        "AI"
-      ]
-    },
-    {
       "id": "univer",
       "owner": "dream-num",
       "name": "univer",
       "title": "dream-num / univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars": 18761,
-      "forks": 1594,
-      "starsToday": 1050,
+      "stars": 19666,
+      "forks": 1656,
+      "starsToday": 849,
       "url": "https://github.com/dream-num/univer",
-      "rank": "#06",
+      "rank": "#04",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -119,77 +82,23 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "skills",
-      "owner": "anthropics",
-      "name": "skills",
-      "title": "anthropics / skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "stars": 178383,
-      "forks": 21118,
-      "starsToday": 189,
-      "url": "https://github.com/anthropics/skills",
-      "rank": "#07",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "id": "tensorflow",
+      "owner": "tensorflow",
+      "name": "tensorflow",
+      "title": "tensorflow / tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": 200487,
+      "forks": 77661,
+      "starsToday": 46,
+      "url": "https://github.com/tensorflow/tensorflow",
+      "rank": "#05",
+      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
+      "fit": "Developers evaluating fast-moving C++ repositories and deciding what deserves a deeper look.",
       "tags": [
-        "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "starnet",
-      "owner": "androoAGI",
-      "name": "starnet",
-      "title": "androoAGI / starnet",
-      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-      "language": "JavaScript",
-      "stars": 528,
-      "forks": 99,
-      "starsToday": 93,
-      "url": "https://github.com/androoAGI/starnet",
-      "rank": "#08",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "JavaScript",
-        "AI"
-      ]
-    },
-    {
-      "id": "wifit3",
-      "owner": "derv82",
-      "name": "wifit3",
-      "title": "derv82 / wifit3",
-      "description": "Wifite but USB-only & cross-platform.",
-      "language": "Python",
-      "stars": 996,
-      "forks": 89,
-      "starsToday": 183,
-      "url": "https://github.com/derv82/wifit3",
-      "rank": "#09",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python"
-      ]
-    },
-    {
-      "id": "kubernetes-the-hard-way",
-      "owner": "kelseyhightower",
-      "name": "kubernetes-the-hard-way",
-      "title": "kelseyhightower / kubernetes-the-hard-way",
-      "description": "Bootstrap Kubernetes the hard way. No scripts.",
-      "language": "Unknown",
-      "stars": 50149,
-      "forks": 15921,
-      "starsToday": 119,
-      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
-      "rank": "#10",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Unknown repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Unknown"
+        "C++",
+        "Open source",
+        "Learning"
       ]
     },
     {
@@ -199,11 +108,11 @@ window.trendingRepos = {
       "title": "rohitg00 / ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 57668,
-      "forks": 10042,
-      "starsToday": 1177,
+      "stars": 58496,
+      "forks": 10145,
+      "starsToday": 827,
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "rank": "#11",
+      "rank": "#06",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -213,62 +122,153 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "tick-stock-panel",
-      "owner": "shy3130",
-      "name": "tick-stock-panel",
-      "title": "shy3130 / tick-stock-panel",
-      "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
-      "language": "Python",
-      "stars": 5171,
-      "forks": 1259,
-      "starsToday": 44,
-      "url": "https://github.com/shy3130/tick-stock-panel",
-      "rank": "#12",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "ax",
-      "owner": "google",
-      "name": "ax",
-      "title": "google / ax",
-      "description": "Google's open agentic orchestration runtime",
+      "id": "openbao",
+      "owner": "openbao",
+      "name": "openbao",
+      "title": "openbao / openbao",
+      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "language": "Go",
-      "stars": 11596,
-      "forks": 556,
-      "starsToday": 1379,
-      "url": "https://github.com/google/ax",
-      "rank": "#13",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "stars": 8046,
+      "forks": 591,
+      "starsToday": 364,
+      "url": "https://github.com/openbao/openbao",
+      "rank": "#07",
+      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
       "fit": "Developers evaluating fast-moving Go repositories and deciding what deserves a deeper look.",
       "tags": [
         "Go",
-        "AI",
         "Open source"
       ]
     },
     {
-      "id": "model-optimizer",
-      "owner": "NVIDIA",
-      "name": "Model-Optimizer",
-      "title": "NVIDIA / Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "language": "Python",
-      "stars": 4520,
-      "forks": 655,
-      "starsToday": 359,
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "rank": "#14",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "id": "buzz",
+      "owner": "block",
+      "name": "buzz",
+      "title": "block / buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 34870,
+      "forks": 4598,
+      "starsToday": 339,
+      "url": "https://github.com/block/buzz",
+      "rank": "#08",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
       "tags": [
-        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "id": "vscode",
+      "owner": "microsoft",
+      "name": "vscode",
+      "title": "microsoft / vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "stars": 193098,
+      "forks": 43593,
+      "starsToday": 95,
+      "url": "https://github.com/microsoft/vscode",
+      "rank": "#09",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "reverse-skill",
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "title": "zhaoxuya520 / reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars": 38101,
+      "forks": 5288,
+      "starsToday": 361,
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "rank": "#10",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving PowerShell repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "PowerShell",
         "AI",
-        "Learning"
+        "Tooling"
+      ]
+    },
+    {
+      "id": "llvm-project",
+      "owner": "llvm",
+      "name": "llvm-project",
+      "title": "llvm / llvm-project",
+      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "language": "LLVM",
+      "stars": 40773,
+      "forks": 18826,
+      "starsToday": 41,
+      "url": "https://github.com/llvm/llvm-project",
+      "rank": "#11",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving LLVM repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "LLVM",
+        "AI",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "claude-code-action",
+      "owner": "anthropics",
+      "name": "claude-code-action",
+      "title": "anthropics / claude-code-action",
+      "description": "No repository description available.",
+      "language": "TypeScript",
+      "stars": 9130,
+      "forks": 2167,
+      "starsToday": 31,
+      "url": "https://github.com/anthropics/claude-code-action",
+      "rank": "#12",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "AI"
+      ]
+    },
+    {
+      "id": "runner-images",
+      "owner": "actions",
+      "name": "runner-images",
+      "title": "actions / runner-images",
+      "description": "GitHub Actions runner images",
+      "language": "PowerShell",
+      "stars": 13326,
+      "forks": 3869,
+      "starsToday": 19,
+      "url": "https://github.com/actions/runner-images",
+      "rank": "#13",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving PowerShell repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "PowerShell"
+      ]
+    },
+    {
+      "id": "mobile-mcp",
+      "owner": "mobile-next",
+      "name": "mobile-mcp",
+      "title": "mobile-next / mobile-mcp",
+      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+      "language": "TypeScript",
+      "stars": 7456,
+      "forks": 648,
+      "starsToday": 168,
+      "url": "https://github.com/mobile-next/mobile-mcp",
+      "rank": "#14",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript"
       ]
     }
   ]
