@@ -1,27 +1,62 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-09-27T05:18:47.418Z",
+  "updatedAt": "2026-09-28T05:24:33.882Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "tobi",
+      "id": "teng-lin",
       "rank": "#01",
-      "name": "Tobias Lütke",
-      "username": "tobi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/347?s=96&v=4",
-      "url": "https://github.com/tobi",
+      "name": "Teng Lin",
+      "username": "teng-lin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/737447?s=96&v=4",
+      "url": "https://github.com/teng-lin",
       "popularRepository": {
-        "name": "disktree",
-        "url": "https://github.com/tobi/disktree",
-        "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI."
+        "name": "notebooklm-py",
+        "url": "https://github.com/teng-lin/notebooklm-py",
+        "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilit…"
       },
-      "why": "Tobias Lütke is trending because their repository disktree is receiving visible attention on GitHub today.",
+      "why": "Teng Lin is trending because their repository notebooklm-py is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "zackees",
+      "rank": "#02",
+      "name": "Zachary Vorhies",
+      "username": "zackees",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6856673?s=96&v=4",
+      "url": "https://github.com/zackees",
+      "popularRepository": {
+        "name": "mimalloc-pprof",
+        "url": "https://github.com/zackees/mimalloc-pprof",
+        "description": "Originally a mimalloc fork with pprof-compatible sampled heap profiling, now has every feature of every mimalloc fork (includes Buns) + j…"
+      },
+      "why": "Zachary Vorhies is trending because their repository mimalloc-pprof is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "unxed",
+      "rank": "#03",
+      "name": "unxed",
+      "username": "unxed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1151423?s=96&v=4",
+      "url": "https://github.com/unxed",
+      "popularRepository": {
+        "name": "f4",
+        "url": "https://github.com/unxed/f4",
+        "description": "dual pane like a charm"
+      },
+      "why": "unxed is trending because their repository f4 is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "bdraco",
-      "rank": "#02",
+      "rank": "#04",
       "name": "J. Nick Koston",
       "username": "bdraco",
       "avatarUrl": "https://avatars.githubusercontent.com/u/663432?s=96&v=4",
@@ -33,61 +68,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "rynfar",
-      "rank": "#03",
-      "name": "Trevor Walker",
-      "username": "rynfar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11325514?s=96&v=4",
-      "url": "https://github.com/rynfar",
-      "popularRepository": {
-        "name": "meridian",
-        "url": "https://github.com/rynfar/meridian",
-        "description": "Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview…"
-      },
-      "why": "Trevor Walker is trending because their repository meridian is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "dalathegreat",
-      "rank": "#04",
-      "name": "Daniel Öster",
-      "username": "dalathegreat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26695010?s=96&v=4",
-      "url": "https://github.com/dalathegreat",
-      "popularRepository": {
-        "name": "Battery-Emulator",
-        "url": "https://github.com/dalathegreat/Battery-Emulator",
-        "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
-      },
-      "why": "Daniel Öster is trending because their repository Battery-Emulator is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "makazhanalpamys",
-      "rank": "#05",
-      "name": "Alpamys Makazhan",
-      "username": "MakazhanAlpamys",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/188336071?s=96&v=4",
-      "url": "https://github.com/MakazhanAlpamys",
-      "popularRepository": {
-        "name": "Soup",
-        "url": "https://github.com/MakazhanAlpamys/Soup",
-        "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
-      },
-      "why": "Alpamys Makazhan is trending because their repository Soup is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "pbakaus",
-      "rank": "#06",
+      "rank": "#05",
       "name": "Paul Bakaus",
       "username": "pbakaus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
@@ -104,8 +86,97 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "jankeesvw",
+      "id": "tobi",
+      "rank": "#06",
+      "name": "Tobias Lütke",
+      "username": "tobi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/347?s=96&v=4",
+      "url": "https://github.com/tobi",
+      "popularRepository": {
+        "name": "disktree",
+        "url": "https://github.com/tobi/disktree",
+        "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI."
+      },
+      "why": "Tobias Lütke is trending because their repository disktree is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "abrignoni",
       "rank": "#07",
+      "name": "Brigs",
+      "username": "abrignoni",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28718987?s=96&v=4",
+      "url": "https://github.com/abrignoni",
+      "popularRepository": {
+        "name": "iLEAPP",
+        "url": "https://github.com/abrignoni/iLEAPP",
+        "description": "iOS Logs, Events, And Plist Parser"
+      },
+      "why": "Brigs is trending because their repository iLEAPP is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Events",
+        "Web"
+      ]
+    },
+    {
+      "id": "fzyzcjy",
+      "rank": "#08",
+      "name": "fzyzcjy",
+      "username": "fzyzcjy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5236035?s=96&v=4",
+      "url": "https://github.com/fzyzcjy",
+      "popularRepository": {
+        "name": "flutter_rust_bridge",
+        "url": "https://github.com/fzyzcjy/flutter_rust_bridge",
+        "description": "Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple."
+      },
+      "why": "fzyzcjy is trending because their repository flutter_rust_bridge is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "ruvnet",
+      "rank": "#09",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+      },
+      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "mvanhorn",
+      "rank": "#10",
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
+      "url": "https://github.com/mvanhorn",
+      "popularRepository": {
+        "name": "last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+      },
+      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "jankeesvw",
+      "rank": "#11",
       "name": "Jankees van Woezik",
       "username": "jankeesvw",
       "avatarUrl": "https://avatars.githubusercontent.com/u/167882?s=96&v=4",
@@ -121,116 +192,49 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "mpfaffenberger",
-      "rank": "#08",
-      "name": "Mike Pfaffenberger",
-      "username": "mpfaffenberger",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5629756?s=96&v=4",
-      "url": "https://github.com/mpfaffenberger",
+      "id": "weblate",
+      "rank": "#12",
+      "name": "Weblate (bot)",
+      "username": "weblate",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1607653?s=96&v=4",
+      "url": "https://github.com/weblate",
       "popularRepository": {
-        "name": "code_puppy",
-        "url": "https://github.com/mpfaffenberger/code_puppy",
-        "description": "Agentic AI for writing code"
+        "name": "traefik-manager",
+        "url": "https://github.com/weblate/traefik-manager",
+        "description": "A clean, self-hosted web UI for managing your Traefik reverse proxy."
       },
-      "why": "Mike Pfaffenberger is trending because their repository code_puppy is receiving visible attention on GitHub today.",
+      "why": "Weblate (bot) is trending because their repository traefik-manager is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "elie222",
-      "rank": "#09",
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
-      "url": "https://github.com/elie222",
-      "popularRepository": {
-        "name": "rakazo",
-        "url": "https://github.com/elie222/rakazo",
-        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
-      },
-      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "shahednasser",
-      "rank": "#10",
-      "name": "Shahed Nasser",
-      "username": "shahednasser",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/27354907?s=96&v=4",
-      "url": "https://github.com/shahednasser",
-      "popularRepository": null,
-      "why": "Shahed Nasser is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "maziyarpanahi",
-      "rank": "#11",
-      "name": "Maziyar Panahi",
-      "username": "maziyarpanahi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
-      "url": "https://github.com/maziyarpanahi",
-      "popularRepository": {
-        "name": "openmed",
-        "url": "https://github.com/maziyarpanahi/openmed",
-        "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Appl…"
-      },
-      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
         "Web"
       ]
     },
     {
-      "id": "danielhanchen",
-      "rank": "#12",
-      "name": "Daniel Han",
-      "username": "danielhanchen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23090290?s=96&v=4",
-      "url": "https://github.com/danielhanchen",
-      "popularRepository": {
-        "name": "llama.cpp",
-        "url": "https://github.com/danielhanchen/llama.cpp",
-        "description": "LLM inference in C/C++"
-      },
-      "why": "Daniel Han is trending because their repository llama.cpp is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "rubenfiszel",
+      "id": "nicoburns",
       "rank": "#13",
-      "name": "Ruben Fiszel",
-      "username": "rubenfiszel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/275584?s=96&v=4",
-      "url": "https://github.com/rubenfiszel",
-      "popularRepository": null,
-      "why": "Ruben Fiszel is trending because GitHub users are visiting and following their work today.",
+      "name": "Nico Burns",
+      "username": "nicoburns",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1007307?s=96&v=4",
+      "url": "https://github.com/nicoburns",
+      "popularRepository": {
+        "name": "blessed-rs",
+        "url": "https://github.com/nicoburns/blessed-rs",
+        "description": "A community guide to the Rust ecosystem"
+      },
+      "why": "Nico Burns is trending because their repository blessed-rs is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "ekmett",
+      "id": "obiajulu-gif",
       "rank": "#14",
-      "name": "Edward Kmett",
-      "username": "ekmett",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/304657?s=96&v=4",
-      "url": "https://github.com/ekmett",
-      "popularRepository": {
-        "name": "thc",
-        "url": "https://github.com/ekmett/thc",
-        "description": "The Turbo Haskell Compiler"
-      },
-      "why": "Edward Kmett is trending because their repository thc is receiving visible attention on GitHub today.",
+      "name": "Okoye Emmanuel Obiajulu",
+      "username": "Obiajulu-gif",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64269783?s=96&v=4",
+      "url": "https://github.com/Obiajulu-gif",
+      "popularRepository": null,
+      "why": "Okoye Emmanuel Obiajulu is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
