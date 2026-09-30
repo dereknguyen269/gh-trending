@@ -1,10 +1,133 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-09-29T05:44:21.685Z",
+  "updatedAt": "2026-09-30T05:32:51.747Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "teng-lin",
+      "id": "mvschwarz",
       "rank": "#01",
+      "name": "Mike Schwarz",
+      "username": "mvschwarz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/171890339?s=96&v=4",
+      "url": "https://github.com/mvschwarz",
+      "popularRepository": {
+        "name": "openrig",
+        "url": "https://github.com/mvschwarz/openrig",
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system"
+      },
+      "why": "Mike Schwarz is trending because their repository openrig is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "unxed",
+      "rank": "#02",
+      "name": "unxed",
+      "username": "unxed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1151423?s=96&v=4",
+      "url": "https://github.com/unxed",
+      "popularRepository": {
+        "name": "f4",
+        "url": "https://github.com/unxed/f4",
+        "description": "dual pane like a charm"
+      },
+      "why": "unxed is trending because their repository f4 is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "ruvnet",
+      "rank": "#03",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+      },
+      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "tt-a1i",
+      "rank": "#04",
+      "name": "tt-a1i",
+      "username": "tt-a1i",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
+      "url": "https://github.com/tt-a1i",
+      "popularRepository": {
+        "name": "archify",
+        "url": "https://github.com/tt-a1i/archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion…"
+      },
+      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "id": "dalathegreat",
+      "rank": "#05",
+      "name": "Daniel Öster",
+      "username": "dalathegreat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26695010?s=96&v=4",
+      "url": "https://github.com/dalathegreat",
+      "popularRepository": {
+        "name": "Battery-Emulator",
+        "url": "https://github.com/dalathegreat/Battery-Emulator",
+        "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
+      },
+      "why": "Daniel Öster is trending because their repository Battery-Emulator is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "nicoburns",
+      "rank": "#06",
+      "name": "Nico Burns",
+      "username": "nicoburns",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1007307?s=96&v=4",
+      "url": "https://github.com/nicoburns",
+      "popularRepository": {
+        "name": "blessed-rs",
+        "url": "https://github.com/nicoburns/blessed-rs",
+        "description": "A community guide to the Rust ecosystem"
+      },
+      "why": "Nico Burns is trending because their repository blessed-rs is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "domenkozar",
+      "rank": "#07",
+      "name": "Domen Kožar",
+      "username": "domenkozar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126339?s=96&v=4",
+      "url": "https://github.com/domenkozar",
+      "popularRepository": {
+        "name": "agentaps",
+        "url": "https://github.com/domenkozar/agentaps",
+        "description": "A universal GUI for coding harnesses."
+      },
+      "why": "Domen Kožar is trending because their repository agentaps is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "teng-lin",
+      "rank": "#08",
       "name": "Teng Lin",
       "username": "teng-lin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/737447?s=96&v=4",
@@ -21,66 +144,18 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "dhh",
-      "rank": "#02",
-      "name": "David Heinemeier Hansson",
-      "username": "dhh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2741?s=96&v=4",
-      "url": "https://github.com/dhh",
+      "id": "esengine",
+      "rank": "#09",
+      "name": "YHH",
+      "username": "esengine",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18465053?s=96&v=4",
+      "url": "https://github.com/esengine",
       "popularRepository": {
-        "name": "omarchy-giants-theme",
-        "url": "https://github.com/dhh/omarchy-giants-theme",
-        "description": "Standing on the shoulders of giants — a warm sepia-on-paper dark theme for Omarchy"
+        "name": "DeepSeek-Reasonix",
+        "url": "https://github.com/esengine/DeepSeek-Reasonix",
+        "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
       },
-      "why": "David Heinemeier Hansson is trending because their repository omarchy-giants-theme is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "agoodkind",
-      "rank": "#03",
-      "name": "Alex Goodkind",
-      "username": "agoodkind",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1017680?s=96&v=4",
-      "url": "https://github.com/agoodkind",
-      "popularRepository": {
-        "name": "macos-smc-fan",
-        "url": "https://github.com/agoodkind/macos-smc-fan",
-        "description": "Research into SMC fan control on Apple Silicon (M1-M5). Documents the unlock mechanism and provides a working implementation for educatio…"
-      },
-      "why": "Alex Goodkind is trending because their repository macos-smc-fan is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "bdraco",
-      "rank": "#04",
-      "name": "J. Nick Koston",
-      "username": "bdraco",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/663432?s=96&v=4",
-      "url": "https://github.com/bdraco",
-      "popularRepository": null,
-      "why": "J. Nick Koston is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "makazhanalpamys",
-      "rank": "#05",
-      "name": "Alpamys Makazhan",
-      "username": "MakazhanAlpamys",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/188336071?s=96&v=4",
-      "url": "https://github.com/MakazhanAlpamys",
-      "popularRepository": {
-        "name": "Soup",
-        "url": "https://github.com/MakazhanAlpamys/Soup",
-        "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
-      },
-      "why": "Alpamys Makazhan is trending because their repository Soup is receiving visible attention on GitHub today.",
+      "why": "YHH is trending because their repository DeepSeek-Reasonix is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -88,7 +163,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "abrignoni",
-      "rank": "#06",
+      "rank": "#10",
       "name": "Brigs",
       "username": "abrignoni",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28718987?s=96&v=4",
@@ -106,144 +181,73 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "stefanmaron",
-      "rank": "#07",
-      "name": "Stefan Maroń",
-      "username": "StefanMaron",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24838311?s=96&v=4",
-      "url": "https://github.com/StefanMaron",
-      "popularRepository": {
-        "name": "bc-code-atlas",
-        "url": "https://github.com/StefanMaron/bc-code-atlas",
-        "description": "A queryable window into Microsoft Dynamics 365 Business Central's AL source and docs -- MCP servers for dependency/implementation investi…"
-      },
-      "why": "Stefan Maroń is trending because their repository bc-code-atlas is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "unxed",
-      "rank": "#08",
-      "name": "unxed",
-      "username": "unxed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1151423?s=96&v=4",
-      "url": "https://github.com/unxed",
-      "popularRepository": {
-        "name": "f4",
-        "url": "https://github.com/unxed/f4",
-        "description": "dual pane like a charm"
-      },
-      "why": "unxed is trending because their repository f4 is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "slavakurilyak",
-      "rank": "#09",
-      "name": "Slava Kurilyak",
-      "username": "slavakurilyak",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6625584?s=96&v=4",
-      "url": "https://github.com/slavakurilyak",
-      "popularRepository": {
-        "name": "awesome-ai-agents",
-        "url": "https://github.com/slavakurilyak/awesome-ai-agents",
-        "description": "Awesome list of 300+ agentic AI resources"
-      },
-      "why": "Slava Kurilyak is trending because their repository awesome-ai-agents is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "zackees",
-      "rank": "#10",
-      "name": "Zachary Vorhies",
-      "username": "zackees",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6856673?s=96&v=4",
-      "url": "https://github.com/zackees",
-      "popularRepository": {
-        "name": "mimalloc-pprof",
-        "url": "https://github.com/zackees/mimalloc-pprof",
-        "description": "Originally a mimalloc fork with pprof-compatible sampled heap profiling, now has every feature of every mimalloc fork (includes Buns) + j…"
-      },
-      "why": "Zachary Vorhies is trending because their repository mimalloc-pprof is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "dalathegreat",
+      "id": "noonghunna",
       "rank": "#11",
-      "name": "Daniel Öster",
-      "username": "dalathegreat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26695010?s=96&v=4",
-      "url": "https://github.com/dalathegreat",
+      "name": "noonghunna",
+      "username": "noonghunna",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10742901?s=96&v=4",
+      "url": "https://github.com/noonghunna",
       "popularRepository": {
-        "name": "Battery-Emulator",
-        "url": "https://github.com/dalathegreat/Battery-Emulator",
-        "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
+        "name": "club-3090",
+        "url": "https://github.com/noonghunna/club-3090",
+        "description": "Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currentl…"
       },
-      "why": "Daniel Öster is trending because their repository Battery-Emulator is receiving visible attention on GitHub today.",
+      "why": "noonghunna is trending because their repository club-3090 is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "probonopd",
+      "rank": "#12",
+      "name": "probonopd",
+      "username": "probonopd",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2480569?s=96&v=4",
+      "url": "https://github.com/probonopd",
+      "popularRepository": {
+        "name": "MiniDexed",
+        "url": "https://github.com/probonopd/MiniDexed",
+        "description": "Dexed FM synthesizer similar to 8x DX7 (TX816/TX802) running on a bare metal Raspberry Pi (without a Linux kernel or operating system)"
+      },
+      "why": "probonopd is trending because their repository MiniDexed is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "raullenchai",
-      "rank": "#12",
-      "name": "Raullen Chai",
-      "username": "raullenchai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
-      "url": "https://github.com/raullenchai",
-      "popularRepository": {
-        "name": "Rapid-MLX",
-        "url": "https://github.com/raullenchai/Rapid-MLX",
-        "description": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on ML…"
-      },
-      "why": "Raullen Chai is trending because their repository Rapid-MLX is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "perrylink",
+      "id": "ja7ad",
       "rank": "#13",
-      "name": "PerryLink",
-      "username": "PerryLink",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/255665900?s=96&v=4",
-      "url": "https://github.com/PerryLink",
+      "name": "Javad Rajabzadeh",
+      "username": "ja7ad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56496801?s=96&v=4",
+      "url": "https://github.com/ja7ad",
       "popularRepository": {
-        "name": "jevcore",
-        "url": "https://github.com/PerryLink/jevcore",
-        "description": "TypeSafe Jev for DeepSeek Harness, the Model Context Protocol, and plain Node: typed judgments instead of prose, offline by default."
+        "name": "hydra",
+        "url": "https://github.com/ja7ad/hydra",
+        "description": "A fast, resilient, multi-source file retriever and download engine"
       },
-      "why": "PerryLink is trending because their repository jevcore is receiving visible attention on GitHub today.",
+      "why": "Javad Rajabzadeh is trending because their repository hydra is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     },
     {
-      "id": "rizriyz",
+      "id": "agoodkind",
       "rank": "#14",
-      "name": "Riz",
-      "username": "RizRiyz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2667489?s=96&v=4",
-      "url": "https://github.com/RizRiyz",
+      "name": "Alex Goodkind",
+      "username": "agoodkind",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1017680?s=96&v=4",
+      "url": "https://github.com/agoodkind",
       "popularRepository": {
-        "name": "luvus",
-        "url": "https://github.com/RizRiyz/luvus",
-        "description": "Mission control for your AI agents"
+        "name": "macos-smc-fan",
+        "url": "https://github.com/agoodkind/macos-smc-fan",
+        "description": "Research into SMC fan control on Apple Silicon (M1-M5). Documents the unlock mechanism and provides a working implementation for educatio…"
       },
-      "why": "Riz is trending because their repository luvus is receiving visible attention on GitHub today.",
+      "why": "Alex Goodkind is trending because their repository macos-smc-fan is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "Web"
       ]
     }
   ]
