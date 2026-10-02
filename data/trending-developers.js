@@ -1,5 +1,5 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-10-01T05:54:29.312Z",
+  "updatedAt": "2026-10-02T05:37:40.214Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
@@ -12,7 +12,7 @@ window.trendingDevelopers = {
       "popularRepository": {
         "name": "openrig",
         "url": "https://github.com/mvschwarz/openrig",
-        "description": "Multi-agent harness that runs Claude Code and Codex together as one system"
+        "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
       },
       "why": "Mike Schwarz is trending because their repository openrig is receiving visible attention on GitHub today.",
       "tags": [
@@ -21,135 +21,61 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "probonopd",
+      "id": "hiyouga",
       "rank": "#02",
-      "name": "probonopd",
-      "username": "probonopd",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2480569?s=96&v=4",
-      "url": "https://github.com/probonopd",
+      "name": "Yaowei Zheng",
+      "username": "hiyouga",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16256802?s=96&v=4",
+      "url": "https://github.com/hiyouga",
       "popularRepository": {
-        "name": "irdb",
-        "url": "https://github.com/probonopd/irdb",
-        "description": "One of the largest crowd-sourced, manufacturer-independent databases of infrared remote control codes on the web, and aspiring to become …"
+        "name": "LlamaFactory",
+        "url": "https://github.com/hiyouga/LlamaFactory",
+        "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
       },
-      "why": "probonopd is trending because their repository irdb is receiving visible attention on GitHub today.",
+      "why": "Yaowei Zheng is trending because their repository LlamaFactory is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Web",
-        "Data"
+        "AI"
       ]
     },
     {
-      "id": "agoodkind",
+      "id": "kentcdodds",
       "rank": "#03",
-      "name": "Alex Goodkind",
-      "username": "agoodkind",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1017680?s=96&v=4",
-      "url": "https://github.com/agoodkind",
+      "name": "Kent C. Dodds",
+      "username": "kentcdodds",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1500684?s=96&v=4",
+      "url": "https://github.com/kentcdodds",
       "popularRepository": {
-        "name": "macos-smc-fan",
-        "url": "https://github.com/agoodkind/macos-smc-fan",
-        "description": "Research into SMC fan control on Apple Silicon (M1-M5). Documents the unlock mechanism and provides a working implementation for educatio…"
+        "name": "kody",
+        "url": "https://github.com/kentcdodds/kody",
+        "description": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflar…"
       },
-      "why": "Alex Goodkind is trending because their repository macos-smc-fan is receiving visible attention on GitHub today.",
+      "why": "Kent C. Dodds is trending because their repository kody is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Web"
+        "AI"
       ]
     },
     {
-      "id": "neubig",
+      "id": "unxed",
       "rank": "#04",
-      "name": "Graham Neubig",
-      "username": "neubig",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/398875?s=96&v=4",
-      "url": "https://github.com/neubig",
+      "name": "unxed",
+      "username": "unxed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1151423?s=96&v=4",
+      "url": "https://github.com/unxed",
       "popularRepository": {
-        "name": "lowresource-nlp-bootcamp-2020",
-        "url": "https://github.com/neubig/lowresource-nlp-bootcamp-2020",
-        "description": "The website for the CMU Language Technologies Institute low resource NLP bootcamp 2020"
+        "name": "f4",
+        "url": "https://github.com/unxed/f4",
+        "description": "dual pane like a charm"
       },
-      "why": "Graham Neubig is trending because their repository lowresource-nlp-bootcamp-2020 is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "assafelovic",
-      "rank": "#05",
-      "name": "Assaf Elovic",
-      "username": "assafelovic",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13554167?s=96&v=4",
-      "url": "https://github.com/assafelovic",
-      "popularRepository": {
-        "name": "gpt-researcher",
-        "url": "https://github.com/assafelovic/gpt-researcher",
-        "description": "An autonomous agent that conducts deep research on any data using any LLM providers"
-      },
-      "why": "Assaf Elovic is trending because their repository gpt-researcher is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Data"
-      ]
-    },
-    {
-      "id": "ruvnet",
-      "rank": "#06",
-      "name": "rUv",
-      "username": "ruvnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
-      "url": "https://github.com/ruvnet",
-      "popularRepository": {
-        "name": "RuView",
-        "url": "https://github.com/ruvnet/RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
-      },
-      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "why": "unxed is trending because their repository f4 is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "yetone",
-      "rank": "#07",
-      "name": "yetone",
-      "username": "yetone",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1206493?s=96&v=4",
-      "url": "https://github.com/yetone",
-      "popularRepository": {
-        "name": "magpie",
-        "url": "https://github.com/yetone/magpie",
-        "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
-      },
-      "why": "yetone is trending because their repository magpie is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "penso",
-      "rank": "#08",
-      "name": "Fabien Penso",
-      "username": "penso",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7703?s=96&v=4",
-      "url": "https://github.com/penso",
-      "popularRepository": {
-        "name": "herdr-gpui",
-        "url": "https://github.com/penso/herdr-gpui",
-        "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through yo…"
-      },
-      "why": "Fabien Penso is trending because their repository herdr-gpui is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "esengine",
-      "rank": "#09",
+      "rank": "#05",
       "name": "YHH",
       "username": "esengine",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18465053?s=96&v=4",
@@ -160,6 +86,77 @@ window.trendingDevelopers = {
         "description": "A reliable coding agent for complex software engineering tasks."
       },
       "why": "YHH is trending because their repository DeepSeek-Reasonix is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "dalathegreat",
+      "rank": "#06",
+      "name": "Daniel Öster",
+      "username": "dalathegreat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26695010?s=96&v=4",
+      "url": "https://github.com/dalathegreat",
+      "popularRepository": {
+        "name": "Battery-Emulator",
+        "url": "https://github.com/dalathegreat/Battery-Emulator",
+        "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
+      },
+      "why": "Daniel Öster is trending because their repository Battery-Emulator is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "colbymchenry",
+      "rank": "#07",
+      "name": "Colby Mchenry",
+      "username": "colbymchenry",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
+      "url": "https://github.com/colbymchenry",
+      "popularRepository": {
+        "name": "codegraph",
+        "url": "https://github.com/colbymchenry/codegraph",
+        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+      },
+      "why": "Colby Mchenry is trending because their repository codegraph is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "tt-a1i",
+      "rank": "#08",
+      "name": "tt-a1i",
+      "username": "tt-a1i",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
+      "url": "https://github.com/tt-a1i",
+      "popularRepository": {
+        "name": "archify",
+        "url": "https://github.com/tt-a1i/archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion…"
+      },
+      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "id": "yetone",
+      "rank": "#09",
+      "name": "yetone",
+      "username": "yetone",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1206493?s=96&v=4",
+      "url": "https://github.com/yetone",
+      "popularRepository": {
+        "name": "magpie",
+        "url": "https://github.com/yetone/magpie",
+        "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+      },
+      "why": "yetone is trending because their repository magpie is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -184,68 +181,71 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "teng-lin",
+      "id": "pbakaus",
       "rank": "#11",
-      "name": "Teng Lin",
-      "username": "teng-lin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/737447?s=96&v=4",
-      "url": "https://github.com/teng-lin",
+      "name": "Paul Bakaus",
+      "username": "pbakaus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
+      "url": "https://github.com/pbakaus",
       "popularRepository": {
-        "name": "notebooklm-py",
-        "url": "https://github.com/teng-lin/notebooklm-py",
-        "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilit…"
+        "name": "impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "description": "The design language that makes your AI harness better at design."
       },
-      "why": "Teng Lin is trending because their repository notebooklm-py is receiving visible attention on GitHub today.",
+      "why": "Paul Bakaus is trending because their repository impeccable is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "dalathegreat",
+      "id": "neubig",
       "rank": "#12",
-      "name": "Daniel Öster",
-      "username": "dalathegreat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26695010?s=96&v=4",
-      "url": "https://github.com/dalathegreat",
+      "name": "Graham Neubig",
+      "username": "neubig",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/398875?s=96&v=4",
+      "url": "https://github.com/neubig",
       "popularRepository": {
-        "name": "Battery-Emulator",
-        "url": "https://github.com/dalathegreat/Battery-Emulator",
-        "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
+        "name": "lowresource-nlp-bootcamp-2020",
+        "url": "https://github.com/neubig/lowresource-nlp-bootcamp-2020",
+        "description": "The website for the CMU Language Technologies Institute low resource NLP bootcamp 2020"
       },
-      "why": "Daniel Öster is trending because their repository Battery-Emulator is receiving visible attention on GitHub today.",
+      "why": "Graham Neubig is trending because their repository lowresource-nlp-bootcamp-2020 is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "gkjohnson",
+      "rank": "#13",
+      "name": "Garrett Johnson",
+      "username": "gkjohnson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/734200?s=96&v=4",
+      "url": "https://github.com/gkjohnson",
+      "popularRepository": {
+        "name": "three-gpu-pathtracer",
+        "url": "https://github.com/gkjohnson/three-gpu-pathtracer",
+        "description": "Path tracing renderer and utilities for three.js built on top of three-mesh-bvh."
+      },
+      "why": "Garrett Johnson is trending because their repository three-gpu-pathtracer is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "th0rgal",
-      "rank": "#13",
-      "name": "Thomas Marchand",
-      "username": "Th0rgal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/41830259?s=96&v=4",
-      "url": "https://github.com/Th0rgal",
-      "popularRepository": {
-        "name": "open_oura",
-        "url": "https://github.com/Th0rgal/open_oura",
-        "description": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorith…"
-      },
-      "why": "Thomas Marchand is trending because their repository open_oura is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Events",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "douwem",
+      "id": "sdcb",
       "rank": "#14",
-      "name": "Douwe Maan",
-      "username": "DouweM",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/159434?s=96&v=4",
-      "url": "https://github.com/DouweM",
-      "popularRepository": null,
-      "why": "Douwe Maan is trending because GitHub users are visiting and following their work today.",
+      "name": "ZHOU Jie",
+      "username": "sdcb",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1317141?s=96&v=4",
+      "url": "https://github.com/sdcb",
+      "popularRepository": {
+        "name": "SimdPaddleOCR",
+        "url": "https://github.com/sdcb/SimdPaddleOCR",
+        "description": "纯 C# PP-OCRv6 推理库：多平台手写 Kernel / GEMM 等算子、超高性能、低内存需求、超高准确率。 自带托管 ONNX 解释器，不依赖 Paddle Inference、ONNX Runtime 或 OpenCV 原生库。"
+      },
+      "why": "ZHOU Jie is trending because their repository SimdPaddleOCR is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
