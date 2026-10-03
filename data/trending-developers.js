@@ -1,5 +1,5 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-10-02T05:37:40.214Z",
+  "updatedAt": "2026-10-03T05:19:07.979Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
@@ -21,26 +21,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "hiyouga",
-      "rank": "#02",
-      "name": "Yaowei Zheng",
-      "username": "hiyouga",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16256802?s=96&v=4",
-      "url": "https://github.com/hiyouga",
-      "popularRepository": {
-        "name": "LlamaFactory",
-        "url": "https://github.com/hiyouga/LlamaFactory",
-        "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
-      },
-      "why": "Yaowei Zheng is trending because their repository LlamaFactory is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "kentcdodds",
-      "rank": "#03",
+      "rank": "#02",
       "name": "Kent C. Dodds",
       "username": "kentcdodds",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1500684?s=96&v=4",
@@ -57,60 +39,57 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "unxed",
-      "rank": "#04",
-      "name": "unxed",
-      "username": "unxed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1151423?s=96&v=4",
-      "url": "https://github.com/unxed",
+      "id": "yairm210",
+      "rank": "#03",
+      "name": "Yair Morgenstern",
+      "username": "yairm210",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8366208?s=96&v=4",
+      "url": "https://github.com/yairm210",
       "popularRepository": {
-        "name": "f4",
-        "url": "https://github.com/unxed/f4",
-        "description": "dual pane like a charm"
+        "name": "Unciv",
+        "url": "https://github.com/yairm210/Unciv",
+        "description": "Open-source Android/Desktop remake of Civ V"
       },
-      "why": "unxed is trending because their repository f4 is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "esengine",
-      "rank": "#05",
-      "name": "YHH",
-      "username": "esengine",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18465053?s=96&v=4",
-      "url": "https://github.com/esengine",
-      "popularRepository": {
-        "name": "DeepSeek-Reasonix",
-        "url": "https://github.com/esengine/DeepSeek-Reasonix",
-        "description": "A reliable coding agent for complex software engineering tasks."
-      },
-      "why": "YHH is trending because their repository DeepSeek-Reasonix is receiving visible attention on GitHub today.",
+      "why": "Yair Morgenstern is trending because their repository Unciv is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "dalathegreat",
-      "rank": "#06",
-      "name": "Daniel Öster",
-      "username": "dalathegreat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26695010?s=96&v=4",
-      "url": "https://github.com/dalathegreat",
-      "popularRepository": {
-        "name": "Battery-Emulator",
-        "url": "https://github.com/dalathegreat/Battery-Emulator",
-        "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
-      },
-      "why": "Daniel Öster is trending because their repository Battery-Emulator is receiving visible attention on GitHub today.",
+      "id": "yeongseon",
+      "rank": "#04",
+      "name": "Yeongseon Choe",
+      "username": "yeongseon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8798819?s=96&v=4",
+      "url": "https://github.com/yeongseon",
+      "popularRepository": null,
+      "why": "Yeongseon Choe is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
+      "id": "hiyouga",
+      "rank": "#05",
+      "name": "Yaowei Zheng",
+      "username": "hiyouga",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16256802?s=96&v=4",
+      "url": "https://github.com/hiyouga",
+      "popularRepository": {
+        "name": "LlamaFactory",
+        "url": "https://github.com/hiyouga/LlamaFactory",
+        "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+      },
+      "why": "Yaowei Zheng is trending because their repository LlamaFactory is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
       "id": "colbymchenry",
-      "rank": "#07",
+      "rank": "#06",
       "name": "Colby Mchenry",
       "username": "colbymchenry",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
@@ -126,116 +105,61 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "tt-a1i",
-      "rank": "#08",
-      "name": "tt-a1i",
-      "username": "tt-a1i",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
-      "url": "https://github.com/tt-a1i",
+      "id": "ruvnet",
+      "rank": "#07",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
       "popularRepository": {
-        "name": "archify",
-        "url": "https://github.com/tt-a1i/archify",
-        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion…"
+        "name": "RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
       },
-      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Data"
-      ]
-    },
-    {
-      "id": "yetone",
-      "rank": "#09",
-      "name": "yetone",
-      "username": "yetone",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1206493?s=96&v=4",
-      "url": "https://github.com/yetone",
-      "popularRepository": {
-        "name": "magpie",
-        "url": "https://github.com/yetone/magpie",
-        "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
-      },
-      "why": "yetone is trending because their repository magpie is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "mpfaffenberger",
-      "rank": "#10",
-      "name": "Mike Pfaffenberger",
-      "username": "mpfaffenberger",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5629756?s=96&v=4",
-      "url": "https://github.com/mpfaffenberger",
-      "popularRepository": {
-        "name": "code_puppy",
-        "url": "https://github.com/mpfaffenberger/code_puppy",
-        "description": "Agentic AI for writing code"
-      },
-      "why": "Mike Pfaffenberger is trending because their repository code_puppy is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "pbakaus",
-      "rank": "#11",
-      "name": "Paul Bakaus",
-      "username": "pbakaus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
-      "url": "https://github.com/pbakaus",
-      "popularRepository": {
-        "name": "impeccable",
-        "url": "https://github.com/pbakaus/impeccable",
-        "description": "The design language that makes your AI harness better at design."
-      },
-      "why": "Paul Bakaus is trending because their repository impeccable is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "neubig",
-      "rank": "#12",
-      "name": "Graham Neubig",
-      "username": "neubig",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/398875?s=96&v=4",
-      "url": "https://github.com/neubig",
-      "popularRepository": {
-        "name": "lowresource-nlp-bootcamp-2020",
-        "url": "https://github.com/neubig/lowresource-nlp-bootcamp-2020",
-        "description": "The website for the CMU Language Technologies Institute low resource NLP bootcamp 2020"
-      },
-      "why": "Graham Neubig is trending because their repository lowresource-nlp-bootcamp-2020 is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "gkjohnson",
-      "rank": "#13",
-      "name": "Garrett Johnson",
-      "username": "gkjohnson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/734200?s=96&v=4",
-      "url": "https://github.com/gkjohnson",
-      "popularRepository": {
-        "name": "three-gpu-pathtracer",
-        "url": "https://github.com/gkjohnson/three-gpu-pathtracer",
-        "description": "Path tracing renderer and utilities for three.js built on top of three-mesh-bvh."
-      },
-      "why": "Garrett Johnson is trending because their repository three-gpu-pathtracer is receiving visible attention on GitHub today.",
+      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
+      "id": "cathrynlavery",
+      "rank": "#08",
+      "name": "Cathryn Lavery",
+      "username": "cathrynlavery",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=96&v=4",
+      "url": "https://github.com/cathrynlavery",
+      "popularRepository": {
+        "name": "diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No s…"
+      },
+      "why": "Cathryn Lavery is trending because their repository diagram-design is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "mattsse",
+      "rank": "#09",
+      "name": "Matthias Seitz",
+      "username": "mattsse",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19890894?s=96&v=4",
+      "url": "https://github.com/mattsse",
+      "popularRepository": {
+        "name": "chromiumoxide",
+        "url": "https://github.com/mattsse/chromiumoxide",
+        "description": "Chrome Devtools Protocol rust API"
+      },
+      "why": "Matthias Seitz is trending because their repository chromiumoxide is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Tooling"
+      ]
+    },
+    {
       "id": "sdcb",
-      "rank": "#14",
+      "rank": "#10",
       "name": "ZHOU Jie",
       "username": "sdcb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1317141?s=96&v=4",
@@ -248,6 +172,74 @@ window.trendingDevelopers = {
       "why": "ZHOU Jie is trending because their repository SimdPaddleOCR is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
+      ]
+    },
+    {
+      "id": "mervinpraison",
+      "rank": "#11",
+      "name": "Mervin Praison",
+      "username": "MervinPraison",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/454862?s=96&v=4",
+      "url": "https://github.com/MervinPraison",
+      "popularRepository": {
+        "name": "PraisonAI",
+        "url": "https://github.com/MervinPraison/PraisonAI",
+        "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan,…"
+      },
+      "why": "Mervin Praison is trending because their repository PraisonAI is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "mvanhorn",
+      "rank": "#12",
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
+      "url": "https://github.com/mvanhorn",
+      "popularRepository": {
+        "name": "last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+      },
+      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "cliffhall",
+      "rank": "#13",
+      "name": "Cliff Hall",
+      "username": "cliffhall",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/871933?s=96&v=4",
+      "url": "https://github.com/cliffhall",
+      "popularRepository": null,
+      "why": "Cliff Hall is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "esengine",
+      "rank": "#14",
+      "name": "YHH",
+      "username": "esengine",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18465053?s=96&v=4",
+      "url": "https://github.com/esengine",
+      "popularRepository": {
+        "name": "DeepSeek-Reasonix",
+        "url": "https://github.com/esengine/DeepSeek-Reasonix",
+        "description": "A reliable coding agent for complex software engineering tasks."
+      },
+      "why": "YHH is trending because their repository DeepSeek-Reasonix is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
       ]
     }
   ]
