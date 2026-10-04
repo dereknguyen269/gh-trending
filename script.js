@@ -2,6 +2,8 @@ const repoData = window.trendingRepos || { updatedAt: new Date().toISOString(), 
 const developerData = window.trendingDevelopers || { updatedAt: repoData.updatedAt, developers: [] };
 const repositories = repoData.repositories || [];
 const developers = developerData.developers || [];
+const repoDetails = new Map(repositories.map((repo) => [repo.id, repo]));
+const developerDetails = new Map(developers.map((dev) => [dev.id, dev]));
 let currentRange = 'daily';
 let currentLang = 'en';
 
@@ -43,6 +45,7 @@ const translations = {
     'close': 'Close',
     'hero-scan': 'Scan repos',
     'hero-open-gh': 'Open GitHub Trending',
+    'hero-count': 'A static snapshot of {repos} repositories and {devs} developers the GitHub community is watching today, tuned for quick scanning and daily refreshes.',
     'stats-repos': 'Repos',
     'stats-devs': 'Developers',
     'stats-stars-today': 'Stars today',
@@ -92,6 +95,7 @@ const translations = {
     'close': 'Đóng',
     'hero-scan': 'Xem repos',
     'hero-open-gh': 'Mở GitHub Trending',
+    'hero-count': 'Snapshot tĩnh {repos} repo và {devs} devs mà community GitHub đang theo dõi hôm nay — nhanh, gọn, refresh mỗi ngày.',
     'stats-repos': 'Repos',
     'stats-devs': 'Devs',
     'stats-stars-today': 'Sao hôm nay',
@@ -171,7 +175,8 @@ function applyI18n() {
     }
   });
   // Update metric labels in modal
-  setTextI18n('#detail-metric-label-1', currentRange === 'daily' ? 'label-today' : currentRange === 'weekly' ? 'label-week' : 'label-month');
+  const periodKey = currentRange === "daily" ? "label-today" : currentRange === "weekly" ? "label-week" : "label-month";
+  setTextI18n('#detail-metric-label-1', periodKey);
   setTextI18n('#detail-section-title-1', 'why-it');
   setTextI18n('#detail-section-title-2', 'best-fit');
   setTextI18n('#detail-link', 'open-gh');
@@ -193,11 +198,11 @@ function renderSnapshotCopy() {
   setText("[data-developer-count]", developers.length);
   setText("[data-total-stars-today]", formatNumber(totalStarsToday));
   setText("[data-top-language]", getTopLanguage());
-  setText("[data-method-copy]", `The page uses visible repository and developer data from GitHub Trending, last updated ${dateLabel}. It is built as plain HTML and CSS with generated data files, so the GitHub Actions workflow can refresh the page without redesigning the interface.`);
+  setText("[data-method-copy]", t("method-copy").replace("{date}", dateLabel));
   document.querySelector(".nav-cta")?.setAttribute("href", repoData.source || "https://github.com/trending");
 
   if (fastest) {
-    document.querySelector(".hero-text").textContent = `A static snapshot of ${repositories.length} repositories and ${developers.length} developers the GitHub community is watching today, tuned for quick scanning and daily refreshes.`;
+    setText(".hero-text", t("hero-count").replace("{repos}", repositories.length).replace("{devs}", developers.length));
   }
 }
 
@@ -312,8 +317,10 @@ function setActiveTab(feedName) {
 
 const modal = document.querySelector("#repo-modal");
 const panel = document.querySelector(".repo-detail-panel");
-const closeButtons = document.querySelectorAll("[data-close-detail]");
+const closeButtons = document.querySelectorAll("[data-close-detail], .modal-close");
 let lastFocusedElement = null;
+
+closeButtons.forEach((button) => button.addEventListener("click", closeRepoDetail));
 
 // ── Mobile: track swipe-to-close gesture ──
 let touchStartY = 0;
@@ -352,19 +359,20 @@ function showModal() {
 }
 
 function openRepoDetail(repoId) {
-  const repo = repoDetails[repoId];
+  const repo = repoDetails.get(repoId);
   if (!repo || !modal || !panel) return;
 
   lastFocusedElement = document.activeElement;
+  const periodKey = currentRange === "daily" ? "label-today" : currentRange === "weekly" ? "label-week" : "label-month";
 
   setText("#detail-rank", repo.rank);
   setText("#detail-language", repo.language || "Unknown");
   setText("#detail-title", repo.title);
-  setText("#detail-description", repo.description || "No repository description available.");
-  setMetricLabels("Stars", "Forks", "Today");
+  setText("#detail-description", repo.description || t("no-desc"));
+  setMetricLabels(t("label-stars"), t("label-forks"), t(periodKey));
   setMetricValues(formatNumber(repo.stars), formatNumber(repo.forks), formatNumber(repo.starsToday));
-  setText("#detail-section-title-1", "Why it is trending");
-  setText("#detail-section-title-2", "Best fit");
+  setText("#detail-section-title-1", t("why-it"));
+  setText("#detail-section-title-2", t("best-fit"));
   setText("#detail-why", repo.why);
   setText("#detail-fit", repo.fit);
   setTags(repo.tags || []);
@@ -372,14 +380,14 @@ function openRepoDetail(repoId) {
   const link = document.querySelector("#detail-link");
   if (link) {
     link.href = repo.url;
-    link.textContent = "Open GitHub";
+    link.textContent = t("open-gh");
   }
 
   showModal();
 }
 
 function openDeveloperDetail(developerId) {
-  const developer = developerDetails[developerId];
+  const developer = developerDetails.get(developerId);
   if (!developer || !modal || !panel) return;
 
   lastFocusedElement = document.activeElement;
@@ -389,18 +397,18 @@ function openDeveloperDetail(developerId) {
   setText("#detail-language", "Developer");
   setText("#detail-title", developer.name);
   setText("#detail-description", `@${developer.username}`);
-  setMetricLabels("Profile", "Popular repo", "Rank");
+  setMetricLabels(t("label-profile"), t("label-repo"), t("label-rank"));
   setMetricValues("Developer", popularRepo?.name || "None", developer.rank);
-  setText("#detail-section-title-1", "Why this developer is trending");
-  setText("#detail-section-title-2", "Popular repository");
+  setText("#detail-section-title-1", t("why-dev"));
+  setText("#detail-section-title-2", t("popular-repo"));
   setText("#detail-why", developer.why);
-  setText("#detail-fit", popularRepo?.description || "GitHub Trending did not list a popular repository description for this developer.");
+  setText("#detail-fit", popularRepo?.description || t("no-dev-desc"));
   setTags(developer.tags || []);
 
   const link = document.querySelector("#detail-link");
   if (link) {
     link.href = developer.url;
-    link.textContent = "Open profile";
+    link.textContent = t("open-profile");
   }
 
   showModal();
@@ -509,7 +517,8 @@ if (panel) {
 function filterByRange(repos, range) {
   if (range === 'daily') return repos;
   if (range === 'weekly') return repos.filter((r) => Number(r.starsToday || 0) >= 50);
-  return repos.filter((r) => Number(r.starsToday || 0) >= 200);
+  // Monthly: starsToday reflects a weekly snapshot window; use total stars as proxy
+  return repos.filter((r) => Number(r.stars || 0) >= 5000);
 }
 
 function setActiveRange(range) {
