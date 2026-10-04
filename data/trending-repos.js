@@ -1,64 +1,7 @@
 window.trendingRepos = {
-  "updatedAt": "2026-10-03T05:19:07.979Z",
+  "updatedAt": "2026-10-04T05:53:27.699Z",
   "source": "https://github.com/trending?since=daily",
   "repositories": [
-    {
-      "id": "agent-reach",
-      "owner": "Panniantong",
-      "name": "Agent-Reach",
-      "title": "Panniantong / Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars": 88912,
-      "forks": 7828,
-      "starsToday": 696,
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "rank": "#01",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "caveman",
-      "owner": "JuliusBrussee",
-      "name": "caveman",
-      "title": "JuliusBrussee / caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "language": "Go",
-      "stars": 109180,
-      "forks": 6319,
-      "starsToday": 209,
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "rank": "#02",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Go repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Go",
-        "AI"
-      ]
-    },
-    {
-      "id": "superpowers",
-      "owner": "obra",
-      "name": "superpowers",
-      "title": "obra / superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars": 294534,
-      "forks": 26326,
-      "starsToday": 556,
-      "url": "https://github.com/obra/superpowers",
-      "rank": "#03",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Shell",
-        "AI"
-      ]
-    },
     {
       "id": "ponytail",
       "owner": "DietrichGebert",
@@ -66,11 +9,11 @@ window.trendingRepos = {
       "title": "DietrichGebert / ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": 152002,
-      "forks": 8152,
-      "starsToday": 1435,
+      "stars": 153713,
+      "forks": 8257,
+      "starsToday": 1281,
       "url": "https://github.com/DietrichGebert/ponytail",
-      "rank": "#04",
+      "rank": "#01",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -85,15 +28,188 @@ window.trendingRepos = {
       "title": "pbakaus / impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars": 74446,
-      "forks": 4488,
-      "starsToday": 722,
+      "stars": 75499,
+      "forks": 4525,
+      "starsToday": 699,
       "url": "https://github.com/pbakaus/impeccable",
-      "rank": "#05",
+      "rank": "#02",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
       "tags": [
         "JavaScript",
+        "AI"
+      ]
+    },
+    {
+      "id": "ecc",
+      "owner": "affaan-m",
+      "name": "ECC",
+      "title": "affaan-m / ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 272389,
+      "forks": 40671,
+      "starsToday": 897,
+      "url": "https://github.com/affaan-m/ECC",
+      "rank": "#03",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "JavaScript",
+        "AI",
+        "Open source"
+      ]
+    },
+    {
+      "id": "effect",
+      "owner": "Effect-TS",
+      "name": "effect",
+      "title": "Effect-TS / effect",
+      "description": "Build production-ready applications in TypeScript",
+      "language": "TypeScript",
+      "stars": 16872,
+      "forks": 816,
+      "starsToday": 302,
+      "url": "https://github.com/Effect-TS/effect",
+      "rank": "#04",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "caveman",
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "title": "JuliusBrussee / caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "stars": 109607,
+      "forks": 6340,
+      "starsToday": 507,
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "rank": "#05",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Go repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Go",
+        "AI"
+      ]
+    },
+    {
+      "id": "agent-reach",
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "title": "Panniantong / Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 90014,
+      "forks": 7917,
+      "starsToday": 1696,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "rank": "#06",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI"
+      ]
+    },
+    {
+      "id": "t3code",
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "title": "pingdotgg / t3code",
+      "description": "No repository description available.",
+      "language": "TypeScript",
+      "stars": 24783,
+      "forks": 6453,
+      "starsToday": 252,
+      "url": "https://github.com/pingdotgg/t3code",
+      "rank": "#07",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "AI"
+      ]
+    },
+    {
+      "id": "claude-mem",
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "title": "thedotmack / claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 95695,
+      "forks": 8465,
+      "starsToday": 79,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "rank": "#08",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "AI",
+        "Open source"
+      ]
+    },
+    {
+      "id": "cloudflare-os",
+      "owner": "cloudflare",
+      "name": "cloudflare-os",
+      "title": "cloudflare / cloudflare-os",
+      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "language": "TypeScript",
+      "stars": 10628,
+      "forks": 1287,
+      "starsToday": 85,
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "rank": "#09",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "AI",
+        "Docs"
+      ]
+    },
+    {
+      "id": "agent-skills",
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "title": "addyosmani / agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 100907,
+      "forks": 10599,
+      "starsToday": 252,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "rank": "#10",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "JavaScript",
+        "AI"
+      ]
+    },
+    {
+      "id": "superpowers",
+      "owner": "obra",
+      "name": "superpowers",
+      "title": "obra / superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 294976,
+      "forks": 26359,
+      "starsToday": 577,
+      "url": "https://github.com/obra/superpowers",
+      "rank": "#11",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Shell",
         "AI"
       ]
     },
@@ -104,73 +220,15 @@ window.trendingRepos = {
       "title": "mattpocock / skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars": 274820,
-      "forks": 23069,
-      "starsToday": 955,
+      "stars": 275480,
+      "forks": 23112,
+      "starsToday": 751,
       "url": "https://github.com/mattpocock/skills",
-      "rank": "#06",
+      "rank": "#12",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
       "tags": [
         "Shell",
-        "AI"
-      ]
-    },
-    {
-      "id": "openshell",
-      "owner": "NVIDIA",
-      "name": "OpenShell",
-      "title": "NVIDIA / OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "stars": 14491,
-      "forks": 1666,
-      "starsToday": 594,
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "rank": "#07",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Rust",
-        "AI",
-        "Open source"
-      ]
-    },
-    {
-      "id": "marketingskills",
-      "owner": "coreyhaines31",
-      "name": "marketingskills",
-      "title": "coreyhaines31 / marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "language": "JavaScript",
-      "stars": 52473,
-      "forks": 7883,
-      "starsToday": 140,
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "rank": "#08",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "JavaScript",
-        "AI"
-      ]
-    },
-    {
-      "id": "hyperframes",
-      "owner": "heygen-com",
-      "name": "hyperframes",
-      "title": "heygen-com / hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars": 55974,
-      "forks": 5041,
-      "starsToday": 580,
-      "url": "https://github.com/heygen-com/hyperframes",
-      "rank": "#09",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
         "AI"
       ]
     },
@@ -181,11 +239,11 @@ window.trendingRepos = {
       "title": "mksglu / context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars": 25083,
-      "forks": 1800,
-      "starsToday": 282,
+      "stars": 25291,
+      "forks": 1808,
+      "starsToday": 256,
       "url": "https://github.com/mksglu/context-mode",
-      "rank": "#10",
+      "rank": "#13",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -195,79 +253,23 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "skills",
-      "owner": "google",
-      "name": "skills",
-      "title": "google / skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "stars": 20804,
-      "forks": 1725,
-      "starsToday": 39,
-      "url": "https://github.com/google/skills",
-      "rank": "#11",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "sentry",
-      "owner": "getsentry",
-      "name": "sentry",
-      "title": "getsentry / sentry",
-      "description": "Developer-first error tracking and performance monitoring",
-      "language": "Python",
-      "stars": 45063,
-      "forks": 4894,
-      "starsToday": 16,
-      "url": "https://github.com/getsentry/sentry",
-      "rank": "#12",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python"
-      ]
-    },
-    {
-      "id": "codegraph",
-      "owner": "colbymchenry",
-      "name": "codegraph",
-      "title": "colbymchenry / codegraph",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "language": "C",
-      "stars": 73013,
-      "forks": 4686,
-      "starsToday": 98,
-      "url": "https://github.com/colbymchenry/codegraph",
-      "rank": "#13",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving C repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "C",
-        "AI",
-        "Open source"
-      ]
-    },
-    {
-      "id": "plugins",
-      "owner": "cursor",
-      "name": "plugins",
-      "title": "cursor / plugins",
-      "description": "Cursor plugin specification and official plugins",
+      "id": "pi",
+      "owner": "earendil-works",
+      "name": "pi",
+      "title": "earendil-works / pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars": 9535,
-      "forks": 901,
-      "starsToday": 163,
-      "url": "https://github.com/cursor/plugins",
+      "stars": 112232,
+      "forks": 14237,
+      "starsToday": 408,
+      "url": "https://github.com/earendil-works/pi",
       "rank": "#14",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
         "TypeScript",
-        "Plugin"
+        "AI",
+        "Tooling"
       ]
     }
   ]
