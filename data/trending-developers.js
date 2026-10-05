@@ -1,45 +1,65 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-10-04T05:53:27.699Z",
+  "updatedAt": "2026-10-05T05:40:44.208Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "mvschwarz",
+      "id": "frankbria",
       "rank": "#01",
-      "name": "Mike Schwarz",
-      "username": "mvschwarz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/171890339?s=96&v=4",
-      "url": "https://github.com/mvschwarz",
+      "name": "Frank Bria",
+      "username": "frankbria",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136862992?s=96&v=4",
+      "url": "https://github.com/frankbria",
       "popularRepository": {
-        "name": "openrig",
-        "url": "https://github.com/mvschwarz/openrig",
-        "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+        "name": "ralph-claude-code",
+        "url": "https://github.com/frankbria/ralph-claude-code",
+        "description": "Autonomous AI development loop for Claude Code with intelligent exit detection"
       },
-      "why": "Mike Schwarz is trending because their repository openrig is receiving visible attention on GitHub today.",
+      "why": "Frank Bria is trending because their repository ralph-claude-code is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "justvugg",
+      "id": "colemurray",
       "rank": "#02",
-      "name": "Vincenzo Fornaro",
-      "username": "JustVugg",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
-      "url": "https://github.com/JustVugg",
+      "name": "Cole Murray",
+      "username": "ColeMurray",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?s=96&v=4",
+      "url": "https://github.com/ColeMurray",
       "popularRepository": {
-        "name": "colibri",
-        "url": "https://github.com/JustVugg/colibri",
-        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+        "name": "background-agents",
+        "url": "https://github.com/ColeMurray/background-agents",
+        "description": "An open-source background agents coding system"
       },
-      "why": "Vincenzo Fornaro is trending because their repository colibri is receiving visible attention on GitHub today.",
+      "why": "Cole Murray is trending because their repository background-agents is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "raullenchai",
+      "rank": "#03",
+      "name": "Raullen Chai",
+      "username": "raullenchai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
+      "url": "https://github.com/raullenchai",
+      "popularRepository": {
+        "name": "Rapid-MLX",
+        "url": "https://github.com/raullenchai/Rapid-MLX",
+        "description": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on ML…"
+      },
+      "why": "Raullen Chai is trending because their repository Rapid-MLX is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
       ]
     },
     {
       "id": "colbymchenry",
-      "rank": "#03",
+      "rank": "#04",
       "name": "Colby Mchenry",
       "username": "colbymchenry",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
@@ -55,62 +75,25 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "cathrynlavery",
-      "rank": "#04",
-      "name": "Cathryn Lavery",
-      "username": "cathrynlavery",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=96&v=4",
-      "url": "https://github.com/cathrynlavery",
-      "popularRepository": {
-        "name": "diagram-design",
-        "url": "https://github.com/cathrynlavery/diagram-design",
-        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No s…"
-      },
-      "why": "Cathryn Lavery is trending because their repository diagram-design is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "kentcdodds",
+      "id": "justvugg",
       "rank": "#05",
-      "name": "Kent C. Dodds",
-      "username": "kentcdodds",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1500684?s=96&v=4",
-      "url": "https://github.com/kentcdodds",
+      "name": "Vincenzo Fornaro",
+      "username": "JustVugg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
+      "url": "https://github.com/JustVugg",
       "popularRepository": {
-        "name": "kody",
-        "url": "https://github.com/kentcdodds/kody",
-        "description": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflar…"
+        "name": "colibri",
+        "url": "https://github.com/JustVugg/colibri",
+        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
       },
-      "why": "Kent C. Dodds is trending because their repository kody is receiving visible attention on GitHub today.",
+      "why": "Vincenzo Fornaro is trending because their repository colibri is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "maurodesouza",
-      "rank": "#06",
-      "name": "Mauro de Souza",
-      "username": "maurodesouza",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54520907?s=96&v=4",
-      "url": "https://github.com/maurodesouza",
-      "popularRepository": {
-        "name": "profile-readme-generator",
-        "url": "https://github.com/maurodesouza/profile-readme-generator",
-        "description": "🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile R…"
-      },
-      "why": "Mauro de Souza is trending because their repository profile-readme-generator is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Tooling"
+        "Developer"
       ]
     },
     {
       "id": "madeye",
-      "rank": "#07",
+      "rank": "#06",
       "name": "Max Lv",
       "username": "madeye",
       "avatarUrl": "https://avatars.githubusercontent.com/u/627917?s=96&v=4",
@@ -121,6 +104,23 @@ window.trendingDevelopers = {
         "description": "ServerBox: turn a used Android phone into a Linux server, no root required. Alpine, Arch, Debian, Kali and Ubuntu with an always-on SSH s…"
       },
       "why": "Max Lv is trending because their repository ServerBox is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "xxjsonderuloxx",
+      "rank": "#07",
+      "name": "Kurt Himebauch",
+      "username": "xXJSONDeruloXx",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136133082?s=96&v=4",
+      "url": "https://github.com/xXJSONDeruloXx",
+      "popularRepository": {
+        "name": "decky-lsfg-vk",
+        "url": "https://github.com/xXJSONDeruloXx/decky-lsfg-vk",
+        "description": "Decky plugin to streamline installation and usage of lsfg-vk; the Lossless Scaling compatibility layer for linux"
+      },
+      "why": "Kurt Himebauch is trending because their repository decky-lsfg-vk is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
@@ -143,8 +143,43 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "kim-em",
+      "id": "cathrynlavery",
       "rank": "#09",
+      "name": "Cathryn Lavery",
+      "username": "cathrynlavery",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=96&v=4",
+      "url": "https://github.com/cathrynlavery",
+      "popularRepository": {
+        "name": "diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No s…"
+      },
+      "why": "Cathryn Lavery is trending because their repository diagram-design is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "poteto",
+      "rank": "#10",
+      "name": "lauren",
+      "username": "poteto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
+      "url": "https://github.com/poteto",
+      "popularRepository": {
+        "name": "hiring-without-whiteboards",
+        "url": "https://github.com/poteto/hiring-without-whiteboards",
+        "description": "⭐️ Companies that don't have a broken hiring process"
+      },
+      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "kim-em",
+      "rank": "#11",
       "name": "Kim Morrison",
       "username": "kim-em",
       "avatarUrl": "https://avatars.githubusercontent.com/u/477956?s=96&v=4",
@@ -161,53 +196,22 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "saladday",
-      "rank": "#10",
-      "name": "SaladDay",
-      "username": "SaladDay",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92240037?s=96&v=4",
-      "url": "https://github.com/SaladDay",
+      "id": "mvanhorn",
+      "rank": "#12",
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
+      "url": "https://github.com/mvanhorn",
       "popularRepository": {
-        "name": "cc-switch-cli",
-        "url": "https://github.com/SaladDay/cc-switch-cli",
-        "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+        "name": "last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
       },
-      "why": "SaladDay is trending because their repository cc-switch-cli is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "raullenchai",
-      "rank": "#11",
-      "name": "Raullen Chai",
-      "username": "raullenchai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
-      "url": "https://github.com/raullenchai",
-      "popularRepository": {
-        "name": "Rapid-MLX",
-        "url": "https://github.com/raullenchai/Rapid-MLX",
-        "description": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on ML…"
-      },
-      "why": "Raullen Chai is trending because their repository Rapid-MLX is receiving visible attention on GitHub today.",
+      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI",
         "Web"
-      ]
-    },
-    {
-      "id": "akshaydeo",
-      "rank": "#12",
-      "name": "Akshay Deo",
-      "username": "akshaydeo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1050029?s=96&v=4",
-      "url": "https://github.com/akshaydeo",
-      "popularRepository": null,
-      "why": "Akshay Deo is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
       ]
     },
     {
@@ -228,21 +232,16 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "amir20",
+      "id": "chrox",
       "rank": "#14",
-      "name": "Amir Raminfar",
-      "username": "amir20",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/260667?s=96&v=4",
-      "url": "https://github.com/amir20",
-      "popularRepository": {
-        "name": "dozzle",
-        "url": "https://github.com/amir20/dozzle",
-        "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s."
-      },
-      "why": "Amir Raminfar is trending because their repository dozzle is receiving visible attention on GitHub today.",
+      "name": "Huang Xin",
+      "username": "chrox",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/751535?s=96&v=4",
+      "url": "https://github.com/chrox",
+      "popularRepository": null,
+      "why": "Huang Xin is trending because GitHub users are visiting and following their work today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     }
   ]
