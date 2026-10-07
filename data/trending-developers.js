@@ -1,10 +1,46 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-10-06T06:21:11.762Z",
+  "updatedAt": "2026-10-07T05:59:59.209Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "raullenchai",
+      "id": "garrytan",
       "rank": "#01",
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
+      "url": "https://github.com/garrytan",
+      "popularRepository": {
+        "name": "gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+      },
+      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "pbakaus",
+      "rank": "#02",
+      "name": "Paul Bakaus",
+      "username": "pbakaus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
+      "url": "https://github.com/pbakaus",
+      "popularRepository": {
+        "name": "impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "description": "The design language that makes your AI harness better at design."
+      },
+      "why": "Paul Bakaus is trending because their repository impeccable is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "raullenchai",
+      "rank": "#03",
       "name": "Raullen Chai",
       "username": "raullenchai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
@@ -22,44 +58,96 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "frankbria",
-      "rank": "#02",
-      "name": "Frank Bria",
-      "username": "frankbria",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136862992?s=96&v=4",
-      "url": "https://github.com/frankbria",
+      "id": "lalalune",
+      "rank": "#04",
+      "name": "Shaw",
+      "username": "lalalune",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18633264?s=96&v=4",
+      "url": "https://github.com/lalalune",
       "popularRepository": {
-        "name": "ralph-claude-code",
-        "url": "https://github.com/frankbria/ralph-claude-code",
-        "description": "Autonomous AI development loop for Claude Code with intelligent exit detection"
+        "name": "outreachr",
+        "url": "https://github.com/lalalune/outreachr",
+        "description": "Local-first, open-source investor fundraising CRM for founders"
       },
-      "why": "Frank Bria is trending because their repository ralph-claude-code is receiving visible attention on GitHub today.",
+      "why": "Shaw is trending because their repository outreachr is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "garrytan",
-      "rank": "#03",
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
-      "url": "https://github.com/garrytan",
+      "id": "krille-chan",
+      "rank": "#05",
+      "name": "Krille-chan",
+      "username": "krille-chan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24619905?s=96&v=4",
+      "url": "https://github.com/krille-chan",
       "popularRepository": {
-        "name": "gstack",
-        "url": "https://github.com/garrytan/gstack",
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+        "name": "fluffychat",
+        "url": "https://github.com/krille-chan/fluffychat",
+        "description": "The cutest instant messenger in the [matrix]"
       },
-      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
+      "why": "Krille-chan is trending because their repository fluffychat is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "emilk",
+      "rank": "#06",
+      "name": "Emil Ernerfeldt",
+      "username": "emilk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1148717?s=96&v=4",
+      "url": "https://github.com/emilk",
+      "popularRepository": {
+        "name": "egui",
+        "url": "https://github.com/emilk/egui",
+        "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
+      },
+      "why": "Emil Ernerfeldt is trending because their repository egui is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Tooling"
+        "Web"
+      ]
+    },
+    {
+      "id": "poteto",
+      "rank": "#07",
+      "name": "lauren",
+      "username": "poteto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
+      "url": "https://github.com/poteto",
+      "popularRepository": {
+        "name": "hiring-without-whiteboards",
+        "url": "https://github.com/poteto/hiring-without-whiteboards",
+        "description": "⭐️ Companies that don't have a broken hiring process"
+      },
+      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "narumiruna",
+      "rank": "#08",
+      "name": "なるみ",
+      "username": "narumiruna",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4680567?s=96&v=4",
+      "url": "https://github.com/narumiruna",
+      "popularRepository": {
+        "name": "pi-extensions",
+        "url": "https://github.com/narumiruna/pi-extensions",
+        "description": "A monorepo of Pi Coding Agent extensions"
+      },
+      "why": "なるみ is trending because their repository pi-extensions is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
       ]
     },
     {
       "id": "colemurray",
-      "rank": "#04",
+      "rank": "#09",
       "name": "Cole Murray",
       "username": "ColeMurray",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?s=96&v=4",
@@ -76,94 +164,25 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "isair",
-      "rank": "#05",
-      "name": "Baris Sencan",
-      "username": "isair",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/988213?s=96&v=4",
-      "url": "https://github.com/isair",
+      "id": "ruvnet",
+      "rank": "#10",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
       "popularRepository": {
-        "name": "jarvis",
-        "url": "https://github.com/isair/jarvis",
-        "description": "A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room,…"
+        "name": "RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
       },
-      "why": "Baris Sencan is trending because their repository jarvis is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "lfnovo",
-      "rank": "#06",
-      "name": "Luis Novo",
-      "username": "lfnovo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/579178?s=96&v=4",
-      "url": "https://github.com/lfnovo",
-      "popularRepository": {
-        "name": "open-notebook",
-        "url": "https://github.com/lfnovo/open-notebook",
-        "description": "An Open Source implementation of Notebook LM with more flexibility and features"
-      },
-      "why": "Luis Novo is trending because their repository open-notebook is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "hrydgard",
-      "rank": "#07",
-      "name": "Henrik Rydgård",
-      "username": "hrydgard",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/130929?s=96&v=4",
-      "url": "https://github.com/hrydgard",
-      "popularRepository": {
-        "name": "ppsspp",
-        "url": "https://github.com/hrydgard/ppsspp",
-        "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
-      },
-      "why": "Henrik Rydgård is trending because their repository ppsspp is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "xxjsonderuloxx",
-      "rank": "#08",
-      "name": "Kurt Himebauch",
-      "username": "xXJSONDeruloXx",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136133082?s=96&v=4",
-      "url": "https://github.com/xXJSONDeruloXx",
-      "popularRepository": {
-        "name": "decky-lsfg-vk",
-        "url": "https://github.com/xXJSONDeruloXx/decky-lsfg-vk",
-        "description": "Decky plugin to streamline installation and usage of lsfg-vk; the Lossless Scaling compatibility layer for linux"
-      },
-      "why": "Kurt Himebauch is trending because their repository decky-lsfg-vk is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "pawurb",
-      "rank": "#09",
-      "name": "Paweł Urbanek",
-      "username": "pawurb",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1131944?s=96&v=4",
-      "url": "https://github.com/pawurb",
-      "popularRepository": {
-        "name": "hotpath-rs",
-        "url": "https://github.com/pawurb/hotpath-rs",
-        "description": "Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support."
-      },
-      "why": "Paweł Urbanek is trending because their repository hotpath-rs is receiving visible attention on GitHub today.",
+      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "justvugg",
-      "rank": "#10",
+      "rank": "#11",
       "name": "Vincenzo Fornaro",
       "username": "JustVugg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
@@ -179,71 +198,45 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "doitsujin",
-      "rank": "#11",
-      "name": "Philip Rebohle",
-      "username": "doitsujin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25567304?s=96&v=4",
-      "url": "https://github.com/doitsujin",
-      "popularRepository": {
-        "name": "dxvk",
-        "url": "https://github.com/doitsujin/dxvk",
-        "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine"
-      },
-      "why": "Philip Rebohle is trending because their repository dxvk is receiving visible attention on GitHub today.",
+      "id": "yorch",
+      "rank": "#12",
+      "name": "Jorge Barnaby",
+      "username": "yorch",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60499?s=96&v=4",
+      "url": "https://github.com/yorch",
+      "popularRepository": null,
+      "why": "Jorge Barnaby is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "tt-a1i",
-      "rank": "#12",
-      "name": "tt-a1i",
-      "username": "tt-a1i",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
-      "url": "https://github.com/tt-a1i",
+      "id": "frankbria",
+      "rank": "#13",
+      "name": "Frank Bria",
+      "username": "frankbria",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136862992?s=96&v=4",
+      "url": "https://github.com/frankbria",
       "popularRepository": {
-        "name": "archify",
-        "url": "https://github.com/tt-a1i/archify",
-        "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
+        "name": "ralph-claude-code",
+        "url": "https://github.com/frankbria/ralph-claude-code",
+        "description": "Autonomous AI development loop for Claude Code with intelligent exit detection"
       },
-      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
+      "why": "Frank Bria is trending because their repository ralph-claude-code is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "maurodesouza",
-      "rank": "#13",
-      "name": "Mauro de Souza",
-      "username": "maurodesouza",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54520907?s=96&v=4",
-      "url": "https://github.com/maurodesouza",
-      "popularRepository": {
-        "name": "profile-readme-generator",
-        "url": "https://github.com/maurodesouza/profile-readme-generator",
-        "description": "🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile R…"
-      },
-      "why": "Mauro de Souza is trending because their repository profile-readme-generator is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "sega757",
+      "id": "cliffhall",
       "rank": "#14",
-      "name": "Sega",
-      "username": "Sega757",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/110115549?s=96&v=4",
-      "url": "https://github.com/Sega757",
-      "popularRepository": {
-        "name": "Fast-AtomRAG-Core",
-        "url": "https://github.com/Sega757/Fast-AtomRAG-Core",
-        "description": "Fast-AtomRAG-Core"
-      },
-      "why": "Sega is trending because their repository Fast-AtomRAG-Core is receiving visible attention on GitHub today.",
+      "name": "Cliff Hall",
+      "username": "cliffhall",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/871933?s=96&v=4",
+      "url": "https://github.com/cliffhall",
+      "popularRepository": null,
+      "why": "Cliff Hall is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
