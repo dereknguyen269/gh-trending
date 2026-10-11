@@ -1,5 +1,5 @@
 window.trendingRepos = {
-  "updatedAt": "2026-10-10T05:52:53.361Z",
+  "updatedAt": "2026-10-11T05:46:57.085Z",
   "source": "https://github.com/trending?since=daily",
   "repositories": [
     {
@@ -9,9 +9,9 @@ window.trendingRepos = {
       "title": "morluto / rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars": 52665,
-      "forks": 9767,
-      "starsToday": 14927,
+      "stars": 78090,
+      "forks": 16766,
+      "starsToday": 25793,
       "url": "https://github.com/morluto/rea",
       "rank": "#01",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
@@ -28,9 +28,9 @@ window.trendingRepos = {
       "title": "boykopovar / AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars": 23168,
-      "forks": 1909,
-      "starsToday": 5868,
+      "stars": 27418,
+      "forks": 2312,
+      "starsToday": 5805,
       "url": "https://github.com/boykopovar/AnyPS5",
       "rank": "#02",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
@@ -41,22 +41,21 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "skills",
-      "owner": "mattpocock",
-      "name": "skills",
-      "title": "mattpocock / skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": 283094,
-      "forks": 23717,
-      "starsToday": 1687,
-      "url": "https://github.com/mattpocock/skills",
+      "id": "artcraft",
+      "owner": "storytold",
+      "name": "artcraft",
+      "title": "storytold / artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 15008,
+      "forks": 2388,
+      "starsToday": 3222,
+      "url": "https://github.com/storytold/artcraft",
       "rank": "#03",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
       "tags": [
-        "Shell",
-        "AI"
+        "Rust"
       ]
     },
     {
@@ -64,11 +63,11 @@ window.trendingRepos = {
       "owner": "cathrynlavery",
       "name": "diagram-design",
       "title": "cathrynlavery / diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars": 48149,
-      "forks": 3048,
-      "starsToday": 1739,
+      "stars": 49187,
+      "forks": 3112,
+      "starsToday": 1190,
       "url": "https://github.com/cathrynlavery/diagram-design",
       "rank": "#04",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
@@ -79,23 +78,138 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "open-code-review",
-      "owner": "alibaba",
-      "name": "open-code-review",
-      "title": "alibaba / open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars": 45453,
-      "forks": 3281,
-      "starsToday": 326,
-      "url": "https://github.com/alibaba/open-code-review",
+      "id": "context-mode",
+      "owner": "mksglu",
+      "name": "context-mode",
+      "title": "mksglu / context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 26420,
+      "forks": 1903,
+      "starsToday": 178,
+      "url": "https://github.com/mksglu/context-mode",
       "rank": "#05",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Go repositories and deciding what deserves a deeper look.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
-        "Go",
+        "TypeScript",
         "AI",
-        "Open source"
+        "Tooling"
+      ]
+    },
+    {
+      "id": "skills",
+      "owner": "mattpocock",
+      "name": "skills",
+      "title": "mattpocock / skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 284809,
+      "forks": 23836,
+      "starsToday": 1736,
+      "url": "https://github.com/mattpocock/skills",
+      "rank": "#06",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Shell repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Shell",
+        "AI"
+      ]
+    },
+    {
+      "id": "flutter",
+      "owner": "flutter",
+      "name": "flutter",
+      "title": "flutter / flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars": 179618,
+      "forks": 33618,
+      "starsToday": 88,
+      "url": "https://github.com/flutter/flutter",
+      "rank": "#07",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Dart repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Dart"
+      ]
+    },
+    {
+      "id": "tensorflow",
+      "owner": "tensorflow",
+      "name": "tensorflow",
+      "title": "tensorflow / tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": 200775,
+      "forks": 78980,
+      "starsToday": 26,
+      "url": "https://github.com/tensorflow/tensorflow",
+      "rank": "#08",
+      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
+      "fit": "Developers evaluating fast-moving C++ repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "C++",
+        "Open source",
+        "Learning"
+      ]
+    },
+    {
+      "id": "ppt-master",
+      "owner": "hugohe3",
+      "name": "ppt-master",
+      "title": "hugohe3 / ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "stars": 59694,
+      "forks": 4705,
+      "starsToday": 461,
+      "url": "https://github.com/hugohe3/ppt-master",
+      "rank": "#09",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI",
+        "Docs"
+      ]
+    },
+    {
+      "id": "pytorch",
+      "owner": "pytorch",
+      "name": "pytorch",
+      "title": "pytorch / pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars": 104190,
+      "forks": 31966,
+      "starsToday": 84,
+      "url": "https://github.com/pytorch/pytorch",
+      "rank": "#10",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python"
+      ]
+    },
+    {
+      "id": "transformers",
+      "owner": "huggingface",
+      "name": "transformers",
+      "title": "huggingface / transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars": 167364,
+      "forks": 34807,
+      "starsToday": 96,
+      "url": "https://github.com/huggingface/transformers",
+      "rank": "#11",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI",
+        "Learning"
       ]
     },
     {
@@ -105,11 +219,11 @@ window.trendingRepos = {
       "title": "anthropics / knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars": 28395,
-      "forks": 3255,
-      "starsToday": 709,
+      "stars": 28903,
+      "forks": 3284,
+      "starsToday": 625,
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "rank": "#06",
+      "rank": "#12",
       "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -119,98 +233,22 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "litellm",
-      "owner": "BerriAI",
-      "name": "litellm",
-      "title": "BerriAI / litellm",
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "language": "Python",
-      "stars": 60771,
-      "forks": 12198,
-      "starsToday": 95,
-      "url": "https://github.com/BerriAI/litellm",
-      "rank": "#07",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "AI",
-        "Open source"
-      ]
-    },
-    {
-      "id": "agent-skills",
-      "owner": "addyosmani",
-      "name": "agent-skills",
-      "title": "addyosmani / agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars": 104148,
-      "forks": 10872,
-      "starsToday": 436,
-      "url": "https://github.com/addyosmani/agent-skills",
-      "rank": "#08",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "JavaScript",
-        "AI"
-      ]
-    },
-    {
-      "id": "artcraft",
-      "owner": "storytold",
-      "name": "artcraft",
-      "title": "storytold / artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "stars": 12088,
-      "forks": 1842,
-      "starsToday": 3752,
-      "url": "https://github.com/storytold/artcraft",
-      "rank": "#09",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Rust"
-      ]
-    },
-    {
-      "id": "lingbot-map",
-      "owner": "Robbyant",
-      "name": "lingbot-map",
-      "title": "Robbyant / lingbot-map",
-      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "language": "Python",
-      "stars": 17798,
-      "forks": 1957,
-      "starsToday": 110,
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "rank": "#10",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python"
-      ]
-    },
-    {
-      "id": "swiftui-agent-skill",
-      "owner": "twostraws",
-      "name": "SwiftUI-Agent-Skill",
-      "title": "twostraws / SwiftUI-Agent-Skill",
-      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "id": "andrej-karpathy-skills",
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "title": "multica-ai / andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "Unknown",
-      "stars": 5558,
-      "forks": 197,
-      "starsToday": 65,
-      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-      "rank": "#11",
+      "stars": 218431,
+      "forks": 21995,
+      "starsToday": 278,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "rank": "#13",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Unknown repositories and deciding what deserves a deeper look.",
       "tags": [
         "Unknown",
-        "AI",
-        "Tooling"
+        "AI"
       ]
     }
   ]
