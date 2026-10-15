@@ -1,37 +1,38 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-10-14T04:54:03.083Z",
+  "updatedAt": "2026-10-15T04:39:18.848Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "agalwood",
+      "id": "richiemcilroy",
       "rank": "#01",
-      "name": "Dr_rOot",
-      "username": "agalwood",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1032175?s=96&v=4",
-      "url": "https://github.com/agalwood",
+      "name": "Richie McIlroy",
+      "username": "richiemcilroy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33632126?s=96&v=4",
+      "url": "https://github.com/richiemcilroy",
       "popularRepository": {
-        "name": "Motrix",
-        "url": "https://github.com/agalwood/Motrix",
-        "description": "A full-featured download manager."
+        "name": "Tov",
+        "url": "https://github.com/richiemcilroy/Tov",
+        "description": "A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries."
       },
-      "why": "Dr_rOot is trending because their repository Motrix is receiving visible attention on GitHub today.",
+      "why": "Richie McIlroy is trending because their repository Tov is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
       ]
     },
     {
-      "id": "yetone",
+      "id": "frankbria",
       "rank": "#02",
-      "name": "yetone",
-      "username": "yetone",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1206493?s=96&v=4",
-      "url": "https://github.com/yetone",
+      "name": "Frank Bria",
+      "username": "frankbria",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136862992?s=96&v=4",
+      "url": "https://github.com/frankbria",
       "popularRepository": {
-        "name": "magpie",
-        "url": "https://github.com/yetone/magpie",
-        "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+        "name": "ralph-claude-code",
+        "url": "https://github.com/frankbria/ralph-claude-code",
+        "description": "Autonomous AI development loop for Claude Code with intelligent exit detection"
       },
-      "why": "yetone is trending because their repository magpie is receiving visible attention on GitHub today.",
+      "why": "Frank Bria is trending because their repository ralph-claude-code is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -55,25 +56,81 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "echelon",
+      "id": "makazhanalpamys",
       "rank": "#04",
-      "name": "Brandon Thomas",
-      "username": "echelon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39263?s=96&v=4",
-      "url": "https://github.com/echelon",
+      "name": "Alpamys Makazhan",
+      "username": "MakazhanAlpamys",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/188336071?s=96&v=4",
+      "url": "https://github.com/MakazhanAlpamys",
       "popularRepository": {
-        "name": "mac-spaces-labels",
-        "url": "https://github.com/echelon/mac-spaces-labels",
-        "description": "label mac spaces"
+        "name": "Soup",
+        "url": "https://github.com/MakazhanAlpamys/Soup",
+        "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
       },
-      "why": "Brandon Thomas is trending because their repository mac-spaces-labels is receiving visible attention on GitHub today.",
+      "why": "Alpamys Makazhan is trending because their repository Soup is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "morluto",
+      "rank": "#05",
+      "name": "morluto",
+      "username": "morluto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76467478?s=96&v=4",
+      "url": "https://github.com/morluto",
+      "popularRepository": {
+        "name": "rea",
+        "url": "https://github.com/morluto/rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+      },
+      "why": "morluto is trending because their repository rea is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "noonghunna",
+      "rank": "#06",
+      "name": "noonghunna",
+      "username": "noonghunna",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10742901?s=96&v=4",
+      "url": "https://github.com/noonghunna",
+      "popularRepository": {
+        "name": "club-3090",
+        "url": "https://github.com/noonghunna/club-3090",
+        "description": "Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, sglang, llama.cpp and other custom engines) and m…"
+      },
+      "why": "noonghunna is trending because their repository club-3090 is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "jamiepine",
+      "rank": "#07",
+      "name": "Jamie Pine",
+      "username": "jamiepine",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32987599?s=96&v=4",
+      "url": "https://github.com/jamiepine",
+      "popularRepository": {
+        "name": "voicebox",
+        "url": "https://github.com/jamiepine/voicebox",
+        "description": "The open-source AI voice studio. Clone, dictate, create."
+      },
+      "why": "Jamie Pine is trending because their repository voicebox is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
       ]
     },
     {
       "id": "maziyarpanahi",
-      "rank": "#05",
+      "rank": "#08",
       "name": "Maziyar Panahi",
       "username": "maziyarpanahi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
@@ -90,25 +147,43 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "cyan4973",
-      "rank": "#06",
-      "name": "Yann Collet",
-      "username": "Cyan4973",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/750081?s=96&v=4",
-      "url": "https://github.com/Cyan4973",
+      "id": "zhaochenyang20",
+      "rank": "#09",
+      "name": "赵晨阳",
+      "username": "zhaochenyang20",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74843776?s=96&v=4",
+      "url": "https://github.com/zhaochenyang20",
       "popularRepository": {
-        "name": "xxHash",
-        "url": "https://github.com/Cyan4973/xxHash",
-        "description": "Extremely fast non-cryptographic hash algorithm"
+        "name": "Awesome-ML-SYS-Tutorial",
+        "url": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial",
+        "description": "My learning notes for ML SYS."
       },
-      "why": "Yann Collet is trending because their repository xxHash is receiving visible attention on GitHub today.",
+      "why": "赵晨阳 is trending because their repository Awesome-ML-SYS-Tutorial is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
+      "id": "yetone",
+      "rank": "#10",
+      "name": "yetone",
+      "username": "yetone",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1206493?s=96&v=4",
+      "url": "https://github.com/yetone",
+      "popularRepository": {
+        "name": "magpie",
+        "url": "https://github.com/yetone/magpie",
+        "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+      },
+      "why": "yetone is trending because their repository magpie is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
       "id": "elie222",
-      "rank": "#07",
+      "rank": "#11",
       "name": "Elie Steinbock",
       "username": "elie222",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
@@ -124,122 +199,53 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "wszqkzqk",
-      "rank": "#08",
-      "name": "wszqkzqk",
-      "username": "wszqkzqk",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12961135?s=96&v=4",
-      "url": "https://github.com/wszqkzqk",
+      "id": "jorgemanrubia",
+      "rank": "#12",
+      "name": "Jorge Manrubia",
+      "username": "jorgemanrubia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/129938?s=96&v=4",
+      "url": "https://github.com/jorgemanrubia",
       "popularRepository": {
-        "name": "PvZ-Portable",
-        "url": "https://github.com/wszqkzqk/PvZ-Portable",
-        "description": "A cross-platform reimplementation of Plants vs. Zombies by the community. Aiming to bring 100% authentic experience of GOTY edition."
+        "name": "omacharts",
+        "url": "https://github.com/jorgemanrubia/omacharts",
+        "description": "Fast, beautiful charting software for Omarchy"
       },
-      "why": "wszqkzqk is trending because their repository PvZ-Portable is receiving visible attention on GitHub today.",
+      "why": "Jorge Manrubia is trending because their repository omacharts is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "teng-lin",
+      "rank": "#13",
+      "name": "Teng Lin",
+      "username": "teng-lin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/737447?s=96&v=4",
+      "url": "https://github.com/teng-lin",
+      "popularRepository": {
+        "name": "notebooklm-py",
+        "url": "https://github.com/teng-lin/notebooklm-py",
+        "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capa…"
+      },
+      "why": "Teng Lin is trending because their repository notebooklm-py is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "saladday",
-      "rank": "#09",
-      "name": "SaladDay",
-      "username": "SaladDay",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92240037?s=96&v=4",
-      "url": "https://github.com/SaladDay",
-      "popularRepository": {
-        "name": "cc-switch-cli",
-        "url": "https://github.com/SaladDay/cc-switch-cli",
-        "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
-      },
-      "why": "SaladDay is trending because their repository cc-switch-cli is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "momo5502",
-      "rank": "#10",
-      "name": "Maurice Heumann",
-      "username": "momo5502",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4027748?s=96&v=4",
-      "url": "https://github.com/momo5502",
-      "popularRepository": {
-        "name": "sogen",
-        "url": "https://github.com/momo5502/sogen",
-        "description": "🪅 Windows & Linux userspace emulator"
-      },
-      "why": "Maurice Heumann is trending because their repository sogen is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "akshaydeo",
-      "rank": "#11",
-      "name": "Akshay Deo",
-      "username": "akshaydeo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1050029?s=96&v=4",
-      "url": "https://github.com/akshaydeo",
-      "popularRepository": {
-        "name": "strip",
-        "url": "https://github.com/akshaydeo/strip",
-        "description": "Strip function calls during builds from your Go code"
-      },
-      "why": "Akshay Deo is trending because their repository strip is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "poteto",
-      "rank": "#12",
-      "name": "lauren",
-      "username": "poteto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
-      "url": "https://github.com/poteto",
-      "popularRepository": {
-        "name": "hiring-without-whiteboards",
-        "url": "https://github.com/poteto/hiring-without-whiteboards",
-        "description": "⭐️ Companies that don't have a broken hiring process"
-      },
-      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "ja7ad",
-      "rank": "#13",
-      "name": "Javad Rajabzadeh",
-      "username": "ja7ad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56496801?s=96&v=4",
-      "url": "https://github.com/ja7ad",
-      "popularRepository": {
-        "name": "hydra",
-        "url": "https://github.com/ja7ad/hydra",
-        "description": "A fast, resilient, multi-source file retriever and download engine"
-      },
-      "why": "Javad Rajabzadeh is trending because their repository hydra is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "hypery11",
+      "id": "agalwood",
       "rank": "#14",
-      "name": "hypery11",
-      "username": "hypery11",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4160414?s=96&v=4",
-      "url": "https://github.com/hypery11",
+      "name": "Dr_rOot",
+      "username": "agalwood",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1032175?s=96&v=4",
+      "url": "https://github.com/agalwood",
       "popularRepository": {
-        "name": "flipper-tesla-fsd",
-        "url": "https://github.com/hypery11/flipper-tesla-fsd",
-        "description": "Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, CAN captu…"
+        "name": "Motrix",
+        "url": "https://github.com/agalwood/Motrix",
+        "description": "A full-featured download manager."
       },
-      "why": "hypery11 is trending because their repository flipper-tesla-fsd is receiving visible attention on GitHub today.",
+      "why": "Dr_rOot is trending because their repository Motrix is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
