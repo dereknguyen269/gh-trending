@@ -1,56 +1,39 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-10-16T04:32:12.438Z",
+  "updatedAt": "2026-10-17T04:26:33.453Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "richiemcilroy",
+      "id": "pacocartones",
       "rank": "#01",
-      "name": "Richie McIlroy",
-      "username": "richiemcilroy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33632126?s=96&v=4",
-      "url": "https://github.com/richiemcilroy",
+      "name": "Paco Cartones",
+      "username": "pacocartones",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/253313177?s=96&v=4",
+      "url": "https://github.com/pacocartones",
       "popularRepository": {
-        "name": "Tov",
-        "url": "https://github.com/richiemcilroy/Tov",
-        "description": "A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries."
+        "name": "free-llm-api-hub",
+        "url": "https://github.com/pacocartones/free-llm-api-hub",
+        "description": "A continuously-verified dataset of free-tier & trial-credit LLM APIs for developers. Every entry dated, sourced to the provider's own doc…"
       },
-      "why": "Richie McIlroy is trending because their repository Tov is receiving visible attention on GitHub today.",
+      "why": "Paco Cartones is trending because their repository free-llm-api-hub is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "AI",
+        "Data"
       ]
     },
     {
-      "id": "100yenadmin",
+      "id": "pbakaus",
       "rank": "#02",
-      "name": "EVA",
-      "username": "100yenadmin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/239388517?s=96&v=4",
-      "url": "https://github.com/100yenadmin",
+      "name": "Paul Bakaus",
+      "username": "pbakaus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
+      "url": "https://github.com/pbakaus",
       "popularRepository": {
-        "name": "fish-audio-hermes",
-        "url": "https://github.com/100yenadmin/fish-audio-hermes",
-        "description": "Official Fish Audio plugin for Hermes Agent: expressive text-to-speech, speech-to-text, voice library, cloning and voice design."
+        "name": "impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "description": "The design language that makes your AI harness better at design."
       },
-      "why": "EVA is trending because their repository fish-audio-hermes is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "teng-lin",
-      "rank": "#03",
-      "name": "Teng Lin",
-      "username": "teng-lin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/737447?s=96&v=4",
-      "url": "https://github.com/teng-lin",
-      "popularRepository": {
-        "name": "notebooklm-py",
-        "url": "https://github.com/teng-lin/notebooklm-py",
-        "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capa…"
-      },
-      "why": "Teng Lin is trending because their repository notebooklm-py is receiving visible attention on GitHub today.",
+      "why": "Paul Bakaus is trending because their repository impeccable is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -58,7 +41,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "makazhanalpamys",
-      "rank": "#04",
+      "rank": "#03",
       "name": "Alpamys Makazhan",
       "username": "MakazhanAlpamys",
       "avatarUrl": "https://avatars.githubusercontent.com/u/188336071?s=96&v=4",
@@ -75,25 +58,145 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "unxed",
-      "rank": "#05",
-      "name": "unxed",
-      "username": "unxed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1151423?s=96&v=4",
-      "url": "https://github.com/unxed",
+      "id": "klauspost",
+      "rank": "#04",
+      "name": "Klaus Post",
+      "username": "klauspost",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5663952?s=96&v=4",
+      "url": "https://github.com/klauspost",
       "popularRepository": {
-        "name": "dn",
-        "url": "https://github.com/unxed/dn",
-        "description": "DN revitalization"
+        "name": "compress",
+        "url": "https://github.com/klauspost/compress",
+        "description": "Optimized Go Compression Packages"
       },
-      "why": "unxed is trending because their repository dn is receiving visible attention on GitHub today.",
+      "why": "Klaus Post is trending because their repository compress is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "dashhuang",
+      "rank": "#05",
+      "name": "Dash",
+      "username": "dashhuang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125997726?s=96&v=4",
+      "url": "https://github.com/dashhuang",
+      "popularRepository": {
+        "name": "DisplayFill",
+        "url": "https://github.com/dashhuang/DisplayFill",
+        "description": "No popular repository description available."
+      },
+      "why": "Dash is trending because their repository DisplayFill is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "timoncool",
+      "rank": "#06",
+      "name": "Ilya (Nerual Dreming) Timonin",
+      "username": "timoncool",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26026304?s=96&v=4",
+      "url": "https://github.com/timoncool",
+      "popularRepository": {
+        "name": "YuE2-Studio",
+        "url": "https://github.com/timoncool/YuE2-Studio",
+        "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+      },
+      "why": "Ilya (Nerual Dreming) Timonin is trending because their repository YuE2-Studio is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "colemurray",
+      "rank": "#07",
+      "name": "Cole Murray",
+      "username": "ColeMurray",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?s=96&v=4",
+      "url": "https://github.com/ColeMurray",
+      "popularRepository": {
+        "name": "background-agents",
+        "url": "https://github.com/ColeMurray/background-agents",
+        "description": "An open-source background agents coding system"
+      },
+      "why": "Cole Murray is trending because their repository background-agents is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "lidge-jun",
+      "rank": "#08",
+      "name": "JUN",
+      "username": "lidge-jun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
+      "url": "https://github.com/lidge-jun",
+      "popularRepository": {
+        "name": "opencodex",
+        "url": "https://github.com/lidge-jun/opencodex",
+        "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+      },
+      "why": "JUN is trending because their repository opencodex is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "poteto",
+      "rank": "#09",
+      "name": "lauren",
+      "username": "poteto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
+      "url": "https://github.com/poteto",
+      "popularRepository": {
+        "name": "hiring-without-whiteboards",
+        "url": "https://github.com/poteto/hiring-without-whiteboards",
+        "description": "⭐️ Companies that don't have a broken hiring process"
+      },
+      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "mmabrouk",
+      "rank": "#10",
+      "name": "Mahmoud Mabrouk",
+      "username": "mmabrouk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4510758?s=96&v=4",
+      "url": "https://github.com/mmabrouk",
+      "popularRepository": null,
+      "why": "Mahmoud Mabrouk is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "penso",
+      "rank": "#11",
+      "name": "Fabien Penso",
+      "username": "penso",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7703?s=96&v=4",
+      "url": "https://github.com/penso",
+      "popularRepository": {
+        "name": "herdr-gpui",
+        "url": "https://github.com/penso/herdr-gpui",
+        "description": "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and ag…"
+      },
+      "why": "Fabien Penso is trending because their repository herdr-gpui is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "frankbria",
-      "rank": "#06",
+      "rank": "#12",
       "name": "Frank Bria",
       "username": "frankbria",
       "avatarUrl": "https://avatars.githubusercontent.com/u/136862992?s=96&v=4",
@@ -110,139 +213,36 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "poteto",
-      "rank": "#07",
-      "name": "lauren",
-      "username": "poteto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
-      "url": "https://github.com/poteto",
-      "popularRepository": {
-        "name": "hiring-without-whiteboards",
-        "url": "https://github.com/poteto/hiring-without-whiteboards",
-        "description": "⭐️ Companies that don't have a broken hiring process"
-      },
-      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "n0zom1z0",
-      "rank": "#08",
-      "name": "Ysopwnable",
-      "username": "N0zoM1z0",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/161784452?s=96&v=4",
-      "url": "https://github.com/N0zoM1z0",
-      "popularRepository": {
-        "name": "dx-ball",
-        "url": "https://github.com/N0zoM1z0/dx-ball",
-        "description": "Reconstructing DX-Ball 1.07 with REA, backed by original-x86 differential tests and pinned MSVC byte-exact oracles."
-      },
-      "why": "Ysopwnable is trending because their repository dx-ball is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "penso",
-      "rank": "#09",
-      "name": "Fabien Penso",
-      "username": "penso",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7703?s=96&v=4",
-      "url": "https://github.com/penso",
-      "popularRepository": {
-        "name": "herdr-gpui",
-        "url": "https://github.com/penso/herdr-gpui",
-        "description": "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and ag…"
-      },
-      "why": "Fabien Penso is trending because their repository herdr-gpui is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "zhaochenyang20",
-      "rank": "#10",
-      "name": "赵晨阳",
-      "username": "zhaochenyang20",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74843776?s=96&v=4",
-      "url": "https://github.com/zhaochenyang20",
-      "popularRepository": {
-        "name": "Awesome-ML-SYS-Tutorial",
-        "url": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial",
-        "description": "My learning notes for ML SYS."
-      },
-      "why": "赵晨阳 is trending because their repository Awesome-ML-SYS-Tutorial is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "gmegidish",
-      "rank": "#11",
-      "name": "Gil Megidish",
-      "username": "gmegidish",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2457607?s=96&v=4",
-      "url": "https://github.com/gmegidish",
-      "popularRepository": {
-        "name": "alleycat-disassembly",
-        "url": "https://github.com/gmegidish/alleycat-disassembly",
-        "description": "AI-powered disassembly of Alley Cat (msdos) by Bill Williams 1983"
-      },
-      "why": "Gil Megidish is trending because their repository alleycat-disassembly is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "mpfaffenberger",
-      "rank": "#12",
-      "name": "Mike Pfaffenberger",
-      "username": "mpfaffenberger",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5629756?s=96&v=4",
-      "url": "https://github.com/mpfaffenberger",
-      "popularRepository": {
-        "name": "code_puppy",
-        "url": "https://github.com/mpfaffenberger/code_puppy",
-        "description": "Agentic AI for writing code"
-      },
-      "why": "Mike Pfaffenberger is trending because their repository code_puppy is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "agalwood",
+      "id": "deusdata",
       "rank": "#13",
-      "name": "Dr_rOot",
-      "username": "agalwood",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1032175?s=96&v=4",
-      "url": "https://github.com/agalwood",
+      "name": "Martin Vogel",
+      "username": "DeusData",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=96&v=4",
+      "url": "https://github.com/DeusData",
       "popularRepository": {
-        "name": "Motrix",
-        "url": "https://github.com/agalwood/Motrix",
-        "description": "A full-featured download manager."
+        "name": "codebase-memory-mcp",
+        "url": "https://github.com/DeusData/codebase-memory-mcp",
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 la…"
       },
-      "why": "Dr_rOot is trending because their repository Motrix is receiving visible attention on GitHub today.",
+      "why": "Martin Vogel is trending because their repository codebase-memory-mcp is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "Data"
       ]
     },
     {
-      "id": "noonghunna",
+      "id": "teng-lin",
       "rank": "#14",
-      "name": "noonghunna",
-      "username": "noonghunna",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10742901?s=96&v=4",
-      "url": "https://github.com/noonghunna",
+      "name": "Teng Lin",
+      "username": "teng-lin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/737447?s=96&v=4",
+      "url": "https://github.com/teng-lin",
       "popularRepository": {
-        "name": "club-3090",
-        "url": "https://github.com/noonghunna/club-3090",
-        "description": "Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, sglang, llama.cpp and other custom engines) and m…"
+        "name": "notebooklm-py",
+        "url": "https://github.com/teng-lin/notebooklm-py",
+        "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capa…"
       },
-      "why": "noonghunna is trending because their repository club-3090 is receiving visible attention on GitHub today.",
+      "why": "Teng Lin is trending because their repository notebooklm-py is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
