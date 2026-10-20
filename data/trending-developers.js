@@ -1,10 +1,28 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-10-19T04:40:54.613Z",
+  "updatedAt": "2026-10-20T04:51:16.856Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "koala73",
+      "id": "mvschwarz",
       "rank": "#01",
+      "name": "Mike Schwarz",
+      "username": "mvschwarz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/171890339?s=96&v=4",
+      "url": "https://github.com/mvschwarz",
+      "popularRepository": {
+        "name": "openrig",
+        "url": "https://github.com/mvschwarz/openrig",
+        "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+      },
+      "why": "Mike Schwarz is trending because their repository openrig is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "koala73",
+      "rank": "#02",
       "name": "Elie Habib",
       "username": "koala73",
       "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
@@ -21,61 +39,75 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "ikalus1988",
-      "rank": "#02",
-      "name": "Ikalus1988",
-      "username": "Ikalus1988",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136884451?s=96&v=4",
-      "url": "https://github.com/Ikalus1988",
-      "popularRepository": {
-        "name": "MisakaNet",
-        "url": "https://github.com/Ikalus1988/MisakaNet",
-        "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | ht…"
-      },
-      "why": "Ikalus1988 is trending because their repository MisakaNet is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "klauspost",
+      "id": "jonathanong",
       "rank": "#03",
-      "name": "Klaus Post",
-      "username": "klauspost",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5663952?s=96&v=4",
-      "url": "https://github.com/klauspost",
-      "popularRepository": {
-        "name": "compress",
-        "url": "https://github.com/klauspost/compress",
-        "description": "Optimized Go Compression Packages"
-      },
-      "why": "Klaus Post is trending because their repository compress is receiving visible attention on GitHub today.",
+      "name": "jongleberry",
+      "username": "jonathanong",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/643505?s=96&v=4",
+      "url": "https://github.com/jonathanong",
+      "popularRepository": null,
+      "why": "jongleberry is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "ctate",
+      "id": "narumiruna",
       "rank": "#04",
-      "name": "Chris Tate",
-      "username": "ctate",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=96&v=4",
-      "url": "https://github.com/ctate",
+      "name": "なるみ",
+      "username": "narumiruna",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4680567?s=96&v=4",
+      "url": "https://github.com/narumiruna",
       "popularRepository": {
-        "name": "3d-model-generator",
-        "url": "https://github.com/ctate/3d-model-generator",
-        "description": "Generate 3D models with AI"
+        "name": "pi-extensions",
+        "url": "https://github.com/narumiruna/pi-extensions",
+        "description": "A monorepo of Pi Coding Agent extensions"
       },
-      "why": "Chris Tate is trending because their repository 3d-model-generator is receiving visible attention on GitHub today.",
+      "why": "なるみ is trending because their repository pi-extensions is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "melgarafael",
+      "id": "garrytan",
       "rank": "#05",
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
+      "url": "https://github.com/garrytan",
+      "popularRepository": {
+        "name": "gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+      },
+      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "deusdata",
+      "rank": "#06",
+      "name": "Martin Vogel",
+      "username": "DeusData",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=96&v=4",
+      "url": "https://github.com/DeusData",
+      "popularRepository": {
+        "name": "codebase-memory-mcp",
+        "url": "https://github.com/DeusData/codebase-memory-mcp",
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 la…"
+      },
+      "why": "Martin Vogel is trending because their repository codebase-memory-mcp is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Data"
+      ]
+    },
+    {
+      "id": "melgarafael",
+      "rank": "#07",
       "name": "Rafael Melgaço",
       "username": "melgarafael",
       "avatarUrl": "https://avatars.githubusercontent.com/u/119944436?s=96&v=4",
@@ -93,25 +125,43 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "poteto",
-      "rank": "#06",
-      "name": "lauren",
-      "username": "poteto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
-      "url": "https://github.com/poteto",
+      "id": "raullenchai",
+      "rank": "#08",
+      "name": "Raullen Chai",
+      "username": "raullenchai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/989846?s=96&v=4",
+      "url": "https://github.com/raullenchai",
       "popularRepository": {
-        "name": "hiring-without-whiteboards",
-        "url": "https://github.com/poteto/hiring-without-whiteboards",
-        "description": "⭐️ Companies that don't have a broken hiring process"
+        "name": "esp32-thinks",
+        "url": "https://github.com/raullenchai/esp32-thinks",
+        "description": "A multi-model Muse: personal AI voice assistant on ESP32 - wake word or knob, any OpenAI-compatible brain (STT/chat/TTS mix-and-match), s…"
       },
-      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
+      "why": "Raullen Chai is trending because their repository esp32-thinks is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "elie222",
+      "rank": "#09",
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
+      "url": "https://github.com/elie222",
+      "popularRepository": {
+        "name": "rakazo",
+        "url": "https://github.com/elie222/rakazo",
+        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+      },
+      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "hrydgard",
-      "rank": "#07",
+      "rank": "#10",
       "name": "Henrik Rydgård",
       "username": "hrydgard",
       "avatarUrl": "https://avatars.githubusercontent.com/u/130929?s=96&v=4",
@@ -127,26 +177,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "pbakaus",
-      "rank": "#08",
-      "name": "Paul Bakaus",
-      "username": "pbakaus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
-      "url": "https://github.com/pbakaus",
-      "popularRepository": {
-        "name": "impeccable",
-        "url": "https://github.com/pbakaus/impeccable",
-        "description": "The design language that makes your AI harness better at design."
-      },
-      "why": "Paul Bakaus is trending because their repository impeccable is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "timoncool",
-      "rank": "#09",
+      "rank": "#11",
       "name": "Ilya (Nerual Dreming) Timonin",
       "username": "timoncool",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26026304?s=96&v=4",
@@ -163,92 +195,58 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "coleam00",
-      "rank": "#10",
-      "name": "Cole Medin",
-      "username": "coleam00",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/47287758?s=96&v=4",
-      "url": "https://github.com/coleam00",
-      "popularRepository": {
-        "name": "Archon",
-        "url": "https://github.com/coleam00/Archon",
-        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
-      },
-      "why": "Cole Medin is trending because their repository Archon is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "deusdata",
-      "rank": "#11",
-      "name": "Martin Vogel",
-      "username": "DeusData",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=96&v=4",
-      "url": "https://github.com/DeusData",
-      "popularRepository": {
-        "name": "codebase-memory-mcp",
-        "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 la…"
-      },
-      "why": "Martin Vogel is trending because their repository codebase-memory-mcp is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Data"
-      ]
-    },
-    {
-      "id": "ruvnet",
+      "id": "git-on-my-level",
       "rank": "#12",
-      "name": "rUv",
-      "username": "ruvnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
-      "url": "https://github.com/ruvnet",
+      "name": "David Zhang",
+      "username": "Git-on-my-level",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9387252?s=96&v=4",
+      "url": "https://github.com/Git-on-my-level",
       "popularRepository": {
-        "name": "ruflo",
-        "url": "https://github.com/ruvnet/ruflo",
-        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+        "name": "self-improving-agent-ecosystem",
+        "url": "https://github.com/Git-on-my-level/self-improving-agent-ecosystem",
+        "description": "Reference architecture, contracts, skills, and fixtures for safe evaluator-driven self-improving ecosystems."
       },
-      "why": "rUv is trending because their repository ruflo is receiving visible attention on GitHub today.",
+      "why": "David Zhang is trending because their repository self-improving-agent-ecosystem is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "narumiruna",
+      "id": "shiaho777",
       "rank": "#13",
-      "name": "なるみ",
-      "username": "narumiruna",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4680567?s=96&v=4",
-      "url": "https://github.com/narumiruna",
+      "name": "shiaho",
+      "username": "shiaho777",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/222622008?s=96&v=4",
+      "url": "https://github.com/shiaho777",
       "popularRepository": {
-        "name": "pi-extensions",
-        "url": "https://github.com/narumiruna/pi-extensions",
-        "description": "A monorepo of Pi Coding Agent extensions"
+        "name": "web-to-app",
+        "url": "https://github.com/shiaho777/web-to-app",
+        "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone"
       },
-      "why": "なるみ is trending because their repository pi-extensions is receiving visible attention on GitHub today.",
+      "why": "shiaho is trending because their repository web-to-app is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "Tooling",
+        "Web"
       ]
     },
     {
-      "id": "78",
+      "id": "rynfar",
       "rank": "#14",
-      "name": "Xiaoxia",
-      "username": "78",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4488133?s=96&v=4",
-      "url": "https://github.com/78",
+      "name": "Trevor Walker",
+      "username": "rynfar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11325514?s=96&v=4",
+      "url": "https://github.com/rynfar",
       "popularRepository": {
-        "name": "xiaozhi-esp32",
-        "url": "https://github.com/78/xiaozhi-esp32",
-        "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人"
+        "name": "meridian",
+        "url": "https://github.com/rynfar/meridian",
+        "description": "Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview…"
       },
-      "why": "Xiaoxia is trending because their repository xiaozhi-esp32 is receiving visible attention on GitHub today.",
+      "why": "Trevor Walker is trending because their repository meridian is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "Web"
       ]
     }
   ]
