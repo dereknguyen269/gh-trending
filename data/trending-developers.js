@@ -1,29 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-10-21T04:47:47.255Z",
+  "updatedAt": "2026-10-22T04:46:10.000Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "lidge-jun",
-      "rank": "#01",
-      "name": "JUN",
-      "username": "lidge-jun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
-      "url": "https://github.com/lidge-jun",
-      "popularRepository": {
-        "name": "opencodex",
-        "url": "https://github.com/lidge-jun/opencodex",
-        "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
-      },
-      "why": "JUN is trending because their repository opencodex is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
       "id": "koala73",
-      "rank": "#02",
+      "rank": "#01",
       "name": "Elie Habib",
       "username": "koala73",
       "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
@@ -40,26 +21,60 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "garrytan",
-      "rank": "#03",
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
-      "url": "https://github.com/garrytan",
+      "id": "elie222",
+      "rank": "#02",
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
+      "url": "https://github.com/elie222",
       "popularRepository": {
-        "name": "gstack",
-        "url": "https://github.com/garrytan/gstack",
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+        "name": "rakazo",
+        "url": "https://github.com/elie222/rakazo",
+        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
       },
-      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
+      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "max-sixty",
+      "rank": "#03",
+      "name": "Maximilian Roos",
+      "username": "max-sixty",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
+      "url": "https://github.com/max-sixty",
+      "popularRepository": {
+        "name": "worktrunk",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+      },
+      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Tooling"
+        "AI"
+      ]
+    },
+    {
+      "id": "colbymchenry",
+      "rank": "#04",
+      "name": "Colby Mchenry",
+      "username": "colbymchenry",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
+      "url": "https://github.com/colbymchenry",
+      "popularRepository": {
+        "name": "codegraph",
+        "url": "https://github.com/colbymchenry/codegraph",
+        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+      },
+      "why": "Colby Mchenry is trending because their repository codegraph is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
       ]
     },
     {
       "id": "qkaiser",
-      "rank": "#04",
+      "rank": "#05",
       "name": "Quentin Kaiser",
       "username": "qkaiser",
       "avatarUrl": "https://avatars.githubusercontent.com/u/569494?s=96&v=4",
@@ -77,8 +92,26 @@ window.trendingDevelopers = {
       ]
     },
     {
+      "id": "danielmeppiel",
+      "rank": "#06",
+      "name": "Daniel Meppiel",
+      "username": "danielmeppiel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51440732?s=96&v=4",
+      "url": "https://github.com/danielmeppiel",
+      "popularRepository": {
+        "name": "genesis",
+        "url": "https://github.com/danielmeppiel/genesis",
+        "description": "Markdown that steers an LLM is code. Genesis is the architectural layer for designing multi-agent, multi-skill systems -- with named patt…"
+      },
+      "why": "Daniel Meppiel is trending because their repository genesis is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
       "id": "shiaho777",
-      "rank": "#05",
+      "rank": "#07",
       "name": "shiaho",
       "username": "shiaho777",
       "avatarUrl": "https://avatars.githubusercontent.com/u/222622008?s=96&v=4",
@@ -86,7 +119,7 @@ window.trendingDevelopers = {
       "popularRepository": {
         "name": "web-to-app",
         "url": "https://github.com/shiaho777/web-to-app",
-        "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone"
+        "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone Ca: H2mNeSJV75VuQpGA9C11Fw…"
       },
       "why": "shiaho is trending because their repository web-to-app is receiving visible attention on GitHub today.",
       "tags": [
@@ -96,8 +129,62 @@ window.trendingDevelopers = {
       ]
     },
     {
+      "id": "ruvnet",
+      "rank": "#08",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+      },
+      "why": "rUv is trending because their repository ruflo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "comfyanonymous",
+      "rank": "#09",
+      "name": "comfyanonymous",
+      "username": "comfyanonymous",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121283862?s=96&v=4",
+      "url": "https://github.com/comfyanonymous",
+      "popularRepository": {
+        "name": "ComfyUI_examples",
+        "url": "https://github.com/comfyanonymous/ComfyUI_examples",
+        "description": "Examples of ComfyUI workflows"
+      },
+      "why": "comfyanonymous is trending because their repository ComfyUI_examples is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "lidge-jun",
+      "rank": "#10",
+      "name": "JUN",
+      "username": "lidge-jun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
+      "url": "https://github.com/lidge-jun",
+      "popularRepository": {
+        "name": "opencodex",
+        "url": "https://github.com/lidge-jun/opencodex",
+        "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+      },
+      "why": "JUN is trending because their repository opencodex is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
       "id": "anionex",
-      "rank": "#06",
+      "rank": "#11",
       "name": "anionex",
       "username": "Anionex",
       "avatarUrl": "https://avatars.githubusercontent.com/u/123177548?s=96&v=4",
@@ -114,137 +201,51 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "jocs",
-      "rank": "#07",
-      "name": "Ran Luo",
-      "username": "Jocs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9712830?s=96&v=4",
-      "url": "https://github.com/Jocs",
-      "popularRepository": {
-        "name": "jocs.github.io",
-        "url": "https://github.com/Jocs/jocs.github.io",
-        "description": "💯 This is my blog, I will update the latest articles and resumes on it, and feel free to contact me"
-      },
-      "why": "Ran Luo is trending because their repository jocs.github.io is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "gilbert09",
-      "rank": "#08",
-      "name": "Tom Owers",
-      "username": "Gilbert09",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1459269?s=96&v=4",
-      "url": "https://github.com/Gilbert09",
-      "popularRepository": null,
-      "why": "Tom Owers is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "colbymchenry",
-      "rank": "#09",
-      "name": "Colby Mchenry",
-      "username": "colbymchenry",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
-      "url": "https://github.com/colbymchenry",
-      "popularRepository": {
-        "name": "codegraph",
-        "url": "https://github.com/colbymchenry/codegraph",
-        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
-      },
-      "why": "Colby Mchenry is trending because their repository codegraph is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "elie222",
-      "rank": "#10",
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
-      "url": "https://github.com/elie222",
-      "popularRepository": {
-        "name": "rakazo",
-        "url": "https://github.com/elie222/rakazo",
-        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
-      },
-      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "tt-a1i",
-      "rank": "#11",
-      "name": "tt-a1i",
-      "username": "tt-a1i",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
-      "url": "https://github.com/tt-a1i",
-      "popularRepository": {
-        "name": "archify",
-        "url": "https://github.com/tt-a1i/archify",
-        "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
-      },
-      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "narumiruna",
+      "id": "deusdata",
       "rank": "#12",
-      "name": "なるみ",
-      "username": "narumiruna",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4680567?s=96&v=4",
-      "url": "https://github.com/narumiruna",
+      "name": "Martin Vogel",
+      "username": "DeusData",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=96&v=4",
+      "url": "https://github.com/DeusData",
       "popularRepository": {
-        "name": "pi-extensions",
-        "url": "https://github.com/narumiruna/pi-extensions",
-        "description": "A monorepo of Pi Coding Agent extensions"
+        "name": "codebase-memory-mcp",
+        "url": "https://github.com/DeusData/codebase-memory-mcp",
+        "description": "Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP too…"
       },
-      "why": "なるみ is trending because their repository pi-extensions is receiving visible attention on GitHub today.",
+      "why": "Martin Vogel is trending because their repository codebase-memory-mcp is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "AI",
+        "Data"
       ]
     },
     {
-      "id": "abrignoni",
+      "id": "garrytan",
       "rank": "#13",
-      "name": "Brigs",
-      "username": "abrignoni",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28718987?s=96&v=4",
-      "url": "https://github.com/abrignoni",
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
+      "url": "https://github.com/garrytan",
       "popularRepository": {
-        "name": "iLEAPP",
-        "url": "https://github.com/abrignoni/iLEAPP",
-        "description": "iOS Logs, Events, And Plist Parser"
+        "name": "gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
       },
-      "why": "Brigs is trending because their repository iLEAPP is receiving visible attention on GitHub today.",
+      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Events",
-        "Web"
+        "Tooling"
       ]
     },
     {
-      "id": "hrydgard",
+      "id": "sd2k",
       "rank": "#14",
-      "name": "Henrik Rydgård",
-      "username": "hrydgard",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/130929?s=96&v=4",
-      "url": "https://github.com/hrydgard",
-      "popularRepository": {
-        "name": "ppsspp",
-        "url": "https://github.com/hrydgard/ppsspp",
-        "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
-      },
-      "why": "Henrik Rydgård is trending because their repository ppsspp is receiving visible attention on GitHub today.",
+      "name": "Ben Sully",
+      "username": "sd2k",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5464991?s=96&v=4",
+      "url": "https://github.com/sd2k",
+      "popularRepository": null,
+      "why": "Ben Sully is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
