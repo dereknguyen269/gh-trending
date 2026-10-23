@@ -1,10 +1,45 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-10-22T04:46:10.000Z",
+  "updatedAt": "2026-10-23T04:49:34.945Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "koala73",
+      "id": "elie222",
       "rank": "#01",
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
+      "url": "https://github.com/elie222",
+      "popularRepository": {
+        "name": "rakazo",
+        "url": "https://github.com/elie222/rakazo",
+        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+      },
+      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "ruvnet",
+      "rank": "#02",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+      },
+      "why": "rUv is trending because their repository ruflo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "koala73",
+      "rank": "#03",
       "name": "Elie Habib",
       "username": "koala73",
       "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
@@ -21,25 +56,44 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "elie222",
-      "rank": "#02",
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
-      "url": "https://github.com/elie222",
+      "id": "jarrodwatts",
+      "rank": "#04",
+      "name": "Jarrod Watts",
+      "username": "jarrodwatts",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35651410?s=96&v=4",
+      "url": "https://github.com/jarrodwatts",
       "popularRepository": {
-        "name": "rakazo",
-        "url": "https://github.com/elie222/rakazo",
-        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+        "name": "claude-hud",
+        "url": "https://github.com/jarrodwatts/claude-hud",
+        "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
       },
-      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
+      "why": "Jarrod Watts is trending because their repository claude-hud is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "bowenliang123",
+      "rank": "#05",
+      "name": "Bowen Liang",
+      "username": "bowenliang123",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1935105?s=96&v=4",
+      "url": "https://github.com/bowenliang123",
+      "popularRepository": {
+        "name": "dsh-context",
+        "url": "https://github.com/bowenliang123/dsh-context",
+        "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for …"
+      },
+      "why": "Bowen Liang is trending because their repository dsh-context is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "max-sixty",
-      "rank": "#03",
+      "rank": "#06",
       "name": "Maximilian Roos",
       "username": "max-sixty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
@@ -56,94 +110,40 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "colbymchenry",
-      "rank": "#04",
-      "name": "Colby Mchenry",
-      "username": "colbymchenry",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
-      "url": "https://github.com/colbymchenry",
+      "id": "esengine",
+      "rank": "#07",
+      "name": "YHH",
+      "username": "esengine",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18465053?s=96&v=4",
+      "url": "https://github.com/esengine",
       "popularRepository": {
-        "name": "codegraph",
-        "url": "https://github.com/colbymchenry/codegraph",
-        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+        "name": "DeepSeek-Reasonix",
+        "url": "https://github.com/esengine/DeepSeek-Reasonix",
+        "description": "A reliable coding agent for complex software engineering tasks."
       },
-      "why": "Colby Mchenry is trending because their repository codegraph is receiving visible attention on GitHub today.",
+      "why": "YHH is trending because their repository DeepSeek-Reasonix is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
       ]
     },
     {
-      "id": "qkaiser",
-      "rank": "#05",
-      "name": "Quentin Kaiser",
-      "username": "qkaiser",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/569494?s=96&v=4",
-      "url": "https://github.com/qkaiser",
+      "id": "deusdata",
+      "rank": "#08",
+      "name": "Martin Vogel",
+      "username": "DeusData",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=96&v=4",
+      "url": "https://github.com/DeusData",
       "popularRepository": {
-        "name": "broadcom-wps",
-        "url": "https://github.com/qkaiser/broadcom-wps",
-        "description": "Tools to fingerprint WiFi Access Points running the Broadcom SDK and a list of known affected devices."
+        "name": "codebase-memory-mcp",
+        "url": "https://github.com/DeusData/codebase-memory-mcp",
+        "description": "Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP too…"
       },
-      "why": "Quentin Kaiser is trending because their repository broadcom-wps is receiving visible attention on GitHub today.",
+      "why": "Martin Vogel is trending because their repository codebase-memory-mcp is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "danielmeppiel",
-      "rank": "#06",
-      "name": "Daniel Meppiel",
-      "username": "danielmeppiel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/51440732?s=96&v=4",
-      "url": "https://github.com/danielmeppiel",
-      "popularRepository": {
-        "name": "genesis",
-        "url": "https://github.com/danielmeppiel/genesis",
-        "description": "Markdown that steers an LLM is code. Genesis is the architectural layer for designing multi-agent, multi-skill systems -- with named patt…"
-      },
-      "why": "Daniel Meppiel is trending because their repository genesis is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "shiaho777",
-      "rank": "#07",
-      "name": "shiaho",
-      "username": "shiaho777",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/222622008?s=96&v=4",
-      "url": "https://github.com/shiaho777",
-      "popularRepository": {
-        "name": "web-to-app",
-        "url": "https://github.com/shiaho777/web-to-app",
-        "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone Ca: H2mNeSJV75VuQpGA9C11Fw…"
-      },
-      "why": "shiaho is trending because their repository web-to-app is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Tooling",
-        "Web"
-      ]
-    },
-    {
-      "id": "ruvnet",
-      "rank": "#08",
-      "name": "rUv",
-      "username": "ruvnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
-      "url": "https://github.com/ruvnet",
-      "popularRepository": {
-        "name": "ruflo",
-        "url": "https://github.com/ruvnet/ruflo",
-        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
-      },
-      "why": "rUv is trending because their repository ruflo is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
+        "Data"
       ]
     },
     {
@@ -164,90 +164,90 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "lidge-jun",
+      "id": "qkaiser",
       "rank": "#10",
-      "name": "JUN",
-      "username": "lidge-jun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
-      "url": "https://github.com/lidge-jun",
+      "name": "Quentin Kaiser",
+      "username": "qkaiser",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/569494?s=96&v=4",
+      "url": "https://github.com/qkaiser",
       "popularRepository": {
-        "name": "opencodex",
-        "url": "https://github.com/lidge-jun/opencodex",
-        "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+        "name": "broadcom-wps",
+        "url": "https://github.com/qkaiser/broadcom-wps",
+        "description": "Tools to fingerprint WiFi Access Points running the Broadcom SDK and a list of known affected devices."
       },
-      "why": "JUN is trending because their repository opencodex is receiving visible attention on GitHub today.",
+      "why": "Quentin Kaiser is trending because their repository broadcom-wps is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI",
-        "Web"
+        "Tooling"
       ]
     },
     {
-      "id": "anionex",
+      "id": "gilbert09",
       "rank": "#11",
-      "name": "anionex",
-      "username": "Anionex",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/123177548?s=96&v=4",
-      "url": "https://github.com/Anionex",
-      "popularRepository": {
-        "name": "banana-slides",
-        "url": "https://github.com/Anionex/banana-slides",
-        "description": "一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on n…"
-      },
-      "why": "anionex is trending because their repository banana-slides is receiving visible attention on GitHub today.",
+      "name": "Tom Owers",
+      "username": "Gilbert09",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1459269?s=96&v=4",
+      "url": "https://github.com/Gilbert09",
+      "popularRepository": null,
+      "why": "Tom Owers is trending because GitHub users are visiting and following their work today.",
       "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     },
     {
-      "id": "deusdata",
+      "id": "saladday",
       "rank": "#12",
-      "name": "Martin Vogel",
-      "username": "DeusData",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=96&v=4",
-      "url": "https://github.com/DeusData",
+      "name": "SaladDay",
+      "username": "SaladDay",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92240037?s=96&v=4",
+      "url": "https://github.com/SaladDay",
       "popularRepository": {
-        "name": "codebase-memory-mcp",
-        "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "description": "Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP too…"
+        "name": "cc-switch-cli",
+        "url": "https://github.com/SaladDay/cc-switch-cli",
+        "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
       },
-      "why": "Martin Vogel is trending because their repository codebase-memory-mcp is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Data"
-      ]
-    },
-    {
-      "id": "garrytan",
-      "rank": "#13",
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
-      "url": "https://github.com/garrytan",
-      "popularRepository": {
-        "name": "gstack",
-        "url": "https://github.com/garrytan/gstack",
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
-      },
-      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
+      "why": "SaladDay is trending because their repository cc-switch-cli is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "Tooling"
       ]
     },
     {
-      "id": "sd2k",
-      "rank": "#14",
-      "name": "Ben Sully",
-      "username": "sd2k",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5464991?s=96&v=4",
-      "url": "https://github.com/sd2k",
-      "popularRepository": null,
-      "why": "Ben Sully is trending because GitHub users are visiting and following their work today.",
+      "id": "amir20",
+      "rank": "#13",
+      "name": "Amir Raminfar",
+      "username": "amir20",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/260667?s=96&v=4",
+      "url": "https://github.com/amir20",
+      "popularRepository": {
+        "name": "dozzle",
+        "url": "https://github.com/amir20/dozzle",
+        "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s."
+      },
+      "why": "Amir Raminfar is trending because their repository dozzle is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "melgarafael",
+      "rank": "#14",
+      "name": "Rafael Melgaço",
+      "username": "melgarafael",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/119944436?s=96&v=4",
+      "url": "https://github.com/melgarafael",
+      "popularRepository": {
+        "name": "DeskcommCRM",
+        "url": "https://github.com/melgarafael/DeskcommCRM",
+        "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any…"
+      },
+      "why": "Rafael Melgaço is trending because their repository DeskcommCRM is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
       ]
     }
   ]
