@@ -1,27 +1,7 @@
 window.trendingRepos = {
-  "updatedAt": "2026-10-26T04:47:35.209Z",
+  "updatedAt": "2026-10-27T05:05:22.856Z",
   "source": "https://github.com/trending?since=daily",
   "repositories": [
-    {
-      "id": "cindy",
-      "owner": "makecindy",
-      "name": "cindy",
-      "title": "makecindy / cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "stars": 5151,
-      "forks": 689,
-      "starsToday": 675,
-      "url": "https://github.com/makecindy/cindy",
-      "rank": "#01",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
-        "AI",
-        "Open source"
-      ]
-    },
     {
       "id": "hallmark",
       "owner": "Nutlope",
@@ -29,72 +9,16 @@ window.trendingRepos = {
       "title": "Nutlope / hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars": 34245,
-      "forks": 1781,
-      "starsToday": 1317,
+      "stars": 36899,
+      "forks": 1924,
+      "starsToday": 2244,
       "url": "https://github.com/Nutlope/hallmark",
-      "rank": "#02",
+      "rank": "#01",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving CSS repositories and deciding what deserves a deeper look.",
       "tags": [
         "CSS",
         "AI"
-      ]
-    },
-    {
-      "id": "voicestudio",
-      "owner": "debpalash",
-      "name": "VoiceStudio",
-      "title": "debpalash / VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars": 87190,
-      "forks": 9644,
-      "starsToday": 1592,
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "rank": "#03",
-      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
-      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Python",
-        "Open source"
-      ]
-    },
-    {
-      "id": "impeccable",
-      "owner": "pbakaus",
-      "name": "impeccable",
-      "title": "pbakaus / impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "Rust",
-      "stars": 87957,
-      "forks": 5255,
-      "starsToday": 1092,
-      "url": "https://github.com/pbakaus/impeccable",
-      "rank": "#04",
-      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
-      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Rust",
-        "AI"
-      ]
-    },
-    {
-      "id": "microduck",
-      "owner": "pollen-robotics",
-      "name": "microduck",
-      "title": "pollen-robotics / microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "language": "Rust",
-      "stars": 11827,
-      "forks": 1500,
-      "starsToday": 647,
-      "url": "https://github.com/pollen-robotics/microduck",
-      "rank": "#05",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "Rust"
       ]
     },
     {
@@ -104,34 +28,15 @@ window.trendingRepos = {
       "title": "TauricResearch / TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": 114836,
-      "forks": 22148,
-      "starsToday": 381,
+      "stars": 116431,
+      "forks": 22324,
+      "starsToday": 1395,
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "rank": "#06",
+      "rank": "#02",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
         "Python",
-        "AI"
-      ]
-    },
-    {
-      "id": "ziwei-doushu",
-      "owner": "Renhuai123",
-      "name": "ziwei-doushu",
-      "title": "Renhuai123 / ziwei-doushu",
-      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "language": "TypeScript",
-      "stars": 7840,
-      "forks": 1581,
-      "starsToday": 199,
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "rank": "#07",
-      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
-      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
-      "tags": [
-        "TypeScript",
         "AI"
       ]
     },
@@ -142,11 +47,11 @@ window.trendingRepos = {
       "title": "JetBrains / thinkrail",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
-      "stars": 1975,
-      "forks": 112,
-      "starsToday": 51,
+      "stars": 3144,
+      "forks": 175,
+      "starsToday": 1173,
       "url": "https://github.com/JetBrains/thinkrail",
-      "rank": "#08",
+      "rank": "#03",
       "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
       "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
@@ -155,59 +60,214 @@ window.trendingRepos = {
       ]
     },
     {
-      "id": "coolify",
-      "owner": "coollabsio",
-      "name": "coolify",
-      "title": "coollabsio / coolify",
-      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
-      "language": "PHP",
-      "stars": 64564,
-      "forks": 5800,
-      "starsToday": 152,
-      "url": "https://github.com/coollabsio/coolify",
-      "rank": "#09",
-      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
-      "fit": "Developers evaluating fast-moving PHP repositories and deciding what deserves a deeper look.",
+      "id": "cindy",
+      "owner": "makecindy",
+      "name": "cindy",
+      "title": "makecindy / cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 6748,
+      "forks": 817,
+      "starsToday": 1296,
+      "url": "https://github.com/makecindy/cindy",
+      "rank": "#04",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
       "tags": [
-        "PHP",
+        "TypeScript",
+        "AI",
         "Open source"
       ]
     },
     {
-      "id": "security-audit-skill",
-      "owner": "cloudflare",
-      "name": "security-audit-skill",
-      "title": "cloudflare / security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "id": "ecc",
+      "owner": "affaan-m",
+      "name": "ECC",
+      "title": "affaan-m / ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 47228,
-      "forks": 2930,
-      "starsToday": 2878,
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "rank": "#10",
+      "stars": 290008,
+      "forks": 42981,
+      "starsToday": 896,
+      "url": "https://github.com/affaan-m/ECC",
+      "rank": "#05",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving JavaScript repositories and deciding what deserves a deeper look.",
       "tags": [
         "JavaScript",
+        "AI",
+        "Open source"
+      ]
+    },
+    {
+      "id": "impeccable",
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "title": "pbakaus / impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars": 89435,
+      "forks": 5323,
+      "starsToday": 1506,
+      "url": "https://github.com/pbakaus/impeccable",
+      "rank": "#06",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Rust",
         "AI"
       ]
     },
     {
-      "id": "claude-seo",
-      "owner": "AgriciDaniel",
-      "name": "claude-seo",
-      "title": "AgriciDaniel / claude-seo",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "id": "skillspector",
+      "owner": "NVIDIA",
+      "name": "SkillSpector",
+      "title": "NVIDIA / SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "language": "Python",
-      "stars": 21160,
-      "forks": 2966,
-      "starsToday": 197,
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "rank": "#11",
+      "stars": 22377,
+      "forks": 1950,
+      "starsToday": 214,
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "rank": "#07",
       "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
       "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
       "tags": [
         "Python",
+        "AI"
+      ]
+    },
+    {
+      "id": "microduck",
+      "owner": "pollen-robotics",
+      "name": "microduck",
+      "title": "pollen-robotics / microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "stars": 12509,
+      "forks": 1555,
+      "starsToday": 843,
+      "url": "https://github.com/pollen-robotics/microduck",
+      "rank": "#08",
+      "why": "It is trending because GitHub users are rapidly starring it today, signaling fresh community attention and practical curiosity.",
+      "fit": "Developers evaluating fast-moving Rust repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Rust"
+      ]
+    },
+    {
+      "id": "openbot",
+      "owner": "nightly-labs",
+      "name": "openbot",
+      "title": "nightly-labs / openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars": 1625,
+      "forks": 199,
+      "starsToday": 176,
+      "url": "https://github.com/nightly-labs/openbot",
+      "rank": "#09",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "AI",
+        "Open source"
+      ]
+    },
+    {
+      "id": "agent-reach",
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "title": "Panniantong / Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 103954,
+      "forks": 9221,
+      "starsToday": 746,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "rank": "#10",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "AI"
+      ]
+    },
+    {
+      "id": "voicestudio",
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "title": "debpalash / VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 89673,
+      "forks": 9885,
+      "starsToday": 2297,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "rank": "#11",
+      "why": "It is trending because open-source alternatives give teams more control, portability, and room to customize.",
+      "fit": "Developers evaluating fast-moving Python repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Python",
+        "Open source"
+      ]
+    },
+    {
+      "id": "postiz-app",
+      "owner": "gitroomhq",
+      "name": "postiz-app",
+      "title": "gitroomhq / postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "language": "TypeScript",
+      "stars": 38613,
+      "forks": 7464,
+      "starsToday": 188,
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "rank": "#12",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving TypeScript repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "TypeScript",
+        "AI",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "huashu-design",
+      "owner": "alchaincyf",
+      "name": "huashu-design",
+      "title": "alchaincyf / huashu-design",
+      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+      "language": "HTML",
+      "stars": 27131,
+      "forks": 2984,
+      "starsToday": 251,
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "rank": "#13",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving HTML repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "HTML",
+        "AI"
+      ]
+    },
+    {
+      "id": "andrej-karpathy-skills",
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "title": "multica-ai / andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 224831,
+      "forks": 22488,
+      "starsToday": 638,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "rank": "#14",
+      "why": "It is trending because developers are actively testing practical AI workflows, agents, and automation patterns.",
+      "fit": "Developers evaluating fast-moving Unknown repositories and deciding what deserves a deeper look.",
+      "tags": [
+        "Unknown",
         "AI"
       ]
     }
