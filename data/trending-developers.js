@@ -1,64 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-10-30T05:49:40.329Z",
+  "updatedAt": "2026-10-31T05:41:14.224Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "lalalune",
-      "rank": "#01",
-      "name": "Shaw",
-      "username": "lalalune",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18633264?s=96&v=4",
-      "url": "https://github.com/lalalune",
-      "popularRepository": {
-        "name": "pumpfun-source",
-        "url": "https://github.com/lalalune/pumpfun-source",
-        "description": "Reverse engineering the pump.fun smart contracts"
-      },
-      "why": "Shaw is trending because their repository pumpfun-source is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "morluto",
-      "rank": "#02",
-      "name": "morluto",
-      "username": "morluto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76467478?s=96&v=4",
-      "url": "https://github.com/morluto",
-      "popularRepository": {
-        "name": "rea",
-        "url": "https://github.com/morluto/rea",
-        "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
-      },
-      "why": "morluto is trending because their repository rea is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "vastsa",
-      "rank": "#03",
-      "name": "Lan",
-      "username": "vastsa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48862574?s=96&v=4",
-      "url": "https://github.com/vastsa",
-      "popularRepository": {
-        "name": "PI-Desktop",
-        "url": "https://github.com/vastsa/PI-Desktop",
-        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
-      },
-      "why": "Lan is trending because their repository PI-Desktop is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "poteto",
-      "rank": "#04",
+      "rank": "#01",
       "name": "lauren",
       "username": "poteto",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
@@ -74,8 +20,26 @@ window.trendingDevelopers = {
       ]
     },
     {
+      "id": "mxsm",
+      "rank": "#02",
+      "name": "mxsm",
+      "username": "mxsm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15797831?s=96&v=4",
+      "url": "https://github.com/mxsm",
+      "popularRepository": {
+        "name": "rocketmq-rust",
+        "url": "https://github.com/mxsm/rocketmq-rust",
+        "description": "🚀 Apache RocketMQ built in Rust 🦀 — faster, safer, and more memory-efficient. Powering high-performance messaging for the AI era, with AI…"
+      },
+      "why": "mxsm is trending because their repository rocketmq-rust is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
       "id": "ahmadrosid",
-      "rank": "#05",
+      "rank": "#03",
       "name": "ahmadrosid",
       "username": "ahmadrosid",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29406408?s=96&v=4",
@@ -92,8 +56,78 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "justvugg",
+      "id": "marcusquinn",
+      "rank": "#04",
+      "name": "Marcus Quinn",
+      "username": "marcusquinn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6428977?s=96&v=4",
+      "url": "https://github.com/marcusquinn",
+      "popularRepository": {
+        "name": "aidevops",
+        "url": "https://github.com/marcusquinn/aidevops",
+        "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development.…"
+      },
+      "why": "Marcus Quinn is trending because their repository aidevops is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "mitchellh",
+      "rank": "#05",
+      "name": "Mitchell Hashimoto",
+      "username": "mitchellh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1299?s=96&v=4",
+      "url": "https://github.com/mitchellh",
+      "popularRepository": {
+        "name": "vouch",
+        "url": "https://github.com/mitchellh/vouch",
+        "description": "A community trust management system based on explicit vouches to participate."
+      },
+      "why": "Mitchell Hashimoto is trending because their repository vouch is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "christian-byrne",
       "rank": "#06",
+      "name": "Christian Byrne",
+      "username": "christian-byrne",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72887196?s=96&v=4",
+      "url": "https://github.com/christian-byrne",
+      "popularRepository": {
+        "name": "audio-separation-nodes-comfyui",
+        "url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui",
+        "description": "Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio"
+      },
+      "why": "Christian Byrne is trending because their repository audio-separation-nodes-comfyui is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "benbrandt",
+      "rank": "#07",
+      "name": "Ben Brandt",
+      "username": "benbrandt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2111074?s=96&v=4",
+      "url": "https://github.com/benbrandt",
+      "popularRepository": {
+        "name": "text-splitter",
+        "url": "https://github.com/benbrandt/text-splitter",
+        "description": "Split text into semantic chunks, up to a desired chunk size. Supports calculating length by characters and tokens, and is callable from R…"
+      },
+      "why": "Ben Brandt is trending because their repository text-splitter is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "justvugg",
+      "rank": "#08",
       "name": "Vincenzo Fornaro",
       "username": "JustVugg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
@@ -109,62 +143,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "shiaho777",
-      "rank": "#07",
-      "name": "shiaho",
-      "username": "shiaho777",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/222622008?s=96&v=4",
-      "url": "https://github.com/shiaho777",
-      "popularRepository": {
-        "name": "web-to-app",
-        "url": "https://github.com/shiaho777/web-to-app",
-        "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone"
-      },
-      "why": "shiaho is trending because their repository web-to-app is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Tooling",
-        "Web"
-      ]
-    },
-    {
-      "id": "th0rgal",
-      "rank": "#08",
-      "name": "Thomas Marchand",
-      "username": "Th0rgal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/41830259?s=96&v=4",
-      "url": "https://github.com/Th0rgal",
-      "popularRepository": {
-        "name": "orb",
-        "url": "https://github.com/Th0rgal/orb",
-        "description": "All your AI providers, machines, and agent harnesses in one place. Free & native"
-      },
-      "why": "Thomas Marchand is trending because their repository orb is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "jerelvelarde",
-      "rank": "#09",
-      "name": "Jerel Velarde",
-      "username": "jerelvelarde",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85066839?s=96&v=4",
-      "url": "https://github.com/jerelvelarde",
-      "popularRepository": {
-        "name": "cutroom",
-        "url": "https://github.com/jerelvelarde/cutroom",
-        "description": "Gemini 4 Argon SF Hackathon: tracks, judging criteria, technical resources, prizes, and participant benefits."
-      },
-      "why": "Jerel Velarde is trending because their repository cutroom is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "jmanico",
-      "rank": "#10",
+      "rank": "#09",
       "name": "Jim Manico",
       "username": "jmanico",
       "avatarUrl": "https://avatars.githubusercontent.com/u/531465?s=96&v=4",
@@ -181,43 +161,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "krille-chan",
-      "rank": "#11",
-      "name": "Krille-chan",
-      "username": "krille-chan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24619905?s=96&v=4",
-      "url": "https://github.com/krille-chan",
-      "popularRepository": {
-        "name": "fluffychat",
-        "url": "https://github.com/krille-chan/fluffychat",
-        "description": "The cutest instant messenger in the [matrix]"
-      },
-      "why": "Krille-chan is trending because their repository fluffychat is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "backnotprop",
-      "rank": "#12",
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
-      "url": "https://github.com/backnotprop",
-      "popularRepository": {
-        "name": "pstack",
-        "url": "https://github.com/backnotprop/pstack",
-        "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
-      },
-      "why": "Michael Ramos is trending because their repository pstack is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "cyan4973",
-      "rank": "#13",
+      "rank": "#10",
       "name": "Yann Collet",
       "username": "Cyan4973",
       "avatarUrl": "https://avatars.githubusercontent.com/u/750081?s=96&v=4",
@@ -233,18 +178,69 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "momo5502",
-      "rank": "#14",
-      "name": "Maurice Heumann",
-      "username": "momo5502",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4027748?s=96&v=4",
-      "url": "https://github.com/momo5502",
+      "id": "thdxr",
+      "rank": "#11",
+      "name": "Dax",
+      "username": "thdxr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/826656?s=96&v=4",
+      "url": "https://github.com/thdxr",
       "popularRepository": {
-        "name": "sogen",
-        "url": "https://github.com/momo5502/sogen",
-        "description": "🪅 Windows & Linux userspace emulator"
+        "name": "environment",
+        "url": "https://github.com/thdxr/environment",
+        "description": "No popular repository description available."
       },
-      "why": "Maurice Heumann is trending because their repository sogen is receiving visible attention on GitHub today.",
+      "why": "Dax is trending because their repository environment is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "vastsa",
+      "rank": "#12",
+      "name": "Lan",
+      "username": "vastsa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48862574?s=96&v=4",
+      "url": "https://github.com/vastsa",
+      "popularRepository": {
+        "name": "PI-Desktop",
+        "url": "https://github.com/vastsa/PI-Desktop",
+        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+      },
+      "why": "Lan is trending because their repository PI-Desktop is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "yeraze",
+      "rank": "#13",
+      "name": "Randall Hand",
+      "username": "Yeraze",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5789309?s=96&v=4",
+      "url": "https://github.com/Yeraze",
+      "popularRepository": {
+        "name": "meshmonitor",
+        "url": "https://github.com/Yeraze/meshmonitor",
+        "description": "Web tool for monitoring Mesh Node Deployment over TCP/HTTP"
+      },
+      "why": "Randall Hand is trending because their repository meshmonitor is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Tooling",
+        "Web"
+      ]
+    },
+    {
+      "id": "cliffhall",
+      "rank": "#14",
+      "name": "Cliff Hall",
+      "username": "cliffhall",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/871933?s=96&v=4",
+      "url": "https://github.com/cliffhall",
+      "popularRepository": null,
+      "why": "Cliff Hall is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
