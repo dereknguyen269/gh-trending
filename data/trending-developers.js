@@ -1,188 +1,80 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-11-03T06:47:19.265Z",
+  "updatedAt": "2026-11-04T06:22:29.467Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "jayleaton",
+      "id": "code-yeongyu",
       "rank": "#01",
-      "name": "JJ Eaton",
-      "username": "jayleaton",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/58495321?s=96&v=4",
-      "url": "https://github.com/jayleaton",
+      "name": "YeonGyu-Kim",
+      "username": "code-yeongyu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11153873?s=96&v=4",
+      "url": "https://github.com/code-yeongyu",
       "popularRepository": {
-        "name": "deepseek-v41-tensorfold-spark",
-        "url": "https://github.com/jayleaton/deepseek-v41-tensorfold-spark",
-        "description": "DeepSeek-V4.1-Flash on 2x NVIDIA DGX Spark with the TensorFold engine: 1.8-1.9x code, 2.5x multi-stream, 1.7-1.95x prefill vs the vLLM ki…"
+        "name": "oh-my-openagent",
+        "url": "https://github.com/code-yeongyu/oh-my-openagent",
+        "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
       },
-      "why": "JJ Eaton is trending because their repository deepseek-v41-tensorfold-spark is receiving visible attention on GitHub today.",
+      "why": "YeonGyu-Kim is trending because their repository oh-my-openagent is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "ccch1mneyyy",
+      "id": "makazhanalpamys",
       "rank": "#02",
-      "name": "Chimney",
-      "username": "ccch1mneyyy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/268149062?s=96&v=4",
-      "url": "https://github.com/ccch1mneyyy",
+      "name": "Alpamys Makazhan",
+      "username": "MakazhanAlpamys",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/188336071?s=96&v=4",
+      "url": "https://github.com/MakazhanAlpamys",
       "popularRepository": {
-        "name": "dsh-Go",
-        "url": "https://github.com/ccch1mneyyy/dsh-Go",
-        "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+        "name": "Soup",
+        "url": "https://github.com/MakazhanAlpamys/Soup",
+        "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
       },
-      "why": "Chimney is trending because their repository dsh-Go is receiving visible attention on GitHub today.",
+      "why": "Alpamys Makazhan is trending because their repository Soup is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
       ]
     },
     {
-      "id": "thdxr",
+      "id": "justvugg",
       "rank": "#03",
-      "name": "Dax",
-      "username": "thdxr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/826656?s=96&v=4",
-      "url": "https://github.com/thdxr",
+      "name": "Vincenzo Fornaro",
+      "username": "JustVugg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
+      "url": "https://github.com/JustVugg",
       "popularRepository": {
-        "name": "environment",
-        "url": "https://github.com/thdxr/environment",
-        "description": "No popular repository description available."
+        "name": "colibri",
+        "url": "https://github.com/JustVugg/colibri",
+        "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from…"
       },
-      "why": "Dax is trending because their repository environment is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "christian-byrne",
-      "rank": "#04",
-      "name": "Christian Byrne",
-      "username": "christian-byrne",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72887196?s=96&v=4",
-      "url": "https://github.com/christian-byrne",
-      "popularRepository": {
-        "name": "audio-separation-nodes-comfyui",
-        "url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui",
-        "description": "Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio"
-      },
-      "why": "Christian Byrne is trending because their repository audio-separation-nodes-comfyui is receiving visible attention on GitHub today.",
+      "why": "Vincenzo Fornaro is trending because their repository colibri is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "ashhart",
-      "rank": "#05",
-      "name": "Ash",
-      "username": "ashhart",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/71890694?s=96&v=4",
-      "url": "https://github.com/ashhart",
+      "id": "deanchensj",
+      "rank": "#04",
+      "name": "Shangjie Chen",
+      "username": "DeanChensj",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9414763?s=96&v=4",
+      "url": "https://github.com/DeanChensj",
       "popularRepository": {
-        "name": "TensorFold",
-        "url": "https://github.com/ashhart/TensorFold",
-        "description": "LLM Inference Engine for Metal, CUDA and Vulkan."
+        "name": "jiangshan-map",
+        "url": "https://github.com/DeanChensj/jiangshan-map",
+        "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-m…"
       },
-      "why": "Ash is trending because their repository TensorFold is receiving visible attention on GitHub today.",
+      "why": "Shangjie Chen is trending because their repository jiangshan-map is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "justrach",
-      "rank": "#06",
-      "name": "Rach",
-      "username": "justrach",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54503978?s=96&v=4",
-      "url": "https://github.com/justrach",
-      "popularRepository": {
-        "name": "nanoui",
-        "url": "https://github.com/justrach/nanoui",
-        "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend"
-      },
-      "why": "Rach is trending because their repository nanoui is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "kgoedecke",
-      "rank": "#07",
-      "name": "Kevin Goedecke",
-      "username": "kgoedecke",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5519740?s=96&v=4",
-      "url": "https://github.com/kgoedecke",
-      "popularRepository": {
-        "name": "doop",
-        "url": "https://github.com/kgoedecke/doop",
-        "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
-      },
-      "why": "Kevin Goedecke is trending because their repository doop is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "ersinkoc",
-      "rank": "#08",
-      "name": "Ersin KOÇ",
-      "username": "ersinkoc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/408479?s=96&v=4",
-      "url": "https://github.com/ersinkoc",
-      "popularRepository": {
-        "name": "AI-Video-Factory",
-        "url": "https://github.com/ersinkoc/AI-Video-Factory",
-        "description": "AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review; a Studio keeps th…"
-      },
-      "why": "Ersin KOÇ is trending because their repository AI-Video-Factory is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "ikalus1988",
-      "rank": "#09",
-      "name": "Ikalus1988",
-      "username": "Ikalus1988",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136884451?s=96&v=4",
-      "url": "https://github.com/Ikalus1988",
-      "popularRepository": {
-        "name": "MisakaNet",
-        "url": "https://github.com/Ikalus1988/MisakaNet",
-        "description": "Re-debugging Solved Failures? No Way. 500+ Evidence-graded fix lessons, One MCP Call--> https://misakanet.org"
-      },
-      "why": "Ikalus1988 is trending because their repository MisakaNet is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "vshulcz",
-      "rank": "#10",
-      "name": "Vlad Shulcz",
-      "username": "vshulcz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/99616188?s=96&v=4",
-      "url": "https://github.com/vshulcz",
-      "popularRepository": {
-        "name": "deja-vu",
-        "url": "https://github.com/vshulcz/deja-vu",
-        "description": "Claude Code memory, Codex memory, Cursor memory, OpenCode memory, Gemini CLI memory, Windsurf memory & Cline memory across 44 agents. AI …"
-      },
-      "why": "Vlad Shulcz is trending because their repository deja-vu is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
+        "Developer"
       ]
     },
     {
       "id": "wenyuchiou",
-      "rank": "#11",
+      "rank": "#05",
       "name": "Wenyu Chiou",
       "username": "WenyuChiou",
       "avatarUrl": "https://avatars.githubusercontent.com/u/162016108?s=96&v=4",
@@ -199,43 +91,62 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "mokevnin",
-      "rank": "#12",
-      "name": "Kirill Mokevnin",
-      "username": "mokevnin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/308430?s=96&v=4",
-      "url": "https://github.com/mokevnin",
+      "id": "kgoedecke",
+      "rank": "#06",
+      "name": "Kevin Goedecke",
+      "username": "kgoedecke",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5519740?s=96&v=4",
+      "url": "https://github.com/kgoedecke",
       "popularRepository": {
-        "name": "dev-quality-gates",
-        "url": "https://github.com/mokevnin/dev-quality-gates",
-        "description": "An opinionated, curated list of tools for enforcing software development standards: one recommended tool per job, with limits."
+        "name": "doop",
+        "url": "https://github.com/kgoedecke/doop",
+        "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
       },
-      "why": "Kirill Mokevnin is trending because their repository dev-quality-gates is receiving visible attention on GitHub today.",
+      "why": "Kevin Goedecke is trending because their repository doop is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Tooling"
+        "AI"
       ]
     },
     {
-      "id": "deanchensj",
-      "rank": "#13",
-      "name": "Shangjie Chen",
-      "username": "DeanChensj",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9414763?s=96&v=4",
-      "url": "https://github.com/DeanChensj",
+      "id": "justrach",
+      "rank": "#07",
+      "name": "Rach",
+      "username": "justrach",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54503978?s=96&v=4",
+      "url": "https://github.com/justrach",
       "popularRepository": {
-        "name": "jiangshan-map",
-        "url": "https://github.com/DeanChensj/jiangshan-map",
-        "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-m…"
+        "name": "nanolight",
+        "url": "https://github.com/justrach/nanolight",
+        "description": "A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X"
       },
-      "why": "Shangjie Chen is trending because their repository jiangshan-map is receiving visible attention on GitHub today.",
+      "why": "Rach is trending because their repository nanolight is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "koala73",
+      "rank": "#08",
+      "name": "Elie Habib",
+      "username": "koala73",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
+      "url": "https://github.com/koala73",
+      "popularRepository": {
+        "name": "worldmonitor",
+        "url": "https://github.com/koala73/worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+      },
+      "why": "Elie Habib is trending because their repository worldmonitor is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
       ]
     },
     {
       "id": "deepcoldy",
-      "rank": "#14",
+      "rank": "#09",
       "name": "DeepCold",
       "username": "deepcoldy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10922642?s=96&v=4",
@@ -249,6 +160,89 @@ window.trendingDevelopers = {
       "tags": [
         "Developer",
         "AI"
+      ]
+    },
+    {
+      "id": "pratham-mishra04",
+      "rank": "#10",
+      "name": "Pratham Mishra",
+      "username": "Pratham-Mishra04",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/99235987?s=96&v=4",
+      "url": "https://github.com/Pratham-Mishra04",
+      "popularRepository": null,
+      "why": "Pratham Mishra is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "kalil0321",
+      "rank": "#11",
+      "name": "kalil0321",
+      "username": "kalil0321",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92564081?s=96&v=4",
+      "url": "https://github.com/kalil0321",
+      "popularRepository": {
+        "name": "reverse-api-engineer",
+        "url": "https://github.com/kalil0321/reverse-api-engineer",
+        "description": "Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode."
+      },
+      "why": "kalil0321 is trending because their repository reverse-api-engineer is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "penso",
+      "rank": "#12",
+      "name": "Fabien Penso",
+      "username": "penso",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7703?s=96&v=4",
+      "url": "https://github.com/penso",
+      "popularRepository": {
+        "name": "sheprd",
+        "url": "https://github.com/sheprd-labs/sheprd",
+        "description": "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and ag…"
+      },
+      "why": "Fabien Penso is trending because their repository sheprd is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "thdxr",
+      "rank": "#13",
+      "name": "Dax",
+      "username": "thdxr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/826656?s=96&v=4",
+      "url": "https://github.com/thdxr",
+      "popularRepository": {
+        "name": "environment",
+        "url": "https://github.com/thdxr/environment",
+        "description": "No popular repository description available."
+      },
+      "why": "Dax is trending because their repository environment is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "jxxghp",
+      "rank": "#14",
+      "name": "jxxghp",
+      "username": "jxxghp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51039935?s=96&v=4",
+      "url": "https://github.com/jxxghp",
+      "popularRepository": {
+        "name": "MoviePilot",
+        "url": "https://github.com/jxxghp/MoviePilot",
+        "description": "NAS媒体库自动化管理工具"
+      },
+      "why": "jxxghp is trending because their repository MoviePilot is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
       ]
     }
   ]
