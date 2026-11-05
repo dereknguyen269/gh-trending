@@ -1,5 +1,5 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-11-04T06:22:29.467Z",
+  "updatedAt": "2026-11-05T06:46:32.784Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
@@ -21,78 +21,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "makazhanalpamys",
-      "rank": "#02",
-      "name": "Alpamys Makazhan",
-      "username": "MakazhanAlpamys",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/188336071?s=96&v=4",
-      "url": "https://github.com/MakazhanAlpamys",
-      "popularRepository": {
-        "name": "Soup",
-        "url": "https://github.com/MakazhanAlpamys/Soup",
-        "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
-      },
-      "why": "Alpamys Makazhan is trending because their repository Soup is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "justvugg",
-      "rank": "#03",
-      "name": "Vincenzo Fornaro",
-      "username": "JustVugg",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
-      "url": "https://github.com/JustVugg",
-      "popularRepository": {
-        "name": "colibri",
-        "url": "https://github.com/JustVugg/colibri",
-        "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from…"
-      },
-      "why": "Vincenzo Fornaro is trending because their repository colibri is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "deanchensj",
-      "rank": "#04",
-      "name": "Shangjie Chen",
-      "username": "DeanChensj",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9414763?s=96&v=4",
-      "url": "https://github.com/DeanChensj",
-      "popularRepository": {
-        "name": "jiangshan-map",
-        "url": "https://github.com/DeanChensj/jiangshan-map",
-        "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-m…"
-      },
-      "why": "Shangjie Chen is trending because their repository jiangshan-map is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "wenyuchiou",
-      "rank": "#05",
-      "name": "Wenyu Chiou",
-      "username": "WenyuChiou",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/162016108?s=96&v=4",
-      "url": "https://github.com/WenyuChiou",
-      "popularRepository": {
-        "name": "awesome-agentic-ai-zh",
-        "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-        "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and…"
-      },
-      "why": "Wenyu Chiou is trending because their repository awesome-agentic-ai-zh is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "kgoedecke",
-      "rank": "#06",
+      "rank": "#02",
       "name": "Kevin Goedecke",
       "username": "kgoedecke",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5519740?s=96&v=4",
@@ -109,8 +39,60 @@ window.trendingDevelopers = {
       ]
     },
     {
+      "id": "doobidoo",
+      "rank": "#03",
+      "name": "Henry Krupp",
+      "username": "doobidoo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5000709?s=96&v=4",
+      "url": "https://github.com/doobidoo",
+      "popularRepository": {
+        "name": "mcp-memory-service",
+        "url": "https://github.com/doobidoo/mcp-memory-service",
+        "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous con…"
+      },
+      "why": "Henry Krupp is trending because their repository mcp-memory-service is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "cagnulein",
+      "rank": "#04",
+      "name": "Roberto Viola",
+      "username": "cagnulein",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48216?s=96&v=4",
+      "url": "https://github.com/cagnulein",
+      "popularRepository": {
+        "name": "qdomyos-zwift",
+        "url": "https://github.com/cagnulein/qdomyos-zwift",
+        "description": "Zwift bridge for smart treadmills and bike/cyclette"
+      },
+      "why": "Roberto Viola is trending because their repository qdomyos-zwift is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "abue-ammar",
+      "rank": "#05",
+      "name": "Abue Ammar",
+      "username": "abue-ammar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14371506?s=96&v=4",
+      "url": "https://github.com/abue-ammar",
+      "popularRepository": {
+        "name": "tinycast",
+        "url": "https://github.com/abue-ammar/tinycast",
+        "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
+      },
+      "why": "Abue Ammar is trending because their repository tinycast is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
       "id": "justrach",
-      "rank": "#07",
+      "rank": "#06",
       "name": "Rach",
       "username": "justrach",
       "avatarUrl": "https://avatars.githubusercontent.com/u/54503978?s=96&v=4",
@@ -127,102 +109,53 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "koala73",
+      "id": "deanchensj",
+      "rank": "#07",
+      "name": "Shangjie Chen",
+      "username": "DeanChensj",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9414763?s=96&v=4",
+      "url": "https://github.com/DeanChensj",
+      "popularRepository": {
+        "name": "jiangshan-map",
+        "url": "https://github.com/DeanChensj/jiangshan-map",
+        "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-m…"
+      },
+      "why": "Shangjie Chen is trending because their repository jiangshan-map is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "makazhanalpamys",
       "rank": "#08",
-      "name": "Elie Habib",
-      "username": "koala73",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
-      "url": "https://github.com/koala73",
+      "name": "Alpamys Makazhan",
+      "username": "MakazhanAlpamys",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/188336071?s=96&v=4",
+      "url": "https://github.com/MakazhanAlpamys",
       "popularRepository": {
-        "name": "worldmonitor",
-        "url": "https://github.com/koala73/worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+        "name": "Soup",
+        "url": "https://github.com/MakazhanAlpamys/Soup",
+        "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
       },
-      "why": "Elie Habib is trending because their repository worldmonitor is receiving visible attention on GitHub today.",
+      "why": "Alpamys Makazhan is trending because their repository Soup is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "deepcoldy",
+      "id": "ericlbuehler",
       "rank": "#09",
-      "name": "DeepCold",
-      "username": "deepcoldy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10922642?s=96&v=4",
-      "url": "https://github.com/deepcoldy",
+      "name": "Eric Buehler",
+      "username": "EricLBuehler",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65165915?s=96&v=4",
+      "url": "https://github.com/EricLBuehler",
       "popularRepository": {
-        "name": "botmux",
-        "url": "https://github.com/deepcoldy/botmux",
-        "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+        "name": "mistral.rs",
+        "url": "https://github.com/EricLBuehler/mistral.rs",
+        "description": "Fast, flexible LLM inference"
       },
-      "why": "DeepCold is trending because their repository botmux is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "pratham-mishra04",
-      "rank": "#10",
-      "name": "Pratham Mishra",
-      "username": "Pratham-Mishra04",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/99235987?s=96&v=4",
-      "url": "https://github.com/Pratham-Mishra04",
-      "popularRepository": null,
-      "why": "Pratham Mishra is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "kalil0321",
-      "rank": "#11",
-      "name": "kalil0321",
-      "username": "kalil0321",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92564081?s=96&v=4",
-      "url": "https://github.com/kalil0321",
-      "popularRepository": {
-        "name": "reverse-api-engineer",
-        "url": "https://github.com/kalil0321/reverse-api-engineer",
-        "description": "Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode."
-      },
-      "why": "kalil0321 is trending because their repository reverse-api-engineer is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "penso",
-      "rank": "#12",
-      "name": "Fabien Penso",
-      "username": "penso",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7703?s=96&v=4",
-      "url": "https://github.com/penso",
-      "popularRepository": {
-        "name": "sheprd",
-        "url": "https://github.com/sheprd-labs/sheprd",
-        "description": "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and ag…"
-      },
-      "why": "Fabien Penso is trending because their repository sheprd is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "thdxr",
-      "rank": "#13",
-      "name": "Dax",
-      "username": "thdxr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/826656?s=96&v=4",
-      "url": "https://github.com/thdxr",
-      "popularRepository": {
-        "name": "environment",
-        "url": "https://github.com/thdxr/environment",
-        "description": "No popular repository description available."
-      },
-      "why": "Dax is trending because their repository environment is receiving visible attention on GitHub today.",
+      "why": "Eric Buehler is trending because their repository mistral.rs is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
@@ -230,7 +163,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "jxxghp",
-      "rank": "#14",
+      "rank": "#10",
       "name": "jxxghp",
       "username": "jxxghp",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51039935?s=96&v=4",
@@ -243,6 +176,77 @@ window.trendingDevelopers = {
       "why": "jxxghp is trending because their repository MoviePilot is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
+      ]
+    },
+    {
+      "id": "kunchenguid",
+      "rank": "#11",
+      "name": "Kun Chen",
+      "username": "kunchenguid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3233006?s=96&v=4",
+      "url": "https://github.com/kunchenguid",
+      "popularRepository": {
+        "name": "firstmate",
+        "url": "https://github.com/kunchenguid/firstmate",
+        "description": "Talk to one agent. Ship with a crew."
+      },
+      "why": "Kun Chen is trending because their repository firstmate is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "vshulcz",
+      "rank": "#12",
+      "name": "Vlad Shulcz",
+      "username": "vshulcz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/99616188?s=96&v=4",
+      "url": "https://github.com/vshulcz",
+      "popularRepository": {
+        "name": "deja-vu",
+        "url": "https://github.com/vshulcz/deja-vu",
+        "description": "Claude Code memory, Codex memory, Cursor memory, OpenCode memory, Gemini CLI memory, Windsurf memory & Cline memory across 44 agents. AI …"
+      },
+      "why": "Vlad Shulcz is trending because their repository deja-vu is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "gkjohnson",
+      "rank": "#13",
+      "name": "Garrett Johnson",
+      "username": "gkjohnson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/734200?s=96&v=4",
+      "url": "https://github.com/gkjohnson",
+      "popularRepository": {
+        "name": "three-gpu-pathtracer",
+        "url": "https://github.com/gkjohnson/three-gpu-pathtracer",
+        "description": "Path tracing renderer and utilities for three.js built on top of three-mesh-bvh."
+      },
+      "why": "Garrett Johnson is trending because their repository three-gpu-pathtracer is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "m0rf30",
+      "rank": "#14",
+      "name": "M0Rf30",
+      "username": "M0Rf30",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/491117?s=96&v=4",
+      "url": "https://github.com/M0Rf30",
+      "popularRepository": {
+        "name": "android-udev-rules",
+        "url": "https://github.com/M0Rf30/android-udev-rules",
+        "description": "Android udev rules list aimed to be the most comprehensive on the net"
+      },
+      "why": "M0Rf30 is trending because their repository android-udev-rules is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
       ]
     }
   ]
