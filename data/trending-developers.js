@@ -1,10 +1,27 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-11-08T06:00:58.804Z",
+  "updatedAt": "2026-11-09T06:29:33.025Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "ranxianglei",
+      "id": "pl4nty",
       "rank": "#01",
+      "name": "Tom Plant",
+      "username": "pl4nty",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21111317?s=96&v=4",
+      "url": "https://github.com/pl4nty",
+      "popularRepository": {
+        "name": "winget-extras",
+        "url": "https://github.com/pl4nty/winget-extras",
+        "description": "A WinGet source for extra packages"
+      },
+      "why": "Tom Plant is trending because their repository winget-extras is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "ranxianglei",
+      "rank": "#02",
       "name": "ranxianglei",
       "username": "ranxianglei",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12445698?s=96&v=4",
@@ -20,60 +37,25 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "andrewnakas",
-      "rank": "#02",
-      "name": "Andrew Nakas",
-      "username": "andrewnakas",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7544678?s=96&v=4",
-      "url": "https://github.com/andrewnakas",
-      "popularRepository": {
-        "name": "gtav-recomp",
-        "url": "https://github.com/andrewnakas/gtav-recomp",
-        "description": "GTA V (Xbox 360, TU27) static recompilation with ReXGlue"
-      },
-      "why": "Andrew Nakas is trending because their repository gtav-recomp is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "abue-ammar",
+      "id": "mantrakp04",
       "rank": "#03",
-      "name": "Abue Ammar",
-      "username": "abue-ammar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14371506?s=96&v=4",
-      "url": "https://github.com/abue-ammar",
+      "name": "Mantra",
+      "username": "mantrakp04",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87142457?s=96&v=4",
+      "url": "https://github.com/mantrakp04",
       "popularRepository": {
-        "name": "tinycast",
-        "url": "https://github.com/abue-ammar/tinycast",
-        "description": "A native macOS launcher for everyday productivity. Lightweight and open source."
+        "name": "ardia",
+        "url": "https://github.com/mantrakp04/ardia",
+        "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6"
       },
-      "why": "Abue Ammar is trending because their repository tinycast is receiving visible attention on GitHub today.",
+      "why": "Mantra is trending because their repository ardia is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
-      ]
-    },
-    {
-      "id": "mattabate",
-      "rank": "#04",
-      "name": "Matt Abate",
-      "username": "mattabate",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19960998?s=96&v=4",
-      "url": "https://github.com/mattabate",
-      "popularRepository": {
-        "name": "life-distributable",
-        "url": "https://github.com/mattabate/life-distributable",
-        "description": "A personal agent that works on your life around the clock, on a Mac you own. One sentence to Claude Code installs it."
-      },
-      "why": "Matt Abate is trending because their repository life-distributable is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
       ]
     },
     {
       "id": "gaurav-gosain",
-      "rank": "#05",
+      "rank": "#04",
       "name": "Gaurav Gosain",
       "username": "Gaurav-Gosain",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55647468?s=96&v=4",
@@ -90,63 +72,60 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "pl4nty",
-      "rank": "#06",
-      "name": "Tom Plant",
-      "username": "pl4nty",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21111317?s=96&v=4",
-      "url": "https://github.com/pl4nty",
+      "id": "derekross",
+      "rank": "#05",
+      "name": "Derek Ross",
+      "username": "derekross",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/755144?s=96&v=4",
+      "url": "https://github.com/derekross",
       "popularRepository": {
-        "name": "ipa-track",
-        "url": "https://github.com/pl4nty/ipa-track",
-        "description": "Track changes to iOS app metadata"
+        "name": "omarchy-mobile",
+        "url": "https://github.com/derekross/omarchy-mobile",
+        "description": "Omarchy Mobile: native Omarchy on mobile phones. Arch Linux ARM, Hyprland and Omarchy on a mainline kernel (work in progress)"
       },
-      "why": "Tom Plant is trending because their repository ipa-track is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web",
-        "Data"
-      ]
-    },
-    {
-      "id": "mattsse",
-      "rank": "#07",
-      "name": "Matthias Seitz",
-      "username": "mattsse",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19890894?s=96&v=4",
-      "url": "https://github.com/mattsse",
-      "popularRepository": {
-        "name": "chromiumoxide",
-        "url": "https://github.com/mattsse/chromiumoxide",
-        "description": "Chrome Devtools Protocol rust API"
-      },
-      "why": "Matthias Seitz is trending because their repository chromiumoxide is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "zts212653",
-      "rank": "#08",
-      "name": "Lysander Su",
-      "username": "zts212653",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26771442?s=96&v=4",
-      "url": "https://github.com/zts212653",
-      "popularRepository": {
-        "name": "clowder-ai",
-        "url": "https://github.com/zts212653/clowder-ai",
-        "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
-      },
-      "why": "Lysander Su is trending because their repository clowder-ai is receiving visible attention on GitHub today.",
+      "why": "Derek Ross is trending because their repository omarchy-mobile is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
+      "id": "tanish2k09",
+      "rank": "#06",
+      "name": "Tanish Manku",
+      "username": "tanish2k09",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13985398?s=96&v=4",
+      "url": "https://github.com/tanish2k09",
+      "popularRepository": {
+        "name": "KLapse-Livedisplay",
+        "url": "https://github.com/tanish2k09/KLapse-Livedisplay",
+        "description": "A simple rgb dynamic lapsing module similar to LineageOS's livedisplay"
+      },
+      "why": "Tanish Manku is trending because their repository KLapse-Livedisplay is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "fzn0x",
+      "rank": "#07",
+      "name": "f (x)",
+      "username": "fzn0x",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50759463?s=96&v=4",
+      "url": "https://github.com/fzn0x",
+      "popularRepository": {
+        "name": "mixmusic",
+        "url": "https://github.com/fzn0x/mixmusic",
+        "description": "MixMusic is a native desktop player for YouTube Music and Spotify on macOS, Windows and Linux with Community Themes and Plugins. iOS and …"
+      },
+      "why": "f (x) is trending because their repository mixmusic is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
       "id": "morluto",
-      "rank": "#09",
+      "rank": "#08",
       "name": "morluto",
       "username": "morluto",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76467478?s=96&v=4",
@@ -164,86 +143,106 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "rubenfiszel",
+      "id": "xxjsonderuloxx",
+      "rank": "#09",
+      "name": "Kurt Himebauch",
+      "username": "xXJSONDeruloXx",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136133082?s=96&v=4",
+      "url": "https://github.com/xXJSONDeruloXx",
+      "popularRepository": {
+        "name": "Decky-Framegen",
+        "url": "https://github.com/xXJSONDeruloXx/Decky-Framegen",
+        "description": "Steam Deck Plugin to apply Optiscaler upscaling and frame gen mods in game mode"
+      },
+      "why": "Kurt Himebauch is trending because their repository Decky-Framegen is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "maziyarpanahi",
       "rank": "#10",
-      "name": "Ruben Fiszel",
-      "username": "rubenfiszel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/275584?s=96&v=4",
-      "url": "https://github.com/rubenfiszel",
-      "popularRepository": null,
-      "why": "Ruben Fiszel is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "ruvnet",
-      "rank": "#11",
-      "name": "rUv",
-      "username": "ruvnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
-      "url": "https://github.com/ruvnet",
+      "name": "Maziyar Panahi",
+      "username": "maziyarpanahi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5762953?s=96&v=4",
+      "url": "https://github.com/maziyarpanahi",
       "popularRepository": {
-        "name": "RuView",
-        "url": "https://github.com/ruvnet/RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+        "name": "openmed",
+        "url": "https://github.com/maziyarpanahi/openmed",
+        "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed P…"
       },
-      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "tt-a1i",
-      "rank": "#12",
-      "name": "tt-a1i",
-      "username": "tt-a1i",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
-      "url": "https://github.com/tt-a1i",
-      "popularRepository": {
-        "name": "archify",
-        "url": "https://github.com/tt-a1i/archify",
-        "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
-      },
-      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
+      "why": "Maziyar Panahi is trending because their repository openmed is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "mantrakp04",
-      "rank": "#13",
-      "name": "Mantra",
-      "username": "mantrakp04",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87142457?s=96&v=4",
-      "url": "https://github.com/mantrakp04",
+      "id": "amir20",
+      "rank": "#11",
+      "name": "Amir Raminfar",
+      "username": "amir20",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/260667?s=96&v=4",
+      "url": "https://github.com/amir20",
       "popularRepository": {
-        "name": "ardia",
-        "url": "https://github.com/mantrakp04/ardia",
-        "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6"
+        "name": "dozzle",
+        "url": "https://github.com/amir20/dozzle",
+        "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s."
       },
-      "why": "Mantra is trending because their repository ardia is receiving visible attention on GitHub today.",
+      "why": "Amir Raminfar is trending because their repository dozzle is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "zts212653",
+      "rank": "#12",
+      "name": "Lysander Su",
+      "username": "zts212653",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26771442?s=96&v=4",
+      "url": "https://github.com/zts212653",
+      "popularRepository": {
+        "name": "clowder-ai",
+        "url": "https://github.com/zts212653/clowder-ai",
+        "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+      },
+      "why": "Lysander Su is trending because their repository clowder-ai is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "cixzhang",
+      "rank": "#13",
+      "name": "Cindy Zhang",
+      "username": "cixzhang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2781099?s=96&v=4",
+      "url": "https://github.com/cixzhang",
+      "popularRepository": null,
+      "why": "Cindy Zhang is trending because GitHub users are visiting and following their work today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "adityareddy-dev",
+      "id": "koala73",
       "rank": "#14",
-      "name": "Aditya Reddy",
-      "username": "adityareddy-dev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82123567?s=96&v=4",
-      "url": "https://github.com/adityareddy-dev",
+      "name": "Elie Habib",
+      "username": "koala73",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
+      "url": "https://github.com/koala73",
       "popularRepository": {
-        "name": "react-inp-blame",
-        "url": "https://github.com/adityareddy-dev/react-inp-blame",
-        "description": "Interaction attribution for INP: joins Event Timing and Long Animation Frames to the React fiber tree."
+        "name": "worldmonitor",
+        "url": "https://github.com/koala73/worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
       },
-      "why": "Aditya Reddy is trending because their repository react-inp-blame is receiving visible attention on GitHub today.",
+      "why": "Elie Habib is trending because their repository worldmonitor is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "Events"
+        "AI"
       ]
     }
   ]
