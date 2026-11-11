@@ -1,20 +1,20 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-11-10T07:18:22.851Z",
+  "updatedAt": "2026-11-11T06:20:31.009Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "pl4nty",
+      "id": "ranxianglei",
       "rank": "#01",
-      "name": "Tom Plant",
-      "username": "pl4nty",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21111317?s=96&v=4",
-      "url": "https://github.com/pl4nty",
+      "name": "ranxianglei",
+      "username": "ranxianglei",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12445698?s=96&v=4",
+      "url": "https://github.com/ranxianglei",
       "popularRepository": {
-        "name": "winget-extras",
-        "url": "https://github.com/pl4nty/winget-extras",
-        "description": "A WinGet source for extra packages"
+        "name": "billion-context",
+        "url": "https://github.com/ranxianglei/billion-context",
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and to…"
       },
-      "why": "Tom Plant is trending because their repository winget-extras is receiving visible attention on GitHub today.",
+      "why": "ranxianglei is trending because their repository billion-context is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
@@ -37,60 +37,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "fzn0x",
-      "rank": "#03",
-      "name": "f (x)",
-      "username": "fzn0x",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50759463?s=96&v=4",
-      "url": "https://github.com/fzn0x",
-      "popularRepository": {
-        "name": "mixmusic",
-        "url": "https://github.com/fzn0x/mixmusic",
-        "description": "MixMusic is a native desktop player for YouTube Music and Spotify on macOS, Windows and Linux with Community Themes and Plugins. iOS and …"
-      },
-      "why": "f (x) is trending because their repository mixmusic is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "backnotprop",
-      "rank": "#04",
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
-      "url": "https://github.com/backnotprop",
-      "popularRepository": {
-        "name": "pstack",
-        "url": "https://github.com/backnotprop/pstack",
-        "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
-      },
-      "why": "Michael Ramos is trending because their repository pstack is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "ranxianglei",
-      "rank": "#05",
-      "name": "ranxianglei",
-      "username": "ranxianglei",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12445698?s=96&v=4",
-      "url": "https://github.com/ranxianglei",
-      "popularRepository": {
-        "name": "billion-context",
-        "url": "https://github.com/ranxianglei/billion-context",
-        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and to…"
-      },
-      "why": "ranxianglei is trending because their repository billion-context is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "zhulinsen",
-      "rank": "#06",
+      "rank": "#03",
       "name": "zhulinsen",
       "username": "ZhuLinsen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=96&v=4",
@@ -108,8 +56,105 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "amir20",
+      "id": "ruvnet",
+      "rank": "#04",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+      },
+      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "seluj78",
+      "rank": "#05",
+      "name": "Jules Lasne",
+      "username": "Seluj78",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4641317?s=96&v=4",
+      "url": "https://github.com/Seluj78",
+      "popularRepository": null,
+      "why": "Jules Lasne is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "backnotprop",
+      "rank": "#06",
+      "name": "Michael Ramos",
+      "username": "backnotprop",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
+      "url": "https://github.com/backnotprop",
+      "popularRepository": {
+        "name": "pstack",
+        "url": "https://github.com/backnotprop/pstack",
+        "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+      },
+      "why": "Michael Ramos is trending because their repository pstack is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "muellerberndt",
       "rank": "#07",
+      "name": "Bernhard Mueller",
+      "username": "muellerberndt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5194767?s=96&v=4",
+      "url": "https://github.com/muellerberndt",
+      "popularRepository": {
+        "name": "cadence",
+        "url": "https://github.com/muellerberndt/cadence",
+        "description": "A brain that learns from live experience. System 1 by default: perception, memory, plasticity and action. Optional System 2 for self-obse…"
+      },
+      "why": "Bernhard Mueller is trending because their repository cadence is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "cixzhang",
+      "rank": "#08",
+      "name": "Cindy Zhang",
+      "username": "cixzhang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2781099?s=96&v=4",
+      "url": "https://github.com/cixzhang",
+      "popularRepository": null,
+      "why": "Cindy Zhang is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "emilk",
+      "rank": "#09",
+      "name": "Emil Ernerfeldt",
+      "username": "emilk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1148717?s=96&v=4",
+      "url": "https://github.com/emilk",
+      "popularRepository": {
+        "name": "egui",
+        "url": "https://github.com/emilk/egui",
+        "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
+      },
+      "why": "Emil Ernerfeldt is trending because their repository egui is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "amir20",
+      "rank": "#10",
       "name": "Amir Raminfar",
       "username": "amir20",
       "avatarUrl": "https://avatars.githubusercontent.com/u/260667?s=96&v=4",
@@ -126,27 +171,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "lidge-jun",
-      "rank": "#08",
-      "name": "JUN",
-      "username": "lidge-jun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
-      "url": "https://github.com/lidge-jun",
-      "popularRepository": {
-        "name": "opencodex",
-        "url": "https://github.com/lidge-jun/opencodex",
-        "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
-      },
-      "why": "JUN is trending because their repository opencodex is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
       "id": "morluto",
-      "rank": "#09",
+      "rank": "#11",
       "name": "morluto",
       "username": "morluto",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76467478?s=96&v=4",
@@ -164,84 +190,53 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "shikokuchuo",
-      "rank": "#10",
-      "name": "Charlie Gao",
-      "username": "shikokuchuo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53399081?s=96&v=4",
-      "url": "https://github.com/shikokuchuo",
+      "id": "deepcoldy",
+      "rank": "#12",
+      "name": "DeepCold",
+      "username": "deepcoldy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10922642?s=96&v=4",
+      "url": "https://github.com/deepcoldy",
       "popularRepository": {
-        "name": "pymizu",
-        "url": "https://github.com/shikokuchuo/pymizu",
-        "description": "Thread-speed async and parallel Python over shared memory"
+        "name": "botmux",
+        "url": "https://github.com/deepcoldy/botmux",
+        "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
       },
-      "why": "Charlie Gao is trending because their repository pymizu is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "makazhanalpamys",
-      "rank": "#11",
-      "name": "Alpamys Makazhan",
-      "username": "MakazhanAlpamys",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/188336071?s=96&v=4",
-      "url": "https://github.com/MakazhanAlpamys",
-      "popularRepository": {
-        "name": "Soup",
-        "url": "https://github.com/MakazhanAlpamys/Soup",
-        "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
-      },
-      "why": "Alpamys Makazhan is trending because their repository Soup is receiving visible attention on GitHub today.",
+      "why": "DeepCold is trending because their repository botmux is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "cixzhang",
-      "rank": "#12",
-      "name": "Cindy Zhang",
-      "username": "cixzhang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2781099?s=96&v=4",
-      "url": "https://github.com/cixzhang",
-      "popularRepository": null,
-      "why": "Cindy Zhang is trending because GitHub users are visiting and following their work today.",
+      "id": "jmcollin78",
+      "rank": "#13",
+      "name": "Jean-Marc Collin",
+      "username": "jmcollin78",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1712374?s=96&v=4",
+      "url": "https://github.com/jmcollin78",
+      "popularRepository": {
+        "name": "versatile_thermostat",
+        "url": "https://github.com/jmcollin78/versatile_thermostat",
+        "description": "A full featured Thermostat for Home Assistant: presets, window, motion, presence and overpowering management"
+      },
+      "why": "Jean-Marc Collin is trending because their repository versatile_thermostat is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "garrytan",
-      "rank": "#13",
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
-      "url": "https://github.com/garrytan",
-      "popularRepository": {
-        "name": "gstack",
-        "url": "https://github.com/garrytan/gstack",
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
-      },
-      "why": "Garry Tan is trending because their repository gstack is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "gaurav-gosain",
+      "id": "100yenadmin",
       "rank": "#14",
-      "name": "Gaurav Gosain",
-      "username": "Gaurav-Gosain",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55647468?s=96&v=4",
-      "url": "https://github.com/Gaurav-Gosain",
+      "name": "EVA",
+      "username": "100yenadmin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/239388517?s=96&v=4",
+      "url": "https://github.com/100yenadmin",
       "popularRepository": {
-        "name": "tuios",
-        "url": "https://github.com/Gaurav-Gosain/tuios",
-        "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox …"
+        "name": "hermes-teammates",
+        "url": "https://github.com/100yenadmin/hermes-teammates",
+        "description": "Give your Hermes agent a fixed team: named teammates with roles, follow-ups that keep context, and a Kanban review lane."
       },
-      "why": "Gaurav Gosain is trending because their repository tuios is receiving visible attention on GitHub today.",
+      "why": "EVA is trending because their repository hermes-teammates is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
