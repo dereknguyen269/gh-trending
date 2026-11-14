@@ -1,10 +1,28 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-11-13T06:45:44.560Z",
+  "updatedAt": "2026-11-14T06:23:02.997Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "lidge-jun",
+      "id": "deepcoldy",
       "rank": "#01",
+      "name": "DeepCold",
+      "username": "deepcoldy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10922642?s=96&v=4",
+      "url": "https://github.com/deepcoldy",
+      "popularRepository": {
+        "name": "botmux",
+        "url": "https://github.com/deepcoldy/botmux",
+        "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+      },
+      "why": "DeepCold is trending because their repository botmux is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "lidge-jun",
+      "rank": "#02",
       "name": "JUN",
       "username": "lidge-jun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
@@ -22,70 +40,18 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "deepcoldy",
-      "rank": "#02",
-      "name": "DeepCold",
-      "username": "deepcoldy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10922642?s=96&v=4",
-      "url": "https://github.com/deepcoldy",
-      "popularRepository": {
-        "name": "botmux",
-        "url": "https://github.com/deepcoldy/botmux",
-        "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
-      },
-      "why": "DeepCold is trending because their repository botmux is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "dhh",
+      "id": "isair",
       "rank": "#03",
-      "name": "David Heinemeier Hansson",
-      "username": "dhh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2741?s=96&v=4",
-      "url": "https://github.com/dhh",
+      "name": "Baris Sencan",
+      "username": "isair",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/988213?s=96&v=4",
+      "url": "https://github.com/isair",
       "popularRepository": {
-        "name": "PKGBUILDs",
-        "url": "https://github.com/dhh/PKGBUILDs",
-        "description": "PKGBUILDs modified to build on Arch Linux ARM"
+        "name": "jarvis",
+        "url": "https://github.com/isair/jarvis",
+        "description": "Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or O…"
       },
-      "why": "David Heinemeier Hansson is trending because their repository PKGBUILDs is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "karanb192",
-      "rank": "#04",
-      "name": "Karan Bansal",
-      "username": "karanb192",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3264937?s=96&v=4",
-      "url": "https://github.com/karanb192",
-      "popularRepository": {
-        "name": "awesome-claude-code-mods",
-        "url": "https://github.com/karanb192/awesome-claude-code-mods",
-        "description": "8,000+ Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status line…"
-      },
-      "why": "Karan Bansal is trending because their repository awesome-claude-code-mods is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "runkids",
-      "rank": "#05",
-      "name": "Willie",
-      "username": "runkids",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15520254?s=96&v=4",
-      "url": "https://github.com/runkids",
-      "popularRepository": {
-        "name": "skillshare",
-        "url": "https://github.com/runkids/skillshare",
-        "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
-      },
-      "why": "Willie is trending because their repository skillshare is receiving visible attention on GitHub today.",
+      "why": "Baris Sencan is trending because their repository jarvis is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI",
@@ -93,38 +59,73 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "hiyouga",
-      "rank": "#06",
-      "name": "Yaowei Zheng",
-      "username": "hiyouga",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16256802?s=96&v=4",
-      "url": "https://github.com/hiyouga",
+      "id": "elie222",
+      "rank": "#04",
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
+      "url": "https://github.com/elie222",
       "popularRepository": {
-        "name": "LlamaFactory",
-        "url": "https://github.com/hiyouga/LlamaFactory",
-        "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+        "name": "rakazo",
+        "url": "https://github.com/elie222/rakazo",
+        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
       },
-      "why": "Yaowei Zheng is trending because their repository LlamaFactory is receiving visible attention on GitHub today.",
+      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "ruvnet",
+      "rank": "#05",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "RuView",
+        "url": "https://github.com/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+      },
+      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "ersinkoc",
+      "rank": "#06",
+      "name": "Ersin KOÇ",
+      "username": "ersinkoc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/408479?s=96&v=4",
+      "url": "https://github.com/ersinkoc",
+      "popularRepository": {
+        "name": "phonebox",
+        "url": "https://github.com/ersinkoc/phonebox",
+        "description": "Turn an old Android phone into a local desk panel for Windows, Linux and macOS. 55 widgets, Smart Stack, AI quotas and sessions, media co…"
+      },
+      "why": "Ersin KOÇ is trending because their repository phonebox is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "paulirish",
+      "id": "backnotprop",
       "rank": "#07",
-      "name": "Paul Irish",
-      "username": "paulirish",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39191?s=96&v=4",
-      "url": "https://github.com/paulirish",
+      "name": "Michael Ramos",
+      "username": "backnotprop",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
+      "url": "https://github.com/backnotprop",
       "popularRepository": {
-        "name": "chrome-capture",
-        "url": "https://github.com/paulirish/chrome-capture",
-        "description": "60-120fps / 2160p tab video/audio capture from Chrome"
+        "name": "pstack",
+        "url": "https://github.com/backnotprop/pstack",
+        "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
       },
-      "why": "Paul Irish is trending because their repository chrome-capture is receiving visible attention on GitHub today.",
+      "why": "Michael Ramos is trending because their repository pstack is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
       ]
     },
     {
@@ -147,110 +148,111 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "ruvnet",
+      "id": "justvugg",
       "rank": "#09",
-      "name": "rUv",
-      "username": "ruvnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
-      "url": "https://github.com/ruvnet",
+      "name": "Vincenzo Fornaro",
+      "username": "JustVugg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
+      "url": "https://github.com/JustVugg",
       "popularRepository": {
-        "name": "RuView",
-        "url": "https://github.com/ruvnet/RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+        "name": "colibri",
+        "url": "https://github.com/JustVugg/colibri",
+        "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from…"
       },
-      "why": "rUv is trending because their repository RuView is receiving visible attention on GitHub today.",
+      "why": "Vincenzo Fornaro is trending because their repository colibri is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "morluto",
+      "id": "joakimeriksson",
       "rank": "#10",
-      "name": "morluto",
-      "username": "morluto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76467478?s=96&v=4",
-      "url": "https://github.com/morluto",
+      "name": "Joakim Eriksson",
+      "username": "joakimeriksson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/599447?s=96&v=4",
+      "url": "https://github.com/joakimeriksson",
       "popularRepository": {
-        "name": "rea",
-        "url": "https://github.com/morluto/rea",
-        "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+        "name": "fm1-emu",
+        "url": "https://github.com/joakimeriksson/fm1-emu",
+        "description": "Emulator for the M-VAVE FM-1 pocket synth: runs its firmwares unchanged in the browser and natively"
       },
-      "why": "morluto is trending because their repository rea is receiving visible attention on GitHub today.",
+      "why": "Joakim Eriksson is trending because their repository fm1-emu is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "ikaijua",
+      "rank": "#11",
+      "name": "ikaijua",
+      "username": "ikaijua",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126046795?s=96&v=4",
+      "url": "https://github.com/ikaijua",
+      "popularRepository": {
+        "name": "Awesome-AITools",
+        "url": "https://github.com/ikaijua/Awesome-AITools",
+        "description": "This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together!"
+      },
+      "why": "ikaijua is trending because their repository Awesome-AITools is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI",
-        "Web"
+        "Tooling"
       ]
     },
     {
-      "id": "dashhuang",
-      "rank": "#11",
-      "name": "Dash",
-      "username": "dashhuang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/125997726?s=96&v=4",
-      "url": "https://github.com/dashhuang",
-      "popularRepository": {
-        "name": "openclaw-chat-history-import",
-        "url": "https://github.com/dashhuang/openclaw-chat-history-import",
-        "description": "OpenClaw skill for importing external chat history into archive, daily memory, and MEMORY.md workflows."
-      },
-      "why": "Dash is trending because their repository openclaw-chat-history-import is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "zhukunpenglinyutong",
+      "id": "runkids",
       "rank": "#12",
-      "name": "朱昆鹏",
-      "username": "zhukunpenglinyutong",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31264015?s=96&v=4",
-      "url": "https://github.com/zhukunpenglinyutong",
+      "name": "Willie",
+      "username": "runkids",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15520254?s=96&v=4",
+      "url": "https://github.com/runkids",
       "popularRepository": {
-        "name": "jetbrains-cc-gui",
-        "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
-        "description": "Jetbrains Claude Code and Codex GUI Plugin"
+        "name": "skillshare",
+        "url": "https://github.com/runkids/skillshare",
+        "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
       },
-      "why": "朱昆鹏 is trending because their repository jetbrains-cc-gui is receiving visible attention on GitHub today.",
+      "why": "Willie is trending because their repository skillshare is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "AI",
+        "Tooling"
       ]
     },
     {
-      "id": "gmkurtzer",
+      "id": "danielmeppiel",
       "rank": "#13",
-      "name": "Gregory M. Kurtzer",
-      "username": "gmkurtzer",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13984965?s=96&v=4",
-      "url": "https://github.com/gmkurtzer",
+      "name": "Daniel Meppiel",
+      "username": "danielmeppiel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51440732?s=96&v=4",
+      "url": "https://github.com/danielmeppiel",
       "popularRepository": {
-        "name": "ginux",
-        "url": "https://github.com/gmkurtzer/ginux",
-        "description": "No popular repository description available."
+        "name": "apmx",
+        "url": "https://github.com/danielmeppiel/apmx",
+        "description": "Run one contract with native Copilot; retain the output and independent check results."
       },
-      "why": "Gregory M. Kurtzer is trending because their repository ginux is receiving visible attention on GitHub today.",
+      "why": "Daniel Meppiel is trending because their repository apmx is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
         "AI"
       ]
     },
     {
-      "id": "hrydgard",
+      "id": "gilbert09",
       "rank": "#14",
-      "name": "Henrik Rydgård",
-      "username": "hrydgard",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/130929?s=96&v=4",
-      "url": "https://github.com/hrydgard",
+      "name": "Tom Owers",
+      "username": "Gilbert09",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1459269?s=96&v=4",
+      "url": "https://github.com/Gilbert09",
       "popularRepository": {
-        "name": "ppsspp",
-        "url": "https://github.com/hrydgard/ppsspp",
-        "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
+        "name": "talyn",
+        "url": "https://github.com/Gilbert09/talyn",
+        "description": "Give every task its own coding agent. Run Claude Code and Codex in parallel cloud sandboxes on your own subscription, each one opening a …"
       },
-      "why": "Henrik Rydgård is trending because their repository ppsspp is receiving visible attention on GitHub today.",
+      "why": "Tom Owers is trending because their repository talyn is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer"
+        "Developer",
+        "AI"
       ]
     }
   ]
