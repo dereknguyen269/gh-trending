@@ -1,27 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-11-16T06:29:56.236Z",
+  "updatedAt": "2026-11-17T07:55:02.816Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "ersinkoc",
-      "rank": "#01",
-      "name": "Ersin KOÇ",
-      "username": "ersinkoc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/408479?s=96&v=4",
-      "url": "https://github.com/ersinkoc",
-      "popularRepository": {
-        "name": "phonebox",
-        "url": "https://github.com/ersinkoc/phonebox",
-        "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stat…"
-      },
-      "why": "Ersin KOÇ is trending because their repository phonebox is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "gakonst",
-      "rank": "#02",
+      "rank": "#01",
       "name": "Georgios Konstantopoulos",
       "username": "gakonst",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17802178?s=96&v=4",
@@ -37,8 +20,207 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "runkids",
+      "id": "ersinkoc",
+      "rank": "#02",
+      "name": "Ersin KOÇ",
+      "username": "ersinkoc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/408479?s=96&v=4",
+      "url": "https://github.com/ersinkoc",
+      "popularRepository": {
+        "name": "phonebox",
+        "url": "https://github.com/ersinkoc/phonebox",
+        "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stat…"
+      },
+      "why": "Ersin KOÇ is trending because their repository phonebox is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "esengine",
       "rank": "#03",
+      "name": "YHH",
+      "username": "esengine",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18465053?s=96&v=4",
+      "url": "https://github.com/esengine",
+      "popularRepository": {
+        "name": "estella",
+        "url": "https://github.com/esengine/estella",
+        "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
+      },
+      "why": "YHH is trending because their repository estella is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "morluto",
+      "rank": "#04",
+      "name": "morluto",
+      "username": "morluto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76467478?s=96&v=4",
+      "url": "https://github.com/morluto",
+      "popularRepository": {
+        "name": "rea",
+        "url": "https://github.com/morluto/rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+      },
+      "why": "morluto is trending because their repository rea is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "koala73",
+      "rank": "#05",
+      "name": "Elie Habib",
+      "username": "koala73",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
+      "url": "https://github.com/koala73",
+      "popularRepository": {
+        "name": "worldmonitor",
+        "url": "https://github.com/koala73/worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+      },
+      "why": "Elie Habib is trending because their repository worldmonitor is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "saladday",
+      "rank": "#06",
+      "name": "SaladDay",
+      "username": "SaladDay",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92240037?s=96&v=4",
+      "url": "https://github.com/SaladDay",
+      "popularRepository": {
+        "name": "cc-switch-cli",
+        "url": "https://github.com/SaladDay/cc-switch-cli",
+        "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+      },
+      "why": "SaladDay is trending because their repository cc-switch-cli is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "tt-a1i",
+      "rank": "#07",
+      "name": "tt-a1i",
+      "username": "tt-a1i",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
+      "url": "https://github.com/tt-a1i",
+      "popularRepository": {
+        "name": "archify",
+        "url": "https://github.com/tt-a1i/archify",
+        "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
+      },
+      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "mvanhorn",
+      "rank": "#08",
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
+      "url": "https://github.com/mvanhorn",
+      "popularRepository": {
+        "name": "last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+      },
+      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "xxjsonderuloxx",
+      "rank": "#09",
+      "name": "Kurt Himebauch",
+      "username": "xXJSONDeruloXx",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136133082?s=96&v=4",
+      "url": "https://github.com/xXJSONDeruloXx",
+      "popularRepository": {
+        "name": "decky-lsfg-vk",
+        "url": "https://github.com/xXJSONDeruloXx/decky-lsfg-vk",
+        "description": "Decky plugin to streamline installation and usage of lsfg-vk; the Lossless Scaling compatibility layer for linux"
+      },
+      "why": "Kurt Himebauch is trending because their repository decky-lsfg-vk is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "seven332",
+      "rank": "#10",
+      "name": "seven332",
+      "username": "seven332",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4018618?s=96&v=4",
+      "url": "https://github.com/seven332",
+      "popularRepository": {
+        "name": "EhViewer",
+        "url": "https://github.com/seven332/EhViewer",
+        "description": "[DEPRECATED] An Unofficial E-Hentai Application for Android"
+      },
+      "why": "seven332 is trending because their repository EhViewer is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "id": "tobi",
+      "rank": "#11",
+      "name": "Tobias Lütke",
+      "username": "tobi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/347?s=96&v=4",
+      "url": "https://github.com/tobi",
+      "popularRepository": {
+        "name": "wrapvm",
+        "url": "https://github.com/tobi/wrapvm",
+        "description": "A desktop VM for agents: wrap's base image + XFCE, shared Chrome, agent-browser and agent-desktop. Containerfile + Smolfile."
+      },
+      "why": "Tobias Lütke is trending because their repository wrapvm is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "garrytan",
+      "rank": "#12",
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
+      "url": "https://github.com/garrytan",
+      "popularRepository": {
+        "name": "gbrain",
+        "url": "https://github.com/garrytan/gbrain",
+        "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain"
+      },
+      "why": "Garry Tan is trending because their repository gbrain is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "runkids",
+      "rank": "#13",
       "name": "Willie",
       "username": "runkids",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15520254?s=96&v=4",
@@ -56,198 +238,18 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "esengine",
-      "rank": "#04",
-      "name": "YHH",
-      "username": "esengine",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18465053?s=96&v=4",
-      "url": "https://github.com/esengine",
-      "popularRepository": {
-        "name": "estella",
-        "url": "https://github.com/esengine/estella",
-        "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
-      },
-      "why": "YHH is trending because their repository estella is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "saladday",
-      "rank": "#05",
-      "name": "SaladDay",
-      "username": "SaladDay",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92240037?s=96&v=4",
-      "url": "https://github.com/SaladDay",
-      "popularRepository": {
-        "name": "cc-switch-cli",
-        "url": "https://github.com/SaladDay/cc-switch-cli",
-        "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
-      },
-      "why": "SaladDay is trending because their repository cc-switch-cli is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "koala73",
-      "rank": "#06",
-      "name": "Elie Habib",
-      "username": "koala73",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
-      "url": "https://github.com/koala73",
-      "popularRepository": {
-        "name": "worldmonitor",
-        "url": "https://github.com/koala73/worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
-      },
-      "why": "Elie Habib is trending because their repository worldmonitor is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "pbakaus",
-      "rank": "#07",
-      "name": "Paul Bakaus",
-      "username": "pbakaus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=96&v=4",
-      "url": "https://github.com/pbakaus",
-      "popularRepository": {
-        "name": "impeccable",
-        "url": "https://github.com/pbakaus/impeccable",
-        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
-      },
-      "why": "Paul Bakaus is trending because their repository impeccable is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "backnotprop",
-      "rank": "#08",
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=96&v=4",
-      "url": "https://github.com/backnotprop",
-      "popularRepository": {
-        "name": "plannotator",
-        "url": "https://github.com/backnotprop/plannotator",
-        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedba…"
-      },
-      "why": "Michael Ramos is trending because their repository plannotator is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "lidge-jun",
-      "rank": "#09",
-      "name": "JUN",
-      "username": "lidge-jun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?s=96&v=4",
-      "url": "https://github.com/lidge-jun",
-      "popularRepository": {
-        "name": "opencodex",
-        "url": "https://github.com/lidge-jun/opencodex",
-        "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
-      },
-      "why": "JUN is trending because their repository opencodex is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "justvugg",
-      "rank": "#10",
-      "name": "Vincenzo Fornaro",
-      "username": "JustVugg",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=96&v=4",
-      "url": "https://github.com/JustVugg",
-      "popularRepository": {
-        "name": "colibri",
-        "url": "https://github.com/JustVugg/colibri",
-        "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from…"
-      },
-      "why": "Vincenzo Fornaro is trending because their repository colibri is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "isair",
-      "rank": "#11",
-      "name": "Baris Sencan",
-      "username": "isair",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/988213?s=96&v=4",
-      "url": "https://github.com/isair",
-      "popularRepository": {
-        "name": "jarvis",
-        "url": "https://github.com/isair/jarvis",
-        "description": "Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or O…"
-      },
-      "why": "Baris Sencan is trending because their repository jarvis is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Tooling"
-      ]
-    },
-    {
-      "id": "deepcoldy",
-      "rank": "#12",
-      "name": "DeepCold",
-      "username": "deepcoldy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10922642?s=96&v=4",
-      "url": "https://github.com/deepcoldy",
-      "popularRepository": {
-        "name": "botmux",
-        "url": "https://github.com/deepcoldy/botmux",
-        "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
-      },
-      "why": "DeepCold is trending because their repository botmux is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "karanb192",
-      "rank": "#13",
-      "name": "Karan Bansal",
-      "username": "karanb192",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3264937?s=96&v=4",
-      "url": "https://github.com/karanb192",
-      "popularRepository": {
-        "name": "awesome-claude-code-mods",
-        "url": "https://github.com/karanb192/awesome-claude-code-mods",
-        "description": "8,000+ Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status line…"
-      },
-      "why": "Karan Bansal is trending because their repository awesome-claude-code-mods is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "ccch1mneyyy",
+      "id": "elie222",
       "rank": "#14",
-      "name": "Chimney",
-      "username": "ccch1mneyyy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/268149062?s=96&v=4",
-      "url": "https://github.com/ccch1mneyyy",
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
+      "url": "https://github.com/elie222",
       "popularRepository": {
-        "name": "dsh-Go",
-        "url": "https://github.com/ccch1mneyyy/dsh-Go",
-        "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+        "name": "rakazo",
+        "url": "https://github.com/elie222/rakazo",
+        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
       },
-      "why": "Chimney is trending because their repository dsh-Go is receiving visible attention on GitHub today.",
+      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
