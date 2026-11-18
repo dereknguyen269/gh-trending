@@ -1,99 +1,10 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-11-17T07:55:02.816Z",
+  "updatedAt": "2026-11-18T07:28:51.260Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "gakonst",
-      "rank": "#01",
-      "name": "Georgios Konstantopoulos",
-      "username": "gakonst",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17802178?s=96&v=4",
-      "url": "https://github.com/gakonst",
-      "popularRepository": {
-        "name": "tatami",
-        "url": "https://github.com/gakonst/tatami",
-        "description": "A tiling window manager for macOS, written from scratch in Zig"
-      },
-      "why": "Georgios Konstantopoulos is trending because their repository tatami is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "ersinkoc",
-      "rank": "#02",
-      "name": "Ersin KOÇ",
-      "username": "ersinkoc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/408479?s=96&v=4",
-      "url": "https://github.com/ersinkoc",
-      "popularRepository": {
-        "name": "phonebox",
-        "url": "https://github.com/ersinkoc/phonebox",
-        "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stat…"
-      },
-      "why": "Ersin KOÇ is trending because their repository phonebox is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "esengine",
-      "rank": "#03",
-      "name": "YHH",
-      "username": "esengine",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18465053?s=96&v=4",
-      "url": "https://github.com/esengine",
-      "popularRepository": {
-        "name": "estella",
-        "url": "https://github.com/esengine/estella",
-        "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
-      },
-      "why": "YHH is trending because their repository estella is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "morluto",
-      "rank": "#04",
-      "name": "morluto",
-      "username": "morluto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76467478?s=96&v=4",
-      "url": "https://github.com/morluto",
-      "popularRepository": {
-        "name": "rea",
-        "url": "https://github.com/morluto/rea",
-        "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
-      },
-      "why": "morluto is trending because their repository rea is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "koala73",
-      "rank": "#05",
-      "name": "Elie Habib",
-      "username": "koala73",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
-      "url": "https://github.com/koala73",
-      "popularRepository": {
-        "name": "worldmonitor",
-        "url": "https://github.com/koala73/worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
-      },
-      "why": "Elie Habib is trending because their repository worldmonitor is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
       "id": "saladday",
-      "rank": "#06",
+      "rank": "#01",
       "name": "SaladDay",
       "username": "SaladDay",
       "avatarUrl": "https://avatars.githubusercontent.com/u/92240037?s=96&v=4",
@@ -110,26 +21,60 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "tt-a1i",
-      "rank": "#07",
-      "name": "tt-a1i",
-      "username": "tt-a1i",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=96&v=4",
-      "url": "https://github.com/tt-a1i",
+      "id": "esengine",
+      "rank": "#02",
+      "name": "YHH",
+      "username": "esengine",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18465053?s=96&v=4",
+      "url": "https://github.com/esengine",
       "popularRepository": {
-        "name": "archify",
-        "url": "https://github.com/tt-a1i/archify",
-        "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
+        "name": "estella",
+        "url": "https://github.com/esengine/estella",
+        "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
       },
-      "why": "tt-a1i is trending because their repository archify is receiving visible attention on GitHub today.",
+      "why": "YHH is trending because their repository estella is receiving visible attention on GitHub today.",
       "tags": [
         "Developer",
-        "AI"
+        "Web"
+      ]
+    },
+    {
+      "id": "ersinkoc",
+      "rank": "#03",
+      "name": "Ersin KOÇ",
+      "username": "ersinkoc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/408479?s=96&v=4",
+      "url": "https://github.com/ersinkoc",
+      "popularRepository": {
+        "name": "phonebox",
+        "url": "https://github.com/ersinkoc/phonebox",
+        "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stat…"
+      },
+      "why": "Ersin KOÇ is trending because their repository phonebox is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "gakonst",
+      "rank": "#04",
+      "name": "Georgios Konstantopoulos",
+      "username": "gakonst",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17802178?s=96&v=4",
+      "url": "https://github.com/gakonst",
+      "popularRepository": {
+        "name": "tatami",
+        "url": "https://github.com/gakonst/tatami",
+        "description": "A tiling window manager for macOS, written from scratch in Zig"
+      },
+      "why": "Georgios Konstantopoulos is trending because their repository tatami is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
       ]
     },
     {
       "id": "mvanhorn",
-      "rank": "#08",
+      "rank": "#05",
       "name": "Matt Van Horn",
       "username": "mvanhorn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
@@ -147,25 +92,96 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "xxjsonderuloxx",
-      "rank": "#09",
-      "name": "Kurt Himebauch",
-      "username": "xXJSONDeruloXx",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136133082?s=96&v=4",
-      "url": "https://github.com/xXJSONDeruloXx",
+      "id": "firsttris",
+      "rank": "#06",
+      "name": "Tristan Teufel",
+      "username": "firsttris",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1709260?s=96&v=4",
+      "url": "https://github.com/firsttris",
       "popularRepository": {
-        "name": "decky-lsfg-vk",
-        "url": "https://github.com/xXJSONDeruloXx/decky-lsfg-vk",
-        "description": "Decky plugin to streamline installation and usage of lsfg-vk; the Lossless Scaling compatibility layer for linux"
+        "name": "haben",
+        "url": "https://github.com/firsttris/haben",
+        "description": "Selbst gehostete Buchhaltung für Freiberufler, Selbstständige, Kleinunternehmer, GmbH und UG: E-Rechnung (ZUGFeRD, XRechnung), Belege, Ba…"
       },
-      "why": "Kurt Himebauch is trending because their repository decky-lsfg-vk is receiving visible attention on GitHub today.",
+      "why": "Tristan Teufel is trending because their repository haben is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
-      "id": "seven332",
+      "id": "jmanico",
+      "rank": "#07",
+      "name": "Jim Manico",
+      "username": "jmanico",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/531465?s=96&v=4",
+      "url": "https://github.com/jmanico",
+      "popularRepository": {
+        "name": "grim-prompter",
+        "url": "https://github.com/jmanico/grim-prompter",
+        "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 arch…"
+      },
+      "why": "Jim Manico is trending because their repository grim-prompter is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "elie222",
+      "rank": "#08",
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
+      "url": "https://github.com/elie222",
+      "popularRepository": {
+        "name": "rakazo",
+        "url": "https://github.com/elie222/rakazo",
+        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+      },
+      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "koala73",
+      "rank": "#09",
+      "name": "Elie Habib",
+      "username": "koala73",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=96&v=4",
+      "url": "https://github.com/koala73",
+      "popularRepository": {
+        "name": "worldmonitor",
+        "url": "https://github.com/koala73/worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+      },
+      "why": "Elie Habib is trending because their repository worldmonitor is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "anionex",
       "rank": "#10",
+      "name": "anionex",
+      "username": "Anionex",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123177548?s=96&v=4",
+      "url": "https://github.com/Anionex",
+      "popularRepository": {
+        "name": "h3-image-mlx",
+        "url": "https://github.com/Anionex/h3-image-mlx",
+        "description": "Faster local MiniMax H3 Image generation and editing on Apple Silicon with MLX, with ultra-low ram"
+      },
+      "why": "anionex is trending because their repository h3-image-mlx is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "seven332",
+      "rank": "#11",
       "name": "seven332",
       "username": "seven332",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4018618?s=96&v=4",
@@ -184,7 +200,7 @@ window.trendingDevelopers = {
     },
     {
       "id": "tobi",
-      "rank": "#11",
+      "rank": "#12",
       "name": "Tobias Lütke",
       "username": "tobi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/347?s=96&v=4",
@@ -201,55 +217,35 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "garrytan",
-      "rank": "#12",
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?s=96&v=4",
-      "url": "https://github.com/garrytan",
-      "popularRepository": {
-        "name": "gbrain",
-        "url": "https://github.com/garrytan/gbrain",
-        "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain"
-      },
-      "why": "Garry Tan is trending because their repository gbrain is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "runkids",
+      "id": "majiayu000",
       "rank": "#13",
-      "name": "Willie",
-      "username": "runkids",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15520254?s=96&v=4",
-      "url": "https://github.com/runkids",
+      "name": "lif",
+      "username": "majiayu000",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19658300?s=96&v=4",
+      "url": "https://github.com/majiayu000",
       "popularRepository": {
-        "name": "skillshare",
-        "url": "https://github.com/runkids/skillshare",
-        "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
+        "name": "awesome-grok-bot",
+        "url": "https://github.com/majiayu000/awesome-grok-bot",
+        "description": "Searchable catalog of Grok Bot share pages, with curated collections, field cases, and bilingual guides."
       },
-      "why": "Willie is trending because their repository skillshare is receiving visible attention on GitHub today.",
+      "why": "lif is trending because their repository awesome-grok-bot is receiving visible attention on GitHub today.",
       "tags": [
-        "Developer",
-        "AI",
-        "Tooling"
+        "Developer"
       ]
     },
     {
-      "id": "elie222",
+      "id": "poteto",
       "rank": "#14",
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?s=96&v=4",
-      "url": "https://github.com/elie222",
+      "name": "lauren",
+      "username": "poteto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=96&v=4",
+      "url": "https://github.com/poteto",
       "popularRepository": {
-        "name": "rakazo",
-        "url": "https://github.com/elie222/rakazo",
-        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+        "name": "hiring-without-whiteboards",
+        "url": "https://github.com/poteto/hiring-without-whiteboards",
+        "description": "⭐️ Companies that don't have a broken hiring process"
       },
-      "why": "Elie Steinbock is trending because their repository rakazo is receiving visible attention on GitHub today.",
+      "why": "lauren is trending because their repository hiring-without-whiteboards is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
