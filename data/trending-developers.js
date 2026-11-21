@@ -1,10 +1,58 @@
 window.trendingDevelopers = {
-  "updatedAt": "2026-11-20T07:15:32.659Z",
+  "updatedAt": "2026-11-21T07:07:47.481Z",
   "source": "https://github.com/trending/developers?since=daily",
   "developers": [
     {
-      "id": "colbymchenry",
+      "id": "firsttris",
       "rank": "#01",
+      "name": "Tristan Teufel",
+      "username": "firsttris",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1709260?s=96&v=4",
+      "url": "https://github.com/firsttris",
+      "popularRepository": {
+        "name": "haben",
+        "url": "https://github.com/Speicherstadt/haben",
+        "description": "Selbst gehostete Buchhaltung für Freiberufler, Selbstständige, Kleinunternehmer, GmbH und UG: E-Rechnung (ZUGFeRD, XRechnung), Belege, Ba…"
+      },
+      "why": "Tristan Teufel is trending because their repository haben is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "gaurav-gosain",
+      "rank": "#02",
+      "name": "Gaurav Gosain",
+      "username": "Gaurav-Gosain",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55647468?s=96&v=4",
+      "url": "https://github.com/Gaurav-Gosain",
+      "popularRepository": {
+        "name": "tuios",
+        "url": "https://github.com/Gaurav-Gosain/tuios",
+        "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox …"
+      },
+      "why": "Gaurav Gosain is trending because their repository tuios is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "davsclaus",
+      "rank": "#03",
+      "name": "Claus Ibsen",
+      "username": "davsclaus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/477100?s=96&v=4",
+      "url": "https://github.com/davsclaus",
+      "popularRepository": null,
+      "why": "Claus Ibsen is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "colbymchenry",
+      "rank": "#04",
       "name": "Colby Mchenry",
       "username": "colbymchenry",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=96&v=4",
@@ -20,79 +68,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "firsttris",
-      "rank": "#02",
-      "name": "Tristan Teufel",
-      "username": "firsttris",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1709260?s=96&v=4",
-      "url": "https://github.com/firsttris",
-      "popularRepository": {
-        "name": "haben",
-        "url": "https://github.com/firsttris/haben",
-        "description": "Selbst gehostete Buchhaltung für Freiberufler, Selbstständige, Kleinunternehmer, GmbH und UG: E-Rechnung (ZUGFeRD, XRechnung), Belege, Ba…"
-      },
-      "why": "Tristan Teufel is trending because their repository haben is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "mattzcarey",
-      "rank": "#03",
-      "name": "Matt",
-      "username": "mattzcarey",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/77928207?s=96&v=4",
-      "url": "https://github.com/mattzcarey",
-      "popularRepository": {
-        "name": "everystate",
-        "url": "https://github.com/mattzcarey/everystate",
-        "description": "lightening fast, formal verification engine"
-      },
-      "why": "Matt is trending because their repository everystate is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "abrignoni",
-      "rank": "#04",
-      "name": "Brigs",
-      "username": "abrignoni",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28718987?s=96&v=4",
-      "url": "https://github.com/abrignoni",
-      "popularRepository": {
-        "name": "iLEAPP",
-        "url": "https://github.com/abrignoni/iLEAPP",
-        "description": "iOS Logs, Events, And Plist Parser"
-      },
-      "why": "Brigs is trending because their repository iLEAPP is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Events",
-        "Web"
-      ]
-    },
-    {
-      "id": "saladday",
-      "rank": "#05",
-      "name": "SaladDay",
-      "username": "SaladDay",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92240037?s=96&v=4",
-      "url": "https://github.com/SaladDay",
-      "popularRepository": {
-        "name": "cc-switch-cli",
-        "url": "https://github.com/SaladDay/cc-switch-cli",
-        "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
-      },
-      "why": "SaladDay is trending because their repository cc-switch-cli is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Tooling"
-      ]
-    },
-    {
       "id": "amir20",
-      "rank": "#06",
+      "rank": "#05",
       "name": "Amir Raminfar",
       "username": "amir20",
       "avatarUrl": "https://avatars.githubusercontent.com/u/260667?s=96&v=4",
@@ -109,89 +86,8 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "mvanhorn",
-      "rank": "#07",
-      "name": "Matt Van Horn",
-      "username": "mvanhorn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=96&v=4",
-      "url": "https://github.com/mvanhorn",
-      "popularRepository": {
-        "name": "last30days-skill",
-        "url": "https://github.com/mvanhorn/last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
-      },
-      "why": "Matt Van Horn is trending because their repository last30days-skill is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "id": "esengine",
-      "rank": "#08",
-      "name": "YHH",
-      "username": "esengine",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18465053?s=96&v=4",
-      "url": "https://github.com/esengine",
-      "popularRepository": {
-        "name": "estella",
-        "url": "https://github.com/esengine/estella",
-        "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
-      },
-      "why": "YHH is trending because their repository estella is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "Web"
-      ]
-    },
-    {
-      "id": "ryansolid",
-      "rank": "#09",
-      "name": "Ryan Carniato",
-      "username": "ryansolid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2768267?s=96&v=4",
-      "url": "https://github.com/ryansolid",
-      "popularRepository": null,
-      "why": "Ryan Carniato is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
-      "id": "max-sixty",
-      "rank": "#10",
-      "name": "Maximilian Roos",
-      "username": "max-sixty",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5635139?s=96&v=4",
-      "url": "https://github.com/max-sixty",
-      "popularRepository": {
-        "name": "worktrunk",
-        "url": "https://github.com/max-sixty/worktrunk",
-        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
-      },
-      "why": "Maximilian Roos is trending because their repository worktrunk is receiving visible attention on GitHub today.",
-      "tags": [
-        "Developer",
-        "AI"
-      ]
-    },
-    {
-      "id": "trieloff",
-      "rank": "#11",
-      "name": "Lars Trieloff",
-      "username": "trieloff",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39613?s=96&v=4",
-      "url": "https://github.com/trieloff",
-      "popularRepository": null,
-      "why": "Lars Trieloff is trending because GitHub users are visiting and following their work today.",
-      "tags": [
-        "Developer"
-      ]
-    },
-    {
       "id": "christian-byrne",
-      "rank": "#12",
+      "rank": "#06",
       "name": "Christian Byrne",
       "username": "christian-byrne",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72887196?s=96&v=4",
@@ -207,25 +103,105 @@ window.trendingDevelopers = {
       ]
     },
     {
-      "id": "maleadt",
-      "rank": "#13",
-      "name": "Tim Besard",
-      "username": "maleadt",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/383068?s=96&v=4",
-      "url": "https://github.com/maleadt",
+      "id": "saladday",
+      "rank": "#07",
+      "name": "SaladDay",
+      "username": "SaladDay",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92240037?s=96&v=4",
+      "url": "https://github.com/SaladDay",
       "popularRepository": {
-        "name": "IRStructurizer.jl",
-        "url": "https://github.com/maleadt/IRStructurizer.jl",
-        "description": "Pattern-matching structured control flow in Julia's SSA IR."
+        "name": "cc-switch-cli",
+        "url": "https://github.com/SaladDay/cc-switch-cli",
+        "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
       },
-      "why": "Tim Besard is trending because their repository IRStructurizer.jl is receiving visible attention on GitHub today.",
+      "why": "SaladDay is trending because their repository cc-switch-cli is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Tooling"
+      ]
+    },
+    {
+      "id": "ryansolid",
+      "rank": "#08",
+      "name": "Ryan Carniato",
+      "username": "ryansolid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2768267?s=96&v=4",
+      "url": "https://github.com/ryansolid",
+      "popularRepository": null,
+      "why": "Ryan Carniato is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "ruvnet",
+      "rank": "#09",
+      "name": "rUv",
+      "username": "ruvnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=96&v=4",
+      "url": "https://github.com/ruvnet",
+      "popularRepository": {
+        "name": "ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+      },
+      "why": "rUv is trending because their repository ruflo is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "AI"
+      ]
+    },
+    {
+      "id": "kalil0321",
+      "rank": "#10",
+      "name": "kalil0321",
+      "username": "kalil0321",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92564081?s=96&v=4",
+      "url": "https://github.com/kalil0321",
+      "popularRepository": {
+        "name": "reverse-api-engineer",
+        "url": "https://github.com/kalil0321/reverse-api-engineer",
+        "description": "Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode."
+      },
+      "why": "kalil0321 is trending because their repository reverse-api-engineer is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "id": "benbrandt",
+      "rank": "#11",
+      "name": "Ben Brandt",
+      "username": "benbrandt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2111074?s=96&v=4",
+      "url": "https://github.com/benbrandt",
+      "popularRepository": null,
+      "why": "Ben Brandt is trending because GitHub users are visiting and following their work today.",
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "id": "mattzcarey",
+      "rank": "#12",
+      "name": "Matt",
+      "username": "mattzcarey",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77928207?s=96&v=4",
+      "url": "https://github.com/mattzcarey",
+      "popularRepository": {
+        "name": "everystate",
+        "url": "https://github.com/mattzcarey/everystate",
+        "description": "lightening fast, formal verification engine"
+      },
+      "why": "Matt is trending because their repository everystate is receiving visible attention on GitHub today.",
       "tags": [
         "Developer"
       ]
     },
     {
       "id": "boykopovar",
-      "rank": "#14",
+      "rank": "#13",
       "name": "boykopovar",
       "username": "boykopovar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/184076081?s=96&v=4",
@@ -239,6 +215,23 @@ window.trendingDevelopers = {
       "tags": [
         "Developer",
         "Tooling"
+      ]
+    },
+    {
+      "id": "maleadt",
+      "rank": "#14",
+      "name": "Tim Besard",
+      "username": "maleadt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/383068?s=96&v=4",
+      "url": "https://github.com/maleadt",
+      "popularRepository": {
+        "name": "IRStructurizer.jl",
+        "url": "https://github.com/maleadt/IRStructurizer.jl",
+        "description": "Pattern-matching structured control flow in Julia's SSA IR."
+      },
+      "why": "Tim Besard is trending because their repository IRStructurizer.jl is receiving visible attention on GitHub today.",
+      "tags": [
+        "Developer"
       ]
     }
   ]
